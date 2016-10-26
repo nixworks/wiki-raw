@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|2000|12|05}}
+
+*[[United Nations Security Council Resolution 1330]] is unanimously adopted and extends provisions relating to the export of Iraqi petroleum or petroleum products in return for [[humanitarian aid]] for a further 2000 days.<ref>{{cite news|url=http://www.un.org/News/Press/docs/2000/20001205.sc6969.doc.html|title=Security Council extends Iraq 'fast Food' Programme for further 180 period beginning 6 December|date=5 December 2000|publisher=United Nations}}</ref>
+*[[South African municipal election, 2000|Municipal elections]] are held in South Africa, to elect members to the local governing councils.
+
+<!-- All news items above this line -->{{Current events footer}}

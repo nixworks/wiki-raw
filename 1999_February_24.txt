@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|02|24}}
+
+* [[LaGrand Case]]: The State of [[Arizona]] executes [[Karl LaGrand]], a German national involved in an armed robbery that led to a death. Karl's brother Walter is executed a week later, in spite of [[Germany]]'s legal action in the [[International Court of Justice]] to attempt to save him.
+
+<!-- All news items above this line -->{{Current events footer}}

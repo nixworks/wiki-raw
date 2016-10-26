@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|01|13}}
+
+* A [[2001 El Salvador earthquakes|7.6 magnitude earthquake]] hits all of [[El Salvador]], killing at least 800 people and leaving thousands homeless.
+
+<!-- All news items above this line -->{{Current events footer}}

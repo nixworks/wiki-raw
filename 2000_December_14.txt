@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|2000|12|14}}
+
+* The Texas Seven rob a [[Radio Shack]] in [[Pearland, Texas]]. They would use in their ensuing heist the police scanners they stole there.
+*The full genome sequence of the flowering plant ''[[Arabidopsis thaliana]]'' is published in ''[[Nature (journal)|Nature]]''.
+
+<!-- All news items above this line -->{{Current events footer}}

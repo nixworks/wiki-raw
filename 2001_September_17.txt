@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|2001|09|17}}
+
+* The [[New York Stock Exchange]] reopens following the [[September 11 attacks|terrorist attacks]] in [[New York]].
+* The default date used by [[Git (software)|git format patch]] for email [http://marc.info/?l=git&m=117222147724676&w=2 output].
+
+<!-- All news items above this line -->{{Current events footer}}

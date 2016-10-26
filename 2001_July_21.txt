@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|07|21}}
+
+* [[Akashi pedestrian bridge accident]]: At the conclusion of a fireworks display on Okura Beach in [[Akashi, Hyōgo]], Japan, 11 people are killed and more than 120 are injured when a pedestrian footbridge connecting the beach to JR [[Asagiri (train)|Asagiri]] railway station becomes overcrowded and people leaving the event fall down in a domino effect.
+
+<!-- All news items above this line -->{{Current events footer}}

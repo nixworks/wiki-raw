@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|03|21}}
+
+* [[Bertrand Piccard]] and [[Brian Jones (aeronaut)|Brian Jones]] become the first to circumnavigate the [[Earth]] in a [[hot air balloon]].
+
+<!-- All news items above this line -->{{Current events footer}}

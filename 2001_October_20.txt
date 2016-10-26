@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|10|20}}
+
+* "[[The Concert for New York City|The Concert for New York City: a celebration of the strength, resilience, and pride of New York and America]]" is held featuring performances by [[The Who]], [[Paul McCartney]], [[David Bowie]], [[Billy Joel]], [[Destiny's Child]], [[Eric Clapton]], [[Adam Sandler]], [[Bon Jovi]], [[Elton John]] and many more.
+
+<!-- All news items above this line -->{{Current events footer}}

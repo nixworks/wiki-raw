@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2002|08|23}}
+
+* [[Recent celebrity deaths]]: [[Baseball Hall of Fame]] player [[Hoyt Wilhelm]] dies.
+
+<!-- All news items above this line -->{{Current events footer}}

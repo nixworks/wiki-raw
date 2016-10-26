@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|05|27}}
+
+* The [[International Criminal Tribunal for the Former Yugoslavia]] in [[The Hague]], [[Netherlands]] indicts [[Slobodan Milošević]] and four others for [[war crime]]s and [[crimes against humanity]] committed in [[Kosovo]].
+
+<!-- All news items above this line -->{{Current events footer}}

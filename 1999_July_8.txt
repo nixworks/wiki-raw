@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|1999|07|08}}
+
+* ''[[Harry Potter and the Prisoner of Azkaban]]'' is released.
+* Astronaut [[Pete Conrad]] dies after a motorcycle accident. [http://articles.latimes.com/1999/jul/09/local/me-54330 (Los Angeles Times)]
+
+<!-- All news items above this line -->{{Current events footer}}

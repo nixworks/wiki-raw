@@ -1,0 +1,7 @@
+<!-- All news items below this line -->{{Current events header|1999|06|01}}
+
+* The initial release of [[Napster]]
+* [['solid - the socialist youth]] is formed in [[Hannover]], [[Germany]]
+* [[American Airlines Flight 1420]] crashes in [[Little Rock National Airport|Little Rock]].
+
+<!-- All news items above this line -->{{Current events footer}}

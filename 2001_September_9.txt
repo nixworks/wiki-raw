@@ -1,0 +1,7 @@
+<!-- All news items below this line -->{{Current events header|2001|09|09}}
+
+* [[Ahmed Shah Massoud]], leader of the [[Afghan Northern Alliance]], is assassinated in [[Afghanistan]].
+* [[The Country Bears]] concert known as the Country Bear Jamboree closed its doors in Disneyland for the last time. The show continues in Walt Disney World and Tokyo Disneyland.
+* At exactly 01:46:40 [[Universal Coordinated Time|UTC]], one billion seconds since the [[Unix time|Unix epoch]] (January 1, 1970 00:00:00 UTC) pass and the [[Unix time#Notable events in Unix time|Unix billenium]] is reached.
+
+<!-- All news items above this line -->{{Current events footer}}

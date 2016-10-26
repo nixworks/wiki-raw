@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|11|11}}
+
+* [[Kaprun disaster]], Austria, where 155 skiers and snowboarders die when a cable car catches fire in an alpine tunnel.
+
+<!-- All news items above this line -->{{Current events footer}}

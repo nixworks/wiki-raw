@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|03|18}}
+
+* [[ROC presidential election, 2000|2000 Taiwanese presidential election]]: [[Chen Shui-bian]] is elected [[President of the Republic of China]].
+
+<!-- All news items above this line -->{{Current events footer}}

@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|02|06}}
+
+* [[Tarja Halonen]] is elected the first [[Finland|Finnish]] female president.
+
+<!-- All news items above this line -->{{Current events footer}}

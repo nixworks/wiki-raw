@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|01|11}}
+
+* The [[Federal Trade Commission]] approved the [[merger]] of [[America Online|AOL]] and [[Time Warner]] to form ''AOL Time Warner''.
+
+<!-- All news items above this line -->{{Current events footer}}

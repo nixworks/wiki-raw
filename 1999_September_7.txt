@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|1999|09|07}}
+
+* A powerful, magnitude 5.9 [[earthquake]] hits [[Athens]], killing 143 people and injuring more than 2,000.
+* [[Viacom]] and [[CBS]] merge.
+
+<!-- All news items above this line -->{{Current events footer}}

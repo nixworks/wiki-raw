@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|08|02}}
+
+* [[Robert Mueller]] confirmed as the new [[FBI]] director.
+
+<!-- All news items above this line -->{{Current events footer}}

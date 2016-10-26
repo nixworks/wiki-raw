@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|02|11}}
+
+* [[Pluto]], a dwarf planet with an eccentric orbit, changes from the eighth to ninth planet furthest from the [[Sun]]. It had been the eighth furthest since [[1979]], and will become again in ''2231''.
+
+<!-- All news items above this line -->{{Current events footer}}

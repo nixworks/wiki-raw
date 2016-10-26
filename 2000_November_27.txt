@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|11|27}}
+
+*In Canada's Parliamentary elections, [[Jean Chrétien]] is re-elected as Prime Minister as the Liberal Party increases its majority in the House of Commons.
+
+<!-- All news items above this line -->{{Current events footer}}

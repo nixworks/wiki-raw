@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|02|13}}
+
+* A [[2001 El Salvador earthquakes|6.6 magnitude earthquake]] hits [[El Salvador]], killing at least 400.
+
+<!-- All news items above this line -->{{Current events footer}}

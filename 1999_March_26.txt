@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|1999|03|26}}
+
+* The [[Melissa worm]] attacks the [[Internet]].
+* A jury in [[Michigan]] finds Dr. [[Jack Kevorkian]] guilty of second-degree [[murder]] for administering a lethal injection to a terminally ill man (the incident was videotaped and aired on September 17, 1998 edition of ''[[60 Minutes]]'')
+
+<!-- All news items above this line -->{{Current events footer}}

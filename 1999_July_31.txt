@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|07|31}}
+
+* [[NASA]] intentionally crashes the [[Lunar Prospector]] [[spacecraft]] into the [[Moon]], thus ending its mission to detect frozen [[water]] on the moon's surface.
+
+<!-- All news items above this line -->{{Current events footer}}

@@ -1,0 +1,15 @@
+<!-- All news items below this line -->{{Current events header|2013|10|01}}
+
+;Armed conflicts and attacks
+*[[Syrian civil war]]:
+**A team from the [[Organisation for the Prohibition of Chemical Weapons]] enters [[Syria]] to begin work on dismantling the Assad regime's stockpile of chemical weapons. [http://www.bbc.co.uk/news/world-middle-east-24344442 (BBC)]
+;Politics and elections
+*[[United States federal government shutdown of 2013]]:
+**[[United States|U.S.]] [[President of the United States|President]] [[Barack Obama]], the [[White House]] [[Office of Management and Budget]], issues a partial shutdown of government agencies after the [[United States Congress|House]] and [[United States Senate|Senate]] fail to come to an agreement on a spending bill to keep government operations running. [http://nbcpolitics.nbcnews.com/_news/2013/09/29/20743313-chances-of-averting-government-shutdown-appear-slim?lite (NBC News)]
+;Law and crime
+*A [[Buddhist]] mob torches more than 70 [[Muslim]] homes and stabs a 94-year-old woman to death in [[Rakhine State]], [[Myanmar]]. [http://timesofindia.indiatimes.com/world/rest-of-world/Buddhist-mob-kill-1-torch-70-homes-in-Myanmar/articleshow/23364474.cms (AP via ''The Times of India'')]
+*[[Bangladesh|Bangladeshi]] politician [[Salahuddin Quader Chowdhury]] is sentenced to death for war crimes including murder, torture, and genocide for his atrocities in the [[Bangladesh Liberation War]]. [http://www.bbc.co.uk/news/world-asia-24344868 (BBC)]
+;International relations
+*The government of [[Venezuela]] expels three [[United States]] diplomats after accusing them of "economic sabotage". [http://www.bbc.co.uk/news/world-latin-america-24342804 (BBC)]
+
+<!-- All news items above this line -->{{Current events footer}}

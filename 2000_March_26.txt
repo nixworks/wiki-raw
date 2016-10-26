@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|03|26}}
+
+* Presidential elections in [[Russia]]: [[Vladimir Putin]] elected President.
+
+<!-- All news items above this line -->{{Current events footer}}

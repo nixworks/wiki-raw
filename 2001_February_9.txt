@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|02|09}}
+
+* American submarine {{USS|Greeneville|SSN-772|06}} accidentally strikes and sinks Japanese fishing vessel ''Ehime-Maru''.
+
+<!-- All news items above this line -->{{Current events footer}}

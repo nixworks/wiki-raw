@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|2000|09|14}}
+
+* [[Microsoft]] releases [[Windows Me]].
+* End of [[Fuel protests in the United Kingdom|UK Fuel protests]].
+
+<!-- All news items above this line -->{{Current events footer}}

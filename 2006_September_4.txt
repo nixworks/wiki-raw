@@ -1,0 +1,8 @@
+<!-- All news items below this line -->{{Current events header|2006|09|04}}
+
+* A burial cave dating back to the [[1st century BC]] is discovered beneath a [[high school]] in [[Tel Aviv]], [[Israel]]. [http://www.ynetnews.com/articles/0,7340,L-3299730,00.html (Ynet)]
+* A lone gunman shoots and kills a [[United Kingdom|British]] tourist and wounds six others in [[Amman]], [[Jordan]]. The gunman is arrested, and police are investigating if the gunman belongs to any groups. [http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-04T140027Z_01_L04200624_RTRUKOC_0_US-JORDAN-SHOOTING.xml&WTmodLoc=Home-C1-TopStories-newsOne-2 (Reuters)]
+* [[Steve Irwin]], "[[The Crocodile Hunter]]", is killed by a [[Short-tail stingray|stingray]] while filming a documentary on [[Australia]]'s [[Great Barrier Reef]]. [http://www.news.com.au/story/0,23599,20349888-2,00.html (News.com.au)], [http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-04T053821Z_01_SP34161_RTRUKOC_0_US-AUSTRALIA-IRWIN.xml&WTmodLoc=Home-C2-TopNews-newsOne-4 (Reuters)]
+* The [[Great Internet Mersenne Prime Search]] (GIMPS) discovers the 44th [[Mersenne prime]]. It was verified on September 11. [http://mathworld.wolfram.com/news/2006-09-04/mersenne-44 (MathWorld News)]
+
+<!-- All news items above this line -->{{Current events footer}}

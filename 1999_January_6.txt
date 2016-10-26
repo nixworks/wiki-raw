@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|01|06}}
+
+* [[Dennis Hastert]] becomes [[Speaker of the United States House of Representatives]].
+
+<!-- All news items above this line -->{{Current events footer}}

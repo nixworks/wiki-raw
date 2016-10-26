@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|01|25}}
+
+* A 50-year-old [[Douglas DC-3|DC-3]] crashes near [[Ciudad Bolívar]], [[Venezuela]], killing 25.
+
+<!-- All news items above this line -->{{Current events footer}}

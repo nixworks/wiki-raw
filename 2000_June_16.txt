@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|06|16}}
+
+* [[Susan Sarandon]] opens cheese speciality shop in [[Paris]], [[France]].
+
+<!-- All news items above this line -->{{Current events footer}}

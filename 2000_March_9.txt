@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|03|09}}
+
+* [[Federal Bureau of Investigation|FBI]] arrests suspected purveyor of [[art forgery|art forgeries]], [[Ely Sakhai]], in New York City.
+
+<!-- All news items above this line -->{{Current events footer}}

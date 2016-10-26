@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|05|11}}
+
+* Starting late on May 10 and continuing through the early hours of May 12, NASA's ACE and Wind spacecraft each observed that the density of the solar wind dropped by more than 98%. [http://science.nasa.gov/science-news/science-at-nasa/1999/ast13dec99_1/ (NASA Science)]
+
+<!-- All news items above this line -->{{Current events footer}}

@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|04|30}}
+
+* [[Dennis Tito]], the first '[[space tourism|space tourist]]' in space lifts off in a Russian rocket heading for the [[International Space Station]].
+
+<!-- All news items above this line -->{{Current events footer}}

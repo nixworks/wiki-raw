@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|01|28}}
+
+* [[Super Bowl XXXV]] at [[Raymond James Stadium]] in [[Tampa, Florida]]: [[Baltimore Ravens]] defeats the [[New York Giants]], 34-7.
+
+<!-- All news items above this line -->{{Current events footer}}

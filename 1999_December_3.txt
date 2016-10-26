@@ -1,0 +1,7 @@
+<!-- All news items below this line -->{{Current events header|1999|12|03}}
+
+* After rowing for 81 days and 2,962 nautical miles (5486&nbsp;km), [[Tori Murden]] becomes the first woman to cross the [[Atlantic Ocean]] by [[rowboat]] alone when she reaches [[Guadeloupe]] from the [[Canary Islands]]
+* [[NASA]] loses radio contact with the [[Mars Polar Lander]] moments before the spacecraft enters the [[Mars|Martian]] atmosphere.
+* [[Worcester Cold Storage and Warehouse fire]] - A massive fire occurs at an abandoned cold storage and warehouse facility in [[Worcester, Massachusetts]], killing six firefighters.
+
+<!-- All news items above this line -->{{Current events footer}}

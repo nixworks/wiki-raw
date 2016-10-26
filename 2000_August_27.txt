@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|08|27}}
+
+* [[Ostankino Tower]] in [[Moscow]] catches fire, three people are killed.
+
+<!-- All news items above this line -->{{Current events footer}}

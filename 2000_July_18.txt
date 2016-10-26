@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|07|18}}
+
+* [[Alex Salmond]] resigns as the leader of the [[Scottish National Party]].
+
+<!-- All news items above this line -->{{Current events footer}}

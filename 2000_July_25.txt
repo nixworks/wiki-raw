@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|07|25}}
+
+* A [[Concorde]] supersonic passenger jet crashes just after takeoff from [[Paris]] killing all 109 aboard and 5 on the ground.
+
+<!-- All news items above this line -->{{Current events footer}}

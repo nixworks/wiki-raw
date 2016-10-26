@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|11|16}}
+
+* [[Bill Clinton]] becomes the first sitting US President to visit [[Vietnam]].
+
+<!-- All news items above this line -->{{Current events footer}}

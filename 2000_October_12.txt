@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|10|12}}
+
+* In [[Aden]], [[Yemen]], the {{USS|Cole|DDG 67|6}} is badly damaged by two [[suicide bomber]]s who placed a small boat laden with [[explosive]]s alongside the [[United States Navy]] destroyer, killing 17 crew members and wounding at least 39.
+
+<!-- All news items above this line -->{{Current events footer}}

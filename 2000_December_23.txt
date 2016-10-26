@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|12|23}}
+
+*'''Died:''' [[Victor Borge]], 91, Danish comedian, conductor and pianist.
+
+<!-- All news items above this line -->{{Current events footer}}

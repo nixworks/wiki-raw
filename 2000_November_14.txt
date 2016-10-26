@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|11|14}}
+
+* [[Netscape Navigator]] version 6.0 is launched following two years of [[open source]] development creating a stable [[Mozilla]] [[web browser]] upon which it is based.
+
+<!-- All news items above this line -->{{Current events footer}}

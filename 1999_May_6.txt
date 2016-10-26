@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|05|06}}
+
+* Elections are held in [[Scotland]] and [[Wales]] for the new [[Scottish Parliament]] and [[National Assembly for Wales]].
+
+<!-- All news items above this line -->{{Current events footer}}

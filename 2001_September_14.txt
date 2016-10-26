@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|09|14}}
+
+* The [[Nintendo Gamecube]] is released in [[Japan]].
+
+<!-- All news items above this line -->{{Current events footer}}

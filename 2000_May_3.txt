@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|05|03}}
+
+* Computer pioneer [[Datapoint]] Corporation files for [[Chapter 11]] bankruptcy.
+
+<!-- All news items above this line -->{{Current events footer}}

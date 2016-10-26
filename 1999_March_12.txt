@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|03|12}}
+
+* [[Hungary]], [[Poland]] and [[Czech Republic]] join [[NATO]].
+
+<!-- All news items above this line -->{{Current events footer}}

@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2007|11|03}}
+
+* [[2007 Pakistani state of emergency]]: [[President of Pakistan|President]] [[Pervez Musharraf]] declares a [[2007 Pakistani state of emergency|period]] of [[State of Emergency|emergency rule]] amid rising militant violence. [http://news.bbc.co.uk/1/hi/world/south_asia/7076670.stm (BBC)] [http://www.reuters.com/article/newsOne/idUSCOL19928320071103 (Reuters)]
+
+<!-- All news items above this line -->{{Current events footer}}

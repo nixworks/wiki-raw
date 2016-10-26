@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|08|17}}
+
+* A 7.4-magnitude [[1999 Izmit earthquake|earthquake]] strikes [[Istanbul]] and northwestern [[Turkey]], killing more than 17,000 and injuring 44,000. 
+
+<!-- All news items above this line -->{{Current events footer}}

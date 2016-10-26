@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|2000|10|11}}
+
+* 250 million US gallons ({{Nowrap|950,000 m<sup>3</sup>)}} of coal sludge spill in [[Martin County, Kentucky]]. Considered a greater environmental disaster than the [[Exxon Valdez oil spill]].
+* Sports software company Recreational Technologies ends its attempt to become the primary provider of [[MLB]] scouting software, laying off 90% of its development staff.
+
+<!-- All news items above this line -->{{Current events footer}}

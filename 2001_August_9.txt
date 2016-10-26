@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|08|09}}
+
+* US President [[George W. Bush]] announces his support for federal funding of limited research on embryonic [[stem cell]]s.
+
+<!-- All news items above this line -->{{Current events footer}}

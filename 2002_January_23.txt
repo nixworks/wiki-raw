@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2002|01|23}}
+
+*[[Kenneth Lay]], CEO of the bankrupt [[Enron Corporation]], resigns.
+
+<!-- All news items above this line -->{{Current events footer}}

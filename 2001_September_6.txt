@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|2001|09|06}}
+
+* [[United States v. Microsoft]]: The [[United States Justice Department]] announces that it was no longer seeking to break-up [[software]] maker [[Microsoft]] and will instead seek a lesser [[United States antitrust law|antitrust]] penalty.
+* [[Lorenzo "Enzo" Chua]] is born at 6:33P.M. at [[St. Lukes Medical Center]].
+
+<!-- All news items above this line -->{{Current events footer}}

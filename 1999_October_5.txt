@@ -1,0 +1,5 @@
+<!-- All news items above this line -->{{Current events header|1999|10|05}}
+
+* Thirty-one people die in the [[Ladbroke Grove rail crash]], west of [[London]], [[England]].
+
+<!-- All news items above this line -->{{Current events footer}}

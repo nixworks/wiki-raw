@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|2001|02|28}}
+
+* An [[earthquake]] measuring 6.8 on the [[Richter Scale]] hits the Northwest area of the United States. There were no reports of any deaths.
+* The [[Great Heck rail crash]] occurs.
+
+<!-- All news items above this line -->{{Current events footer}}

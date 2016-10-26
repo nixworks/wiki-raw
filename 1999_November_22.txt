@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|11|22}}
+
+* [[Wayne Gretzky]] is inducted into the [[Hockey Hall of Fame]], his number [[99 (number)|99]] permanently retired by the [[NHL]].
+
+<!-- All news items above this line -->{{Current events footer}}

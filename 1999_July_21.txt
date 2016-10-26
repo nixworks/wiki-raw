@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|07|21}}
+
+* Two divers die in the [[Deer Island (Massachusetts)|Deer Island]] Outfall Tunnel during a project to remove safety plugs inside risers leading from the tunnel to the bottom of [[Massachusetts Bay]]. [http://www.southcoasttoday.com/apps/pbcs.dll/article?AID=/19990722/NEWS/307229950 (Associated Press)]
+
+<!-- All news items above this line -->{{Current events footer}}

@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|05|18}}
+
+* [[Boo.com]] collapses due to lack of funds after six months.
+
+<!-- All news items above this line -->{{Current events footer}}

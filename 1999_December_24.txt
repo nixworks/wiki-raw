@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|12|24}}
+
+* [[Indian Airlines Flight 814]], which was en route from [[Kathmandu]], [[Nepal]] to [[Delhi]], [[India]] was hijacked and taken to [[Kandahar]], [[Afghanistan]]
+
+<!-- All news items above this line -->{{Current events footer}}

@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|07|02}}
+
+* The world's first self-contained [[artificial heart]] is implanted in [[Robert Pools]].
+
+<!-- All news items above this line -->{{Current events footer}}

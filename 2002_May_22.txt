@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2002|05|22}}
+
+* [[Recent celebrity deaths|Recent (discovery of) celebrity deaths]]: Police find the remains of missing intern [[Chandra Levy]] in a park in [[Washington, DC]].
+
+<!-- All news items above this line -->{{Current events footer}}

@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|2000|12|16}}
+
+* ''[[Godzilla vs. Megaguirus]]'' is released in Japan.
+* F4 rated Tuscaloosa tornado hits south & east of [[Tuscaloosa, Alabama]]
+
+<!-- All news items above this line -->{{Current events footer}}

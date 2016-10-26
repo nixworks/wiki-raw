@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|10|26}}
+
+* U.S. President [[George W. Bush]] signs the [[Patriot Act]] into law.
+
+<!-- All news items above this line -->{{Current events footer}}

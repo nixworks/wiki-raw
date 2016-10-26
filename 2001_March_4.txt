@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|03|04}}
+
+* [[Dissident Irish Republican campaign]]: A massive car bomb explodes in front of the [[BBC Television Centre]] in [[London]], seriously injuring 11 people. The attack was attributed to the [[Real IRA]].
+
+<!-- All news items above this line -->{{Current events footer}}

@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|11|09}}
+
+* [[TAESA Flight 725]], went down a few minutes after leaving the Uruapan airport en route to Mexico City. One hundred and twelve people were killed in the accident.
+
+<!-- All news items above this line -->{{Current events footer}}

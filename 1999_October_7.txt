@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|1999|10|07}}
+
+* The [[United States Congress]] passed a managed care bill allowing patients to sue HMOs.
+* The first [[DIY SOS]] episode is broadcast.
+
+<!-- All news items above this line -->{{Current events footer}}

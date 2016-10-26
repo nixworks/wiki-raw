@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|04|03}}
+
+* [[United States v. Microsoft]]: [[Microsoft]] is ruled to have violated United States [[antitrust]] laws by keeping "an oppressive thumb" on its competitors.
+
+<!-- All news items above this line -->{{Current events footer}}

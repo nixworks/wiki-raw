@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|01|21}}
+
+* [[War on Drugs]]: In one of the largest drug busts in American history, the [[United States Coast Guard]] intercepts a ship with over 9,500 pounds (4.3 t) of [[cocaine]] aboard. The ship was headed for [[Houston, Texas]].
+
+<!-- All news items above this line -->{{Current events footer}}

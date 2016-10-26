@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|12|02}}
+
+* The [[United Kingdom]] devolves political power in [[Northern Ireland]] to the [[Northern Ireland Executive]]. 
+
+<!-- All news items above this line -->{{Current events footer}}

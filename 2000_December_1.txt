@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|2000|12|01}}
+
+* [[Vicente Fox]] takes office as [[President of Mexico]].
+* [[Miss World]] pageant held in London's [[Millennium Dome]]. [[Priyanka Chopra]] wins the title.
+
+<!-- All news items above this line -->{{Current events footer}}

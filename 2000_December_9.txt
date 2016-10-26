@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|2000|12|09}}
+
+*The crew of the space shuttle ''Endeavour'' complete the final transfers of supplies to the [[International Space Station]] and other items being returned to Earth, and undock from the space station after 6 days, 23 hours and 13 minutes.
+*'''Died:''' [[Daniel Wretström]], 17, Swedish white power skinhead musician (killed in a brawl)<ref name=expo>{{cite web|url=http://www.expo.se/index_1.php?pg=http%3A//www.expo.se/www/1_892.html |title=Expo: Mordet, marschen, martyrskapet |publisher=Expo.se |date= |accessdate=2013-07-17}}</ref>
+
+<!-- All news items above this line -->{{Current events footer}}

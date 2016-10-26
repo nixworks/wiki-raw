@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|10|09}}
+
+* The [[2001 anthrax attacks]] continue as anthrax letters are mailed from [[Princeton, New Jersey]], to [[United States Senate|Senators]] [[Tom Daschle]] of [[South Dakota]] and [[Patrick Leahy]] of [[Vermont]].
+
+<!-- All news items above this line -->{{Current events footer}}

@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2002|08|10}}
+
+* [[Charlton Heston]], movie actor and president of the [[National Rifle Association]], announces that he has [[Alzheimer's disease]].
+
+<!-- All news items above this line -->{{Current events footer}}

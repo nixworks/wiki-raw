@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|01|02}}
+
+* A brutal [[snowstorm]] smashes into the [[Midwest]]ern [[United States]], causing 14 inches (359 mm) of snow at [[Milwaukee, Wisconsin]] and 19 inches (487 mm) at [[Chicago, Illinois]]. In Chicago, temperatures plunge to -13°F (-25°C), and 68 deaths are reported.
+
+<!-- All news items above this line -->{{Current events footer}}

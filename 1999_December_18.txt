@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|12|18}}
+
+* NASA launches into orbit the Terra platform carrying five Earth Observation instruments, including [[Advanced Spaceborne Thermal Emission and Reflection Radiometer|ASTER]], [[Clouds and the Earth's Radiant Energy System|CERES]], [[MISR]], [[MODIS]] and [[MOPITT]].
+
+<!-- All news items above this line -->{{Current events footer}}

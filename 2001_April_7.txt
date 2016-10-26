@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|04|07}}
+
+* An Mi-17 helicopter crashes into mountain in south of [[Hanoi, Vietnam]], killing 16. The flight was carrying [[United States armed forces]] personnel searching for [[Missing in action|MIA]]s from [[Vietnam War]].
+
+<!-- All news items above this line -->{{Current events footer}}

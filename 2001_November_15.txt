@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|11|15}}
+
+* The Microsoft [[Xbox (console)|Xbox]] is released in the United States with 14 launch titles.
+
+<!-- All news items above this line -->{{Current events footer}}

@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|09|04}}
+
+* [[Google]] is awarded {{US patent|6285999}}, for the [[PageRank]] [[search algorithm]] used in the Google [[search engine]].
+
+<!-- All news items above this line -->{{Current events footer}}

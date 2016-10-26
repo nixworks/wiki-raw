@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|11|01}}
+
+* [[Derek Jeter]] hits the [[MLB]]'s first November [[home run]] at the [[2001 World Series#Game 4|World Series]].
+
+<!-- All news items above this line -->{{Current events footer}}

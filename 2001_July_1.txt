@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|2001|07|01}}
+
+* [[Aliso Viejo, California|Aliso Viejo]] officially becomes the 34th city in [[Orange County, California]].
+* [[Alliant International University]] is formed.
+
+<!-- All news items above this line -->{{Current events footer}}

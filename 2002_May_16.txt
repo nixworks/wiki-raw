@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2002|05|16}}
+
+* [[Star Wars Episode II: Attack of the Clones]] released in theaters.
+
+<!-- All news items above this line -->{{Current events footer}}

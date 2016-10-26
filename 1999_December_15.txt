@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|1999|12|15}}
+
+* Torrential rains caused catastrophic floods and mudslides in the coastal regions of [[Venezuela]], killing an estimated 25,000 people and leaving 100,000 others homeless.
+* The MRT-3 Metrostar Express line is inaugurated between North Ave. and Taft Ave.
+
+<!-- All news items above this line -->{{Current events footer}}

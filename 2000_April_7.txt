@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|04|07}}
+
+* Attack submarine [[USS Trepang (SSN-674)|ex-Trepang]] completes being [[Ship-Submarine recycling program|recycled]].
+
+<!-- All news items above this line -->{{Current events footer}}

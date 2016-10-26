@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|10|07}}
+
+* [[War in Afghanistan (2001-present)]]: The [[United States]] invades [[Afghanistan]], with participation from other nations.
+
+<!-- All news items above this line -->{{Current events footer}}

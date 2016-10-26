@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|2000|11|18}}
+
+*[[Catherine Zeta-Jones]] marries [[Michael Douglas]] at the Plaza Hotel, [[New York City]].
+*The [[2000 Tiger Cup]] football competition concludes in Thailand.  The winners are the [[Thailand national football team]].
+
+<!-- All news items above this line -->{{Current events footer}}

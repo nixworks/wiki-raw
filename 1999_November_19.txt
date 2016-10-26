@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|1999|11|19}}
+
+* The People's Republic of China launches the first [[Shenzhou spacecraft]]. 
+* [[John Carpenter (game show contestant)|John Carpenter]] becomes the first millionaire on any quiz show thanks to ''[[Who Wants to be a Millionaire]]''.
+
+<!-- All news items above this line -->{{Current events footer}}

@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|11|05}}
+
+* [[United States v. Microsoft]]: US District Judge [[Thomas Penfield Jackson]] issues a preliminary ruling that the software company [[Microsoft]] had "monopoly power" (on April 3, 2000, Jackson found that Microsoft violated the [[Sherman Anti-Trust Act]]).
+
+<!-- All news items above this line -->{{Current events footer}}

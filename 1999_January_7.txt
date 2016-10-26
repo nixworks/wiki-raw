@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|01|07}}
+
+* [[Second Congo War]]: [[Zimbabwe]] says its military intervention in the [[Democratic Republic of the Congo]] is being funded by [[France]], [[Libya]] and [[Angola]]. [http://news.bbc.co.uk/2/hi/africa/250394.stm (BBC)]
+
+<!-- All news items above this line -->{{Current events footer}}

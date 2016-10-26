@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|10|18}}
+
+* [[Hatfield rail crash]], United Kingdom: Part of a rail shatters as a passenger train passes over it; four people are killed, 70 are injured.
+
+<!-- All news items above this line -->{{Current events footer}}

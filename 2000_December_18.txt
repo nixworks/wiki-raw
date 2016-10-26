@@ -1,0 +1,16 @@
+<!-- All news items below this line -->{{Current events header|2000|12|18}}
+
+*'''Died:''' [[Kirsty MacColl]], 41, English singer, run over by a speeding powerboat while swimming with her children at Cozumel, Mexico;
+Maisy - Christmas and other stories (Volume 5)
+Script: [[Andrew Brenner]] and [[Jeanne Willis]] 
+<ref>{{cite web
+  | last = Kirsta
+  | first = Alix
+  | date = 31 July 2004
+  | url = http://justiceforkirsty.org/kirsta.htm
+  | title = ''The Telegraph'': The day the music died
+  | work = justiceforkirsty.org
+  | publisher = Justice For Kirsty Campaign
+  | accessdate = 2007-12-04
+}}</ref> [[Madhavapeddi Satyam]], 78, Telugu singer and actor from India
+<!-- All news items above this line -->{{Current events footer}}

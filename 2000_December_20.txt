@@ -1,0 +1,8 @@
+<!-- All news items below this line -->{{Current events header|2000|12|20}}
+
+*[[Mirusuvil massacre]]: eight [[Sri Lankan Tamil]] [[refugees]], including children,<ref>{{cite web |url= http://www.epidemio-ufpel.org.br/proesf/Anaclaudia/Somasundaram.pdf
+|format=PDF|title= Child soldiers:Understanding the context |date =2007-05-06 |work=BMJ.com}}</ref> on 20 December 2000<ref name="BBCS2000">{{cite news | url= http://www.bbc.co.uk/sinhala/news/story/2005/03/050306_mirusuvil.shtml
+| title = Mirusuvil massacre case | publisher =BBC.com | date = 2007-05-09 }}</ref><ref name="SLM2000">{{cite news| url= http://brcslproject.gn.apc.org/slmonitor/december2000/miru.html
+|title = Mirusuvil mass graves | publisher = British Refugee Council: Sri Lanka Monitor | date =  2007-05-09 }}</ref><ref name="chrdsl">{{cite web |url= http://www.chrdsrilanka.org/pages/LAPCASES5.html|title= Activities of Center for Human Rights Development|date =2007-05-09 |work=chrdsrilanka.org}}</ref> are killed by Sri Lankan Army soldiers and buried in a mass grave.
+
+<!-- All news items above this line -->{{Current events footer}}

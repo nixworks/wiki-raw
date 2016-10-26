@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|1999|03|03}}
+
+* [[Bertrand Piccard]] and [[Brian Jones]] begin their attempt to circumnavigate the world in a [[hot air balloon]] without stopping. Their journey ended in success on [[March 21]].
+* [[LaGrand Case|Walter LaGrand]] is executed by means of [[gas chamber]].
+
+<!-- All news items above this line -->{{Current events footer}}

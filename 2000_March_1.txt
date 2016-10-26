@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|2000|03|01}}
+
+* The [[Constitution of Finland]] is rewritten.
+* [[Hans Blix]] assumes the position of Executive Chairman of [[UNMOVIC]].
+
+<!-- All news items above this line -->{{Current events footer}}

@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|07|17}}
+
+* The 10th President of [[Syria]], [[Bashar al Assad]], assumed office.
+
+<!-- All news items above this line -->{{Current events footer}}

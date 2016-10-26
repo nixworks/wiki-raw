@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|1999|09|21}}
+
+* [[921 earthquake]] in central [[Taiwan]] kills about 2,400 people.
+
+<!-- All news items above this line -->{{Current events footer}}

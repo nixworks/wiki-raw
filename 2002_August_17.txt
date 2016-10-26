@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2002|08|17}}
+
+* [[Extreme weather]]: The [[Elbe]] crests at [[Dresden]] at the record height of {{convert|30.84|ft|m}}. 30,000 Germans are evacuated along the river's path.
+
+<!-- All news items above this line -->{{Current events footer}}

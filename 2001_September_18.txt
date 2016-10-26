@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|09|18}}
+
+* The [[2001 anthrax attacks]] commence as anthrax letters are mailed from [[Hamilton Township, Mercer County, New Jersey]], to [[ABC News]], [[CBS News]], [[NBC News]], the ''[[New York Post]]'', and the ''[[National Enquirer]]''.
+
+<!-- All news items above this line -->{{Current events footer}}

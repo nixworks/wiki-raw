@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2001|01|26}}
+
+* An [[earthquake]] hits [[Gujarat]], [[India]], killing more than 69,000 people.
+
+<!-- All news items above this line -->{{Current events footer}}

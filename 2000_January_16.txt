@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|01|16}}
+
+* In [[Sacramento, California]], a commercial truck carrying evaporated milk is driven into the state capitol building killing the driver.
+
+<!-- All news items above this line -->{{Current events footer}}

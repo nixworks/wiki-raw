@@ -1,0 +1,6 @@
+<!-- All news items below this line -->{{Current events header|1999|11|06}}
+
+* Australians vote to keep the British Queen as their head of state.
+* [[Australia national rugby union team|Australia]] win over [[France national rugby union team|France]] to win the 1999 Rugby world Cup at [[Millennium Stadium]].
+
+<!-- All news items above this line -->{{Current events footer}}

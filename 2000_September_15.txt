@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2000|09|15}}
+
+* The [[2000 Summer Olympics]] are opened in [[Sydney]], [[Australia]].
+
+<!-- All news items above this line -->{{Current events footer}}
