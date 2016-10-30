@@ -1,5 +1,12 @@
 {{Current events header|2016|10|30}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[Saudi Arabian-led intervention in Yemen]]
+**An Arab Coalition air strike hits a prison in the city of [[Hodeidah]] killing 33 people. [http://www.reuters.com/article/us-yemen-security-strike-idUSKCN12U03R?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29 (Reuters)]
+
+;Health
+*[[Zika virus outbreak timeline]]
+**[[Vietnam]] reports its first [[microcephaly]] case likely to be linked to the [[Zika virus]]. [http://www.abc.net.au/news/2016-10-30/vietnam-reports-first-microcephaly-case-likely-linked-to-zika/7978644 (ABC Online)]
+
 <!-- All news items above this line -->|}
