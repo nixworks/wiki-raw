@@ -1,12 +1,25 @@
 {{Current events header|2016|10|30}}
 
 <!-- All news items below this line -->
-;Armed conflicts and attacks
-*[[Saudi Arabian-led intervention in Yemen]]
-**An Arab Coalition air strike hits a prison in the city of [[Hodeidah]] killing 33 people. [http://www.reuters.com/article/us-yemen-security-strike-idUSKCN12U03R?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29 (Reuters)]
+;Disasters and accidents
+*[[October 2016 Central Italy earthquakes]]
+**A 6.6 magnitude [[earthquake]] occurs in [[Central Italy]] 68 kilometres east southeast of [[Perugia]]. Many buildings are reported as having been destroyed. [http://www.abc.net.au/news/2016-10-30/central-italy-rattled-by-magnitude-6.6-earthquake/7978684 (Reuters via ABC Online)], [http://www.bbc.com/news/world-europe-37814975 (BBC)]
+**The 14th century [[Monastery of St. Benedict (Norcia)#Basilica|Basilica of St. Benedict]]  in the town of [[Norcia]] is destroyed. [https://www.theguardian.com/world/2016/oct/30/san-benedetto-basilica-norcia-destroyed-italy-earthquake (''The Guardian'')]
 
 ;Health
 *[[Zika virus outbreak timeline]]
 **[[Vietnam]] reports its first [[microcephaly]] case likely to be linked to the [[Zika virus]]. [http://www.abc.net.au/news/2016-10-30/vietnam-reports-first-microcephaly-case-likely-linked-to-zika/7978644 (ABC Online)]
 
+;International relations
+*[[Canada–European Union relations]]
+**[[Canada|Canadian]] Prime Minister [[Justin Trudeau]] and [[European Union|EU]] officials sign the [[Comprehensive Economic and Trade Agreement]] (CETA). [http://www.bbc.co.uk/news/world-europe-37814884 (BBC)]
+*[[Boko Haram insurgency]]
+**The [[United Nations]] and [[Nigeria]] come to an agreement to release 876 children being held due to suspicions that they are tied to [[Boko Haram]]. [http://news.trust.org/item/20161028150607-d5f59/?source%3DreOtherNews3 (Reuters)]
+
+;Law and crime
+*The [[United States]] orders all civilian staff family members to leave its [[Consulate General of the United States, Istanbul|consulate]] in [[Istanbul]], [[Turkey]] due to increasing threats from terrorist organizations. [http://www.cnn.com/2016/10/29/middleeast/turkey-travel-warning-consulate/ (CNN)]
+
+;Politics and elections
+*[[2016 Turkish purges]]
+**[[Turkey]] dismisses another 10,000 civil servants and closes 15 more media outlets for alleged ties to terrorist organizations and cleric [[Fethullah Gülen]]. [http://www.reuters.com/article/us-turkey-security-dismissals-idUSKBN12U04L (Reuters)]
 <!-- All news items above this line -->|}
