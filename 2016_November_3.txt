@@ -1,5 +1,17 @@
 {{Current events header|2016|11|3}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[War in Afghanistan (2015–present)]]
+**Two [[United States military]] personnel are killed while assisting [[Afghan military]] forces clearing a [[Taliban]] position in [[Kunduz province]]. Two other American personnel were injured. [http://www.rs.nato.int/article/press-releases/kunduz-casualty-release-nov.-3-2016.html (NATO)] [http://www.reuters.com/article/us-usa-afghanistan-casualty-idUSKBN12Y0PM (Reuters)]
+*[[Moro conflict]]
+**Muslim rebel leader [[Nur Misuari]] meets with [[Philippines]] president [[Rodrigo Duterte]] in [[Malacañang Palace]] after receiving a reprieve from previous crimes of rebellion. [http://newsinfo.inquirer.net/839619/misuari-already-in-manila-to-meet-duterte (''Philippine Daily Inquirer'')]
+
+;Disasters and accidents
+*At least 19 people have been killed and 50 injured following a passenger train crash in the [[Pakistan]] city of [[Karachi]]. [http://hosted.ap.org/dynamic/stories/A/AS_PAKISTAN_TRAIN_ACCIDENT?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
+*At least 239 migrants are believed to have drowned in shipwrecks near the coast of [[Libya]]. [http://www.usatoday.com/story/news/world/2016/11/03/over-200-migrants-believed-drowned-mediterranean/93229370/ (USA Today)]  
+
+;Politics and elections
+*[[Aftermath of the United Kingdom European Union membership referendum, 2016|Brexit aftermath]]
+** The [[Judiciary of England and Wales|British High Court]] has ruled that the [[British parliament]] must vote on whether the UK can start the process of leaving the European Union by triggering [[Article 50 of the Treaty on European Union]]. [http://www.bbc.co.uk/news/uk-politics-37857785 (BBC)]
 <!-- All news items above this line -->|}
