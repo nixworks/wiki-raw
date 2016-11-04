@@ -1,5 +1,12 @@
 {{Current events header|2016|11|4}}
 
 <!-- All news items below this line -->
-*
+;Disasters and accidents
+*At least fifteen people have died in an outbreak of heavy [[smog]] in the [[Pakistan]]i province of [[Punjab]]. [https://www.geo.tv/latest/119649-Heavy-smog-claims-15-lives-in-Punjab (Geo News)]
+
+;Politics and elections
+*[[2016 South Korean political scandal]]
+**The [[President of South Korea]] [[Park Geun-hye]] accepts full blame for the scandal over the influence of religious figure [[Choi Soon-sil]] in Park's administration and vows to accept the results of an independent investigation into her actions. [http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-11-03-AS--SKorea-Politics/id-2a68bc03ac5843f98ebba68273a74bac (AP)]
+*[[2016 Turkish purges]]
+**[[Turkey|Turkish]] security forces begin mass arrests of pro-Kurdish [[Peoples' Democratic Party (Turkey)|Peoples' Democratic Party]] (HDP) MPs, including co-leaders [[Selahattin Demirtaş]] and [[Figen Yüksekdağ]]. Internet access is reportedly blocked across southeastern Turkey. [https://www.theguardian.com/world/2016/nov/04/turkey-arrests-pro-kurdish-party-leaders-mps (''The Guardian'')] [http://www.bbc.co.uk/news/world-europe-37868441 (BBC)]
 <!-- All news items above this line -->|}
