@@ -1,6 +1,11 @@
 {{Current events header|2016|11|9}}
 
 <!-- All news items below this line -->
-;Business and economy
-*Share markets fall around the world as the prospects of [[Donald Trump]] becoming [[President of the United States]] becomes increasingly likely. The [[Dow futures]] market falls by 750 points. [http://www.smh.com.au/business/markets-live/markets-live-fasten-seatbelts-20161108-gsl0of.html (''Sydney Morning Herald'')], [http://www.marketwatch.com/story/dow-futures-plunge-450-points-on-election-turmoil-2016-11-08 (Market Watch)]
+;Disasters and accidents
+*[[2016 Croydon tram derailment]]
+**At least five people have been killed and 51 hospitalised after a [[Tramlink]] light rail vehicle derailed and overturned in a tunnel close to [[Sandilands tram stop]] in the [[London Borough of Croydon]] early on Wednesday. It is the first fatal tram accident in the United Kingdom since 1959. [http://www.bbc.co.uk/news/uk-england-london-37919658 (BBC News)]
+
+;Politics and elections
+*[[United States presidential election, 2016]]
+**Although he narrowly lost the popular vote, [[Donald Trump]], the [[Republican Party (United States)|Republican]] candidate for the [[United States presidential election, 2016|2016 presidential election]], becomes the [[president-elect of the United States]] after defeating [[Hillary Clinton]], the [[Democratic Party (United States)|Democratic]] candidate, along with the [[Republican Party (United States)|Republican Party]] retaining control of [[United States House elections, 2016|the House]] and [[United States Senate elections, 2016|the Senate]]. [http://www.nytimes.com/2016/11/09/us/politics/hillary-clinton-donald-trump-president.html?action=click&pgtype=Homepage&clickSource=story-heading&module=span-abc-region&region=span-abc-region&WT.nav=span-abc-region (New York Times)]
 <!-- All news items above this line -->|}
