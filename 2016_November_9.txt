@@ -1,11 +1,23 @@
 {{Current events header|2016|11|9}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Operation Inherent Resolve]]
+**The [[United States military]] states that it has inadvertently killed 64 civilians in air strikes on targets in [[Syria]] and [[Iraq]] over the past year. [http://www.foxnews.com/world/2016/11/09/us-64-civilians-killed-in-iraq-syria-strikes-in-past-year.html (AP via Fox News)]
+
 ;Disasters and accidents
 *[[2016 Croydon tram derailment]]
-**At least five people have been killed and 51 hospitalised after a [[Tramlink]] light rail vehicle derailed and overturned in a tunnel close to [[Sandilands tram stop]] in the [[London Borough of Croydon]] early on Wednesday. It is the first fatal tram accident in the United Kingdom since 1959. [http://www.bbc.co.uk/news/uk-england-london-37919658 (BBC News)]
+**At least seven people have been killed and 51 hospitalised after a [[Tramlink]] light rail vehicle derailed and overturned in a tunnel close to [[Sandilands tram stop]] in the [[London Borough of Croydon]] early on Wednesday. It is believed to be the first tram accident involving fatalities on the tram in the [[United Kingdom]] since 1959. [http://www.bbc.co.uk/news/uk-england-london-37919658 (BBC News)] 
+
+;International relations
+*The immigration website of [[Canada]] crashes due to overflow, coinciding with the election in the [[United States]]. [http://www.cnn.com/2016/11/09/politics/canada-immigration-website-down-trump-trnd/ (CNN)]
+
+;Law and crime
+*The [[Supreme Court of the United States]] hears arguments on a case regarding whether the [[citizenship]] claim of a child is different if there is an unmarried father versus an unmarried mother who is a US citizen. [http://www.scotusblog.com/2016/11/argument-analysis-searching-for-a-remedy-for-constitutional-violation-on-citizenship/#more-248507 (Scotus blog)] 
 
 ;Politics and elections
-*[[United States presidential election, 2016]]
-**Although he narrowly lost the popular vote, [[Donald Trump]], the [[Republican Party (United States)|Republican]] candidate for the [[United States presidential election, 2016|2016 presidential election]], becomes the [[president-elect of the United States]] after defeating [[Hillary Clinton]], the [[Democratic Party (United States)|Democratic]] candidate, along with the [[Republican Party (United States)|Republican Party]] retaining control of [[United States House elections, 2016|the House]] and [[United States Senate elections, 2016|the Senate]]. [http://www.nytimes.com/2016/11/09/us/politics/hillary-clinton-donald-trump-president.html?action=click&pgtype=Homepage&clickSource=story-heading&module=span-abc-region&region=span-abc-region&WT.nav=span-abc-region (New York Times)]
+*[[United States presidential election, 2016|United States presidential election]] and [[United States elections, 2016|general elections]], 2016
+**Although he narrowly lost the popular vote, [[Donald Trump]], the [[Republican Party (United States)|Republican]] nominee for the [[United States presidential election, 2016|2016 presidential election]], becomes the [[president-elect of the United States]] after defeating [[Hillary Clinton]], the [[Democratic Party (United States)|Democratic]] nominee. It is the fourth time in United States history where the winning candidate lost the popular vote, the last such defeat occurring in [[United States presidential election, 2000|2000]].
+**The Republican Party retains control of the [[United States House elections, 2016|House]] and [[United States Senate elections, 2016|Senate]]. [http://www.nytimes.com/2016/11/09/us/politics/hillary-clinton-donald-trump-president.html?action=click&pgtype=Homepage&clickSource=story-heading&module=span-abc-region&region=span-abc-region&WT.nav=span-abc-region (''The New York Times'')]
+**Notable propositions are passed in several states including legal recreational [[Cannabis (drug)|marijuana]] in [[California]], [[Massachusetts]], and [[Nevada]]; medical marijuana in [[Arkansas]], [[Florida]] and [[North Dakota]]; tougher [[firearms]] [[Gun politics in the United States|restrictions]] in California and [[Washington (state)|Washington state]]; physician [[assisted suicide]] in [[Colorado]], and the reimposition of [[capital punishment]] in [[Nebraska]]. [http://www.bbc.com/news/world-us-canada-37917472 (BBC)], [http://www.chicagotribune.com/news/nationworld/politics/ct-ballot-measures-marijuana-gun-control-minimum-wage-20161108-story.html (''The Chicago Tribune'')]
 <!-- All news items above this line -->|}
