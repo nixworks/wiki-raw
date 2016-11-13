@@ -1,12 +1,20 @@
 {{Current events header|2016|11|13}}
 
 <!-- All news items below this line -->
-;Armed conflict and attacks
+;Armed conflicts and attacks
 *[[Internal conflict in Myanmar]]
-**Eight people are killed and 30 are arrested in clashes between the [[Burmese Army|Myanmar army]] and what are believed to be [[Rohingya insurgency in Western Myanmar|Rohingya insurgents]] in [[Rakhine state]]. [http://www.reuters.com/article/us-myanmar-rohingya-idUSKBN13804H?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29 (Reuters)]
+**Eight people are killed and 30 are arrested in clashes between the [[Myanmar Army]] and what are believed to be [[Rohingya insurgency in Western Myanmar|Rohingya insurgents]] in [[Rakhine state]]. [http://www.reuters.com/article/us-myanmar-rohingya-idUSKBN13804H?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29 (Reuters)]
+*[[Iraqi Civil War (2014–present)]]
+**[[Human Rights Watch]] claims that [[Kurdish Regional Government]] forces have destroyed [[Arab people|Arab]] homes and villages in [[northern Iraq]] in what may amount to a war crime. [http://www.reuters.com/article/us-mideast-crisis-iraq-kurds-idUSKBN13803V?utm_campaign=trueAnthem:+Trending+Content&utm_content=582833c904d30159cbf0bb46&utm_medium=trueAnthem&utm_source=twitter (Reuters)]
+**The ancient [[Assyrian people|Assyrian]] city of [[Nimrud]], south of [[Mosul]], is recaptured by the [[Iraqi Army]] after heavy fighting with [[Islamic State of Iraq and the Levant|ISIL]] militants. [https://www.theguardian.com/world/2016/nov/13/iraqi-troops-capture-nimrud-ancient-assyrian-city-isis (''The Guardian'')]
+
+;Disasters and accidents
+*[[2016 North Canterbury earthquake]]
+**A 7.8 magnitude earthquake strikes north of [[Christchurch]], [[New Zealand]], triggering tsunami warnings and causing widespread damage. [http://metro.co.uk/2016/11/13/new-zealand-hit-by-7-5-magnitude-earthquake-just-outside-christchurch-6254983/?ito=facebook (Metro)]
 
 ;International relations
-*[[Australia]] and the [[United States]] reach a deal to relocate asylum seekers from [[Nauru]] and [[Papua New Guinea]]'s [[Manus Island]] in the U.S. [https://au.news.yahoo.com/a/33192355/one-off-deal-to-send-refugees-to-us/#page1 (AAP via Yahoo News Australia)]
+*[[Australia–United States relations]]
+**[[Australia]] and the [[United States]] reach a deal to relocate asylum seekers from [[Nauru]] and [[Papua New Guinea]]'s [[Manus Island]] in the U.S. [https://au.news.yahoo.com/a/33192355/one-off-deal-to-send-refugees-to-us/#page1 (AAP via Yahoo News Australia)]
 ;Law and crime
 *[[Philippine]] president [[Rodrigo Duterte]] threatens to suspend the country's [[habeas corpus]] "if forced to by the illegal drug trade." [http://www.rappler.com/nation/152167-duterte-suspend-writ-habeas-corpus-warning (Rappler)]
 <!-- All news items above this line -->|}
