@@ -3,7 +3,9 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks   
 *[[War in Afghanistan (2015–present)]]
-**Four members of the [[Afghan National Security Forces]] are killed and 11 people injured during a [[suicide bomber]] attack near the Afghan defense ministry headquarters in [[Kabul]]. [http://abcnews.go.com/International/wireStory/afghan-officials-suicide-bomber-kills-kabul-43567525 (AP via ABC News America)]
+**Four members of the [[Afghan National Security Forces]] are killed and 11 people are injured during a [[suicide bomber]] attack near the Afghan defense ministry headquarters in [[Kabul]]. [http://abcnews.go.com/International/wireStory/afghan-officials-suicide-bomber-kills-kabul-43567525 (AP via ABC News America)]
+*[[Saudi Arabian-led intervention in Yemen]]
+**The Saudi-led military coalition and the [[Houthis]] (Ansar Allah) arrive at a swift ceasefire agreement effective 17 November 2016, as a result of efforts by [[United States Secretary of State|US Secretary of State]] [[John Kerry]] and [[Oman]]. [https://www.theguardian.com/world/2016/nov/15/yemen-houthis-saudi-coalition-ceasefire-john-kerry (The Guardian)][http://www.arabianbusiness.com/yemen-conflict-may-end-soon-after-both-sides-said-agree-ceasefire-653090.html (Arabian Business)]
 
 ;Disasters and accidents
 *As many as 412 people have died in the last 23 days due to [[Smog|smog]] in [[Tehran]], according to [[Iran]]'s [[Ministry of Health and Medical Education (Iran)|Health Ministry]]. All schools in the city have also been ordered to close as part of emergency measures. [http://www.dailymail.co.uk/news/article-3941186/More-400-people-killed-SMOG-lethal-blanket-pollution-smothers-Iranian-capital.html (AFP via ''Daily Mail'')]
@@ -13,5 +15,5 @@
 
 ;Politics and elections
 *[[Israeli–Palestinian conflict (2015–present)]]
-** A so-called "Muezzin Bill" which would forbid the use of loudspeakers in mosques during [[muezzin]] to decrease noise pollution is put to parliament in Israel. Palestinian activists and politicians claim it shows the government's growing intolerance of Israel's non-Jewish denizens. [http://www.aljazeera.com/indepth/features/2016/11/israel-muezzin-bill-seeks-judaisation-jerusalem-161116101604441.html (al Jazeera)]
+** A so-called "Muezzin Bill" which would forbid the use of loudspeakers in mosques during [[muezzin]] to decrease noise pollution is put to parliament in Israel. Palestinian activists and politicians claim it shows the government's growing intolerance of Israel's non-Jewish citizens. [http://www.aljazeera.com/indepth/features/2016/11/israel-muezzin-bill-seeks-judaisation-jerusalem-161116101604441.html (al Jazeera)]
 <!-- All news items above this line -->|}
