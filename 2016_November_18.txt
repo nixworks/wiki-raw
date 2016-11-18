@@ -1,5 +1,14 @@
 {{Current events header|2016|11|18}}
 
 <!-- All news items below this line -->
-*
+;Law and crime
+*The [[U.S. Court of Appeals for the Seventh Circuit]] denies the release of [[Brendan Dassey]], subject of the 2015 documentary series [[Making a Murderer]]. [http://www.cnn.com/2016/11/17/us/making-murderer-court-blocks-brendan-dassey-release/index.html (CNN)]
+
+;Politics and elections
+*[[Presidential transition of Donald Trump]]
+**Officials serving on [[President-elect of the United States|President-elect]] [[Donald Trump]]'s transition team reveal selections for [[Proposed_cabinet_of_Donald_Trump|high-level positions]], including [[United States Senate|Senator]] [[Jeff Sessions]] for [[Attorney General of the United States|Attorney General]], [[Mike Pompeo]] for [[Director of the Central Intelligence Agency|Director of the CIA]] and [[Michael T. Flynn]] for [[National Security Adviser (United States)|National Security Adviser]]. [http://www.npr.org/sections/thetwo-way/2016/11/18/502207098/trump-picks-sen-jeff-sessions-for-attorney-general (NPR)]
+
+;Science and technology
+*[[Shenzhou program]]
+**[[China]]'s [[Shenzhou 11]] returns to [[Earth]] after completing China's longest manned space mission to date. [https://www.yahoo.com/news/chinas-shenzhou-11-manned-space-capsule-returns-earth-062805959.html (Reuters via Yahoo!)]
 <!-- All news items above this line -->|}
