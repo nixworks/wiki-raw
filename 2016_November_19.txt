@@ -3,8 +3,15 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Yemeni Civil War (2015–present)]], [[Saudi Arabian-led intervention in Yemen]]
-**The [[Saudi Arabia|Saudi]]-led coalition announces a 48 day ceasefire in [[Yemen]] from noon. [http://www.breakingnews.com/item/2016/11/19/saudi-led-coalition-will-start-48-hour-ceasefire/ (Reuters, AFP via Breaking News)]
+**The [[Saudi Arabia|Saudi]]-led coalition announces a 48 hour ceasefire in [[Yemen]] from noon. [http://www.bloomberg.com/news/articles/2016-11-19/saudi-led-coalition-declares-48-hour-ceasefire-in-yemen (Bloomberg)] [http://www.breakingnews.com/item/2016/11/19/saudi-led-coalition-will-start-48-hour-ceasefire/ (Reuters, AFP via Breaking News)]
+
+;Business and economics
+*After a software error, [[Mexico|Mexicans]] purchase $2500 [[Dell]] laptops for just $33 each. [http://www.bbc.com/news/world-latin-america-38025662 (BBC)]
+
 ;Disasters and accidents
-*[[Fire retardant foam]] floods the streets in California after a fire alarm malfunction. [http://www.bbc.com/news/world-us-canada-38034467 (BBC)]
-*After a software error, [[Mexico|Mexicans]] purchase 2500 USD worth [[Dell]] laptops for just 33 dollars. [http://www.bbc.com/news/world-latin-america-38025662 (BBC)]
+*[[Fire retardant foam]] floods the streets around a hangar at [[San José International Airport]] in [[Santa Clara County, California]] after a fire alarm malfunction. [http://www.bbc.com/news/world-us-canada-38034467 (BBC)]
+
+;Politics and elections
+*[[Bersih 5 rally]]
+**Tens of thousands of people protest in the [[Malaysia]]n capital [[Kuala Lumpur]], calling for [[Prime Minister of Malaysia|Prime Minister]] [[Najib Razak]] to step down amid an ongoing corruption scandal involving [[1Malaysia Development Berhad]]. [http://www.reuters.com/article/us-malaysia-scandal-protests-idUSKBN13D2IM (Reuters)]
 <!-- All news items above this line -->|}
