@@ -1,12 +1,29 @@
 {{Current events header|2016|11|20}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Internal conflict in Myanmar]]
+**At least 8 people are killed and more than a dozen others are injured following an attack by the [[Ta'ang National Liberation Army]] in [[Shan State]]. [http://aa.com.tr/en/asia-pacific/8-dead-as-new-clashes-break-out-on-myanmar-china-border/689281 (AA)]
+*[[Military intervention against ISIL]]
+**A [[Turkish Army]] soldier was killed and two others injured in an ISIL bombing near the [[Syria]]n city of [[al-Bab]]. [http://www.lbcgroup.tv/news/290773/turkish-soldier-killed-in-islamic-state-attack-in/en (Reuters via LBC)]
+*[[Syrian Civil War]]
+**Six are killed in a suspect [[chlorine#use as a weapon|chlorine gas]] attack in [[Aleppo]], [[Syria]]. [http://edition.cnn.com/2016/11/20/middleeast/syria-aleppo-airstrikes/ (CNN)] [http://www.reuters.com/article/us-mideast-crisis-syria-idUSKBN13F0HS (Reuters)]
 ;Disasters and accidents
-*[[List of Indian rail incidents]]
-**Many are killed and over 100 injured as the [[Indore–Patna Express]] derails near [[Pukhrayan]] in the Indian state of [[Uttar Pradesh]]. [http://indianexpress.com/article/india/india-news-india/patna-indore-express-derailed-indian-railways-issues-helpline-numbers-4385301/ (Indian Express)], [http://www.foxnews.com/us/2016/11/19/train-in-northern-india-derails-killing-at-least-24.html (Fox News)], [http://www.telegraph.co.uk/news/2016/11/20/at-least-30-killed-in-indian-train-crash/ (''The Telegraph'')]
-**[[Minister of Railways (India)|Minister of Railways]] [[Suresh Prabhu]] has ordered an inquiry, [http://www.hindustantimes.com/india-news/patna-indore-exp-derailed-centre-orders-enquiry-as-over-40-killed-in-tragedy/story-xUO9JeerMAg1iRbc1f2scM.html (''Hindustan Times'')]
+* [[Pukhrayan train derailment]]
+**At least 108 are killed and over 100 injured as the [[Indore–Patna Express]] derails near [[Pukhrayan]] in the Indian state of [[Uttar Pradesh]]. [http://www.nytimes.com/2016/11/21/world/asia/india-train-derails.html?partner=rss&emc=rss&_r=0 (''The New York Times'')], [http://indianexpress.com/article/india/india-news-india/patna-indore-express-derailed-indian-railways-issues-helpline-numbers-4385301/ (Indian Express)], [http://www.foxnews.com/us/2016/11/19/train-in-northern-india-derails-killing-at-least-24.html (Fox News)], [http://www.telegraph.co.uk/news/2016/11/20/at-least-30-killed-in-indian-train-crash/ (''The Telegraph'')], [http://in.reuters.com/article/india-train-idINKBN13F03Y (Reuters)]
+**[[Minister of Railways (India)|Minister of Railways]] [[Suresh Prabhu]] has ordered an inquiry. [http://www.hindustantimes.com/india-news/patna-indore-exp-derailed-centre-orders-enquiry-as-over-40-killed-in-tragedy/story-xUO9JeerMAg1iRbc1f2scM.html (''Hindustan Times'')]
+**Rescue efforts continue as dozens of people are still trapped in carriages. [http://edition.cnn.com/2016/11/19/asia/indian-train-derailment-kills-dozens/index.html (CNN)]
+*[[2016–17 UK and Ireland windstorm season]]
+**Storm Angus brings strong winds and heavy rain to [[southern England]] and the [[Channel Islands]]. [http://www.bbc.com/news/uk-38042596 (BBC)]
 
 ;Law and crime
 *[[2016 South Korean political scandal]]
 **An interim report by [[South Korea]]n prosecutors implicates [[President of South Korea|President]] [[Park Geun-hye]] in a political scandal involving her close friend [[Choi Soon-sil]]. Three people have been [[indictment|indicted]] in relation to the scandal. President Park cannot be indicted due to a constitutional provision preventing a sitting President being indicted except for [[treason]] or insurrection. [http://english.yonhapnews.co.kr/news/2016/11/20/0200000000AEN20161120001500315.html (Yonhap)], [http://edition.cnn.com/2016/11/20/asia/south-korea-indictment/index.html (CNN)]
+
+;Politics and elections
+*[[French presidential election, 2017]]
+**[[The Republicans (France)|The Republicans]] hold a [[The Republicans (France) presidential primary, 2016|primary election]] to select a candidate for next year's election. [http://www.bbc.com/news/world-europe-38040847 (BBC)]
+
+;Sport
+*[[Craig Reedie]] is elected for a second term as President of the [[World Anti-Doping Agency]]. [http://www.bbc.com/sport/olympics/38010490 (BBC)]
 <!-- All news items above this line -->|}
