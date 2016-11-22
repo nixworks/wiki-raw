@@ -2,9 +2,11 @@
 
 <!-- All news items below this line -->
 ;Business and economics
-*The board of [[TransAsia Airways]] decides to dissolve the company after halting flights on Tuesday. [http://www.bloomberg.com/news/articles/2016-11-22/transasia-halts-flights-for-day-without-reason-as-trading-probed (Bloomberg)]
+*The board of [[TransAsia Airways]] decides to dissolve the company after halting flights on Tuesday. [http://www.bloomberg.com/news/articles/2016-11-22/transasia-halts-flights-for-day-without-reason-as-trading-probed (Bloomberg)] [http://www.wsj.com/articles/transasia-airways-closes-down-1479799620 (''The Wall Street Journal'')] [http://www.nytimes.com/2016/11/22/business/international/transasia-crash-taiwan-shuts-down.html?_r=0 (''The New York Times'')]
+
 ;Disasters and accidents
 *[[2016 Fukushima earthquake]]
-**A tsunami warning is issued following a 6.9 magnitude earthquake off [[Japan]]'s [[Fukushima Prefecture]]. Waves measuring 1 metres have hit the shoreline. [http://www.bbc.co.uk/news/world-asia-38059371 (BBC)], [https://au.news.yahoo.com/thewest/latest/a/33285854/1m-tsunami-wave-hits-nuclear-station/#page1 (News Corp via the ''West Australian'')]
+**A tsunami warning is issued following a 6.9 magnitude earthquake off [[Japan]]'s [[Fukushima Prefecture]]. Waves measuring 1 meter have hit the shoreline. [http://www.bbc.co.uk/news/world-asia-38059371 (BBC)] [https://au.news.yahoo.com/thewest/latest/a/33285854/1m-tsunami-wave-hits-nuclear-station/#page1 (News Corp via the ''West Australian'')]
+*A 56-vehicle [[Multiple-vehicle collision|pile-up]] on the [[G5 Beijing–Kunming Expressway]] in [[China]]'s northern [[Shanxi|Shanxi province]], leaves at least 17 people dead and 37 others injured. [http://www.bbc.co.uk/news/world-asia-china-38063612 (BBC)]
 
 <!-- All news items above this line -->|}
