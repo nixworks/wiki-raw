@@ -1,5 +1,10 @@
 {{Current events header|2016|11|22}}
 
 <!-- All news items below this line -->
-*
+;Business and economics
+*The board of [[TransAsia Airways]] decides to dissolve the company after halting flights on Tuesday. [http://www.bloomberg.com/news/articles/2016-11-22/transasia-halts-flights-for-day-without-reason-as-trading-probed (Bloomberg)]
+;Disasters and accidents
+*[[2016 Fukushima earthquake]]
+**A tsunami warning is issued following a 6.9 magnitude earthquake off [[Japan]]'s [[Fukushima Prefecture]]. Waves measuring 1 metres have hit the shoreline. [http://www.bbc.co.uk/news/world-asia-38059371 (BBC)], [https://au.news.yahoo.com/thewest/latest/a/33285854/1m-tsunami-wave-hits-nuclear-station/#page1 (News Corp via the ''West Australian'')]
+
 <!-- All news items above this line -->|}
