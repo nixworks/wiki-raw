@@ -1,5 +1,12 @@
 {{Current events header|2016|11|27}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[Aleppo offensive (November 2016)]]
+**[[Syrian Armed Forces]] have captured the entire Hanano district in eastern [[Aleppo]] and are working on removing [[mine|mines]] and [[Improvised Explosive Device|improvised explosive devices]] from the district, while the rebels blame lack of hospitals for collapsing defences. [http://www.reuters.com/article/us-mideast-crisis-syria-aleppo-idUSKBN13L0KR (Reuters)]
+;Politics and elections
+*[[The Republicans (France) presidential primary, 2016]]
+**A second-round runoff takes place in [[France]] between [[François Fillon]] and [[Alain Juppé]] to decide who will be the [[The Republicans (France)|Republican]] presidential candidate in next year's [[French presidential election, 2017|presidential election]]. [http://www.reuters.com/article/us-france-election-idUSKBN13M001?feedType=RSS&feedName=newsOne (Reuters)]
+*[[Swiss referendums, 2016]]
+**[[Switzerland]] votes on whether to ban [[nuclear energy]]. [http://www.bbc.co.uk/news/world-europe-38097478 (BBC)]
 <!-- All news items above this line -->|}
