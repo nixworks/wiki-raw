@@ -1,5 +1,15 @@
 {{Current events header|2016|11|30}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[November 2016 Butig clash]]
+**More than 12,000 residents flee homes as conflict in [[Lanao del Sur]] town drags. [http://www.inquirer.net/news (''Philippine Daily Inquirer'')]
+
+;Politics and elections
+*[[Haitian presidential election, November 2016|Haitian presidential election, round 2]]
+**[[Jude Célestin]], [[Jean-Charles Moïse]] and [[Maryse Narcisse]] vow to contest the election after violent riots spread in the Haitian capital [[Port-au-Prince]]. [http://www.cbc.ca/beta/news/world/haiti-election-aftermath-1.3873549 (CBC)]
+*[[Presidential transition of Donald Trump]]
+**President-elect [[Donald J. Trump]] announces that his team has made a deal with [[Carrier Corporation]] that would save around 1,000 jobs at an [[Indianapolis]] factory. [http://www.nytimes.com/2016/11/29/business/trump-to-announce-carrier-plant-will-keep-jobs-in-us.html?_r=0 (''The New York Times'')]
+*[[2016 United States presidential election recount and audit|Rust Belt recounts]]
+**The series of planned [[Rust Belt]] recounts by the campaigns of [[Jill Stein]] and [[Hillary Clinton]] continues onto [[Michigan]]. [http://www.npr.org/2016/11/28/503624804/trump-officially-wins-michigan-as-possible-recount-looms (NPR)]
 <!-- All news items above this line -->|}
