@@ -5,8 +5,8 @@
 *[[Ethnic violence in South Sudan (2011–present)]]
 **A [[United Nations]] human rights commission in [[South Sudan]] claims a "steady process of ethnic cleansing is underway" in the war-torn nation. [http://www.aljazeera.com/news/2016/12/ethnic-cleansing-south-sudan-161201042114805.html (Al Jazeera)]
 *[[Iraqi Civil War (2014–present)]]
-**At least 15 children are killed by an insurgent sniper in Mosul. [http://www.iraqinews.com/iraq-war/isis-snipers-killed-15-children-migrants-mosul/ (Iraqi News)] 
-**In al-Bakr district, Mosul, a mortar shell kills at least three people and wounded another three. [http://www.iraqinews.com/iraq-war/3-civilians-dead-isis-mortar-shells-mosul-district/ (Iraqi News)]
+**At least 15 children are killed by ISIS snipers in Mosul. [http://www.iraqinews.com/iraq-war/isis-snipers-killed-15-children-migrants-mosul/ (Iraqi News)] 
+**In al-Bakr district, Mosul, an ISIS mortar shell kills at least three people and wounded another three. [http://www.iraqinews.com/iraq-war/3-civilians-dead-isis-mortar-shells-mosul-district/ (Iraqi News)]
 **Four bombs kill two people and injured another seven in Sha'ab, a neighbourhood of Baghdad. [http://www.iraqinews.com/iraq-war/blasts-near-baghdad-leaves-nine-casualties/ (Iraqi News)]
 
 ;Disasters and accidents
@@ -19,7 +19,7 @@
 *[[Israeli–Palestinian conflict]]
 **The [[Israel]]i [[Ministry of Transport and Road Safety|Ministry of Transportation]] orders a bus company in [[Beersheba]] to remove [[Arabic]]-language advertisements on their buses following complaints from several Jewish residents. [http://www.aljazeera.com/news/2016/12/palestinians-israel-decry-removal-arabic-buses-161201081012977.html (Al Jazeera)]
 *[[Iran–United States relations]]
-**The [[United States Senate]] votes 99-0 in favor of a ten-year extension of the [[Iran and Libya Sanctions Act]], the measure will now be sent to President [[Barack Obama]] to sign into law. The act was due to expire on December 31, 2016, if not renewed. [http://www.reuters.com/article/us-iran-nuclear-usa-sanctions-idUSKBN13Q5JW (Reuters)]
+**The [[United States Senate]] votes 99-0 in favor of a ten-year extension of the [[Iran and Libya Sanctions Act|Iran Sanctions Act]], the measure will now be sent to President [[Barack Obama]] to sign into law. The act was due to expire on December 31, 2016, if not renewed. [http://www.reuters.com/article/us-iran-nuclear-usa-sanctions-idUSKBN13Q5JW (Reuters)]
 
 ;Law and crime
 *Six members of one family, including three children, are found dead in [[Böheimkirchen]], [[Austria]]. Police suspect a murder-suicide by one of the female relatives. [http://www.bbc.com/news/world-europe-38172365 (BBC News)]
@@ -36,4 +36,7 @@
 **[[François Hollande]], the [[President of France]], announces that he will not run in next year's presidential election. This leaves the selection of a candidate for the [[French Socialist Party]] wide open. [https://www.theguardian.com/world/2016/dec/01/francois-hollande-not-seek-second-term-president-france (''The Guardian'')]
 *[[Presidential transition of Donald Trump]]
 **President-elect [[Donald Trump]] names retired [[United States Marine Corps]] general [[James Mattis]] as [[United States Secretary of Defense]]. [http://www.usatoday.com/story/news/politics/2016/12/01/trump-picks-mattis-defense-secretary/94608474/ (USA Today)]
+
+;Science and technology
+*[[Roscosmos State Corporation|Roscosmos]] cargo spacecraft [[Progress MS-04]] fails to dock with the [[International Space Station]] after experiencing a rocket failure. The spacecraft is believed to have mainly burnt up in the atmosphere. [http://www.euronews.com/2016/12/01/roscosmos-have-lost-contact-with-the-progress-65p-cargo-ship-for-iss-launched (Euronews)]
 <!-- All news items above this line -->|}
