@@ -1,7 +1,22 @@
 {{Current events header|2016|12|7}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+* [[Syrian Civil War]]
+** [[Battle of Aleppo (2012–present)]], [[Aleppo offensive (November–December 2016)]]
+*** Syrian rebels withdraw from the old city of [[Aleppo]]. [http://www.bbc.com/news/world-middle-east-38233962 (BBC)]
+** [[Turkish involvement in the Syrian Civil War]]
+*** Turkish fighter jets strike 12 [[Islamic State of Iraq and the Levant]] targets in [[Al-Bab District|Al-Bab]], [[Syria]] killing at least 23 militants. [http://www.reuters.com/article/us-mideast-crisis-syria-turkey-idUSKBN13W0XQ (Reuters)]
+;Business and economy
+*[[Carrier Corporation]]
+**Union leader Chuck Jones criticized Donald Trump's announcement of kept jobs saying that the numbers mentioned are lower. Jones says that 550 workers would actually lose their livelihoods, while other workers were never scheduled to leave. [http://www.msn.com/en-us/news/politics/%e2%80%98he-got-up-there-and-lied-his-a%e2%80%93-off-carrier-union-leader-on-trump%e2%80%99s-big-deal/ar-AAldQLA?li=BBnb7Kz&ocid=iehp (Washington Post via MSN)]
 ;Disasters and accidents
 *[[2016 Aceh earthquake]]
-**At least 25 people are killed following a 6.4 [[Moment magnitude scale|magnitude]] earthquake in [[Indonesia]]'s [[Aceh]] region. Hundreds of people are injured and several buildings have collapsed.  [http://www.bbc.com/news/world-asia-38232611 (BBC)], [http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_EARTHQUAKE_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
+**At least 96 people are killed following a 6.4 [[Moment magnitude scale|magnitude]] earthquake in [[Indonesia]]'s [[Aceh]] region. Hundreds of people are injured and several buildings have collapsed.  [http://www.bbc.com/news/world-asia-38232611 (BBC)], [http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_EARTHQUAKE_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)], [http://www.usatoday.com/story/news/2016/12/06/strong-earthquake-hits-off-sumatra/95061976/ (USA Today)]
+*[[Pakistan International Airlines Flight 661]]
+**A Pakistan International Airlines aircraft carrying more than 40 people crashes shortly after taking off from [[Chitral]], [[Pakistan]]. [http://www.bbc.co.uk/news/world-asia-38238699 (BBC)], [http://www.reuters.com/article/us-pakistan-airplane-idUSKBN13W1F5 (Reuters)]
+
+;Politics and elections 
+*[[Ghanaian general election, 2016]]
+**[[Ghanaians]] elect a new president. [http://www.aljazeera.com/news/2016/12/ghana-polls-closely-fought-election-161207065134193.html (''Al-Jazeera'')]
 <!-- All news items above this line -->|}
