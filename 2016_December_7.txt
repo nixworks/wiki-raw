@@ -1,5 +1,7 @@
 {{Current events header|2016|12|7}}
 
 <!-- All news items below this line -->
-*
+;Disasters and accidents
+*[[2016 Aceh earthquake]]
+**At least 25 people are killed following a 6.4 [[Moment magnitude scale|magnitude]] earthquake in [[Indonesia]]'s [[Aceh]] region. Hundreds of people are injured and several buildings have collapsed.  [http://www.bbc.com/news/world-asia-38232611 (BBC)], [http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_EARTHQUAKE_THE_LATEST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
 <!-- All news items above this line -->|}
