@@ -1,5 +1,12 @@
 {{Current events header|2016|12|8}}
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[New Zealand National Party leadership election, 2016]]
+**[[Australian Associated Press]] reports that [[Bill English]] has secured the support of a majority of members of the [[New Zealand National Party]] to succeed [[John Key]] as the [[Prime Minister of New Zealand]]. [http://www.skynews.com.au/news/top-stories/2016/12/08/bill-english-set-to-become-next-nz-pm.html (AAP via Sky News Australia)]
+*[[Impeachment process against Park Geun-hye]]
+**A bill is introduced into the [[National Assembly (South Korea)|South Korean National Assembly]] to impeach [[President of South Korea|President]] [[Park Geun-hye]]. A vote is expected tomorrow. [http://www.reuters.com/article/us-southkorea-politics-idUSKBN13X0DF (Reuters)]
+
+;Science and technology 
+*American astronaut  [[John Glenn]] is hospitalized in critical condition. [http://www.space.com/34947-former-astronaut-john-glenn-hospitalized.html (''Space'')]
 <!-- All news items above this line -->|}
