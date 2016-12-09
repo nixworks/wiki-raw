@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[War in Donbass]]
-**As of December 1st, the total death toll for the war stands at 9,758 people according to a [[United Nations]] report released today. [http://www.un.org.ua/en/information-centre/news/4001-civilians-in-ukraine-continue-to-suffer-un-report (United Nations)]
+**As of December 1, the total death toll for the war stands at an estimated 9,758 people according to a [[United Nations]] report released today. [http://www.un.org.ua/en/information-centre/news/4001-civilians-in-ukraine-continue-to-suffer-un-report (United Nations)]
 
 ;Disasters and accidents
 *[[2016 Aceh earthquake]]
@@ -20,5 +20,5 @@
 **A bill is introduced into the [[National Assembly (South Korea)|South Korean National Assembly]] to impeach [[President of South Korea|President]] [[Park Geun-hye]]. A vote is expected tomorrow. [http://www.reuters.com/article/us-southkorea-politics-idUSKBN13X0DF (Reuters)]
 
 ;Science and technology 
-*American astronaut  [[John Glenn]] is hospitalized in critical condition. [http://www.space.com/34947-former-astronaut-john-glenn-hospitalized.html (''Space'')]
+*American astronaut  [[John Glenn]] dies at the age of 95. [http://www.space.com/34947-former-astronaut-john-glenn-hospitalized.html (''Space'')]
 <!-- All news items above this line -->|}
