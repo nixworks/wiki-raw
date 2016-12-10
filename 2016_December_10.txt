@@ -1,7 +1,28 @@
 {{Current events header|2016|12|10}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Syrian Civil War]]
+**The [[Syrian Observatory for Human Rights|SOHR]] and [[Amaq News Agency|Amaq]] announce that [[Islamic State of Iraq and the Levant|ISIL]] has captured an oil field north-west of [[Palmyra]]. [http://www.standaard.be/cnt/dmf20161210_02619148 (''De Standaard'')] [http://www.voanews.com/a/surprise-attack-is-fights-retake-ancient-palmyra/3630304.html (VOA)]
+**[[American-led intervention in Syria]], [[Northern Raqqa offensive (November–December 2016)]]
+***The [[United States]] announces that it will deploy an additional 200 troops to help force the [[Islamic State of Iraq and the Levant]] from [[Al-Raqqah]]. [http://www.reuters.com/article/us-mideast-crisis-syria-carter-idUSKBN13Z051 (Reuters)], [http://www.bbc.com/news/world-middle-east-38274191 (BBC)], [http://abcnews.go.com/International/200-us-troops-headed-syria-ash-carter/story?id=44103634 (ABC News)]
+
+;Arts and culture 
+*[[2016 Nobel Peace Prize]]
+**[[Colombia]]n president [[Juan Manuel Santos]] receives his award in [[Oslo]], [[Norway]]. [http://www.aljazeera.com/news/2016/12/colombia-santos-nobel-peace-prize-161210103337776.html (''Al-Jazeera'')]
+
+;Business and economy 
+*[[China]] opposes any new sanctions against [[North Korea]] during a meeting in the [[United Nations Security Council]]. [http://www.nytimes.com/aponline/2016/12/10/world/asia/ap-as-china-nkorea.html (''The New York Times'')]
+
 ;Disasters and accidents
 *[[2016 Aceh earthquake]]
 **At least 43,000 have been displaced by Wednesday's earthquake in the [[Indonesia]]n province of [[Aceh]]. [http://www.telegraph.co.uk/news/2016/12/10/least-43000-homeless-deadly-indonesia-quake/ (''Daily Telegraph'')]
+*[[Hitrino train explosion]]
+**At least 5 people have been killed and 25 others are injured after an explosion caused by the derailment of a train carrying [[propane]] and [[butane]] in the [[Bulgaria]]n village of [[Hitrino]], near [[Shumen]]. [http://www.bbc.com/news/world-europe-38274342 (BBC News)] [http://www.independent.ie/world-news/europe/residents-evacuated-and-at-least-four-killed-as-propanebutane-train-derails-and-explodes-35283328.html (Independent Ireland)] [http://www.reuters.com/article/us-bulgaria-expolosion-idUSKBN13Z05T?il=0 (Reuters) ] [http://www.nytimes.com/aponline/2016/12/10/world/europe/ap-eu-bulgaria-explosion.html (The New York Times)]
+
+;Politics and elections
+*Aftermath of the [[Gambian presidential election, 2016]]
+**[[The Gambia|Gambian]] [[Military of the Gambia|security forces]] are deployed on the streets of the capital [[Banjul]], following [[President of the Gambia|President]] [[Yahya Jammeh]]'s rejection of last weeks presidential election result. [https://www.theguardian.com/world/2016/dec/10/the-gambia-troops-deployed-to-streets-as-president-rejects-election-defeat (''The Guardian'')]
+*[[Human Rights Day]]
+**The leftist demonstrators calls for President [[Rodrigo Duterte]] to deal with the alleged extrajudicial killings linked to [[Philippine Drug War|his drug war]], protests against continued military operations on communist rebels despite a unilateral ceasefire by the government, and the [[Burial of Ferdinand Marcos|burial of Ferdinand Marcos]] in the [[Heroes' Cemetery]]. An effigy of Marcos was made as a centerpiece of the protest which protesters says also represents Duterte's "authoritorian tendencies". [http://www.rappler.com/move-ph/155140-left-burn-effigy-duterte-authoritarian-tendencies (''Rappler'')]
 <!-- All news items above this line -->|}
