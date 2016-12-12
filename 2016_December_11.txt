@@ -2,6 +2,8 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
+*[[Iraqi Civil War (2014–present)]]
+**Two car bombings kill at least eight people in Fallujah. [http://www.reuters.com/article/us-mideast-crisis-iraq-falluja-idUSKBN1400WH?il=0 (Reuters)]
 *[[War in Somalia (2009–present)]]
 **[[December 2016 Mogadishu suicide bombing]]
 ***A [[suicide bomber]] kills at least 29 people and injures 50 others in an attack on a police station near [[Mogadishu]]'s port. [http://hosted.ap.org/dynamic/stories/A/AF_SOMALIA_BLAST?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
@@ -15,13 +17,14 @@
 *[[Syrian Civil War]]
 **[[Palmyra offensive (December 2016)]]
 ***[[Islamic State of Iraq and the Levant|ISIL]] recaptures the [[Syria]]n city of [[Palmyra]] despite heavy [[Russian Air Force|Russian]] airstrikes, according to the [[Syrian Observatory for Human Rights]] and Palmyra Coordination Committee (PCC). [http://www.independent.co.uk/news/world/middle-east/isis-pulls-out-of-ancient-palmyra-after-heavy-russian-bombing-a7467996.html (''The Independent'')]
-*Three people are killed in two suicide bombing attacks in [[Maiduguri]], [[Nigeria]]. [http://www.reuters.com/article/us-nigeria-security-idUSKBN1400RK?il=0 (Reuters)]
+*At least three people are killed in two suicide bombing attacks in [[Maiduguri]], [[Nigeria]]. [http://www.reuters.com/article/us-nigeria-security-idUSKBN1400RK?il=0 (Reuters)]
 
 ;Arts and culture 
 *[[Patti Smith]] performs in place of  [[Bob Dylan]] in the [[Nobel Prize for Literature]] ceremony. [https://www.theguardian.com/music/2016/dec/10/patti-smith-falters-in-stockholm-tribute-to-an-absent-bob-dylan (''The Guardian'')]
 
 ;Business and economy 
 *Non-[[Organization of Petroleum Exporting Countries]] agree to cut [[oil output]] which will help increase the price of [[petroleum]] products in the world market. [http://www.bbc.co.uk/news/business-38276667 (BBC)]
+*[[Iran Air]] finalises a deal with U.S. aircraft manufacturer [[Boeing]] to purchase 80 jetliners for $16.6 billion. [http://abcnews.go.com/International/wireStory/iran-finalized-166b-boeing-deal-buy-80-planes-44120981 (AP via ABC News America)]
 
 ;Disasters and accidents
 *[[2016 Naivasha oil tanker explosion]]
@@ -29,13 +32,17 @@
 *[[Uyo church collapse]]
 **The death toll from yesterday's church collapse in [[Uyo]], [[Nigeria]], rises to 160 with the death toll expected to rise further. [http://www.abc.net.au/news/2016-12-11/nigeria-church-collapse/8110692 (AP/Reuters via ABC News Australia)]
 
+;International relations 
+*[[United States presidential election, 2016]]
+**[[Republican Party (United States)|Republican]] [[campaign manager]] [[Kellyanne Conway]] dismisses allegations of [[Russia]]n interference in the 2016 U.S. presidential election, calling the claims "laughable and ridiculous".  [https://www.washingtonpost.com/news/the-fix/wp/2016/12/11/kellyanne-conway-calls-cia-report-on-russian-election-meddling-laughable-and-ridiculous/ (''The Washington Post'')]
+
 ;Politics and elections 
 *[[Kyrgyzstani constitutional referendum, 2016]]
 **[[Kyrgyzstan]]i voters vote for a new [[Constitution of Kyrgyzstan|constitution]]. [http://abcnews.go.com/International/wireStory/kyrgyzstan-votes-constitutional-amid-instability-44115355 (ABC News Go)]
 *[[Macedonian parliamentary election, 2016]]
 **[[Republic of Macedonia| Macedonia]]n voters elect a new [[Parliament of Macedonia|parliament]]. [http://www.reuters.com/article/us-macedonia-election-idUSKBN13Z0T9 (Reuters)]
 *[[Romanian legislative election, 2016]]
-**[[Romanians]] head to the polls in the country's parliamentary elections. [https://www.washingtonpost.com/world/europe/romania-pms-tieless-look-talking-point-in-electoral-race/2016/12/10/dca21054-bef2-11e6-ae79-bec72d34f8c9_story.html (''The Washington Post'')]
+**[[Romanians]] head to the polls in the country's parliamentary elections. Exit polls show the [[Social Democratic Party (Romania)|Social Democratic Party]] winning by a wide margin.  [https://www.washingtonpost.com/world/europe/romania-pms-tieless-look-talking-point-in-electoral-race/2016/12/10/dca21054-bef2-11e6-ae79-bec72d34f8c9_story.html (''The Washington Post'')], [http://www.dailymail.co.uk/wires/reuters/article-4021964/Leftists-hope-comeback-Romanians-vote.html (Reuters via ''Daily Mail'')]
 *[[Italian constitutional referendum, 2016]]
 **[[Paolo Gentiloni]] becomes the new [[Prime Minister of Italy|Prime Minister]] of [[Italy]]. [http://www.bbc.com/news/world-europe-38281643 (BBC)]
 *[[Gambian presidential election, 2016]]
