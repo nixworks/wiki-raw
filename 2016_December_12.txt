@@ -1,16 +1,35 @@
 {{Current events header|2016|12|12}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[December 2016 Istanbul bombings]]
+**The death toll from the bombings in [[Beşiktaş]], [[Istanbul]], rises to at least 44, according to [[Ministry of Health (Turkey)|Health Minister]] [[Recep Akdağ]]. [http://aa.com.tr/en/todays-headlines/death-toll-in-istanbul-terror-attack-rises-to-44/703825 (''Anadolu Agency'')]
+
 ;Business and economy 
-*[[Boeing]] seals a deal with [[Iran]] worth [[United States dollar|US$]]17 billion of [[aircraft]]. [http://www.wsj.com/articles/boeing-seals-nearly-17-billion-iran-deal-1481507413 (''The Wall Street Journal'')]
+*[[Venezuela]] swaps its [[Venezuelan bolivar|bolivar]] notes with coins in order to curb [[hyperinflation]]. [http://www.bbc.com/news/world-latin-america-38284485 (BBC)]
 
 ;Disasters and accidents
 *[[2016 North Indian Ocean cyclone season]]
 **Tropical Cyclone Vardah is expected to make landfall in southern [[India]] today bringing heavy rain to the city of [[Chennai]] in [[Tamil Nadu]] as well as [[Andhra Pradesh]]. [http://edition.cnn.com/2016/12/11/asia/tropical-cyclone-vardah/index.html (CNN)]
 
+;International relations 
+*[[One-China policy]], [[China–United States relations]]
+**[[President-elect of the United States|President-elect]] [[Donald Trump]] says he sees no reason why the [[United States|U.S.]] should continue to abide by the One China policy unless a bargain is reached with Beijing involving trade. [https://www.theguardian.com/us-news/2016/dec/12/donald-trump-questions-us-commitment-to-one-china-policy (''The Guardian'')]
+*[[Cuba–European Union relations]]
+**[[Cuba]] and the [[European Union]] sign an accord in [[Brussels]] to normalize relations, formally ending the Common Position which was adopted by the [[Council of the European Union]] in 1996. [https://www.yahoo.com/news/eu-cuba-sign-accord-normalise-relations-090825474.html (AFP via Yahoo!)]
+
+;Law and crime
+*[[Pakistan]] appoints a new head for its spy agency. [http://www.seattletimes.com/nation-world/pakistan-appoints-new-spy-agency-chief-in-military-reshuffle/ (''The Seattle Times'')]
+
 ;Politics and elections 
 *[[Presidential transition of Donald Trump]]
 **[[Donald Trump]] is to name his [[Secretary of State]] which is expected to be  [[Rex Tillerson]] of [[ExxonMobil]]. [http://www.nbcnews.com/politics/2016-election/rex-tillerson-exxon-mobil-expected-be-named-trump-s-secretary-n694371 (NBC News)]
+*[[2016 United States presidential election recounts]]
+**[[Jill Stein]]'s bid to force a recount of the presidential election results in the state of Pennsylvania is rejected by a federal judge. [http://www.usatoday.com/story/news/politics/elections/2016/12/12/pennsylvania-recount-request-green-party/95328846/ (USA Today)]
 *[[New Zealand National Party leadership election, 2016]]
 **[[Bill English]] is elected as the leader of the [[New Zealand National Party]] and therefore as the [[Prime Minister of New Zealand|Prime Minister]]. [[Paula Bennett]] is elected as English's deputy. [http://www.smh.com.au/world/bill-english-is-nzs-new-prime-minister-paula-bennett-new-deputy-20161211-gt8wmf.html (''Sydney Morning Herald'')]
+*[[Gambian presidential election, 2016]]
+**The  president of [[Senegal]] urges [[The Gambia]]'s fallen dictator [[Yahya Jammeh]] to respect the result of the polls. [http://www.foxnews.com/world/2016/12/11/senegal-president-joins-calls-to-respect-gambia-vote-results.html (Fox News)]
+*[[Romanian legislative election, 2016]]
+**Being forced into opposition a year earlier, by the resignation of [[Prime Minister of Romania|Prime Minister]] [[Victor Ponta]] amid the [[Colectiv nightclub fire]] tragedy, the [[Social Democratic Party  (Romania)|Social Democratic Party]] returns to government following a landslide victory in last Sunday's parliamentary elections. [http://www.nytimes.com/2016/12/11/world/europe/romania-election-social-democratic-party-psd.html (''The New York Times'')]
 <!-- All news items above this line -->|}
