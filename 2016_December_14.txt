@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Aleppo offensive (November–December 2016)]]
-**Shelling disrupts the ceasefire in [[Aleppo]] causing disruption to the evacuation of civilians. [http://edition.cnn.com/2016/12/14/middleeast/aleppo-syria-government-gains/index.html (CNN)] [https://www.thestar.com/news/world/2016/12/14/aleppo-ceasefire-collapses-as-syrian-fighter-jets-resume-deadly-raids.html (The Star via Reuters)] [https://1newsphilippines.com/2016/10/21/the-latest-un-syrian-standoff-stalls-aleppo-evacuations/ (The Phillipines)]
+**Shelling disrupts the ceasefire in [[Aleppo]] causing disruption to the evacuation of rebels and civilians. [http://edition.cnn.com/2016/12/14/middleeast/aleppo-syria-government-gains/index.html (CNN)] [https://www.thestar.com/news/world/2016/12/14/aleppo-ceasefire-collapses-as-syrian-fighter-jets-resume-deadly-raids.html (The Star via Reuters)]
 **Fighting resumes in Aleppo after the ceasefire collapses. [http://www.bbc.com/news/world-middle-east-38314291 (BBC)]
 *[[Military intervention against ISIL]]
 ** An airstrike in [[Al-Raqqa]] kills 4 [[Islamic State of Iraq and the Levant|ISIS]] leaders, two of which were confirmed to have roles in the [[November 2015 Paris Attacks]]. [http://www.msn.com/en-us/news/world/isil-leaders-involved-in-paris-attack-killed-in-syria/ar-AAlwgFG?OCID=ansmsnnews11 (USA via MSN)]
@@ -11,6 +11,10 @@
 ;Business and economy
 *[[Merger]] talks between two giant [[Denmark]] headquartered oil and gas corporations have reached an impasse over [[valuation (finance)|valuation]], it is thought [[DONG Energy]] may look to other suitors than [[Maersk]]. [http://www.reuters.com/article/us-dong-m-a-maersk-exclusive-idUSKBN14311L (Reuters)] 
 *The [[Federal Reserve System]] raises the benchmark interest rate in the [[United States]] to a level between 0.5 and 0.75%. This is the second time in a decade that the Federal Reserve has increased interest rates. [http://www.nytimes.com/2016/12/14/business/economy/fed-interest-rates-janet-yellen.html?emc=edit_na_20161214&nlid=66213151&ref=cta (''New York Times'')]
+
+;International relations
+*[[Spratly Islands dispute]]
+**Satellite images show anti-aircraft guns and missile defence systems being built on artificial islands in the [[South China Sea]]; [[China]] had previously committed to not militarising its controversial developments in the region. [http://www.bbc.com/news/world-asia-38319253 (BBC News)]
 
 ;Law and crime
 *[[Yahoo! data breach]]
