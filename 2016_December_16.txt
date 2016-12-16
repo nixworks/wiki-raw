@@ -1,5 +1,14 @@
 {{Current events header|2016|12|16}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+* [[Aleppo offensive (November–December 2016)]]
+** Evacuations following the failed ceasefire are once again disrupted by the Syrian forces for reasons withheld. An estimate of 8000 people, mostly civilians, successfully fled the remains of the city. [http://www.nytimes.com/2016/12/16/world/middleeast/aleppo-evacuation-assad-syria.html?ref=world (''The New York Times'')]
+
+;International relations
+*[[Israel–United States relations]]
+**President-elect [[Donald Trump]] nominates  bankruptcy lawyer [[David Friedman (lawyer)|David Friedman]] as the next [[United States Ambassador to Israel]]. [http://edition.cnn.com/2016/12/15/politics/trump-picks-campaign-adviser-friedman-as-us-ambassador-to-israel/index.html (CNN)]
+
+;Law and crime
+*A riot breaks out inside the [[G4S]]-run [[HM Prison Birmingham]] in [[Winson Green]], [[Birmingham]], England. At least one inmate has been badly injured. [https://www.theguardian.com/society/2016/dec/16/hmp-birmingham-prison-disturbance-winson-green (''The Guardian'')] 
 <!-- All news items above this line -->|}
