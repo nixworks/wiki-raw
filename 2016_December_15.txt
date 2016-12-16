@@ -1,5 +1,18 @@
 {{Current events header|2016|12|15}}
 
 <!-- All news items below this line -->
-*
+;International relations
+*[[War in Donbass]]
+**The [[European Union]]  extends its main [[Ukraine]]-related economic  sanctions against [[Russia]] for six months until mid-2017. [http://www.reuters.com/article/us-ukraine-crisis-eu-sanctions-idUSKBN144289 (Reuters)]
+
+;Law and crime
+*[[Charleston church shooting]]
+**[[Dylann Roof]] is convicted of the racially motivated murder of nine black churchgoers in the US city of [[Charleston, South Carolina]]. [http://nypost.com/2016/12/15/dylann-roof-convicted-in-racially-motivated-church-massacre/?utm_source=maropost&utm_medium=email&utm_campaign=news_alert&utm_content=20161215 (''New York Post'')]
+
+;Politics and elections
+*[[Romanian legislative election, 2016]]
+**Romania's [[Social Democratic Party (Romania)|Social Democrat Party]] won 45 percent of the seats in both houses of parliament  in Sunday's election, and with the expected participation of the [[Alliance of Liberals and Democrats (Romania)|Alliance of Liberals and Democrats Party]] in the coalition government, will hold an outright majority of 250 seats in the 465-seat assembly. [http://in.reuters.com/article/romania-election-parliament-idINR5N18K008 (Reuters)]  [http://www.romania-insider.com/social-democrats-get-221-465-seats-romanias-new-parliament/ (Romania-Insider.com)]
+
+;Science and technology
+*A [[Pegasus (rocket)|Pegasus]] rocket successfully deploys the [[Cyclone Global Navigation Satellite System|CYGNSS]] hurricane observation satellite constellation for [[National Aeronautics and Space Administration|NASA]]. [https://www.nasa.gov/cygnss (NASA)] [http://spaceflight101.com/pegasus-xl-cygnss-launch-success (SpaceFlight 101)]
 <!-- All news items above this line -->|}
