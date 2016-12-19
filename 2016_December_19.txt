@@ -1,7 +1,26 @@
 {{Current events header|2016|12|19}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+* [[Aleppo offensive (November–December 2016)]]
+** At least 100 [[American-led intervention in Syria|U.S.-led coalition]] advisers were allowed to leave Aleppo.[https://southfront.org/new-data-more-than-100-us-uk-israeli-french-turkish-advisers-were-allowed-to-leave-aleppo/ (South Front)]
+* [[War in Donbass]]
+** [[Ukrainian Army]] launched a series of attacks near the villages of Logvinovo and Kalinovka.[https://southfront.org/ukrainian-army-advancing-against-people-republics-militias-in-donbass-region/ (South Front)]
+**The Ukrainian military says it has repulsed an offensive by pro-Russian rebels near [[Debaltseve]]. Five Ukrainian and 25 pro-Russian rebels are reportedly killed. [http://www.bbc.com/news/world-europe-38366712 (BBC)]
+
+;Business and economy 
+*[[Australia]] suffers a sovereign [[credit rating]] downgrade due to [[budget deficit]]s. [https://www.ft.com/content/40a809fc-c59f-11e6-8f29-9445cac8966f (''Financial Times'')]
+*Regulators in the [[European Union]] initiate a "public consultation" on [[Big Data]] looking at whether more regulation or supervision of the collection of high volumes of information on individuals is appropriate. [http://www.reuters.com/article/us-eu-regulations-big-data-idUSKBN14816Y (Reuters)]
+*A court in [[Paris]] finds [[Christine Lagarde]] guilty of negligence in a "misuse of public funds" case. [http://www.nytimes.com/2016/12/19/business/imf-trial-christine-lagarde-france-verdict.html?_r=0 (''New York Times'')]
+
+;Disasters and accidents
+*Companies shut down production in [[Beijing]] and cars are taken off the road after a red alert for smog is issued in [[northern China]]. Dozens of cities have closed schools due to the smog. [http://hosted.ap.org/dynamic/stories/A/AS_CHINA_POLLUTION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
+
+;Law and crime 
+*[[Poland|Polish]] protesters block the [[Parliament of Poland|parliament]] in order to prevent the possibility of legalizing restrictions on [[Media in Poland|press freedom]]. [https://www.washingtonpost.com/news/monkey-cage/wp/2016/12/19/why-are-there-protests-in-poland-here-are-the-five-things-you-need-to-know/ (''The Washington Post'')]
+
 ;Politics and elections
 *[[United States presidential election, 2016]]
 **The [[Electoral College (United States)|Electoral College]] meets to select the next [[President of the United States]] with [[Donald Trump]] highly likely to be selected as the next [[President of the United States]] despite a concerted last minute effort to persuade electors to choose another candidate. [http://www.telegraph.co.uk/news/2016/12/19/thousands-send-letters-death-threats-pressure-electoral-college/ (''The Telegraph'')]
+*Protesters mass in the [[Democratic Republic of the Congo]] capital [[Kinshasa]] in an attempt to re-introduce democracy into the country. [http://www.reuters.com/article/us-congo-politics-idUSKBN14800C (Reuters)]
 <!-- All news items above this line -->|}
