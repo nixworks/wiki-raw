@@ -1,6 +1,12 @@
 {{Current events header|2016|12|20}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Assassination of Andrei Karlov]]
+**Six people are arrested in [[Ankara]] for alleged involvement in the murder of [[Andrei Karlov]], the [[Russia]]n ambassador to [[Turkey]]. [http://www.abc.net.au/news/2016-12-20/turkish-police-detain-six-after-russian-ambassador-shot-dead/8136774 (Reuters via ABC News Australia)]
+*[[Aleppo offensive (November–December 2016)]]
+**The [[International Committee of the Red Cross]] claims that 25,000 refugees have been evacuated from [[Aleppo]] as militant group [[Hezbollah]] warns remaining residents in the former rebel enclave to leave "as quickly as possible". [http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-12-20-ML-Syria-Russia-Turkey-The-Latest/id-f6c46050b54f4636ade8432500f75565 (AP)]
+
 ;International relations
 *The [[People's Republic of China]] returns a [[United States]] unmanned underwater drone that it seized in the [[South China Sea]] last week. [http://edition.cnn.com/2016/12/20/politics/china-drone-return/index.html (CNN)]
 <!-- All news items above this line -->|}
