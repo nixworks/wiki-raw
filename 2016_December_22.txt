@@ -1,5 +1,7 @@
 {{Current events header|2016|12|22}}
 
 <!-- All news items below this line -->
-*
+;Arts and culture 
+*[[United States presidential election, 2016]]
+**[[Hillary Clinton]] officially wins the [[Popular vote|popular vote]], propelled largely by wins in [[California]] and [[New York City]], despite losing the [[electoral college]]. [http://www.cnn.com/2016/12/21/politics/donald-trump-hillary-clinton-popular-vote-final-count/index.html (CNN)]
 <!-- All news items above this line -->|}
