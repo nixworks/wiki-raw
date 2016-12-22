@@ -1,9 +1,6 @@
 {{Current events header|2016|12|20}}
 
 <!-- All news items below this line -->
-;Arts and culture 
-*[[Tupac Shakur]], [[Joan Baez]], and most of the members of [[Pearl Jam]] are to receive honors in the [[Rock and Roll Hall of Fame]]. [http://www.nytimes.com/2016/12/20/arts/music/rock-roll-hall-fame-inductees-2017.html (''The New York Times'')]
-
 ;Armed conflicts and attacks
 *[[Assassination of Andrei Karlov]]
 **Six people are arrested in [[Ankara]] for alleged involvement in the murder of [[Andrei Karlov]], the [[Russia]]n ambassador to [[Turkey]]. [http://www.abc.net.au/news/2016-12-20/turkish-police-detain-six-after-russian-ambassador-shot-dead/8136774 (Reuters via ABC News Australia)]
@@ -13,6 +10,9 @@
 **The [[Islamic State of Iraq and the Levant]] claims responsibility via [[Amaq News Agency]] for the truck attack in [[Berlin]], [[Germany]], which left at least 12 people dead and 49 injured. [http://www.bbc.co.uk/news/world-europe-38385961 (BBC)]
 *Four police officers and one suspect have been killed following a raid on an apartment near [[Al-Karak]] in [[Jordan]]. Two more suspects have been arrested under suspicions of connections with [[2016 Al-Karak attack|Sunday's attack in the city]] by the [[Islamic State of Iraq and the Levant|Islamic State]]. [http://www.aljazeera.com/news/2016/12/renewed-violence-reported-jordan-karak-161220142108793.html (Al Jazeera)]
 *Clashes between security forces and anti-government protesters demanding the resignation of [[President of the Democratic Republic of the Congo|President]] [[Joseph Kabila]] reportedly leave more than 20 people dead in the [[Democratic Republic of the Congo]]. [http://www.bbc.co.uk/news/world-africa-38377478 (BBC)]
+
+;Arts and culture 
+*[[Tupac Shakur]], [[Joan Baez]], and most of the members of [[Pearl Jam]] are to receive honors in the [[Rock and Roll Hall of Fame]]. [http://www.nytimes.com/2016/12/20/arts/music/rock-roll-hall-fame-inductees-2017.html (''The New York Times'')]
 
 ;Disasters and accidents
 *[[2016 San Pablito Market fireworks explosion]]
@@ -29,6 +29,6 @@
 *[[Indonesia]] arrests hundreds  of protesters in [[Indonesian Papua]]. [http://www.telesurtv.net/english/news/More-Than-500-Arrested-in-West-Papuan-Independence-Protests--20161220-0008.html (teleSur)]
 
 ;Science and technology 
-*U.S. President [[Barack Obama]] bans offshore [[oil drilling]] in the [[Arctic Ocean]] and off the [[Atlantic Ocean|Atlantic]] coast. [http://www.washingtonexaminer.com/president-obama-bans-offshore-drilling-in-arctic-atlantic/article/2610103?utm_campaign=Washington%20Examiner:%20Breaking%20News%20Alert&utm_source=Washington%20Examiner:%20Breaking%20News%20Alert%20-%2012/20/16&utm_medium=email (''Washington Examiner'')]
+*U.S. President [[Barack Obama]] and Canadian Prime Minister [[Justin Trudeau]] jointly ban offshore [[oil drilling]] in the [[Arctic Ocean]] and parts of the [[Atlantic Ocean|Atlantic]] coast. [http://www.washingtonexaminer.com/president-obama-bans-offshore-drilling-in-arctic-atlantic/article/2610103?utm_campaign=Washington%20Examiner:%20Breaking%20News%20Alert&utm_source=Washington%20Examiner:%20Breaking%20News%20Alert%20-%2012/20/16&utm_medium=email (''Washington Examiner'')] [https://www.thestar.com/news/canada/2016/12/20/canada-us-announce-ban-on-offshore-oil-gas-licenses-in-arctic.html (''Toronto Star'')]
 
 <!-- All news items above this line -->|}
