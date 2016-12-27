@@ -3,8 +3,13 @@
 <!-- All news items below this line -->
 ;Disasters and accidents
 *[[2016 Russian Defence Ministry Tupolev Tu-154 crash]]
-**Eleven bodies have so far been recovered from the [[Black Sea]] from yesterday's military aircraft crash. There were no survivors and 92 lives were lost. [http://edition.cnn.com/2016/12/26/europe/russian-military-jet-crash/index.html (CNN)]
+**Eleven bodies have so far been recovered from the [[Black Sea]] from yesterday's military aircraft crash. All 92 people on board died. [http://edition.cnn.com/2016/12/26/europe/russian-military-jet-crash/index.html (CNN)]
 
 ;International relations
-* [[China]] resumes diplomatic ties with [[S�o Tom� and Pr�ncipe]] two weeks after the African island nation broke diplomatic ties with [[Republic of China|Taiwan]]. [http://www.nytimes.com/aponline/2016/12/26/world/asia/ap-as-china-sao-tome-taiwan.html?mtrref=undefined&gwh=9CAD60956F983C4D59473A865F68BFEF&gwt=pay (AP via ''New York Times'')]
+* [[China]] resumes diplomatic ties with [[São Tomé and Príncipe]] two weeks after the African island nation broke diplomatic ties with [[Republic of China|Taiwan]]. [http://www.nytimes.com/aponline/2016/12/26/world/asia/ap-as-china-sao-tome-taiwan.html?mtrref=undefined&gwh=9CAD60956F983C4D59473A865F68BFEF&gwt=pay (AP via ''New York Times'')]
+
+* [[Republican People's Party (Turkey)|CHP]] [[Grand National Assembly of Turkey#Composition|MP]] [[Öztürk Yılmaz]] says [[Turkey]] has expressed its readiness to work with president [[Bashar al-Assad|Assad]] of [[Syria]]. [https://sputniknews.com/middleeast/201612261049011249-russia-turkey-iran-syria/ (Sputnik)] 
+
+;Science and technology
+*Researchers at the [[SLAC National Accelerator Laboratory]] find a way to make thinner electrical wires that measure just three [[atom]]s wide. [http://phys.org/news/2016-12-world-smallest-diamonds-wires-atoms.html (Phys.org)] [https://www6.slac.stanford.edu/news/2016-12-26-researchers-use-worlds-smallest-diamonds-make-wires-three-atoms-wide.aspx (SLAC)]
 <!-- All news items above this line -->|}
