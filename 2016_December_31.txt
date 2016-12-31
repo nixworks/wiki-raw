@@ -2,4 +2,6 @@
 
 <!-- All news items below this line -->
 *
+;Science and technology
+*A [[leap second]] will be added on December 31 to bring [[UTC]] more inline with mean solar time. [http://phys.org/news/2016-12-year-eve-extra.html (Physics Org)] [http://www.bbc.com/news/uk-38470682  (BBC)]
 <!-- All news items above this line -->|}
