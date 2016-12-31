@@ -1,7 +1,11 @@
 {{Current events header|2016|12|31}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[Iraqi Civil War (2014–present)]]
+**[[December 2016 Baghdad bombings]]
+***A pair of bomb blasts targeting a market in central [[Baghdad]] kills at least 27 people and injures over 50. [http://hosted.ap.org/dynamic/stories/M/ML_IRAQ?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)], [http://www.telegraph.co.uk/news/2016/12/31/double-suicide-bombing-baghdad-markets-kills-27/ (''The Telegraph'')]
+
 ;Science and technology
 *A [[leap second]] will be added on December 31 to bring [[UTC]] more inline with mean solar time. [http://phys.org/news/2016-12-year-eve-extra.html (Physics Org)] [http://www.bbc.com/news/uk-38470682  (BBC)]
 <!-- All news items above this line -->|}
