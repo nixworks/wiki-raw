@@ -1,5 +1,7 @@
 <!-- All news items below this line -->{{Current events header|2000|01|11}}
 
+* [[Algerian Civil War]]
+** The armed wing of the [[Islamic Salvation Front]] concludes its negotiations with the government for an amnesty and disbands in Algeria.
 * The trawler [[Solway Harvester]] sinks off the [[Isle of Man]].
 
 <!-- All news items above this line -->{{Current events footer}}

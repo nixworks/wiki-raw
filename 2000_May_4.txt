@@ -1,5 +1,6 @@
 <!-- All news items below this line -->{{Current events header|2000|05|04}}
 
-* An earthquake of magnitude 6.5 strikes in [[Banggai Islands Regency|Banggai Islands]], [[Indonesia]]. Killing 54 people.
+* After originating in [[Philippines]], the [[ILOVEYOU]] computer virus, spreads quickly through the world.
+* An earthquake of magnitude 6.5 strikes in [[Banggai Islands Regency|Banggai Islands]], [[Indonesia]], killing 54 people.
 
 <!-- All news items above this line -->{{Current events footer}}
