@@ -1,5 +1,9 @@
 <!-- All news items below this line -->{{Current events header|2000|01|10}}
 
-* [[America On-line]] announces an agreement to buy  [[Time Warner]] for  $162 billion. This is the largest-ever corporate merger.
+;Business and economy
+*[[America On-line]] announces an agreement to buy [[Time Warner]] for $162 billion. This is the largest-ever corporate merger.
+
+;Disasters and accidents
+*[[Crossair]] suffers the first fatal accident in its 25-year history when [[Crossair Flight 498]] crashes in [[Niederhasli]], [[Switzerland]], after take off from [[Zurich]], killing all 10 people on board.
 
 <!-- All news items above this line -->{{Current events footer}}

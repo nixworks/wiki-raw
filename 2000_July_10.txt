@@ -1,5 +1,12 @@
 <!-- All news items below this line -->{{Current events header|2000|07|10}}
 
-* In southern [[Nigeria]], a leaking petroleum pipeline explodes killing about 250 villagers who were scavenging for [[gasoline]].
+;Business and economy
+*[[EADS]] is formed by the merger of [[Aérospatiale-Matra]], [[Dornier Flugzeugwerke]], [[DaimlerChrysler Aerospace AG]] and [[Construcciones Aeronáuticas SA]].
+
+;Disasters and accidents
+*In southern [[Nigeria]], a leaking petroleum pipeline explodes killing about 250 villagers who were scavenging for [[gasoline]].
+
+;Politics and elections
+*[[Bashar al-Assad]] is confirmed as Syria's leader in a national referendum following the death of his father, [[Hafez al-Assad]].
 
 <!-- All news items above this line -->{{Current events footer}}

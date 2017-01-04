@@ -1,6 +1,13 @@
 <!-- All news items below this line -->{{Current events header|2000|07|02}}
 
-* France beat Italy 2–1 at the final of the [[2000 European Football Championship]].
-* [[Tenchi Muyo]] is first shown on American Television.
+;Disasters and accidents
+*A [[Philippine Air Force]] [[GAF Nomad]] experiences possible engine trouble after takeoff from [[Cagayancillo Airport]] on [[Cagayancillo]] off [[Palawan]] in the [[Philippines]]. Its pilot attempts to return to the airport, but the plane overshoots the runway and crashes into the [[Sulu Sea]], killing 11 of the 12 people on board. Philippine governor [[Salvatore Socrates]] and [[Philippine Air Force]] Major General [[Santiago Madrid]] are among the dead.
+
+;Politics and elections
+*[[Mexican general election, 2000]]
+**[[Vicente Fox]] is elected president of [[Mexico]], as candidate of the rightist [[National Action Party (Mexico)|National Action Party]], ending 71 years of [[Institutional Revolutionary Party]] rule.
+
+;Sports
+*France beat Italy 2–1 at the final of the [[2000 European Football Championship]].
 
 <!-- All news items above this line -->{{Current events footer}}

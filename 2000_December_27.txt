@@ -1,5 +1,9 @@
 <!-- All news items below this line -->{{Current events header|2000|12|27}}
 
+;Architecture
 *The [[Bømlafjord Tunnel]] opens, connecting the island of [[Føyno]] in Stord to the mainland at Dalshovda in Sveio, Norway.
+
+;Environment
+*The [[December 2000 nor'easter]] is formed, beginning as an [[Alberta clipper]], affecting, specially, Northern [[New Jersey]] and Eastern [[New York (state)|New York]].
 
 <!-- All news items above this line -->{{Current events footer}}

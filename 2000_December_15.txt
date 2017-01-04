@@ -1,6 +1,9 @@
 <!-- All news items below this line -->{{Current events header|2000|12|15}}
 
-* Reactor 3, the last reactor at the [[Chernobyl Nuclear Power Plant]], is shut down due to Western political pressure. 
-* [[Disney]]'s ''[[Emperor's New Groove]]'' is released in [[movie theatres]].
+;Environment
+*Reactor 3, the last reactor at the [[Chernobyl Nuclear Power Plant]], is shut down due to Western political pressure.
+
+;Law and crime
+*In the landmark censorship case of ''[[Little Sisters Book and Art Emporium v. Canada (Minister of Justice)]]'', the [[Supreme Court of Canada]] rules that [[Canada Customs]] does not have the authority to make its own judgments about the permissibility of material being shipped to retailers but is permitted to confiscate only material that has specifically been ruled by the courts to constitute an offence under the [[Canadian Criminal Code]].
 
 <!-- All news items above this line -->{{Current events footer}}

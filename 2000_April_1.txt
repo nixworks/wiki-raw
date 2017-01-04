@@ -1,7 +1,15 @@
 <!-- All news items below this line -->{{Current events header|2000|04|01}}
 
-* [[Boomerang (TV Channel)|Boomerang]] is first broadcast on television in the [[United States]].
-* Japanese prime minister [[Obuchi Keizo]] suffers a [[stroke]] and falls into a [[coma]].
-* The [[2000 United States Census]] begins.
+;Arts and culture
+*[[Boomerang (TV Channel)|Boomerang]] is first broadcast on television in the [[United States]].
+
+;Business and economy
+*[[Singapore Airlines]] joins the [[Star Alliance]].
+
+;Politics and elections
+*Japanese prime minister [[Obuchi Keizo]] suffers a [[stroke]] and falls into a [[coma]].
+
+;Society
+*The [[2000 United States Census]] is conducted.
 
 <!-- All news items above this line -->{{Current events footer}}

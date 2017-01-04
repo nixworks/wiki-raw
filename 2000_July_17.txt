@@ -1,5 +1,9 @@
 <!-- All news items below this line -->{{Current events header|2000|07|17}}
 
-* The 10th President of [[Syria]], [[Bashar al Assad]], assumed office.
+;Disasters and accidents
+*After coming in too high to make a successful landing at [[Lok Nayak Jayaprakash Airport]] in [[Patna]], [[India]], [[Alliance Air Flight 7412]], a [[Boeing 737-2A8]], attempts to make a 360-degree left turn for another landing attempt but stalls and crashes, killing 55 of the 58 people on board and injuring all three survivors. On the ground, five more people die and two are injured.
+
+;Politics
+*The 10th President of [[Syria]], [[Bashar al Assad]], assumed office.
 
 <!-- All news items above this line -->{{Current events footer}}
