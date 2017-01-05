@@ -1,7 +1,15 @@
 <!-- All news items below this line -->{{Current events header|2000|12|02}}
 
-*The [[2000 MAC Championship Game]] (American football) is played at [[Joan C. Edwards Stadium|Marshall Stadium]] in [[Huntington, West Virginia]], USA<ref name="announcement">{{cite press release |title=MAC Football Championship Notes |url=https://www.nmnathletics.com/ViewArticle.dbml?SPSID=42968&SPID=3802&DB_OEM_ID=9400&ATCLID=1089672 |publisher=MAC-Sports.com |accessdate=2009-09-22|archiveurl=http://www.webcitation.org/5k4GWdyhu|archivedate=2009-09-25|deadurl=no}}</ref> and is won by the [[2000 Marshall Thundering Herd football team|Marshall Thundering Herd]].
-* [[The Smashing Pumpkins]] played what was intended to be their farewell concert at the [[Metro Chicago|Metro Theater]]. Even though the band later reunited, [[Billy Corgan|Corgan]] viewed it as the end of an era. <ref>{{cite news |last=SCOCZYNSKI FILHO |first=FERNANDO  |date=2010-12-03 |title= Billy Corgan's Reflections on the Smashing Pumpkins' Final Show|url= http://www.antiquiet.com/news/2010/12/billy-corgan-final-smashing-pumpkins-show-metro/|newspaper=http://www.antiquiet.com/ |location=online |accessdate=2013-11-10 }}
+;Arts and culture
+*[[The Backstreet Boys]] debuts with 1.6 million with Black & Blue and becomes the first artists in history to achieve back-to-back million-plus first week sales. It also sells 5 million worldwide and sets a record for the best International Sales Week in History.
+*[[The Smashing Pumpkins]] played what was intended to be their farewell concert at the [[Metro Chicago|Metro Theater]]. Even though the band later reunited, [[Billy Corgan|Corgan]] viewed it as the end of an era. <ref>{{cite news |last=SCOCZYNSKI FILHO |first=FERNANDO  |date=2010-12-03 |title= Billy Corgan's Reflections on the Smashing Pumpkins' Final Show|url= http://www.antiquiet.com/news/2010/12/billy-corgan-final-smashing-pumpkins-show-metro/|newspaper=http://www.antiquiet.com/ |location=online |accessdate=2013-11-10 }}
 </ref>
+
+;Disasters and accidents
+*[[Sarai Banjara rail disaster]]
+**46 people killed and 150 injured when a freight train derailed into the path of a passenger train in the [[Punjab]], [[India]].
+
+;Sports
+*The [[2000 MAC Championship Game]] (American football) is played at [[Joan C. Edwards Stadium|Marshall Stadium]] in [[Huntington, West Virginia]], USA<ref name="announcement">{{cite press release |title=MAC Football Championship Notes |url=https://www.nmnathletics.com/ViewArticle.dbml?SPSID=42968&SPID=3802&DB_OEM_ID=9400&ATCLID=1089672 |publisher=MAC-Sports.com |accessdate=2009-09-22|archiveurl=http://www.webcitation.org/5k4GWdyhu|archivedate=2009-09-25|deadurl=no}}</ref> and is won by the [[2000 Marshall Thundering Herd football team|Marshall Thundering Herd]].
 
 <!-- All news items above this line -->{{Current events footer}}
