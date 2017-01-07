@@ -2,6 +2,21 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Syrian civil war]]
-**[[Russia]] starts to withdraw [[Russian military intervention in Syria|its forces from Syria]], with its [[aircraft carrier]] battle group the first to leave. [http://www.bbc.com/news/world-middle-east-38528654 (BBC)]
+*[[Syrian Civil War]]
+**[[Russian military intervention in Syria]]
+***[[Russia]] begins to withdraw its forces from Syria, with its [[aircraft carrier]] battle group being the first to leave. The [[United Nations]] says the [[ceasefire]] is "largely holding". [http://www.bbc.com/news/world-middle-east-38528654 (BBC)]
+*2017 Ivorian coup d'état attempt
+**[[Republican Forces of Côte d'Ivoire]] soldiers launched mutinies in three cities across [[Ivory Coast]] on January 6. The Defense Minister Alain Donwahi said talks ongoing with the soldiers, and calling for all troops to return to their barracks. [http://www.reuters.com/article/uk-ivorycoast-military-daloa-idUKKBN14Q14U (Reuters)], [http://bigstory.ap.org/article/0ccf7d26360a4fa8ac60f08cf7697b0d (AP)]
+
+;Business and economy
+*[[The Limited]] announces the closing of all of its brick-and-mortar stores and will begin operating only online after January 8. [http://www.daytondailynews.com/business/breaking-the-limited-close-all-brick-and-mortar-stores/PfgPpBHLLgycEoAo7vHDbP/ (Dayton Daily News)]
+
+;Law and crime
+*[[2017 Fort Lauderdale airport shooting]]
+**An arriving passenger from [[Alaska]] removes his checked-baggage pistol and kills at least five people and injures another eight at [[Fort Lauderdale–Hollywood International Airport]] in [[Florida]]. [http://www.nbcnews.com/news/us-news/gunman-opens-fire-fort-lauderdale-airport-killing-1-n704001 (NBC News)], [http://www.cnn.com/2017/01/06/us/fort-lauderdale-airport-incident/index.html (CNN)]
+*Members of the [[Brazil]]ian [[Primeiro Comando da Capital]] prison gang kill 31 inmates in the Monte Cristo prison in the state of [[Roraima]]. This action was revenge for an earlier massacre in a prison in [[Amazonas (Brazilian state)|Amazonas]] that killed 56 inmates. [http://www.reuters.com/article/us-brazil-prison-idUSKBN14Q1FR (Reuters)]
+
+;Politics and elections
+*[[2016 United States election interference by Russia]]
+**A declassified U.S. intelligence report claims that [[Vladimir Putin]] ordered a campaign to influence the [[United States presidential election, 2016|U.S. presidential election]] against [[Democratic Party (United States)|Democratic Party]] candidate [[Hillary Clinton]]. [http://www.foxnews.com/politics/2017/01/06/intel-report-says-putin-ordered-campaign-to-influence-us-election.html (Fox News)]
 <!-- All news items above this line -->|}

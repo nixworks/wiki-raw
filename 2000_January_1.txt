@@ -1,10 +1,17 @@
 <!-- All news items below this line -->{{Current events header|2000|01|01}}
 
-* The hostages of [[Indian Airlines]] flight [[IC 814]] return home after the [[Indian Government]] releases the prisoners demanded by the hijackers.
-* [[Y2K]] passes without the serious, widespread computer failures and malfunctions that had been predicted.
-* It was the first day of the [[2000s (decade)|2000s decade]].
-* The piece ''[[Longplayer]]'' begins. It will last 1000 years, finishing on December 31, 2999.
-* [[Szeged]]'s universities are unified into a single institution called the [[University of Szeged]].
-* [[Sweden]] disestablishes the [[Church of Sweden]] as the official [[state religion]].
+;Arts and culture
+*[[Y2K]] passes without the serious, widespread computer failures and malfunctions that had been predicted.
+*It was the first day of the [[2000s (decade)|2000s decade]].
+*The piece ''[[Longplayer]]'' begins. It will last 1000 years, finishing on December 31, 2999.
+
+;Education
+*[[Szeged]]'s universities are unified into a single institution called the [[University of Szeged]].
+
+;Law and crime
+*The hostages of [[Indian Airlines]] flight [[IC 814]] return home after the [[Indian Governement]] releases the prisoners demanded by the hijackers.
+
+;Religion
+*[[Sweden]] disestablishes the [[Church of Sweden]] as the official [[state religion]].
 
 <!-- All news items above this line -->{{Current events footer}}
