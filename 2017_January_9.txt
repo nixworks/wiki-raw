@@ -1,5 +1,11 @@
 {{Current events header|2017|01|9}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[January 2017 Jerusalem vehicular attack]]
+** Israeli Prime Minister [[Benjamin Netanyahu]] publicly places blame on the [[ISIS|Islamic State]] for the attack that killed four soldiers and injured 15 others  in [[East Jerusalem]]. [http://www.cnn.com/2017/01/08/middleeast/jerusalem-vehicle-attack/index.html (CNN)]
+;Politics and elections
+*Death of [[Akbar Hashemi Rafsanjani]]
+**Three days of [[National day of mourning|national mourning]] are declared in Iran following the death of the former president and one of the key figures in the [[Islamic Republic]]. [http://www.dailymail.co.uk/wires/ap/article-4101042/Mourners-pay-respects-former-Iranian-leader-Rafsanjani.html (Daily Mail)]
+**President [[Hassan Rouhani]] praises Rafsanjani as a great man of the [[Iranian Revolution]]. [http://www.bbc.co.uk/news/world-middle-east-38551639 (BBC)]
 <!-- All news items above this line -->|}
