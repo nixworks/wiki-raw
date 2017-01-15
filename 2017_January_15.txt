@@ -1,9 +1,13 @@
 {{Current events header|2017|01|15}}
 
 <!-- All news items below this line -->
-;Arts and culture
-*After performing for 146 years, [[Ringling Bros. and Barnum & Bailey Circus]] announces that it will stop performing [[circus]]es in May. [https://www.apnews.com/020bc7b2f16f4446ade338bcf4a500ed/APNewsBreak:-Ringling-Bros.-circus-to-close-after-146-years?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=APSouthRegion (AP)]
 
 ;Disasters and accidents
-*Unseasonal flooding in [[southern Thailand]] has caused 40 deaths in recent days with more heavy rain forecast for Monday. [http://www.smh.com.au/world/the-worst-isnt-over-more-rain-expected-as-thailand-flood-death-toll-rises-to-40-20170115-gtrscz.html (''Sydney Morning Herald'')]]
+*[[Floods in Thailand]]
+**Unseasonal flooding in [[southern Thailand]] has caused 40 deaths in recent days with more heavy rain forecast for Monday. [http://www.smh.com.au/world/the-worst-isnt-over-more-rain-expected-as-thailand-flood-death-toll-rises-to-40-20170115-gtrscz.html (''Sydney Morning Herald'')]
+
+;Science and Technology
+*Scientists have created a new form of [[hydrogen]] at temperature near [[absolute zero]]. These anions or [[Cluster (physics)|clusters]] are formed by an electron addition to liquid [[helium]] nanodroplets doped with molecular hydrogen or [[deuterium]]. [http://www.sciencealert.com/physicists-have-created-a-new-form-of-hydrogen (Science Alert)], [https://www.sciencenews.org/article/new-form-hydrogen-created?utm_source=Society+for+Science+Newsletters&utm_campaign=b90b119652-editors_picks_week_of_010917&utm_medium=email&utm_term=0_a4c415a67f-b90b119652-104537829 (Science News)]
+*[[SpaceX]] returns to flight by [[List of Falcon 9 and Falcon Heavy launches#2017|placing 10 Iridium NEXT satellites in orbit]] and successfully recovering the first stage of its [[Falcon 9]] launcher on a droneship.
+
 <!-- All news items above this line -->|}
