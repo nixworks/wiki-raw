@@ -1,5 +1,10 @@
 {{Current events header|2017|01|16}}
 
 <!-- All news items below this line -->
-*
+;Disasters and accidents
+*[[Turkish Airlines Flight 6491]]
+**A [[Turkish Airlines]] cargo jet crashes near [[Kyrgyzstan]]'s [[Manas International Airport]] resulting in the deaths of at least 32 people. [http://www.dailytelegraph.com.au/news/turkish-airlines-cargo-jet-crashes-near-kyrgyzstans-manas-airport/news-story/ae01fe5279bd5295431e392c961811f4 (AAP, AFP via ''Daily Telegraph'')]
+
+;Law and crime
+*[[South Korean]] prosecutors issue an arrest warrant for [[Lee Jae-yong (businessman)|Lee Jae-yong]], a senior executive in the [[Samsung Group]], in relation to the [[2016 South Korean political scandal|political scandal]] that has led to the impeachment of [[Park Geun-hye]] the [[President of South Korea]]. [http://www.latimes.com/world/asia/la-fg-south-korea-samsung-chief-2017-story.html (''Los Angeles Times'')]
 <!-- All news items above this line -->|}
