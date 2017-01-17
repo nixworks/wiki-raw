@@ -1,5 +1,14 @@
 <!-- All news items below this line -->{{Current events header|2000|01|05}}
 
-* The [[2000 al-Qaeda Summit]] is held on January 5th - January 8th.
+;Armed conflicts and attacks
+*[[2000 al-Qaeda Summit]]
+**The meeting is held until January 8 in [[Kuala Lumpur]], [[Malaysia]]. The summit's purpose was allegedly to plan future attacks, which apparently included the [[bombing of the USS Cole]] on October 12, 2000 and the [[September 11 attacks]] in 2001.
+
+;Arts and culture
+*[[Black triangle (UFO)#Southern Illinois incident|Southern Illinois incident]]
+**Over the towns of [[Highland, Illinois|Highland]], [[Dupo, Illinois|Dupo]], [[Lebanon, Illinois|Lebanon]], [[Shiloh, Illinois|Shiloh]], [[Summerfield, Illinois|Summerfield]], [[Millstadt, Illinois|Millstadt]] and [[O'Fallon, Illinois|O'Fallon]], [[Illinois]], people reports a massive, silent, triangular operating at a unusual treetop level altitude and speeds.
+
+;Technology
+*[[MobileMe#iTools|iTools]] (later known as [[MobileMe#.Mac|.Mac]] and [[MobileMe]]), a free collection of Internet-based services, is launched by [[Apple Inc.]]
 
 <!-- All news items above this line -->{{Current events footer}}

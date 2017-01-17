@@ -1,11 +1,11 @@
-<!-- All news items below this line -->{{Current events header|2000|01|01}}
+<!-- All news items bellow this line -->{{Current events header|2000|01|01}}
 
 ;Arts and culture
-*Popular culture started celebrating the new [[21st century|century]] and new [[3rd millennium|millennium]] around the world.
+*Popular culture starts celebrating the new [[21st century|century]] and new [[3rd millennium|millennium]] around the world.
 *[[Y2K]] passes without the serious, widespread computer failures and malfunctions that had been predicted.
-*It was the first day of the [[2000s (decade)|2000s decade]].
+*It is the first day of the [[2000s (decade)|2000s decade]].
 *The piece ''[[Longplayer]]'' begins. It will last 1000 years, finishing on December 31, 2999.
-
+*Following the creation of [[Ottawa]] "megacity", the city adopts a [[flag of Ottawa|new flag]].
 
 ;Education
 *[[Szeged]]'s universities are unified into a single institution called the [[University of Szeged]].
@@ -15,5 +15,9 @@
 
 ;Religion
 *[[Sweden]] disestablishes the [[Church of Sweden]] as the official [[state religion]].
+
+;Sports
+*[[2000 Rose Bowl]]
+**In front of a crowd of 93,731 at the [[Rose Bowl Stadium]] in [[Pasadena, California]], the [[Wisconsin Badgers]] defeat the [[Stanford Cardinal]] by a score of 17–9.
 
 <!-- All news items above this line -->{{Current events footer}}

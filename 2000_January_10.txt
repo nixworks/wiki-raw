@@ -1,9 +1,14 @@
 <!-- All news items below this line -->{{Current events header|2000|01|10}}
 
+;Arts and culture
+*The [[Tama Center Station#Tama Toshi Monorail (Tama-Center Station)|Tama Toshi Monorail (Tama-Center Station)]] opens in [[Tokyo]], [[Japan]]. This is a raised station with two tracks and two opposed side platforms, with the station building located underneath. It is a standardized station building for this monorail line.
+
 ;Business and economy
-*[[America On-line]] announces an agreement to buy [[Time Warner]] for $162 billion. This is the largest-ever corporate merger.
+*[[America On-line]] announces an agreement to buy [[Time Warner]] for $162 billion, becoming the largest-ever corporate merger.
 
 ;Disasters and accidents
-*[[Crossair]] suffers the first fatal accident in its 25-year history when [[Crossair Flight 498]] crashes in [[Niederhasli]], [[Switzerland]], after take off from [[Zurich]], killing all 10 people on board.
+*[[Crossair Flight 498]]
+**[[Crossair]] suffers the first fatal accident in its 25-year history when Crossair Flight 498 crashes in [[Niederhasli]], [[Switzerland]], after take off from [[Zurich]], killing all 10 people on board.
+*The [[Lady Franklin Point]] catches fire and is almost totally destroyed.
 
 <!-- All news items above this line -->{{Current events footer}}
