@@ -1,0 +1,3 @@
+<!-- All news items bellow this line -->{{Current events header|2000|01|12}}
+
+<!-- All news items above this line -->{{Current events footer}}

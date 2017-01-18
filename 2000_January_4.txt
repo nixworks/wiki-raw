@@ -1,0 +1,16 @@
+<!-- All news items bellow this line -->{{Current events header|2000|01|04}}
+
+;Arts and culture
+*The Autonomous Region of [[Sicily]], in [[Italy]] adopts a [[Flag of Sicily|new flag]].
+
+;Business and economy
+*[[Air Canada]] acquires their largest rival, [[Canadian Airlines]].
+
+;Disasters and accidents
+*[[Åsta accident]]
+**In [[Åsta]], [[Åmot]], [[Norway]], two diesel passenger trains collide, killing 19, while 67 survives. The fire after the collision lasts nearly six hours.
+
+;Sports
+*The trophy for the [[2000 FIFA Club World Championship|inaugural competition]] of the [[FIFA Club World Championship]] is presented for the first time at the [[Sheraton Hotels and Resorts]] in [[Rio de Janeiro]], [[Brazil]].
+
+<!-- All news items above this line -->{{Current events footer}}

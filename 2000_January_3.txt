@@ -1,0 +1,12 @@
+<!-- All news items bellow this line -->{{Current events header|2000|01|03}}
+
+;Arts and culture
+*The final daily original ''[[Peanuts]]'' comic strip is published.
+
+;Business and economy
+*[[Yahoo!]] stocks closing at an all-time high of $118.75 a share.
+
+;International relations
+*In [[Shepherdstown, West Virginia]], is the site of the Peace Talks between [[Israel]] and [[Syria]] where both sides were urged to make the hard choices needed to end a half-century of conflict.
+
+<!-- All news items above this line -->{{Current events footer}}
