@@ -1,5 +1,21 @@
 {{Current events header|2017|01|18}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[Insurgency in the Maghreb (2002–present)|Insurgency in the Maghreb]]
+**A suicide bomber detonates a vehicle full of explosives at a military camp in [[Gao]], [[Mali]], killing at least 50 people and wounding dozens more. [https://www.theguardian.com/world/2017/jan/18/suicide-bomber-gao-mali-joint-operational-mechanism (''The Guardian'')]
+
+;Law and crime
+*At least four people are killed in a shootout between [[Federal Police (Mexico)|Mexican Police]] and unknown gunmen after the latter opened fire on the [[Quintana Roo]] state attorneys' office in [[Cancún]]. [http://www.bbc.com/news/world-latin-america-38661590 (BBC)]
+
+;Politics and elections
+*[[2016–17 Gambian constitutional crisis]]
+**The [[National Assembly of the Gambia]] approves extending [[Yahya Jammeh]]'s term as president of the country for 90 more days. [http://www.bbc.com/news/world-africa-38662000 (BBC)] [http://www.aljazeera.com/news/2017/01/gambia-mps-extend-president-jammeh-term-170118082031908.html (Al Jazeera)]
+*[[Russia]] extends [[Edward Snowden]]'s residence permit until 2020. [http://edition.cnn.com/2017/01/18/europe/russia-snowden-asylum-extension/ (CNN)]
+*[[Israeli-Palestinian conflict]]
+**Two Palestinians and one Israeli police officer are killed in a clash during a home-demolition operation in the [[Bedouin]] village of [[Umm al-Hiran]]. [http://www.aljazeera.com/news/2017/01/palestinian-killed-israeli-home-demolition-170118043846949.html (Al Jazeera)]
+**The [[Fatah]]-dominated [[Palestinian Authority]] agrees to form a unity government with [[Hamas]] following a three-day delegation in [[Moscow]]. [http://www.aljazeera.com/news/2017/01/fatah-hamas-form-unity-government-170118031339203.html (Al Jazeera)]
+
+;Disasters and accidents
+*An [[earthquake]] and aftershocks near [[Amatrice]] result in Rome's Metro system being evacuated. [http://www.cnn.com/2017/01/18/europe/italy-earthquake-rome-amatrice/index.html (CNN)]
 <!-- All news items above this line -->|}
