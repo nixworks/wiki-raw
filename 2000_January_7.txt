@@ -1,3 +1,6 @@
-<!-- All news items bellow this line -->{{Current events header|2000|01|07}}
+<!--All news items bellow this line -->{{Current events header|2000|01|07}}
+
+;Business and economy
+*[[Microsoft Corporation]] acquires [[Visio Corporation]] in a [[stock swap]]. 
 
 <!-- All news items above this line -->{{Current events footer}}

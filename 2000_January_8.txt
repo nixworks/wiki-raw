@@ -1,3 +1,7 @@
-<!-- All news items bellow this line -->{{Current events header|2000|01|08}}
+<!-- All news items below this line -->{{Current events header|2000|01|08}}
+
+;Sports
+*[[Music City Miracle]]
+**During the [[1999–2000 NFL playoffs]], one of the most memorable and debated plays in [[NFL]] history takes place at then-[[Adelphia Coliseum]]. The "Music City Miracle" was a last-minute trick play on a kickoff return that resulted in a [[touchdown]] and catapulted the [[Tennessee Titans]] past the [[Buffalo Bills]] to the Divisional Playoffs. It also ensured that the Titans would go undefeated in the first season in the team's new home. The victory is seen in front of a franchise-record crowd of 66,782.
 
 <!-- All news items above this line -->{{Current events footer}}
