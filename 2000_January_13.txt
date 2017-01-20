@@ -1,3 +1,9 @@
 <!-- All news items bellow this line -->{{Current events header|2000|01|13}}
 
+;Business
+*[[Steve Ballmer]] is named [[chief executive officer]] of [[Microsoft]].
+
+;Sports
+*66-year-old [[Raymond York]] becomes the first jockey to ride in seven different decades.
+
 <!-- All news items above this line -->{{Current events footer}}
