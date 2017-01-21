@@ -1,5 +1,10 @@
 {{Current events header|2017|01|21}}
 
 <!-- All news items below this line -->
-*
+;Armed conflict and attacks
+*[[War in North-West Pakistan]]
+**At least eighteen people are killed and 50 injured after a bomb explodes at a vegetable market in the [[Kurram Valley]] in the [[Federally Administered Tribal Areas]] of [[Pakistan]]. [http://english.astroawani.com/malaysia-news/6-killed-30-injured-blast-hits-vegetable-market-nw-pakistan-129724 (Bernama via AstroAwan)], [http://hosted.ap.org/dynamic/stories/A/AS_PAKISTAN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
+
+;Disasters and accidents
+*A bus carrying [[Hungarian people|Hungarian]] students crashes in northern [[Italy]] with at least seven people dead and a number of passengers missing. [http://www.telegraph.co.uk/news/2017/01/21/least-seven-feared-dead-italian-coach-crash/ (''The Telegraph'')]
 <!-- All news items above this line -->|}

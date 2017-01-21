@@ -2,11 +2,18 @@
 
 ;Business and economy
 *The [[Dow Jones Industrial Average]] closes at 11,722.98 at the peak of the [[Dot-com bubble]].
+*Dayton-Hudson is renamed the [[Target Corporation]].
 
-;Law and crime
-*A [[United Nations]] tribunal sentences five [[Bosnia and Herzegovina|Bosnia]]n [[Croats]] up to 25 years for the [[1993]] killing of over 100 Bosnian Muslims in a Bosnian village.
+;Disasters
+*[[2000 Yunnan earthquake]]
+**An earthquake measuring 5.9 in magnitude occurres in the [[Yunnan]] province in southwest [[China]], killing 7 people and injuring at least 2,528 more. Almost 41,000 homes were levelled by the earthquake.
 
 ;Sports
-*[[Sport Club Corinthians Paulista]] from [[Brazil]] became the first [[FIFA Club World Championship]] winner.
+*[[2000 FIFA Club World Championship]]
+**[[Sport Club Corinthians Paulista]] from [[Brazil]] becomes the first winner of the championship.
+*[[Ross Perot Jr.]]'s group sells the [[Dallas Mavericks]] to Internet entrepreneur and season ticket-holder [[Mark Cuban]] for $285 million.
+
+;Technology
+*U.S. Government announce restrictions on [[export of cryptography]] are relaxed (although not removed). This allows many US companies to stop the long running process of having to create US and international copies of their software.
 
 <!-- All news items above this line -->{{Current events footer}}
