@@ -1,5 +1,9 @@
 {{Current events header|2017|01|23}}
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[Presidency of Donald Trump]]
+**U.S. President [[Donald Trump]] issues an [[executive order]] to withdraw the U.S. from the [[Trans-Pacific Partnership]]. [http://edition.cnn.com/2017/01/23/politics/trans-pacific-partnership-trade-deal-withdrawal-trumps-first-executive-action-monday-sources-say/ (CNN)]
+*[[Syrian peace process]]
+**Peace talks begin in [[Astana]], [[Kazakhstan]], to extend the currently fragile ceasefire to the [[Syrian Civil War]]. However, the [[Syrian opposition]] refuse to negotiate face to face unless the [[Council of Ministers (Syria)|Syrian government]] calls on pro-government militias to leave Syria. [https://www.theguardian.com/world/2017/jan/23/syria-peace-talks-shaky-start-rebels-refuse-negotiate-face-to-face-astana (''The Guardian'')]
 <!-- All news items above this line -->|}
