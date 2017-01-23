@@ -1,5 +1,7 @@
 <!-- All news items below this line -->{{Current events header|2000|01|16}}
 
-* In [[Sacramento, California]], a commercial truck carrying evaporated milk is driven into the state capitol building killing the driver.
+;Politics and elections
+*[[Chilean presidential election, 1999–2000]]
+**In the second round run-off, [[Ricardo Lagos]] is elected president of [[Chile]], as candidate of the [[Party for Democracy (Chile)|Party for Democracy]].
 
 <!-- All news items above this line -->{{Current events footer}}
