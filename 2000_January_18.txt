@@ -1,3 +1,5 @@
 <!-- All news items bellow this line -->{{Current events header|2000|01|18}}
 
+;Science
+*At 16:43 UT, the [[Tagish Lake meteorite]] lands in the [[Tagish Lake]] area in northwestern [[British Columbia]], [[Canada]].
 <!-- All news items above this line -->{{Current events footer}}
