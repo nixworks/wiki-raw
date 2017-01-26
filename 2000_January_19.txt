@@ -1,6 +1,14 @@
 <!-- All news items below this line -->{{Current events header|2000|01|19}}
 
+;Arts and culture
+*[[Hedy Lamarr]], Austrian actress and inventor, dies at age of 85.
+
 ;Law and crime
-*Three students died and 54 were injured in a dormitory fire at [[Seton Hall University]]. Two students were charged with murder and arson for allegedly setting the fire.
+*[[Boland Hall fire]]
+**Three students died and 54 were injured in a dormitory fire at [[Seton Hall University]]. Two students were charged with murder and arson for allegedly setting the fire.
+*The [[Charleston Five]] are brought up of felony charges of conspiracy to invite a riot in [[Charleston, South Carolina]].
+
+;Technology
+*The [[Society of Motion Picture and Television Engineers]], in the United States, initials the first standards group dedicated towards developing digital cinema.
 
 <!-- All news items above this line -->{{Current events footer}}
