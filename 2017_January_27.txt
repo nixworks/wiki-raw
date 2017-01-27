@@ -1,5 +1,17 @@
 {{Current events header|2017|01|27}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[War in Somalia (2009–present)]]
+**[[Al-Shabaab (militant group)|Al-Shabaab]] militants attack a remote [[African Union Mission to Somalia|AMISOM]] base in southern [[Somalia]], claiming to have killed dozens of [[Kenya]]n troops. [http://www.reuters.com/article/us-somalia-attacks-idUSKBN15B0C9 (Reuters)]
+
+;Disasters and accidents
+*A wildfire destroys almost the entire town of [[Santa Olga]] in [[Chile]]'s central [[Maule Region]] as a [[Russia]]n firefighting [[Ilyushin Il-76]] arrives to help fight the worst wildfire in Chile's modern history. [http://www.bbc.co.uk/news/world-latin-america-38766681 (BBC)] 
+
+;International relations
+*[[United Kingdom–United States relations]]
+**[[Prime Minister of the United Kingdom|British Prime Minister]]  [[Theresa May]] meets with [[President of the United States|U.S. President]] [[Donald Trump]] at the White House in [[Washington, D.C.]]. This is the first visit by a foreign leader since Mr. Trump's inauguration last Friday. [http://www.bbc.com/news/uk-politics-38766781 (BBC)] [http://www.politico.com/story/2017/01/trump-theresa-may-britain-white-house-234251 (''Politico'')]
+
+;Science and technology
+* Two [[Harvard]] scientists report, in the [[Academic journal|peer-reviewed journal]] ''[[Science (journal)|Science]]'', the first creation of [[metallic hydrogen]] in a laboratory, using a [[diamond anvil cell]]. Other researchers did not agree with this finding when it was first posted on the [[arXiv]] [[preprint server]] in October 2016,  and have not yet changed their positions. [http://www.bbc.com/news/science-environment-38768683 (BBC)] [https://www.scientificamerican.com/article/doubts-cloud-claims-of-metallic-hydrogen/ (''Scientific American'')] [https://www.chemistryworld.com/news/metallic-hydrogen-claim-faces-fiery-scrutiny/2500300.article (''Chemistry World'')]
 <!-- All news items above this line -->|}
