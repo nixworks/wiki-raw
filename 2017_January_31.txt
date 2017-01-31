@@ -2,4 +2,10 @@
 
 <!-- All news items below this line -->
 *
+;Armed conflicts and attacks
+*[[Syrian Civil War]]
+** 250 Rebel fighters agree to surrender their remaining stretch of [[Lebanon-Syria border]] in exchange for transportation to their stronghold of [[Idlib Governorate]]. [https://www.almasdarnews.com/article/jihadist-rebels-surrender-lebanese-border-points-syrian-army/ (Al Masdar News)]
+
+;Law and crime
+*[[Susan Kiefel]] is sworn in as the first female [[Chief Justice of Australia]]. [http://www.abc.net.au/radionational/programs/lawreport/2017-01-31/8222950 (Radio National)]
 <!-- All news items above this line -->|}
