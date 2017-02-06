@@ -1,3 +1,11 @@
 <!-- All news items bellow this line -->{{Current events header|2000|01|21}}
 
+;Politics
+*[[2000 Ecuadorian coup d'état]]
+**Amidst a economic crisis, a [[coup d'état]] takes place in [[Ecuador]], resulting in President [[Jamil Mahuad]] being sent into exile, and replaced by Vice President [[Gustavo Noboa]].
+
+;Science
+*[[January 2000 lunar eclipse]]
+**A total [[lunar eclipse]] takes place, the first of two total lunar eclipses of the year.
+
 <!-- All news items above this line -->{{Current events footer}}
