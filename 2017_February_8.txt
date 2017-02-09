@@ -3,13 +3,28 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[War in Donbass]]
-**[[Donetsk People's Republic]] commander [[Mikhail Tolstykh]], better known by his callsign "Givi", is assassinated in a bomb blast in [[Makiivka]], [[Donetsk Oblast]]. DPR officials blame [[Ukraine]]'s [[Security Service of Ukraine|secret service]] for the attack. [http://www.bbc.co.uk/news/world-europe-38905110 (BBC)]
+**[[Donetsk People's Republic]] commander [[Mikhail Tolstykh]], better known by his nom de guerre "Givi", is killed in a bomb blast in [[Makiivka]], [[Donetsk Oblast]]. DPR officials blame the [[Security Service of Ukraine]] for the attack. [http://www.bbc.co.uk/news/world-europe-38905110 (BBC)]
 *[[War in Afghanistan (2015–present)]]
 **Six [[Afghanistan|Afghan]] [[International Committee of the Red Cross|Red Cross]] workers are shot dead by suspected [[Islamic State of Iraq and the Levant – Khorasan Province|ISIL]] militants in the northern [[Jowzjan Province]]. Two other Red Cross workers are reportedly abducted. [http://www.bbc.co.uk/news/world-asia-38908312 (BBC)]
+*[[War in Somalia (2009–present)]]
+**Unknown gunmen storm a hotel in [[Bosaso]], leaving at least four guards and two militants dead. It is unclear who carried out the attack. An official blames [[Al-Shabaab (militant group)|Al-Shabaab]], though the group denies having any involvement. [http://www.aljazeera.com/news/2017/02/gunmen-kill-guards-attack-somalia-puntland-170208094641090.html (Al Jazeera)]
+*[[Syrian Civil War]]
+**[[Syrian opposition|Syrian rebels]], with backing from the [[Turkish Armed Forces]], advance on [[Islamic State of Iraq and the Levant|ISIL]]-held [[al-Bab]], capturing the outskirts of the town. [http://www.reuters.com/article/us-mideast-crisis-syria-albab-idUSKBN15N0RO (Reuters)]
+
+;Law and crime
+*[[ 2016–17 Turkish purges]]
+**The [[Cabinet of Turkey|Turkish government]] dismisses more than 4,400 public servants from their jobs in the latest purge within the country following a [[2016 Turkish coup d'état attempt|failed coup attempt last year]]. [https://www.theguardian.com/world/2017/feb/08/turkey-dismisses-4400-public-servants-erdogan-trump-phone-call (''The Guardian'')]
 
 ;Politics and elections
 *[[2017 Romanian protests]]
-**The government of [[Prime Minister of Romania]] [[Sorin Grindeanu]] faces a no-confidence motion over proposed decriminalisation of certain corruption offences. Massive protests have occurred since the proposals were announced. [http://hosted.ap.org/dynamic/stories/E/EU_ROMANIA_POLITICS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
+**The government of [[Prime Minister of Romania]] [[Sorin Grindeanu]] survives a no-confidence motion over proposed decriminalisation of certain corruption offences, with 161 MPs voting in favor of the motion, short of the 232 votes needed for it to pass. [http://hosted.ap.org/dynamic/stories/E/EU_ROMANIA_POLITICS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)] [http://www.aljazeera.com/news/2017/02/sdp-led-government-survives-confidence-vote-170208140726449.html (Al Jazeera)]
 *[[Somali presidential election, 2017]]
-**[[Somalia|Somali]] politicians gather inside a high-security compound at [[Aden Adde International Airport]] in [[Mogadishu]] to elect a [[President of Somalia|President]] for the country, with current president [[Hassan Sheikh Mohamud]] running for a second term. [https://www.theguardian.com/world/2017/feb/08/somalia-goes-to-polls-president-mohamud (''The Guardian'')]
+**Somali politicians gather inside a high-security compound at [[Aden Adde International Airport]] in [[Mogadishu]] to elect a [[President of Somalia|President]] for the country, with current president [[Hassan Sheikh Mohamud]] running for a second term. [https://www.theguardian.com/world/2017/feb/08/somalia-goes-to-polls-president-mohamud (''The Guardian'')]
+**In a surprise result, former [[Prime Minister of Somalia|Prime Minister]] [[Mohamed Abdullahi Mohamed]] is chosen as President. [http://www.bbc.co.uk/news/world-africa-38904663 (BBC)]
+*[[Cabinet of Donald Trump]]
+**The [[United States Senate]], in a 52 to 47 vote, confirms the nomination of [[Jeff Sessions]] as [[United States Attorney General]]. [https://www.theguardian.com/us-news/2017/feb/08/jeff-sessions-confirmed-attorney-general-senate (''The Guardian'')]
+
+;Science and technology
+*[[Intermediate-mass black hole]] and [[47 Tucanae]]
+**New strong evidence supporting the existence of an [[Intermediate-mass black hole]] is announced. [http://www.skyandtelescope.com/astronomy-news/best-evidence-yet-for-an-intermediate-mass-black-hole/ (Sky & Telescope)] [https://www.sciencedaily.com/releases/2017/02/170208131755.htm (Science Daily)] [http://www.nature.com/nature/journal/v542/n7640/full/nature21361.html (Nature)]
 <!-- All news items above this line -->|}
