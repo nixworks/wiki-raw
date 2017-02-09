@@ -3,13 +3,18 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[War in Donbass]]
-**[[Donetsk People's Republic]] commander [[Mikhail Tolstykh]], better known by his nom de guerre "Givi", is killed in a bomb blast in [[Makiivka]], [[Donetsk Oblast]]. DPR officials blame the [[Security Service of Ukraine]] for the attack. [http://www.bbc.co.uk/news/world-europe-38905110 (BBC)]
+**[[Donetsk People's Republic]] commander [[Mikhail Tolstykh]], better known by his [[Pseudonym#Noms_de_guerre|''nom de guerre'']] "Givi", is killed in a bomb blast in [[Makiivka]], [[Donetsk Oblast]]. DPR officials blame the [[Security Service of Ukraine]] for the attack. [http://www.bbc.co.uk/news/world-europe-38905110 (BBC)]
 *[[War in Afghanistan (2015–present)]]
 **Six [[Afghanistan|Afghan]] [[International Committee of the Red Cross|Red Cross]] workers are shot dead by suspected [[Islamic State of Iraq and the Levant – Khorasan Province|ISIL]] militants in the northern [[Jowzjan Province]]. Two other Red Cross workers are reportedly abducted. [http://www.bbc.co.uk/news/world-asia-38908312 (BBC)]
 *[[War in Somalia (2009–present)]]
 **Unknown gunmen storm a hotel in [[Bosaso]], leaving at least four guards and two militants dead. It is unclear who carried out the attack. An official blames [[Al-Shabaab (militant group)|Al-Shabaab]], though the group denies having any involvement. [http://www.aljazeera.com/news/2017/02/gunmen-kill-guards-attack-somalia-puntland-170208094641090.html (Al Jazeera)]
 *[[Syrian Civil War]]
 **[[Syrian opposition|Syrian rebels]], with backing from the [[Turkish Armed Forces]], advance on [[Islamic State of Iraq and the Levant|ISIL]]-held [[al-Bab]], capturing the outskirts of the town. [http://www.reuters.com/article/us-mideast-crisis-syria-albab-idUSKBN15N0RO (Reuters)]
+*[[Yemeni Civil War (2015–present)|Yemeni War]]
+**[[Yemen]] reassesses its permission to the [[United States]]   to run [[United States special operations forces|special operations]] ground missions against suspected terrorist groups  because of the civilian deaths in the the January 29 raid. Earlier reports indicated permission had been suspended. [https://www.nytimes.com/2017/02/07/world/middleeast/yemen-special-operations-missions.html?_r=0 (''The New York Times'')] [https://www.nytimes.com/2017/02/08/world/middleeast/yemen-raid-american-military.html (''The New York Times'')²]
+
+;Business and economics
+*The [[United States District Court for the District of Columbia|U.S. District Court for the District of Columbia]] blocks  health insurer [[Anthem Inc.]]'s proposed $54 billion merger with rival [[Cigna]] because  it would have exasperated already highly concentrated market and likely raised prices. [http://www.reuters.com/article/cigna-ma-anthem-idUSL1N1FU057 (Reuters)]
 
 ;Law and crime
 *[[ 2016–17 Turkish purges]]
@@ -26,5 +31,5 @@
 
 ;Science and technology
 *[[Intermediate-mass black hole]] and [[47 Tucanae]]
-**New strong evidence supporting the existence of an [[Intermediate-mass black hole]] is announced. [http://www.skyandtelescope.com/astronomy-news/best-evidence-yet-for-an-intermediate-mass-black-hole/ (Sky & Telescope)] [https://www.sciencedaily.com/releases/2017/02/170208131755.htm (Science Daily)] [http://www.nature.com/nature/journal/v542/n7640/full/nature21361.html (Nature)]
+**New strong evidence supporting the existence of an [[intermediate-mass black hole]] is announced. [http://www.skyandtelescope.com/astronomy-news/best-evidence-yet-for-an-intermediate-mass-black-hole/ (Sky & Telescope)] [https://www.sciencedaily.com/releases/2017/02/170208131755.htm (Science Daily)] [http://www.nature.com/nature/journal/v542/n7640/full/nature21361.html (Nature)]
 <!-- All news items above this line -->|}

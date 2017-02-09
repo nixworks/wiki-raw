@@ -1,5 +1,6 @@
 {{Current events header|2017|02|9}}
 
 <!-- All news items below this line -->
-*
+;Disasters and accidents
+*A fire at the [[Flamanville Nuclear Power Plant]] in northwest [[France]] caused an explosion in a "non-nuclear" part of the station. One reactor was taken offline and five people were affected by fumes. The accident did not cause radiocative leak. [http://in.reuters.com/article/france-nuclear-plant-explosion-flamanvil-idINKBN15O16X (Reuters)]
 <!-- All news items above this line -->|}
