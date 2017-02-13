@@ -42,5 +42,5 @@
 ;Science and technology
 *[[Solar eclipse of March 9, 2016]]
 **A total [[solar eclipse]] occurs in [[Indonesia]], and later, east of the [[international date line]], in the northern [[Pacific Ocean]]. A partial eclipse occurs in [[northern Australia]], [[South-East Asia]], and the [[Asia-Pacific|Pacific]]. [http://www.abc.net.au/news/2016-03-09/total-solar-eclipse-attracts-hordes-of-sky-gazers/7232406 (ABC News)]
-*[[Google]]'s [[Google DeepMind|DeepMind]] [[AlphaGo]] [[artificial intelligence]] program defeats [[South Korean people|South Korean]] grand master [[Lee Se-dol]] in the ancient game of [[Go (game)|Go]]. [http://www.theage.com.au/technology/sci-tech/go-master-walloped-by-emotionless-challenger-a-google-computer-program-20160309-gnf2hl.html (''The New York Times'' via ''Melbourne Age'')]
+*[[Google]]'s [[Google DeepMind|DeepMind]] [[AlphaGo]] [[artificial intelligence]] program defeats [[South Korea|South Korean]] grand master [[Lee Se-dol]] in the ancient game of [[Go (game)|Go]]. [http://www.theage.com.au/technology/sci-tech/go-master-walloped-by-emotionless-challenger-a-google-computer-program-20160309-gnf2hl.html (''The New York Times'' via ''Melbourne Age'')]
 <!-- All news items above this line -->|}
