@@ -1,5 +1,8 @@
 {{Current events header|2017|02|15}}
-
 <!-- All news items below this line -->
-*
+;Disasters and accidents
+* Up to 40 homes are destroyed as a bushfire rages out of control in the [[Port Hills]] immediately south of [[Christchurch]], [[New Zealand]] [http://www.stuff.co.nz/the-press/news/89420865/Homes-destroyed-hundreds-evacuated-as-Christchurch-Port-Hills-fire-rage-out-of-control (''Stuff'')]
+
+;Science and technology
+* The [[Indian Space Research Organisation]] launches a record [[PSLV-C37|104 satellites]] in single mission.[http://www.bbc.com/news/world-asia-india-38977803 (BBC)]
 <!-- All news items above this line -->|}
