@@ -1,6 +1,18 @@
 {{Current events header|2017|02|18}}
 
 <!-- All news items below this line -->
-;Armed conflicts and attacks
-*The [[Islamic State]] group is hemorrhaging money with every piece of territory it loses, according to a new analysis that found that the group's "business model" is on the path to failure. [http://news.mb.com/news (Manila Bulletin)]
+;Disasters and accidents
+*One person is killed and twenty are wounded when a passenger train derails near {{rws|Leuven}}, [[Belgium]]. [http://news.sky.com/story/passenger-train-derails-near-brussels-10772569 (Sky News)]
+*A bus traveling to [[Chile]] overturns in [[Argentina]]'s [[Mendoza Province]], killing at least 19 people. [http://www.reuters.com/article/us-argentina-crash-idUSKBN15X0EY?il=0 (Reuters)]
+
+;International relations
+*[[China–North Korea relations]], [[North Korea and weapons of mass destruction]]
+**[[China]]'s [[Ministry of Commerce of the People's Republic of China|Ministry of Commerce]] suspends all coal imports from [[North Korea]] until the end of 2017, as part of [[Sanctions against North Korea|international sanctions against North Korea]] over its ballistic missile program. [https://www.washingtonpost.com/world/china-suspends-north-koreas-coal-imports-striking-at-regimes-financial-lifeline/2017/02/18/8390b0e6-f5df-11e6-a9b0-ecee7ce475fc_story.html?utm_term=.f7f436a2eacf (''The Washington Post'')]
+
+;Politics and elections 
+*As many as fifty thousand people gather in [[Manila]] for a march organized by the Philippine [[Catholic Church in the Philippines|Catholic Church]] to protest the [[Philippine Drug War]]. [http://www.ibtimes.co.uk/tens-thousands-filipino-catholics-protest-against-death-penalty-dutertes-drug-war-1607241 (''IBTimes'')], [http://www.foxnews.com/world/2017/02/18/philippine-catholics-rally-vs-drug-killings-death-penalty.html (Fox News)]
+
+;Science and technology
+*[[SpaceX]] delays the launch of a [[Falcon 9]] rocket from [[Kennedy Space Center]] in [[Florida]] due to a technical issue. The Falcon 9 will resupply the [[International Space Station]]. [http://www.cnbc.com/2017/02/18/watch-spacex-rocket-blasts-off-from-historic-apollo-launchpad.html (CNBC)]
+
 <!-- All news items above this line -->|}
