@@ -2,10 +2,34 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
+*[[Syrian Civil War]], [[Raqqa offensive (2016–present)|Raqqa offensive]]
+**[[United States|U.S.]]-backed [[Syrian Democratic Forces|SDF]] forces on two fronts meet up northeast of [[Raqqa]], encircling a pocket of villages still held by [[ISIS]]. [http://www.rudaw.net/english/middleeast/syria/220220171 (Rudaw)]
 *[[Yemeni Civil War (2015–present)]]
 **A [[Houthis|Houthi]] missile attack on a [[Republic of Yemen Armed Forces|Yemeni military]] camp near the port city of [[Mocha, Yemen|Mocha]]  kills Major General Ahmed Saif al-Yafei, [[Yemen]]'s deputy chief of staff, and several others. [http://www.reuters.com/article/us-yemen-security-idUSKBN1610ND?il=0 (Reuters)]
 
+;Arts and culture
+*[[Amnesty International]] releases a report criticizing the rise of [[populism|populist]] leaders such as [[Donald Trump]] of the [[United States]], [[Viktor Orbán]] of [[Hungary]], [[Rodrigo Duterte]] of the [[Philippines]] and [[Recep Tayyip Erdoğan]] of [[Turkey]]. [https://www.washingtonpost.com/news/worldviews/wp/2017/02/22/amnesty-international-just-went-there-new-report-compares-politics-today-to-the-1930s/?utm_term=.bd70d89aa1ec (''The Washington Post'')]
+*[[Headscarf controversy in Turkey]]
+**The [[Politics of Turkey|Turkish government]] lifts the ban prohibiting female army officers from wearing a Muslim [[headscarf]]. The military is the last Turkish institution to end the ban. [http://www.bbc.com/news/world-europe-39053064 (BBC)] 
+
+;International relations
+*[[2017 Mexico–United States diplomatic crisis]]
+**[[Secretary of Foreign Affairs (Mexico)|Mexican Foreign Minister]] [[Luis Videgaray Caso]] rejects and condemns the  United States's new plan on [[Immigration policy of the Donald Trump administration|deporting undocumented immigrants]]. Videgaray Caso says Mexico cannot, "... accept unilateral decisions imposed by one government on another." [http://www.bbc.com/news/world-latin-america-39054999 (BBC)]
+
 ;Law and crime
-*[[South Africa]]'s [[Gauteng Division|North Gauteng High Court]] rules the government's decision last October to withdraw from the [[International Criminal Court]] was [[Constitution of South Africa|unconstitutional]], and instructs the government to revoke its [[International Criminal Court#History|notice of withdrawal]].  [http://bigstory.ap.org/article/109805faac52454283bc57d8fa7006d3/south-african-court-rules-against-icc-withdrawal (AP)]
+*[[South Africa]]'s [[Gauteng Division|North Gauteng High Court]] rules the government's decision last October to withdraw from the [[Rome Statute of the International Criminal Court|Rome Statute]] of the [[International Criminal Court]] was [[Constitution of South Africa|unconstitutional]], and instructs the government to revoke its notice of withdrawal. [http://bigstory.ap.org/article/109805faac52454283bc57d8fa7006d3/south-african-court-rules-against-icc-withdrawal (AP)], [http://www.npr.org/sections/thetwo-way/2017/02/22/516620190/court-blocks-south-africas-withdrawal-from-international-criminal-court (NPR)] 
 *Former [[Chief Executive of Hong Kong]] [[Donald Tsang]] is sentenced to 20 months in prison for corruption, becoming the highest officeholder in [[Hong Kong]]'s history to be convicted. [http://www.bbc.co.uk/news/world-asia-china-39048543 (BBC)]
+
+;Politics and elections 
+*The [[Presidency of Donald Trump|Trump administration]] revokes [[Barack Obama|Obama]]-era rules on [[Legal aspects of transgenderism|transgender rights]], namely the [[bathroom bill]]. [http://www.bbc.com/news/world-us-canada-39047883 (BBC)] [http://www.cnn.com/2017/02/22/politics/doj-withdraws-federal-protections-on-transgender-bathrooms-in-school (CNN)]
+*[[French presidential election, 2017]]
+**[[François Bayrou]] drops out in an effort to boost [[Emmanuel Macron]]. [https://www.theguardian.com/world/2017/feb/22/french-elections-centrist-bayrou-offers-alliance-with-macron (''The Guardian '')]
+
+;Science and technology
+*Seven [[Earth]]-like [[planet]]s are discovered in the [[Goldilocks zone]] of the star [[TRAPPIST-1]]. [https://www.theatlantic.com/science/archive/2017/02/seven-exoplanets/517446/ (''The Atlantic'')]
+
+;Sports
+*[[Eastern Sports Club]]'s manager [[Chan Yuen-ting]] becomes the first woman to coach a male football club in a top-flight continental competition with managing team against [[Guangzhou Evergrande Taobao F.C.|Guangzhou Evergrande]] in the [[2017 AFC Champions League|AFC Champions League]]. [http://www.skysports.com/football/news/11996/10777580/chan-yuen-ting-becomes-first-woman-to-manage-in-mens-continental-top-flight-competition (Sky Sports)]
+*[[2024 Summer Olympics]]
+**[[Budapest]] withdraws its bid, leaving [[Paris]] and [[Los Angeles]] as the two candidate cities for hosting the 2024 competition. [http://www.reuters.com/article/us-olympics-2024-budapest-idUSKBN1610YO (Reuters)] 
 <!-- All news items above this line -->|}
