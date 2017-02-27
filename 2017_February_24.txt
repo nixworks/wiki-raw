@@ -2,10 +2,9 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Syrian Civil War]]
-**[[Battle of al-Bab]]
-***The Turkish-backed [[Free Syrian Army]] captures [[Al-Bab]] from [[ISIL]] after months of fighting. [https://www.washingtonpost.com/world/middle_east/turkey-backed-rebels-enter-center-of-islamic-states-al-bab-strongholdin-syria/2017/02/23/e389a506-f9c3-11e6-9b3e-ed886f4f4825_story.html?utm_term=.75c63c75ef94 (''The Washington Post'')]
-***A car bomb explodes in the [[Syria]]n village of Sousian, north of [[al-Bab]], killing at least 60 people. [http://time.com/4681609/syria-car-bomb-death-toll/ (''Time'')], [http://www.bbc.com/news/world-middle-east-39075851 (BBC)], [http://hosted.ap.org/dynamic/stories/M/ML_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
+*[[Syrian Civil War]], [[Battle of al-Bab]]
+**The Turkish-backed [[Free Syrian Army]] captures [[Al-Bab]] from [[ISIL]] after months of fighting. [https://www.washingtonpost.com/world/middle_east/turkey-backed-rebels-enter-center-of-islamic-states-al-bab-strongholdin-syria/2017/02/23/e389a506-f9c3-11e6-9b3e-ed886f4f4825_story.html?utm_term=.75c63c75ef94 (''The Washington Post'')]
+**A car bomb explodes in the [[Syria]]n village of Sousian, north of [[al-Bab]], killing at least 60 people. [http://time.com/4681609/syria-car-bomb-death-toll/ (''Time'')], [http://www.bbc.com/news/world-middle-east-39075851 (BBC)], [http://hosted.ap.org/dynamic/stories/M/ML_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
 *[[Foreign involvement in the Syrian Civil War]]
 **The [[Iraqi Air Force]] strikes [[Islamic State of Iraq and the Levant|ISIL]] targets inside [[Syria]] for the first time in response to recent bombings in [[Baghdad]]. [https://www.rt.com/news/378485-iraq-airstrikes-isis-syria/ (RT)]
 *[[Yemeni Civil War (2015–present)]]
