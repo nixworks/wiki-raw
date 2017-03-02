@@ -3,5 +3,15 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Syrian Civil War]]
-**The [[Syrian Army]] and its allies enter [[Palmyra]] as part of its operations against [[Islamic State in Iraq and the Levant]]. [http://www.news.com.au/world/breaking-news/syrian-army-and-allies-enter-palmyra/news-story/6d168d42e114632383b338fe4b63d007 (DPA via News Limited)]
+**[[Palmyra offensive (2017)]] 
+***The [[Syrian Army]] and its allies enter [[Palmyra]] as part of its operations against [[Islamic State of Iraq and the Levant]]. [http://www.news.com.au/world/breaking-news/syrian-army-and-allies-enter-palmyra/news-story/6d168d42e114632383b338fe4b63d007 (DPA via News Limited)]
+**[[East Aleppo offensive (February 2017)]]
+***The [[Syrian Democratic Forces]] hand over a vast expanse of territory west of [[Manbij]] to the [[Syrian Army]] to create a buffer zone between the SDF and the [[Turkish military intervention in Syria|Turkish-backed rebels]]. [https://www.almasdarnews.com/article/breaking-kurdish-led-sdf-handover-huge-section-territory-saa/ (Al-Masdar News)]
+*[[War in North-West Pakistan]]
+**A [[United States]] drone strike kills two alleged militants in the [[Kurram Valley|Kurram]] district of the [[Federally Administered Tribal Areas]]. [http://www.rferl.org/a/pakistan-u-s-drone-kills-two-motorbike/28343342.html (Radio Free Europe/Radio Liberty)]
+
+;Politics and elections
+*[[Northern Ireland Assembly election, 2017]]
+**[[Northern Irish]] voters go to the polls to elect their new MLA representatives after a snap election was called following the resignation of Deputy First minister [[Martin McGuinness]] of [[Sinn Féin]] over the mishandling by [[Democratic Unionist Party]] over the recent [[Renewable Heat Incentive scandal]]. [http://www.bbc.co.uk/news/election-northern-ireland-2017-39128501 (BBC News)]
+*[[Sweden]] announces its intention to reintroduce [[conscription]] in response to new global security challenges. The government plans on submitting a bill to the [[Riksdag]] to approve the measure for conscription to begin this summer and last for 11 months. [http://www.aljazeera.com/news/2017/03/compulsory-11-month-military-service-face-threats-170302104725356.html (Al Jazeera)]
 <!-- All news items above this line -->|}
