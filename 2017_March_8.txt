@@ -23,4 +23,7 @@
 ;Politics and elections
 *The [[Day Without a Woman]] general strike occurs. [http://www.theverge.com/2017/3/8/14821154/day-without-a-woman-media-journalism-strike (''The Verge'')]
 
+;Science and technology
+*[[Exploration of Mars#Timeline of Mars exploration|Timeline of Mars exploration]]
+**[[U.S. Congress]] passes bill that mandates [[NASA]] send humans to [[Mars]] by 2033. [http://www.businessinsider.com/nasa-funding-authorization-bill-2017-3 (''Business Insider'')] [http://gizmodo.com/congress-just-ordered-nasa-to-get-crackin-on-mars-and-a-1793109838 (''Gizmodo'')]
 <!-- All news items above this line -->|}
