@@ -1,7 +1,21 @@
 {{Current events header|2017|03|13}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[War in Afghanistan (2015–present)]]
+**At least one person is killed and another eight are wounded after a suicide bomber attacks a bus carrying government employees in [[Kabul]]. [http://www.aljazeera.com/news/2017/03/deadly-blast-destroys-bus-afghan-capital-170313134449741.html (Al Jazeera)]
+*[[War in Somalia (2009–present)]]
+**A vehicle filled with explosives detonates near a hotel in [[Mogadishu]], killing at least six people and wounding four others. [http://www.aljazeera.com/news/2017/03/large-explosion-heard-somali-capital-mogadishu-170313074931083.html (Al Jazeera)]
+*[[Syrian Civil War]]
+**According to the [[Syrian Observatory for Human Rights]], the total number of people killed and missing in [[Syria]]'s war is now 465,000. [http://www.reuters.com/article/us-mideast-crisis-syria-casualties-idUSKBN16K1Q1 (Reuters)]
+
+;International relations
+*[[2017 Dutch–Turkish diplomatic incident]]
+**[[Turkey]] bans the [[Netherlands|Dutch]] ambassador, Cornelis Van Rij, from returning to the [[Embassy of the Netherlands, Ankara|Embassy of the Netherlands]] in [[Ankara]], and closes its airspace to Dutch diplomats in response to a Dutch ban on Turkish ministers speaking at pro-[[Recep Tayyip Erdoğan|Erdoğan]] rallies. [https://www.theguardian.com/world/2017/mar/13/turkey-summons-dutch-envoy-over-riot-police-tactics-in-rotterdam (''The Guardian'')]
+
 ;Politics and elections
 *[[Proposed second Scottish independence referendum]]
 **[[Scotland]]'s [[First Minister of Scotland|First Minister]] [[Nicola Sturgeon]] announces she will seek a second referendum on [[Scottish independence]] from the [[United Kingdom]]. [http://www.bbc.co.uk/news/uk-scotland-scotland-politics-39255181 (BBC)]
+*[[Immigration policy of Donald Trump|United States immigration ban]]
+**The state of [[Washington (U.S. state)|Washington]], joined by the states of [[California]], [[Maryland]], [[Massachusetts]], [[New York]], and [[Oregon]], asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of [[Hawaii]] files a separate, similar request. [http://www.reuters.com/article/us-usa-immigration-idUSKBN16K264 (Reuters)] 
 <!-- All news items above this line -->|}
