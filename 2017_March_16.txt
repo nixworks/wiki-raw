@@ -1,19 +1,24 @@
 {{Current events header|2017|03|16}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Piracy off the coast of Somalia]]
+**The [[Somalia|Somali]] pirates that hijacked the ''Aris 13'', a [[United Arab Emirates]]-owned oil tanker, release it without condition. [http://www.bbc.com/news/world-africa-39295936 (BBC)]
+*[[Syrian Civil War]]
+**An airstrike on a mosque in the rebel-held village of al-Jineh near [[Aleppo]], kills at least 42 people. It is unclear who was behind the airstrike. [http://www.bbc.co.uk/news/world-middle-east-39299266 (BBC)]
+
 ;Disasters and accidents
-*At least ten people are injured, including several [[BBC News]] crew, following an eruption at [[Mount Etna]] on the [[Italy|Italian]] island of [[Sicily]]. [http://www.independent.co.uk/news/world/europe/mount-etna-eruption-injured-bbc-crew-tourists-explosion-sicily-a7633286.html (''The Independent'')] [http://www.reuters.com/article/us-italy-etna-idUSKBN16N270 (Reuters)]
+*An eruption at [[Mount Etna]] on the [[Italy|Italian]] island of [[Sicily]] injures at least ten people, including several in a [[BBC News]] crew. [http://www.independent.co.uk/news/world/europe/mount-etna-eruption-injured-bbc-crew-tourists-explosion-sicily-a7633286.html (''The Independent'')], [http://www.reuters.com/article/us-italy-etna-idUSKBN16N270 (Reuters)]
 
 ;Law and crime
-*At least eight people are injured in a shooting at a school in [[Grasse]], [[France]]. A 17-year-old student has been arrested. [http://www.telegraph.co.uk/news/2017/03/16/several-injured-shooting-french-secondary-school/ (''The Telegraph'')]
+*A shooting at a school in [[Grasse]], [[France]], injures at least eight people. Authorities arrest a 17-year-old student. [http://www.telegraph.co.uk/news/2017/03/16/several-injured-shooting-french-secondary-school/ (''The Telegraph'')]
+*A [[letter bomb]] explodes at the office of the [[International Monetary Fund]] (IMF) in [[Paris]], injuring one person. [http://www.bbc.com/news/world-europe-39292671 (BBC)]
 
 ;Politics and elections
 *[[Executive Order 13780|United States immigration ban]]
-**A second U.S. federal judge in [[Maryland]], grants the state's motion for a temporary restraining order on the ban. [https://www.washingtonpost.com/local/social-issues/second-federal-judge-blocks-revised-trump-travel-ban/2017/03/16/dc47cd1e-0a2a-11e7-93dc-00f9bdd74ed1_story.html?tid=ss_tw&utm_term=.c26a55b1f01f (''The Washington Post'')]
+**A second U.S. federal judge, [[Theodore D. Chuang]] of [[Maryland]], grants that state's motion for a temporary restraining order on President Trump's revised travel ban. [https://www.washingtonpost.com/local/social-issues/second-federal-judge-blocks-revised-trump-travel-ban/2017/03/16/dc47cd1e-0a2a-11e7-93dc-00f9bdd74ed1_story.html (''The Washington Post'')]
 
 ;Science and technology
 *[[List of Falcon 9 and Falcon Heavy launches]]
-**[[SpaceX]] successfully launches the [[EchoStar|EchoStar 23]] satellite in a [[Geostationary transfer orbit|geosynchronous transfer orbit]], using the fully expendable version of their [[Falcon 9]] launch vehicle.[https://www.nasaspaceflight.com/2017/03/falcon-9-expendable-echostar-23/ (NasaSpaceflight)]
-<!-- All news items above this line -->|
-
+**[[SpaceX]] successfully launches the [[EchoStar|EchoStar 23]] satellite, a Direct-to-home television broadcast services for [[Brazil]], into a [[Geostationary transfer orbit|geosynchronous transfer orbit]], using the fully expendable version of their [[Falcon 9]] launch vehicle. [https://www.nasaspaceflight.com/2017/03/falcon-9-expendable-echostar-23/ (NASA Spaceflight)]
 <!-- All news items above this line -->|}

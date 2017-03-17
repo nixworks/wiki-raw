@@ -9,5 +9,6 @@
 * [[Nobel Prize]]:
 ** [[United States]] [[Economics|economist]] [[Paul Krugman]] wins the [[2008]] [[Nobel Prize in Economics]] for "analysis of trade patterns and location of economic activity".[http://ap.google.com/article/ALeqM5hvgJXYzXRBOttYAflCSJumnfVXxQD93PIQRG0 (AP via Google News)]
 * The [[U.S. Federal Reserve]] approves the merger of [[Wells Fargo]] and [[Wachovia]] after [[Citigroup]] withdraws the legal case in a New York federal court to put a hold on the [[Wachovia#Merger_with_Wells_Fargo|merger]].
+* The [[Natural Capital]] Project releases the first version of [http://data.naturalcapitalproject.org/invest-releases/ (InVEST)], an open source [[ecosystem service]] evaluation software inspired by the [[Millennium Ecosystem Assessment]].
 
 <!-- All news items above this line -->{{Current events footer}}
