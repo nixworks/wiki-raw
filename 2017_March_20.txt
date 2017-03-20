@@ -1,5 +1,7 @@
 {{Current events header|2017|03|20}}
 
 <!-- All news items below this line -->
-*
+*<!--
+*The House Intelligence Committee held a hearing about alleged Russian interference in the 2016 election.<ref>http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=105722</ref> Appearing before the committee were FBI Director [[James Comey]] and NSA Director [[Michael Rogers]].<ref>http://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=105722</ref>
+*The Senate Judiciary Committee began hearings on the nomination of Judge [[Neil M. Gorsuch]] to the United States Supreme Court.<ref>https://www.judiciary.senate.gov/meetings/nomination-of-the-honorable-neil-m-gor</ref> Judge Gorsuch currently sits as a judge on the [[United States Court of Appeals for the Tenth Circuit]].<ref>https://www.ca10.uscourts.gov/judges/judge-neil-m-gorsuch</ref>  --->
 <!-- All news items above this line -->|}
