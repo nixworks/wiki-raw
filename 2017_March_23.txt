@@ -1,5 +1,17 @@
 {{Current events header|2017|03|23}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[2017 Westminster attack]]
+**Up to eight people are arrested in pre-dawn raids in connection with yesterday's attack. [http://www.foxnews.com/world/2017/03/23/london-attack-british-police-reportedly-make-arrests-in-raid-on-home.html (''FOX News'')] 
+**British Police announces that the name of the attacker is British-born Pakistani Khalid Masood. [http://www.reuters.com/article/us-britain-security-attacker-idUSKBN16U26E (Reuters)] 
+
+;Arts and culture
+*The American city of [[Fort Collins, Colorado]] announces its intention to appeal a federal judge ruling that blocked the city’s ban on women appearing topless in public. [http://www.msn.com/en-us/news/us/city-vows-to-appeal-ruling-that-allows-women-to-go-topless/ar-BByBZSi?li=BBnbfcL&ocid=iehp (USA Today via MSN)]
+
+;Disasters and accidents
+*A series of explosions on a military base near the [[Ukraine|Ukrainian]] city [[Balakliya]] forces thousands to be evacuated from their homes. [http://www.bbc.com/news/world-europe-39363416 (''BBC'')]
+
+;Politics and elections
+*Former [[Russian Duma]] deputy [[Denis Voronenkov]] is assasinated in the [[Ukraine|Ukrainian]] capital [[Kiev]]. Reportedly he was seeking political asylum. [https://themoscowtimes.com/news/breaking-former-russian-parliamentarian-and-putin-critic-shot-dead-in-kiev-57513 (''The Moscow Times'')]
 <!-- All news items above this line -->|}
