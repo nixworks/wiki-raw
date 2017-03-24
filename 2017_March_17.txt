@@ -16,4 +16,6 @@
 
 ;Politics and elections
 *The former [[Democratic National Committee]] chair and ex-[[CNN]] contributor [[Donna Brazile]] admits that she had forwarded some [[Podesta emails#Debate questions shared by Donna Brazile|debate questions]] to [[Hillary Clinton]]'s campaign during last year's [[Democratic Party (United States)|Democratic]] primary before two debates with [[Bernie Sanders]]. [http://www.nydailynews.com/news/politics/donna-brazile-finally-admits-giving-debate-questions-clinton-article-1.3002221 (''The New York Daily News'')]
+;Science
+*French mathematician [[Yves Meyer]] wins the [[Abel Prize]] for his work on the mathematical theory of [[wavelet]]s. [https://www.theguardian.com/science/alexs-adventures-in-numberland/2017/mar/21/abel-prize-2017-yves-meyer-wins-maths-nobel-for-work-on-wavelets ''The Guardian'']
 <!-- All news items above this line -->|}
