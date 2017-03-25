@@ -1,5 +1,14 @@
 {{Current events header|2017|03|25}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[War in Afghanistan (2015–present)]]
+**According to a local police chief, at least seven militants are killed by [[Afghan National Police|Afghan security forces]] in [[Logar Province]]. [https://www.rferl.org/a/afghanistan-logar-operation-militants-killed/28390370.html (Radio Free Europe/Radio Liberty)]
+*[[Syrian Civil War]]
+**At least 16 people are killed by multiple airstrikes on a prison in [[Idlib]], according to the [[Syrian Observatory for Human Rights]]. [https://www.rferl.org/a/syria-idlib-bombing-kills-16/28390367.html (Radio Free Europe/Radio Liberty)]
+*[[March 2017 Israel–Syria incident]]
+**In response to several Israeli airstrikes against suspected [[Hezbollah]]-related targets inside [[Syria]], Syrian president [[Bashar al-Assad]] has threatened wider war with the [[Israel|State of Israel]], stating its intention to fire [[Scud]] missiles, and specifically target the Israeli city of [[Haifa]]. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to begin targeting Syrian air defense systems. [http://www.timesofisrael.com/syria-threatens-to-fire-scud-missiles-at-israel-report/ (Times of Israel)]
+
+;Arts and culture
+* The [[Driehaus Architecture Prize]] for [[New Classical architecture]] is awarded to [[ADAM Architecture|Robert Adam]] in [[Chicago]]. [https://archpaper.com/2017/01/2017-driehaus-prize-laureate/ (The Architect's Newspaper)]
 <!-- All news items above this line -->|}
