@@ -1,5 +1,9 @@
 {{Current events header|2017|03|26}}
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[Bulgarian parliamentary election, 2017]]
+**[[Bulgaria]]ns vote to elect a new [[Prime Minister of Bulgaria|Prime Minister]] after the resignation of [[Boyko Borissov]]. Opinion polls predict a close contest between Borissov's centre-right [[GERB]] and the [[Bulgarian Socialist Party|Socialist Party]]. [http://www.economist.com/news/europe/21719578-new-anti-graft-party-generates-excitement-it-may-struggle-win-seats-bulgarias-election (''The Economist'')]
+*[[Hong Kong Chief Executive election, 2017]]
+**The [[Hong Kong]] [[Election Committee]] meets to select a new [[Chief Executive of Hong Kong|Chief Executive]]. [[Carrie Lam]] becomes the first female Chief Executive. [http://www.telegraph.co.uk/news/2017/03/26/hong-kong-chief-executive-election-need-know/ (''The Telegraph'')], [https://www.nytimes.com/2017/03/26/world/asia/hong-kong-election-carrie-lam-chief-executive.html  (''New York Times'')]
 <!-- All news items above this line -->|}
