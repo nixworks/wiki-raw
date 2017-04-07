@@ -1,5 +1,8 @@
 {{Current events header|2017|04|7}}
 
 <!-- All news items below this line -->
-*
+*[[Syrian Civil War]]
+** [[2017 Shayrat strike]]
+***The [[United States]] launches dozens of missiles aimed at the Ash Sha'irat air base in [[Homs Governorate]] in response to the [[Government of Syria|Syrian government]]'s alleged use of [[chemical weapons]] in its [[Khan Shaykhun chemical attack|attack]] on the town of [[Khan Shaykhun]]. [http://www.nbcnews.com/news/us-news/u-s-launches-missiles-syrian-base-after-chemical-weapons-attack-n743636?cid=eml_nbn_20170406 (NBC News)]
+
 <!-- All news items above this line -->|}
