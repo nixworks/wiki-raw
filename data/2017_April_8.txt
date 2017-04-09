@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[War in Afghanistan (2015–present)]]
+*[[War in Afghanistan (2015–present)|War in Afghanistan]]
 **A [[United States special operations forces|U.S. special forces]] service member is killed while taking part in an operation against [[Islamic State of Iraq and the Levant|ISIL]] militants in [[Afghanistan]]'s eastern [[Nangarhar Province]]. [http://news.sky.com/story/us-special-forces-soldier-killed-in-operation-against-is-in-afghanistan-10830909 (Sky News)]
 
 ;Disasters and accidents
@@ -11,9 +11,6 @@
 *[[Cyclone Debbie]]
 **Another body has been found after flooding in eastern [[Queensland]], raising the death toll to twelve. [http://www.abc.net.au/news/2017-04-08/queensland-floods-man-missing-mondure-found/8428074 (ABC News)]
 *At least 20 people are killed when a boat carrying wedding guests collides with a river barge in western [[Myanmar]]. [http://www.news24.com/news24/World/News/20-killed-in-myanmar-wedding-boat-crash-20170408-2 (AFP via News24)]
-
-;History
-* German historian Paul Hoser discovered that [[Adolf Hitler]] lived for nearly a decade in a home overseen by a Jewish landlord. [http://hosted.ap.org/dynamic/stories/E/EU_GERMANY_HITLERS_LANDLORD?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2017-04-08-16-01-51 (The Associated Press)]
 
 ;Law and crime
 * [[ETA_(separatist_group)#2011_permanent_ceasefire_and_cessation_of_armed_activity|ETA ceasefire negotiations]]
