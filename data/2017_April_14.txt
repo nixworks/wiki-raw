@@ -19,7 +19,7 @@
 **More than 2,000 migrants are rescued from the [[Mediterranean Sea]] off the coast of [[Libya]]. [http://www.reuters.com/article/us-europe-migrants-rescue-idUSKBN17G1HE (Reuters)]
 *[[Global surveillance disclosures (2013–present)]]
 **The [[Shadow Brokers]] group releases files allegedly from the [[National Security Agency]] which indicate efforts to monitor financial transactions made through the [[Society for Worldwide Interbank Financial Telecommunication]]. [http://www.reuters.com/article/us-usa-cyber-swift-idUSKBN17G1HC (Reuters)]
-**The release also includes programs targeting [[Microsoft Windows]] operating systems. [https://www.engadget.com/2017/04/14/shadow-brokers-dump-windows-zero-day/ (Engadget)]
+**The release also includes programs targeting [[Microsoft Windows]] operating systems. [[Microsoft]] announces that it had already fixed most of these exploits. [https://www.engadget.com/2017/04/14/shadow-brokers-dump-windows-zero-day/ (Engadget)] [https://motherboard.vice.com/en_us/article/we-can-calm-down-microsoft-already-patched-most-of-the-shadow-brokers-exploits (''Motherboard'')]
 
 ;Politics and elections
 *[[Iranian presidential election, 2017]]
