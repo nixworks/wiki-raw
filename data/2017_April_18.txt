@@ -1,15 +1,29 @@
 {{Current events header|2017|04|18}}
 
 <!-- All news items below this line -->
+;Business and economy
+*[[American]] [[consumer goods]] company [[Post Holdings]] has agreed to acquire [[British]] cereal maker [[Weetabix Limited]] from [[China]]'s [[Bright Food]] for $1.8 billion. [http://www.reuters.com/article/us-weetabix-m-a-post-holdings-idUSKBN17J1Q4 (Reuters)]
+
 ;Disasters and accidents
 *At least 24 people are dead after a Leomarick Trans bus fell into a ravine in the [[Philippines]] province of [[Nueva Ecija]]. [http://www.rappler.com/nation/167237-dead-nueva-ecija-bus-crash (Rappler)]
+*Twelve [[Saudi Arabia]]n military officers die after their [[Sikorsky UH-60 Black Hawk]] crashes in Yemen's [[Ma'rib Governorate]]. [http://www.reuters.com/article/us-yemen-security-saudi-idUSKBN17K1W0?il=0 (Reuters)]
+*[[Libya]]n fisherman discover the bodies of 28 migrants in a broken-down boat off the coast of [[Sabratha]]. [http://www.reuters.com/article/us-europe-migrants-europe-idUSKBN17K1XU?il=0 (Reuters)]
+*French Interior Minister [[Matthias Fekl]] announced that police have foiled an "imminent and violent" attack in [[Marseille]], arresting two suspects and confiscating weapons and bomb materiel. [https://www.theguardian.com/world/2017/apr/18/french-police-arrest-two-over-attack-plot-days-before-presidential-vote-marseille (The Guardian)]
 
 ;Law and crime
 *The [[Supreme Court of the United States]] refused to vacate a stay of execution issued by the [[Arkansas Supreme Court]].  That state’s highest court has also put on hold the execution of another inmate.  [[Arkansas]] had planned to execute eight inmates in eleven days.  That schedule, as well as the use of the drug [[midazolam]], sparked a broad range of legal challenges and humanitarian concerns about the executions.  Today's planned execution would have been the state's first since 2005. [http://www.cnn.com/2017/04/17/us/arkansas-executions/index.html (CNN)] [https://www.nytimes.com/2017/04/17/us/mondays-arkansas-execution-halted-by-state-justices.html (''The New York Times'')]
-*Steve Stephens, the Suspected "Facebook Killer" accused of killing 74 year-old Robert Goodwin, killed himself after a brief pursuit with the [[Pennsylvania]] state police. [http://www.cnn.com/2017/04/18/us/cleveland-facebook-killing-video/index.html] (CNN)
+*[[Shooting of Robert Godwin]]
+**Steve Stephens, the suspected "Facebook Killer" accused of killing 74 year-old Robert Godwin, kills himself after a brief pursuit with the [[Pennsylvania]] state police. [http://www.cnn.com/2017/04/18/us/cleveland-facebook-killing-video/index.html (CNN)]
+
 ;Politics and elections
+*[[French presidential election, 2017]]
+**With polls showing her in a three-way with [[Emmanuel Macron]] and [[Jean-Luc Mélenchon]],  [[Marine Le Pen]] of the [[National Front (France)|National Front]] pledged to suspend all [[immigration to France|immigration, "legal and illegal"]], to [[France]]. [http://www.bbc.com/news/world-europe-39625509 (BBC)], [http://www.cnn.com/2017/04/18/europe/france-election-le-pen-macron/index.html (CNN)]
 *[[United Kingdom general election, 2017]]
 **[[United Kingdom|British]] [[Prime Minister of the United Kingdom|Prime Minster]] [[Theresa May]] proposes that a [[snap election]] for the [[House of Commons of the United Kingdom|House of Commons]] will be held [[United Kingdom general election, 2017|on the 8th of June]]. A two-thirds majority of the House of Commons is needed to approve this, eventually tomorrow. The [[Labour Party (UK)|Labour]] and [[Liberal Democrats (UK)|Liberal Democrats]] party leaders have expressed their support. [http://www.bbc.co.uk/news/uk-politics-39629603 (BBC)] [https://www.nytimes.com/2017/04/18/world/europe/uk-theresa-may-general-election.html (''The New York Times'')]
 *[[Georgia's 6th congressional district special election, 2017]]
 **[[Democratic Party (United States)|Democratic]] candidates, including [[Jon Ossoff]], face off with [[Republican Party (United States)|Republican]] candidates in a primary for a [[United States House of Representatives|U.S. House]] seat vacated by [[Tom Price (U.S. politician)|Tom Price]] in a suburb of [[Atlanta]], [[Georgia (U.S. state)|Georgia]], which is seen by the [[mainstream media]] as a ''de facto'' referendum on [[Donald Trump]].  [http://politics.blog.ajc.com/2017/04/17/jon-ossoff-on-georgia-special-election-were-prepared-for-any-outcome/ (''Atlanta Journal Constitution'')] [https://www.nytimes.com/2017/04/18/us/politics/georgia-special-election-jon-ossoff.html (''The New York Times'')]
+*[[Zambia]]n opposition leader and presidential election runner-up [[Hakainde Hichilema]] is charged with [[treason]] and "trying to overthrow the government". [http://www.reuters.com/article/us-zambia-politics-idUSKBN17K22J?il=0 (Reuters)]
+
+;Science and technology
+*Scientists announce, through the ''[[Proceedings of the National Academy of Sciences of the United States of America]]'', that live specimens of the rare ''[[Kuphus|Kuphus polythalamia]]'' (Giant shipworm) have been discovered for the first time in the [[Philippines]]. [http://www.bbc.co.uk/news/world-asia-39626131 (BBC)] 
 <!-- All news items above this line -->|}
