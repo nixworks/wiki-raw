@@ -2,7 +2,9 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*At least 24 people are dead after a Leomarick Trans bus crashes into a [[ravine]] in the [[Philippines]] province of [[Nueva Ecija]]. [http://www.rappler.com/nation/167237-dead-nueva-ecija-bus-crash (appler)]
+*At least 24 people are dead after a Leomarick Trans bus fell into a ravine in the [[Philippines]] province of [[Nueva Ecija]]. [http://www.rappler.com/nation/167237-dead-nueva-ecija-bus-crash (Rappler)]
+
 ;Politics and elections
-*[[British]] Prime Minster [[Theresa May]] has announced her intention to [hold a snap general election on the 8th of June][Next UK general election] [http://www.bbc.co.uk/news/uk-politics-39629603 (BBC)]
+*[[United Kingdom general election, 2017]]
+**[[United Kingdom|British]] [[Prime Minister of the United Kingdom|Prime Minster]] [[Theresa May]] announces that a [[snap election]] for the [[House of Commons of the United Kingdom|House of Commons]] will be held [[United Kingdom general election, 2017|on the 8th of June]]. [http://www.bbc.co.uk/news/uk-politics-39629603 (BBC)], [https://www.nytimes.com/2017/04/18/world/europe/uk-theresa-may-general-election.html (''New York Times'')]
 <!-- All news items above this line -->|}
