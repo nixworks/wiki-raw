@@ -3,14 +3,29 @@
 <!-- All news items below this line -->
 ;Business and economy
 *[[General Motors]] halts production in [[Venezuela]] after the [[Government of Venezuela|government]] seizes its plants. [http://money.cnn.com/2017/04/20/news/gm-venezuela-plant-seized/ (CNN)]
+*[[America]]n high-speed electronic trading company [[Virtu Financial]] has agreed to buy its rival [[KCG Holdings]] for $1.4 billion. [http://www.reuters.com/article/deals-day-idUSL3N1HS3P0 (Reuters)]
+*The [[United Kingdom]] government has agreed to sell the [[UK Green Investment Bank]] to a group led chiefly by [[Australia]]n financial firm [[Macquarie Group]] for $3 billion, in a deal criticized as not securing the future of the bank. [http://www.reuters.com/article/deals-day-idUSL3N1HS3P0 (Reuters)]
+*[[Tesla Motors]] has announced the recall of 50,000 [[Tesla Model S]] and [[Tesla Model X]] cars for a "brake issue". [http://www.reuters.com/article/us-tesla-recall-idUSKBN17M28A?il=0 (Reuters)]
 
 ;Law and crime
 *[[Australian nationality law]]
-**[[Australia]] restricts its citizenship application process. [http://www.bbc.com/news/world-australia-39637770 (BBC)]
+**[[Australia]] adds stricter requirements to its citizenship application process, including harder tests on English language skills and the requirement that a migrant be able to demonstrate "Australian values". [http://www.bbc.com/news/world-australia-39637770 (BBC)]
+*The [[Supreme Court of Russia]] labels [[Jehovah's Witnesses]] as "extremists", effectively banning the organisation. [http://www.independent.co.uk/news/world/europe/russia-jehovahs-witnesses-ban-extremists-religion-christian-sect-vladimir-putin-supreme-court-a7693671.html (''The Independent'')]
+*The [[Government of India]] revokes the [[Public Health Foundation of India]]'s registration, allegedly for  foreign-funded lobbying practices. [http://timesofindia.indiatimes.com/india/mha-says-phfi-violated-law-by-lobbying-mps-media-on-tobacco-control/articleshow/58271359.cms (''Times of India'')]
 
 ;Politics and elections
+*[[French presidential election, 2017]]
+**New polls show [[Francois Fillon]] and [[Jean-Luc Melenchon]] neck and neck behind the frontrunners [[Emmanuel Macron]] and [[Marine Le Pen]] ahead of the upcoming first round of the election. [http://www.reuters.com/article/us-france-election-idUSKBN17M16V?il=0 (Reuters)]
+**Former French Prime Minister [[Dominique de Villepin]] has announced he is backing [[Emmanuel Macron]] in the election. [http://www.reuters.com/article/us-france-election-villepin-idUSKBN17M28Z?il=0 (Reuters)]
+*[[United Kingdom general election, 2017]]
+**[[Jeremy Corbyn]], the leader of the opposition [[Labour Party (United Kingdom)|Labour Party]], positions himself as an 'anti-establishment' candidate as he vows to end the 'rigged' system. [http://www.bbc.com/news/uk-politics-39649119 (BBC)]
 *[[Philippine presidential election, 2016]]
 **[[Bongbong Marcos]] asks the Philippine [[Supreme Court of the Philippines|Supreme Court]] to dismiss a counter-protest by current [[Vice President of the Philippines|vice president]] [[Leni Robredo]] regarding her narrow victory in last year's national elections. [http://www.rappler.com/nation/167429-bongbong-marcos-dismiss-robredo-counter-protest (Rappler)]
+*[[Chilean general election, 2017]]
+**Polls show left-leaning [[Antofagasta]] senator [[Alejandro Guillier]] leading right-leaning former President [[Sebastián Piñera]] 33% to 32%. [http://www.reuters.com/article/us-chile-politics-idUSKBN17M28V?il=0 (Reuters)]
 *[[Georgia's 6th congressional district special election, 2017]]
 **Both [[Paul Ryan]] and [[Tom Perez]] plan to campaign for the local candidates [[Karen Handel]] and [[Jon Ossoff]] respectively. [http://thehill.com/homenews/campaign/329633-ryan-to-campaign-with-georgia-runoff-candidate-report (''The Hill'')], [http://www.cnn.com/2017/04/19/politics/tom-perez-georgia-special-election-cnntv/ (CNN)]
+
+;Science and technology
+*[[China]] launches its first [[cargo spacecraft]], the [[Tianzhou 1]], carried by a [[Long March 7]] rocket. [http://news.xinhuanet.com/english/2017-04/20/c_136224081.htm (''Xinhuanet'')]
 <!-- All news items above this line -->|}
