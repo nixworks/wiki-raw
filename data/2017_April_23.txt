@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[War in Donbass]]
-** An [[United States|American]] member of the [[Organization for Security and Co-operation in Europe|OSCE]] monitoring mission was killed and two others injured after their vehicle drove over a [[mine]] near [[Luhansk]]. [https://www.rferl.org/a/ukraine-osce-member-killed-mine-blast/28447060.html (''RFE/RL'')]
+** An [[United States|American]] member of the [[Organization for Security and Co-operation in Europe|OSCE]] monitoring mission was killed and two others injured after their vehicle drove over a [[land mine]] near [[Luhansk]]. [https://www.rferl.org/a/ukraine-osce-member-killed-mine-blast/28447060.html (''RFE/RL'')]
  
 ;International relations
 *[[North Korea–United States relations]]
@@ -15,6 +15,4 @@
 ;Politics and elections
 *[[French presidential election, 2017]]
 **Voters in France go to the polls to elect a new [[President of France|President]]. [https://thewire.in/127060/france-presidential-election/ (''The Wire'')]
-*[[Accession of Turkey to the European Union]]
-**Referring to European governments' continued criticism of his government, the Turkish President [[Recep Tayyip Erdoğan]] warns that "If Europe continues this way, no European in any part of the world can walk safely on the streets". [https://www.independent.co.uk/news/world/europe/turkey-erdogan-germany-netherlands-warning-europeans-not-walk-safely-a7642941.html (The Independent)]
 <!-- All news items above this line -->|}
