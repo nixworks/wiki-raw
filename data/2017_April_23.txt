@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[War in Donbass]]
-** A [[United States|U.S.]] member of the [[Organization for Security and Co-operation in Europe|OSCE]] monitoring mission is killed and two others injured after their vehicle drove over a [[land mine]] near [[Luhansk]]. [https://www.rferl.org/a/ukraine-osce-member-killed-mine-blast/28447060.html (Radio Free Europe/Radio Liberty)]
+** A [[United States|U.S.]] member of the [[Organization for Security and Co-operation in Europe|OSCE]] monitoring mission is killed and two others injured after their vehicle drives over a [[land mine]] near [[Luhansk]]. [https://www.rferl.org/a/ukraine-osce-member-killed-mine-blast/28447060.html (Radio Free Europe/Radio Liberty)]
  
 ;International relations
 *[[North Korea–United States relations]]
@@ -11,6 +11,8 @@
 
 ;Law and crime
 *Prominent Italian-born conservationist [[Kuki Gallmann]] is shot and injured in an ambush in northern [[Kenya]]. [http://www.bbc.co.uk/news/world-africa-39683731 (BBC)]
+*[[European migrant crisis]]
+**An [[Italy|Italian]] prosecutor says there are "telephone calls" between [[People smuggling|people smugglers]] in [[Libya]] and some [[non-governmental organization]]s. [[Frontex]], the European Border and Coast Guard Agency, says the practices amount to a "taxi service". One NGO says "more would die" if they were not there. [http://www.dw.com/en/italy-prosecutor-claims-ngos-working-with-human-smugglers/a-38554753 (Deutsche Welle)] [http://www.bbc.com/news/world-europe-39686239 (BBC)]
 
 ;Politics and elections
 *[[French presidential election, 2017|2017 French presidential election]]
