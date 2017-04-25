@@ -1,11 +1,22 @@
 {{Current events header|2017|04|25}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Turkish involvement in the Syrian Civil War]]
+**[[Turkey|Turkish]] air strikes kill 18 [[Kurds|Kurdish]] [[People's Protection Units|YPG]] fighters and media officials in northeastern [[Syria]]. Also 5 [[Peshmerga]] fighters are killed during a [[Turkish Air Force|Turkish]] attack on [[Sinjar]] in [[Iraq]]. Turkey claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. [http://www.reuters.com/article/us-mideast-crisis-syria-turkey-toll-idUSKBN17R0WE (Reuters)] [http://www.hurriyetdailynews.com/turkey-hits-pkk-targets-in-iraq-syria-.aspx?pageID=238&nID=112396&NewsCatID=352 (Hurriet Daily News)]
+
 ;Disasters and accidents
 *27 people are killed in Kenya's [[Makueni County]] when a bus and a truck collide on the [[Nairobi–Mombasa Road]]. [https://www.standardmedia.co.ke/article/2001237570/27-people-die-in-fatal-accident-along-mombasa-nairobi-highway (''The Standard'')]
+
+;Business and economy
+*Investigative journalism on court-released internal email reveals that [[Monsanto]] influenced scientific research enabling the [[European Union]] approval to market [[glyphosate]]. [http://www.knack.be/nieuws/wereld/roundup-in-eu-toegestaan-omdat-monsanto-wetenschappelijke-studies-beinvloedde/article-normal-844329.html (''Knack'')] [https://www.oneworld.nl/wetenschap/roundup-eu-toegestaan-omdat-monsanto-wetenschappelijke-studies-beinvloedde (''OneWorld.nl'')]
 
 ;International relations
 *[[Saudi Arabia]] is among twelve countries newly elected to the [[United Nations Commission on the Status of Women]], in spite of the nation's [[Women's rights in Saudi Arabia|poor record with women's rights]]. [http://www.abc.net.au/news/2017-04-25/saudi-arabia-un-womens-council-gender-equality-concerns/8469258 (Australian Broadcasting Corporation)]
 *[[North Korea–United States relations]]
 **The [[USS Michigan (SSGN-727)|USS ''Michigan'']] docks at [[Busan]], South Korea, amid growing concerns over North Korean aggression. [http://www.bbc.com/news/world-asia-39701481 (BBC)]
+
+;Law and crime
+*[[India]] is to provide every cow with a [[Biometrics|biometric]] [[dog tag]], in an effort to prevent [[Cattle raiding|cattle smuggling]]. [http://timesofindia.indiatimes.com/india/soon-aadhaar-like-id-for-cattle/articleshow/58352347.cms (''Times of India'')]
+
 <!-- All news items above this line -->|}
