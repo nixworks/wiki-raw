@@ -1,8 +1,20 @@
 {{Current events header|2017|04|26}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Iraqi Civil War (2014–present)]]
+**The pro-government [[Popular Mobilization Forces]] militia takes control of the mostly [[Destruction of cultural heritage by ISIL|destroyed]] ancient city of [[Hatra]] in [[Iraq]]'s [[Nineveh Governorate]], following clashes with [[Islamic State of Iraq and the Levant|ISIL]], who seized the ruins in 2014. [http://www.bbc.co.uk/news/world-middle-east-39726244 (BBC)]
+*[[Insurgency in Balochistan]]
+**At least ten [[Iran]]ian [[Islamic Republic of Iran Border Guard Command|border guards]] are killed in an ambush in the southeastern [[Sistan and Baluchestan Province]] on the border with [[Pakistan]]. Sunni militant group [[Jaish ul-Adl]] claims responsibility. [https://www.theguardian.com/world/2017/apr/26/militants-kill-ten-iranian-border-guards-in-attack-on-frontier-with-pakistan (''The Guardian'')]
+
+;Arts and culture
+*American film director [[Jonathan Demme]], winner of the [[Academy Award for Best Director]] for ''[[The Silence of the Lambs (film)|The Silence of the Lambs]]'', dies of complications from [[esophageal cancer]]. [http://edition.cnn.com/2017/04/26/entertainment/jonathan-demme-death-trnd/ (CNN)]
+
 ;International relations
 *[[North Korea–South Korea relations]]
 **The [[United States]] deploys parts of its [[Terminal High Altitude Area Defense]] in [[South Korea]] amidst high tension caused by [[North Korea]]'s escalation of its missile and nuclear weapons programs. [https://www.theguardian.com/world/2017/apr/26/us-installs-missile-defence-in-south-korea-site-amid-tensions-with-north (''The Guardian'')]
 **[[China]]'s [[Foreign Minister of the People's Republic of China|foreign minister]] [[Wang Yi (politician)|Wang Yi]] calls for restraint and urges all sides to take part in the resumption of negotiations. [http://www.reuters.com/article/us-northkorea-china-idUSKBN17S1Y1 (Reuters)]
+
+;Science and technology
+*A speculative study hypothesizes that a species of ''[[Homo]]'' may have lived in [[California]] 130,000 years ago. [http://news.nationalgeographic.com/2017/04/mastodons-americas-peopling-migrations-archaeology-science/ (''National Geographic'')], [https://arstechnica.com/science/2017/04/unknown-humans-were-in-california-130000-years-ago-say-scientists/ (''Ars Technica'')]
 <!-- All news items above this line -->|}
