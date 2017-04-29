@@ -1,5 +1,7 @@
 {{Current events header|2017|04|29}}
 
 <!-- All news items below this line -->
-*
+;International relations
+*[[North Korea and weapons of mass destruction]]
+**The [[United States Pacific Command|U.S. Pacific Command]] and [[Republic of Korea Armed Forces|South Korean defense officials]] report that a [[North Korea]]n missile was fired in the early morning, but quickly failed and did not travel beyond North Korea, echoing a similar failed attempt by North Korea [[Portal:Current events/2017 April 16|thirteen days ago]]. [https://www.washingtonpost.com/world/north-korea-fires-another-ballistic-missile-the-75th-of-kim-jong-uns-tenure/2017/04/28/c4b7aa8a-2c5c-11e7-9081-f5405f56d3e4_story.html?utm_term=.f033c116eced (''The Washington Post'')]
 <!-- All news items above this line -->|}
