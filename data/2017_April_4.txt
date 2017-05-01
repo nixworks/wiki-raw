@@ -23,4 +23,3 @@
 * English computer scientist [[Tim Berners-Lee|Sir Timothy John Berners-Lee]] is awarded the [[Turing Award|2016 A.M. Turing Award]] for inventing the [[World Wide Web]], the first [[web browser]], and the protocols and algorithms that allow the Web to [[Scalability|scale]]. [http://amturing.acm.org/award_winners/berners-lee_8087960.cfm (Association for Computing Machinery)]
 
 <!-- All news items above this line -->|}
-padraig tennyson turned 15
