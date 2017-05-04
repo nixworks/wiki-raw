@@ -2,5 +2,11 @@
 
 <!-- All news items below this line -->
 ;Arts and culture
-*[[Prince consort]] of Queen [[Elizabeth II]] and [[Prince Philip Movement|spiritual leader]], [[Prince Philip, Duke of Edinburgh]] retires. [http://www.bbc.com/news/uk-39802636 (BBC)]
+*[[Buckingham Palace]] announces that 95-year-old [[Prince Philip, Duke of Edinburgh]], the [[Prince consort]] of Queen [[Elizabeth II]], will retire from royal duties in August. [http://www.bbc.com/news/uk-39802636 (BBC)]
+;Disasters and accidents
+*[[China dust storms]]
+**A severe [[dust storm]] impacts [[North China]], causing flight cancellations at [[Beijing Capital International Airport]]. [https://au.news.yahoo.com/world/a/35291118/dust-storm-blows-across-north-china-flights-cancelled/#page1 (''Seven News'')]
+;Politics and elections
+*[[Algerian legislative election, 2017]]
+**[[Voter turnout]] is predicted to be low as [[Algeria]]ns go to the polls to elect members of the [[People's National Assembly]]. [http://www.aljazeera.com/indepth/features/2017/05/algeria-voter-turnout-expected-legislative-poll-170503064333032.html (Al Jazeera)]
 <!-- All news items above this line -->|}
