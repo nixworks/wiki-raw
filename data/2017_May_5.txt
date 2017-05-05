@@ -1,5 +1,10 @@
 {{Current events header|2017|05|5}}
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[United Kingdom local elections, 2017]]
+**Early results from yesterday's elections indicate that the [[Conservative Party (UK)|Conservative Party]] has gained ground, while the [[Labour Party (UK)|Labour Party]] and the [[UK Independence Party]] have not. [https://www.theguardian.com/politics/live/2017/may/04/council-local-general-election-mayoral-results-england-scotland-wales (''The Guardian'')]
+
+;Science and technology
+*The [[Comac C919]] makes its maiden flight from [[Shanghai Pudong International Airport]], China. [https://www.flightglobal.com/news/articles/comac-c919-commences-maiden-flight-436873/ (FlightGlobal)]
 <!-- All news items above this line -->|}
