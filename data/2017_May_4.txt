@@ -6,8 +6,7 @@
 
 ;Disasters and accidents
 *[[China dust storms]]
-**A severe [[dust storm]] impacts [[North China]], causing flight cancellations at [[Beijing Capital International Airport]]. [https://au.news.yahoo.com/world/a/35291118/dust-storm-blows-across-north-china-flights-cancelled/#page1 (''Seven News'')]
-*A large explosion struck a coal mine in [[Azadshahr]], [[Iran]] on Wednesday, killing at least 21 miners and trapping several others as rescue teams worked frantically through the day and into the night to reach them. ([http://www.independent.co.uk/news/world/middle-east/iran-coal-mine-explosion-latest-rescue-miners-killed-trapped-golestan-province-death-toll-a7716731.html ''The Independent''])
+**A severe [[dust storm]] impacts [[North China]], causing flight cancellations at [[Beijing Capital International Airport]]. [http://www.thedailystar.net/world/asia/dust-storm-hits-beijing-1400716 (''The Daily Star'')]
 
 ;International relations
 *The [[Holy See]] and [[Myanmar]] establish full diplomatic relations following a meeting between [[Pope Francis]] and Myanmar's State Counsellor [[Aung San Suu Kyi]]. [https://www.ncronline.org/news/vatican/vatican-myanmar-establish-full-relations-after-francis-suu-kyi-meeting-thursday (''National Catholic Reporter'')]
@@ -21,4 +20,6 @@
 **[[Voter turnout]] is predicted to be low as [[Algeria]]ns go to the polls to elect members of the [[People's National Assembly]]. [http://www.aljazeera.com/indepth/features/2017/05/algeria-voter-turnout-expected-legislative-poll-170503064333032.html (Al Jazeera)]
 *[[Efforts to repeal the Patient Protection and Affordable Care Act]]
 **The [[Republican Party (United States)|Republican]]-controlled [[United States House of Representatives]] votes in favor of the repeal of the 2010 [[Patient Protection and Affordable Care Act]] and passage of the House's [[American Health Care Act of 2017|2017 American Health Care Act]], by a narrow, 217-213 vote. Twenty Republicans and all [[Democratic Party (United States)|Democrats]] opposed the bill, which now heads to the [[United States Senate]] for its legislative action. [http://www.cnn.com/2017/05/04/politics/health-care-vote/ (CNN)], [http://www.foxnews.com/politics/2017/05/04/republican-health-care-bill-whats-in-it.html (Fox News)]
+*[[French presidential election, 2017]]
+**Former U.S. President [[Barack Obama]] formally endorses French candidate [[Emmanuel Macron]]. [http://www.abc.net.au/news/2017-05-05/obama-endorses-french-presidential-candidate/8499128 (ABC News)]
 <!-- All news items above this line -->|}
