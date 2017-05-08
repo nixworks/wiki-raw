@@ -1,10 +1,6 @@
 {{Current events header|2017|05|8}}
 
 <!-- All news items below this line -->
-;Disasters and accidents
-*[[2017 Quebec floods]]
-**The [[Mayor of Montreal|Mayor]] of the [[Canada|Canadian]] city of [[Montreal]], [[Quebec]] declares a [[state of emergency]] over rising floodwaters. [http://edition.cnn.com/2017/05/08/americas/canada-floods-quebec-montreal/ (CNN)]
-
 ;Law and crime
 *[[Philippine Drug War]]
 **The [[United Nations]] [[United Nations Human Rights Council|Human Rights Council]] conducts a periodic review of the [[human rights in the Philippines|human rights]] situation in the [[Philippines]]. [http://www.philstar.com/headlines/2017/05/08/1697908/live-un-reviews-philippines-human-rights-situation (''The Philippine Star'')]
@@ -12,5 +8,4 @@
 ;Science and technology
 *Rare specimens of [[daisy|daisies]] from the 1850s originally held in the [[National Museum of Natural History (France)|National Museum of Natural History]] in [[Paris]] were reportedly destroyed by [[Australia]] in March allegedly due to incomplete paperwork. [http://www.bbc.com/news/world-australia-39777196 (BBC)]
 *Scientists have discovered why hair turns grey and goes bald in mice after researchers from the [[University of Texas Southwestern Medical Center]] accidentally made the connection while studying an unrelated rare genetic disease. [http://time.com/4770554/grey-hair-loss/?iid=sr-link7 (''Time'')]
-
 <!-- All news items above this line -->|}
