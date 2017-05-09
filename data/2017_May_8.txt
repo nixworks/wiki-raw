@@ -14,5 +14,5 @@
 
 ;Science and technology
 *Rare specimens of [[asteraceae|daisies]] from the 1850s originally held in the [[National Museum of Natural History (France)|National Museum of Natural History]] in [[Paris]] were reportedly destroyed by [[Australia]] in March allegedly due to incomplete paperwork. [http://www.bbc.com/news/world-australia-39777196 (BBC)]
-*Scientists have discovered why hair turns grey and goes bald in mice after researchers from the [[University of Texas Southwestern Medical Center]] accidentally made the connection while studying an unrelated rare genetic disease. [http://time.com/4770554/grey-hair-loss/ (''Time'')]
+*The Journal ''[[Genes & Development]]'' publishes research from the [[University of Texas Southwestern Medical Center]] in a [[mice|mouse]]-model study (which may translate over to humans) alluding as to why [[hair]] turns [[Human hair color#Gray and white hair|gray]] and goes [[Hair loss|bald]]. The scientists describe a [[protein]] called [[EGR2|KROX20]] which switches on [[skin]] [[Cell (biology)|cell]]s that become a hair shaft, which then causes cells to produce another protein called [[stem cell factor]]. In mice, these two proteins are important for baldness and graying. [http://time.com/4770554/grey-hair-loss/ (''Time'')]
 <!-- All news items above this line -->|}
