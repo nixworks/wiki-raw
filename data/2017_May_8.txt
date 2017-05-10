@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;Business and economy
-*At the [[Fort Lauderdale–Hollywood International Airport]], [[Spirit Airlines]] cancels eleven flights and delays 30 due to a dispute between the airline and its pilots (as talks occur between the airline and the pilot's union, [[Air Line Pilots Association, International]]). Protests break out and three travelers are arrested. [https://www.nytimes.com/2017/05/09/business/spirit-airlines-brawl.html?_r=0 (''The New York Times'')]
+*At the [[Fort Lauderdale–Hollywood International Airport]], [[Spirit Airlines]] cancels eleven flights and delays 30 due to a dispute between the airline and its pilots (as talks occur between the airline and the pilots' union, [[Air Line Pilots Association, International]]). Protests break out and three travelers are arrested. [https://www.nytimes.com/2017/05/09/business/spirit-airlines-brawl.html?_r=0 (''The New York Times'')]
 
 ;Law and crime
 *[[Philippine Drug War]]
@@ -17,5 +17,5 @@
 
 ;Science and technology
 *Rare specimens of [[asteraceae|daisies]] from the 1850s originally held in the [[National Museum of Natural History (France)|National Museum of Natural History]] in [[Paris]] were reportedly destroyed by [[Australia]] in March allegedly due to incomplete paperwork. [http://www.bbc.com/news/world-australia-39777196 (BBC)]
-*The Journal ''[[Genes & Development]]'' publishes research from the [[University of Texas Southwestern Medical Center]] in a [[mice|mouse]]-model study (which may translate over to humans) alluding as to why [[hair]] turns [[Human hair color#Gray and white hair|gray]] and goes [[Hair loss|bald]]. The scientists describe a [[protein]] called [[EGR2|KROX20]] which switches on [[skin]] [[Cell (biology)|cell]]s that become a hair shaft, which then causes cells to produce another protein called [[stem cell factor]]. In mice, these two proteins are important for baldness and graying. [http://time.com/4770554/grey-hair-loss/ (''Time'')]
+*The journal ''[[Genes & Development]]'' publishes research from the [[University of Texas Southwestern Medical Center]] in a [[mice|mouse]]-model study (which may translate over to humans) alluding as to why [[hair]] turns [[Human hair color#Gray and white hair|gray]] and goes [[Hair loss|bald]]. The scientists describe a [[protein]] called [[EGR2|KROX20]] which switches on [[skin]] [[Cell (biology)|cell]]s that become a hair shaft, which then causes cells to produce another protein called [[stem cell factor]]. In mice, these two proteins are important for baldness and graying. [http://time.com/4770554/grey-hair-loss/ (''Time'')]
 <!-- All news items above this line -->|}
