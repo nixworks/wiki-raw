@@ -2,7 +2,10 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*The [[Iraq]]i army's chief of staff Lt Gen Othman al-Ghanimi states that his security forces are only days away from completing the operation to recapture [[Mosul]] from [[ISIL]]. [http://www.bbc.com/news/world-middle-east-39882257 (BBC)]
+*The [[Iraq]]i army's chief of staff, Lt Gen [[Othman al-Ghanmi]], states that his security forces are only days away from completing the operation to recapture [[Mosul]] from [[ISIL]]. [http://www.bbc.com/news/world-middle-east-39882257 (BBC)]
+
+;Arts and culture
+*The statue of [[Confederate States of America|Confederate]] hero [[Jefferson Davis]] in [[New Orleans]] is removed. [http://www.npr.org/sections/thetwo-way/2017/05/11/527905650/workers-take-jefferson-davis-statue-off-its-pedestal-in-new-orleans (NPR)]
 
 ;International relations
 *Representatives of the [[Arctic Council]], a group of eight countries that border the [[Arctic Circle]], meet in [[Alaska]] to discuss [[oil drilling]]. [https://www.washingtonpost.com/business/officials-from-arctic-nations-meet-amid-drilling-concerns/2017/05/11/0a6b4e2e-3612-11e7-ab03-aa29f656f13e_story.html (''The Washington Post'')]
@@ -14,5 +17,7 @@
 
 ;Politics and elections
 *[[United Kingdom general election, 2017]]
-**An unknown person or organization leaks a draft campaign manifesto of the [[Labour Party (United Kingdom)|Labour Party]]. [http://www.bbc.co.uk/news/election-2017-39879538 (BBC)]
+**An unknown person or organization leaks a draft campaign manifesto, described as "the most [[left-wing politics|left-wing]]," of the [[Labour Party (United Kingdom)|Labour Party]]. [http://www.bbc.co.uk/news/election-2017-39879538 (BBC)], [http://www.cnn.com/2017/05/11/europe/uk-election-labour-manifesto/ (CNN)]
+*[[French parliamentary election, 2017]]
+**French President-elect [[Emmanuel Macron]] announces his slate for the upcoming elections. [http://in.reuters.com/article/france-election-idINKBN1872D3 (Reuters)]
 <!-- All news items above this line -->|}
