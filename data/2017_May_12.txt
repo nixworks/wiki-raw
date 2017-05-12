@@ -7,11 +7,20 @@
 
 ;Arts and culture
 *[[Catholic Church|Catholics]] in [[Portugal]] converge in a shrine in [[Fatima, Portugal|Fatima]] for a visit by [[Pope Francis]]. [http://www.bbc.com/news/world-europe-39885741 (BBC)]
+*British author [[JK Rowling]] begs fans to refrain from buying an allegedly stolen manuscript. [http://people.com/books/harry-potter-handwritten-prequel-stolen-in-burglary-jk-rowling/ (''People'')]
 
 ;Law and crime
 *A judge in [[Alkmaar]], the [[Netherlands]], grants a 12-year old boy the right to decide for himself on [[Euthanasia|whether or not to continue]] [[chemotherapy]]. The ruling was based on a psychiatric evaluation of the patient as being "capable of a reasonable evaluation of his interests and realizes the consequences — including the negative ones — of his decision." [http://www.charlotteobserver.com/news/article150120312.html#storylink=cpy (''The Charlotte Observer'')]
+*[[Francesco Schettino]]'s appeal to Italy's [[Supreme Court of Cassation (Italy)|Supreme Court of Cassation]] upheld the verdict.  Schettino has handed himself in to Rome's [[Rebibbia prison]] to begin his 16-year sentence for his role as Captain in the [[Costa Concordia disaster]]. ([http://www.bbc.co.uk/news/world-europe-39903968 ''BBC''], [http://www.reuters.com/article/us-italy-ship-idUSKBN1882MF?il=0 ''Reuters''])
+
+;Politics and elections
+*[[United Kingdom general election, 2017]]
+**[[Labour Party (United Kingdom)|Labour]] leader [[Jeremy Corbyn]] criticises British [[Prime Minister of the United Kingdom|Prime Minister]] [[Theresa May]] of being [[complicity|complicit]] towards a foreign leader. [https://www.theguardian.com/politics/live/2017/may/12/general-election-2017-no-more-handholding-trump-corbyn-politics-live (''The Guardian'')]
+*[[Iranian presidential election, 2017]]
+**Candidates [[Iranian presidential election debates, 2017|debate]] on live television with the rivals of frontrunner and current [[President of Iran|President]] [[Hassan Rouhani]] taking aim at his economic policies. [https://www.bloomberg.com/politics/articles/2017-05-12/rouhani-fires-away-at-leading-rival-a-week-before-iran-election (Bloomberg)]
 
 ;Science and technology
-*A large scale [[cyber-attack]] using the [[WannaCry]] [[ransomware]] package disrupts [[National Health Service (England)|NHS]] computer and telephone systems across [[England]] with doctors reporting messages demanding money. [http://www.bbc.co.uk/news/health-39899646 (BBC)] [https://www.theguardian.com/society/2017/may/12/hospitals-across-england-hit-by-large-scale-cyber-attack (''The Guardian'')]
+*[[2017 NHS cyber-attack]]<!--redlinks encourage article creation-->.
+**A large scale [[cyber-attack]] using the [[WannaCry]] [[ransomware]] package disrupts [[National Health Service (England)|NHS]] computer and telephone systems across [[England]] with doctors reporting messages demanding money. [http://www.bbc.co.uk/news/health-39899646 (BBC)] [https://www.theguardian.com/society/2017/may/12/hospitals-across-england-hit-by-large-scale-cyber-attack (''The Guardian'')]
 
 <!-- All news items above this line -->|}
