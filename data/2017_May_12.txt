@@ -12,6 +12,6 @@
 *A judge in [[Alkmaar]], the [[Netherlands]], grants a 12-year old boy, David, the right to decide for himself on [[Euthanasia|whether or not to continue]] [[chemotherapy]]. He is ruled "capable of a reasonable evaluation of his interests and realizes the consequences — including the negative ones — of his decision." [http://www.charlotteobserver.com/news/article150120312.html#storylink=cpy (''The Charlotte Observer'')]
 
 ;Science and technology
-*A large scale ransomware [[cyber-attack]] disrupts [[National Health Service (England)|NHS]] computer and telephone systems across [[England]] with doctors reporting messages demanding money. [http://www.bbc.co.uk/news/health-39899646 (BBC)] [https://www.theguardian.com/society/2017/may/12/hospitals-across-england-hit-by-large-scale-cyber-attack (''The Guardian'')]
+*A large scale [[cyber-attack]] using the [[WannaCry]] [[ransomware]] package disrupts [[National Health Service (England)|NHS]] computer and telephone systems across [[England]] with doctors reporting messages demanding money. [http://www.bbc.co.uk/news/health-39899646 (BBC)] [https://www.theguardian.com/society/2017/may/12/hospitals-across-england-hit-by-large-scale-cyber-attack (''The Guardian'')]
 
 <!-- All news items above this line -->|}
