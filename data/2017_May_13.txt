@@ -1,6 +1,9 @@
 {{Current events header|2017|05|13}}
 
 <!-- All news items below this line -->
+;Disasters and accidents
+*A bus carrying tourists crashes near the resort town of [[Marmaris]] in southwest [[Turkey]], killing at least 17 people and leaving 13 others injured. [http://www.reuters.com/article/us-turkey-tourism-crash-idUSKBN1890CQ (Reuters)] 
+
 ;Science and technology
 *[[WannaCry ransomware attack]]
 **A [[ransomware]] [[cyberattack]] continues to infect computers of private and public organisations around the world, and demand payment in [[bitcoin]]. The program was originally developed by the [[National Security Agency]] to exploit a vulnerability in [[Microsoft Windows]], and was leaked by [[The Shadow Brokers]] in April. [http://www.radionz.co.nz/news/world/330677/nz-computers-caught-up-in-global-cyberattack (BBC/Reuters/RNZ)]
