@@ -4,7 +4,6 @@
 ;Armed conflicts and attacks
 *A bomb hits a convoy of the [[Deputy Chairman of the Senate of Pakistan]], [[Abdul Ghafoor Haideri]], near [[Mastung, Pakistan|Mastung]] in the province of [[Balochistan, Pakistan|Balochistan]], killing at least 25 people and wounding 35 others, including the [[Senate of Pakistan|Senate]]'s Deputy Chairman. [http://www.reuters.com/article/us-pakistan-blast-idUSKBN18815A?il=0 (Reuters)]
 *An explosion outside a prominent post office in [[Rome]] causes damage to a car; however, no injuries or deaths have been reported. A preliminary investigation indicated it was most likely “a demonstrative act, showing that it could be done”. [https://www.theguardian.com/world/2017/may/12/italian-police-investigate-reports-of-bomb-explosion-in-rome (''The Guardian'')]
-*[[2017 Kirkersville shooting|A shooting attack at a nursing home]] in [[Kirkersville, Ohio]], kills four people, including a police chief and the shooter. [http://abcnews.go.com/US/wireStory/police-officer-shot-man-opens-fire-nursing-home-47370142 (ABC News)]
 *[[WannaCry ransomware attack]]<!--redlinks encourage article creation-->
 **A large scale international [[cyber-attack]] using the [[WannaCry]] [[ransomware]] package disrupts computer and telephone systems in thousands of cases across 99 countries. Affected organisations include: [[England]]'s [[National Health Service (England)|NHS]], with doctors reporting messages demanding money; [[MegaFon]] and [[Sberbank of Russia|Sberbank]] in [[Russia]]; [[Telefónica]], [[Iberdrola]], and [[Gas Natural]] in [[Spain]]; and [[FedEx]]. [http://www.bbc.co.uk/news/health-39899646 (BBC)], [http://www.abc.net.au/news/2017-05-13/global-cyber-attack-hits-hospitals,-telecommunications/8523102 (AP/Reuters via ABC Australia)]
 
@@ -16,6 +15,7 @@
 *A judge in [[Alkmaar]], the [[Netherlands]], grants a 12-year-old boy the right to decide for himself on [[Euthanasia|whether or not to continue]] [[chemotherapy]]. The ruling was based on a psychiatric evaluation of the patient as being "capable of a reasonable evaluation of his interests and realizes the consequences — including the negative ones — of his decision." [http://www.charlotteobserver.com/news/article150120312.html#storylink=cpy (''The Charlotte Observer'')]
 *[[Costa Concordia disaster|''Costa Concordia'' disaster]]
 **The Italian [[Supreme Court of Cassation (Italy)|Supreme Court of Cassation]] upholds [[Francesco Schettino]]'s 16-year sentence for his role as Captain of the ''Costa Concordia'' in the deaths of 32 people. [http://www.bbc.co.uk/news/world-europe-39903968 (BBC)], [http://www.reuters.com/article/us-italy-ship-idUSKBN1882MF?il=0 (Reuters)]
+*[[2017 Kirkersville shooting|A shooting attack at a nursing home]] in [[Kirkersville, Ohio]], kills four people, including a police chief and the shooter. [http://abcnews.go.com/US/wireStory/police-officer-shot-man-opens-fire-nursing-home-47370142 (ABC News)]
 
 ;Politics and elections
 *[[Iranian presidential election, 2017]]
@@ -24,5 +24,4 @@
 ;Sports
 *[[2016–17 Premier League]]
 **In [[association football]], [[Chelsea F.C.|Chelsea]] have secured the Premier League title after winning away against [[West Bromwich Albion F.C.|West Bromwich Albion]]. [http://www.bbc.com/sport/football/39885837 (BBC)]
-
 <!-- All news items above this line -->|}
