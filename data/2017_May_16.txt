@@ -4,4 +4,6 @@
 ;Armed conflicts and attacks
 *[[WannaCry ransomware attack]]
 **[[Cybersecurity]] experts claim that the [[WannaCry]] [[ransomware]] attack is linked to the [[North Korea]]n backed [[Lazarus Group]]. [https://www.theguardian.com/technology/2017/may/15/wannacry-ransomware-north-korea-lazarus-group (''The Guardian'')]
+;Business and economy
+*The [[Office for National Statistics]] in [[Great Britain]] says that consumer prices in Britain rose by an annualized 2.7% in April, the highest level of inflation in almost four years. [http://www.reuters.com/article/us-britain-economy-idUSKCN18C0TE?il=0 (Reuters)] 
 <!-- All news items above this line -->|}
