@@ -1,5 +1,7 @@
 {{Current events header|2017|05|16}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[WannaCry ransomware attack]]
+**[[Cybersecurity]] experts claim that the [[WannaCry]] [[ransomware]] attack is linked to the [[North Korea]]n backed [[Lazarus Group]]. [https://www.theguardian.com/technology/2017/may/15/wannacry-ransomware-north-korea-lazarus-group (''The Guardian'')]
 <!-- All news items above this line -->|}
