@@ -7,7 +7,7 @@
 
 ;Law and crime
 *''[[Assange v Swedish Prosecution Authority]]''
-**[[Sweden|Swedish]] prosecutors drop a seven-year sexual assault investigation into [[Wikileaks]] founder [[Julian Assange]]. [https://www.yahoo.com/news/swedish-prosecutor-drops-rape-investigation-assange-091632750.html?soc_trk=gcm&soc_src=d9780ae9-562b-3ef5-9d83-c17f2088b031&.tsrc=notification-brknews (AP via Yahoo! News)][http://www.bbc.com/news/world-europe-39973864 (BBC)]
+**[[Sweden|Swedish]] prosecutors drop a seven-year sexual assault investigation into [[WikiLeaks]] founder [[Julian Assange]]. [https://www.yahoo.com/news/swedish-prosecutor-drops-rape-investigation-assange-091632750.html?soc_trk=gcm&soc_src=d9780ae9-562b-3ef5-9d83-c17f2088b031&.tsrc=notification-brknews (AP via Yahoo! News)][http://www.bbc.com/news/world-europe-39973864 (BBC)]
 *[[Anthony Weiner sexting scandals]]
 **Former U.S. Congressman [[Anthony Weiner]] pleads guilty to [[sexting]] with a 15-year-old girl. [http://www.reuters.com/article/us-people-weiner-idUSKCN18F1K1 (Reuters)]
 *[[Corruption in Brazil]]
@@ -22,5 +22,6 @@
 **The [[Federal Communications Commission]] votes to overturn a 2015 ruling requiring [[net neutrality]]. [http://www.bbc.com/news/technology-39973787 (BBC)]
 *[[Partition and secession in California|California independence]]
 **[[California]] independence enthusiasts try again. [http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-take-two-for-bid-for-california-1495224217-htmlstory.html (''Los Angeles Times'')]
-
+*[[Political appointments of Donald Trump]]
+**[[Goldman Sachs]] banker [[Jim Donovan (banker)|Jim Donovan]] withdraws from consideration as [[United States Deputy Secretary of the Treasury|Deputy Treasury Secretary]] in order to have time for his family. [http://www.politico.com/story/2017/05/19/jim-donovan-trump-deputy-treasury-secretary-238611 (Politico)]
 <!-- All news items above this line -->|}
