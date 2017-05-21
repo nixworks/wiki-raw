@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Libyan Civil War (2014–present)]]
-**The death toll from [[Battle of Brak El-Shati airbase|an attack]] on a [[Libyan National Army]]-controlled airbase in southern [[Libya]], reportedly rises to 140 people. [http://www.bbc.co.uk/news/world-africa-39983806 (BBC)]
+**The death toll from [[Battle of Brak El-Shati airbase|an attack]] on a [[Libyan National Army]]-controlled airbase in southern [[Libya]] reportedly rises to 140 people. [http://www.bbc.co.uk/news/world-africa-39983806 (BBC)]
 
 ;International relations
 *[[Saudi Arabia–United States relations]]
@@ -15,4 +15,7 @@
 
 *[[2017 Venezuelan protests]]
 **Marking the [[Timeline of the 2017 Venezuelan protests|50th consecutive day of protests]], hundreds of thousands demonstrate throughout [[Venezuela]] against [[President of Venezuela|President]] [[Nicolás Maduro]], with civil unrest growing despite the increasing number of casualties. [https://www.theguardian.com/world/2017/may/20/venezuela-50th-day-of-protests-brings-central-caracas-to-a-standstill (''The Guardian'')]
+
+;Sport
+*In American [[horse racing]], [[Cloud Computing (horse)|Cloud Computing]] wins the [[2017 Preakness Stakes]] in only his fourth race. [https://sports.yahoo.com/news/cloud-computing-won-2017-preakness-stakes-225425154.html?soc_trk=gcm&amp;soc_src=d9780ae9-562b-3ef5-9d83-c17f2088b031&amp;.tsrc=notification-brknews (Yahoo! Sports)]
 <!-- All news items above this line -->|}
