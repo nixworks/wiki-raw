@@ -2,10 +2,22 @@
 
 <!-- All news items below this line -->
 ;Armed comflicts and attacks
-*[[Moro conflict]]
-**[[Philippines]] president [[Rodrigo Duterte]] declares [[Martial law in the Philippines|martial law]] in [[Mindanao]] during a military offensive by the [[Armed Forces of the Philippines|armed forces]] against the [[Maute group|Maute]] militant group. [http://www.rappler.com/nation/170745-philippines-duterte-declares-martial-law-mindanao (Rappler)]
 *[[2017 Manchester Arena bombing]]
-**Campaigning in the [[United Kingdom general election, 2017|general election]] is suspended after the bombing at the [[Manchester Arena]]. The death toll is 22 with 59 injured. [http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2017-05-22-US-Ariana-Grande-Concert-Blast-The-Latest/id-8010069d42e94d5282ebdd7fe7f991f2 (AP)], [http://www.bbc.com/news/uk-england-manchester-40010124 (BBC)]
+**Campaigning in the [[United Kingdom general election, 2017|general election]] is suspended after the bombing at the [[Manchester Arena]]. The death toll is 22 with 59 injured. ISIL claims responsibility. [http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2017-05-22-US-Ariana-Grande-Concert-Blast-The-Latest/id-8010069d42e94d5282ebdd7fe7f991f2 (AP)], [http://www.bbc.com/news/uk-england-manchester-40010124 (BBC)]
+*[[Moro conflict]]
+**[[President of the Philippines|Philippine President]] [[Rodrigo Duterte]] declares martial law on the island of [[Mindanao]] after [[Islamic State of Iraq and the Levant|ISIL]]-linked [[Maute group]] militants clash with [[Philippine Army]] troops in [[Marawi]], [[Lanao del Sur]]. [http://www.rappler.com/nation/170745-philippines-duterte-declares-martial-law-mindanao (Rappler)] [http://metro.co.uk/2017/05/23/isis-militants-raise-black-flag-as-they-battle-for-control-of-city-in-philippines-6655959/ (Metro)]
+
+;Arts and culture
+*Sir [[Roger Moore|Roger Moore]], who played [[James Bond (literary character)|James Bond]] between 1973 and 1985, dies aged 89. [http://www.bbc.co.uk/news/entertainment-arts-40018422 (BBC)]
+
+;Business and economy
+*[[Presidency of Donald Trump]]
+**The [[White House]] releases a proposed [[United States federal budget|budget]] that includes a increase in spending for the [[Armed Forces of the United States|military]] and [[Immigration to the United States|immigration]] but a decrease in [[Healthcare in the United States|healthcare]] and [[science|scientific]] research. [http://www.bbc.com/news/world-us-canada-40015958 (BBC)]
+*[[Apple Inc.]] and [[Nokia]] agree to increase their partnership after settling a [[patent]] dispute. [https://www.nytimes.com/2017/05/23/business/apple-nokia-patents.html?_r=0 (''The New York Times'')]
+
+;Law and crime
+*[[LGBT rights in Indonesia]]
+**Two [[Indonesia]]n men are publicly [[caning|caned]] by local authorities on accusation of [[homosexual]] intercourse, which is illegal in the [[Muslim]]-majority autonomous province of [[Aceh]]. [http://www.nbcnews.com/feature/nbc-out/two-men-publicly-caned-indonesia-having-gay-sex-n763511 (NBC)]
 
 ;Science and technology
 *Scientists discover 7.2 million-year-old "[[Hominini|pre-human]]" remains in the [[Balkans]] area near [[Bulgaria]] and [[Greece]]. [https://phys.org/news/2017-05-scientists-million-year-old-pre-human-balkans.html (Phys.org)]
