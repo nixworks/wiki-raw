@@ -3,6 +3,9 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[War in Afghanistan (2015–present)]]
-**At least 18 people were killed and 6 others injured in a [[car bomb]] explosion in [[Khost]], eastern [[Afghanistan]]. [http://www.independent.co.uk/news/world/middle-east/afghanistan-suicide-bombing-convoy-dead-attack-first-day-ramadan-a7758711.html (Independent)]
+**At least 18 people are killed and 6 others injured in a [[car bomb]] explosion in [[Khost]], eastern [[Afghanistan]]. [http://www.independent.co.uk/news/world/middle-east/afghanistan-suicide-bombing-convoy-dead-attack-first-day-ramadan-a7758711.html (Independent)]
+
+;Business and economy
+*[[British Airways]] cancels all flights from [[Heathrow Airport]] and [[Gatwick Airport]] amid a "major IT system failure", that is causing severe disruption to flight operations worldwide. [http://www.bbc.co.uk/news/uk-40069865 (BBC)]
 
 <!-- All news items above this line -->|}
