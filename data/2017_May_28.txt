@@ -2,6 +2,8 @@
 
 <!-- All news items below this line -->
 ;Armed attacks and conflicts
+*[[CPP-NPA-NDF rebellion]]
+**The [[government of the Philippines|government]] of the [[Philippines]] and the [[Communist Party of the Philippines|Communist Party]] cancel peace talks after president [[Rodrigo Duterte]] declares [[martial law in the Philippines|martial law]] in [[Mindanao]]. [http://www.telesurtv.net/english/news/Duterte-Govt-Cancels-Peace-Talks-With-Leftists-Attacks-Communist-Fighters-and-Peasants-20170527-0020.html (teleSur)]
 *[[Marawi crisis]]
 **The Philippine military says it has found the bodies of 16 people believed killed by [[Islamic State of Iraq and the Levant| Islamist]] gang [[Abu Sayyaf]]. Authorities  say the death toll after six days of fighting is 95, including 19 civilians. [https://www.nytimes.com/2017/05/28/world/asia/philippine-military-recovers-16-bodies-in-city-besieged-by-isis-linked-militants.html?_r=0 (''The New York Times'')]
 
@@ -21,6 +23,6 @@
 
 ;Sport
 *[[2017 Indianapolis 500]]
-**[[Takuma Sato]] of [[Japan]] wins the 2017 [[Indianapolis 500]] ahead of [[Helio Castroneves]] of [[Brazil]]. Sato is the first Japanese drive to win the event. [https://sports.yahoo.com/news/takuma-sato-wins-indianapolis-500-200305716.html?soc_trk=gcm&amp;soc_src=d9780ae9-562b-3ef5-9d83-c17f2088b031&amp;.tsrc=notification-brknews (Yahoo! Sports)], [http://www.latimes.com/business/la-sp-indy-500-20170528-story.html (''Los Angeles Times'')]
+**[[Takuma Sato]] of [[Japan]] wins the 2017 [[Indianapolis 500]] ahead of [[Helio Castroneves]] of [[Brazil]]. Sato is the first Japanese driver to win the event. [https://sports.yahoo.com/news/takuma-sato-wins-indianapolis-500-200305716.html?soc_trk=gcm&amp;soc_src=d9780ae9-562b-3ef5-9d83-c17f2088b031&amp;.tsrc=notification-brknews (Yahoo! Sports)], [http://www.latimes.com/business/la-sp-indy-500-20170528-story.html (''Los Angeles Times'')]
 
 <!-- All news items above this line -->|}
