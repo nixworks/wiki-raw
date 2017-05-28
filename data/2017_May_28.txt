@@ -4,4 +4,7 @@
 ;Disasters and accidents
 *[[2017 Sri Lankan flood and landslide]]
 **At least 126 people are dead, and 97 missing, after mudslides and floods caused by heavy rain in [[Sri Lanka]]. One hundred thousand people have been displaced. [http://hosted.ap.org/dynamic/stories/A/AS_SRI_LANKA_MUDSLIDES?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
+
+;Science and technology
+*The Russian [[Irkut MC-21]] airliner makes its maiden flight. [http://tass.com/economy/948052 (TASS)]
 <!-- All news items above this line -->|}
