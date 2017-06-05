@@ -21,5 +21,6 @@
 **[[Indian Space Research Organisation]] successfully launches communications satellite [[GSAT-19]] through its heaviest rocket [[Geosynchronous Satellite Launch Vehicle Mark III]]. [http://timesofindia.indiatimes.com/india/isros-most-powerful-rocket-gslv-mk-iii-places-gsat-19-communication-satellite-in-orbit/articleshow/59001591.cms (Times of India)]
 *[[Moons of Jupiter]]
 **Another [[Moons of Jupiter|satellite of Jupiter]] is announced, [[S/2017 J 1]], just 3 days after the announcement of [[S/2016 J 1]]. [http://www.minorplanetcenter.net/mpec/K17/K17L47.html (Minor Planet Center)]
-*Apple announces [[iOS 11]] in [[Apple Worldwide Developers Conference|WWDC]] 2017. [https://www.bloomberg.com/news/live-blog/2017-06-01/apple-worldwide-developers-conference (Bloomberg)] [https://9to5mac.com/2017/06/05/apple-unveils-ios-11-for-iphone-and-ipad/ (9to5Mac)] 
+*[[iOS 11]]
+**Apple announces [[iOS 11]] in [[Apple Worldwide Developers Conference|WWDC]] 2017. [https://www.bloomberg.com/news/live-blog/2017-06-01/apple-worldwide-developers-conference (Bloomberg)] [https://9to5mac.com/2017/06/05/apple-unveils-ios-11-for-iphone-and-ipad/ (9to5Mac)] 
 <!-- All news items above this line -->|}
