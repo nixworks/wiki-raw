@@ -11,5 +11,5 @@
 
 ;Science and technology
 *[[GSAT-19]]
-**[[Indian Space Research Organisation]] successfully launches communications satellite [[GSAT-19]] through it's heaviest rocket [[Geosynchronous Satellite Launch Vehicle Mark III]]. [http://timesofindia.indiatimes.com/india/isros-most-powerful-rocket-gslv-mk-iii-places-gsat-19-communication-satellite-in-orbit/articleshow/59001591.cms (Times of India)]
+**[[Indian Space Research Organisation]] successfully launches communications satellite [[GSAT-19]] through its heaviest rocket [[Geosynchronous Satellite Launch Vehicle Mark III]]. [http://timesofindia.indiatimes.com/india/isros-most-powerful-rocket-gslv-mk-iii-places-gsat-19-communication-satellite-in-orbit/articleshow/59001591.cms (Times of India)]
 <!-- All news items above this line -->|}
