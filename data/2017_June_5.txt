@@ -1,7 +1,7 @@
 {{Current events header|2017|6|5}}
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in [[Orlando]], [[Florida]], United States. The shooter took his own life. Eight people inside the business survived. [http://www.cnn.com/2017/06/05/us/orlando-fatalities/index.html (CNN)] [http://abcnews.go.com/US/disgruntled-employee-kills-workplace-orlando-police/story?id=47838338 (ABC News)]
+*A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in [[Orlando]], [[Florida]], [[United States]]. The shooter took his own life afterwards. Eight others inside the workplace survived. [http://www.cnn.com/2017/06/05/us/orlando-fatalities/index.html (CNN)] [http://abcnews.go.com/US/disgruntled-employee-kills-workplace-orlando-police/story?id=47838338 (ABC News)]
 *[[June 2017 Melbourne attack]]
 **In [[Brighton, Victoria|Brighton]], a suburb of [[Melbourne]], Australia, a gunman kills one man and holds one woman hostage before he is shot dead by [[Victoria Police]]. The incident is being treated as an act of terrorism. [[Islamic State in Iraq and the Levant]] have claimed responsibility for the attack but [[Victoria Police]] claim that there is little evidence to suggest a connection [http://www.abc.net.au/news/2017-06-06/islamic-state-claims-responsibility-for-brighton-siege/8591540 (Aus. Broadcasting Corp.)], [http://www.heraldsun.com.au/news/law-order/emergency-crews-responding-to-explosion-in-brighton/news-story/432d22f46235bc4f810581d6cd5965d7 (''Herald Sun'')]
 
@@ -19,7 +19,7 @@
 
 ;Law and order
 *[[Russian interference in the 2016 United States elections]]
-**After ''[[The Intercept]]'' publishes a classified [[NSA]] document describing Russian cyberattacks on U.S. voting software, the [[U.S. Department of Justice]] announces it had brought charges upon the alleged leaker. [http://www.reuters.com/article/us-usa-trump-russia-leaks-idUSKBN18W2VE (Reuters)]
+**After ''[[The Intercept]]'' publishes a classified [[NSA]] document describing Russian efforts to launch cyberattacks on U.S. voting software suppliers, the [[U.S. Department of Justice]] announces it had brought charges upon the alleged leaker. [http://www.reuters.com/article/us-usa-trump-russia-leaks-idUSKBN18W2VE (Reuters)]
 
 ;Politics and elections
 *[[2016–17 Turkish purges]]
