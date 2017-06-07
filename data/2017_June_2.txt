@@ -2,10 +2,12 @@
 
 <!-- All news items below this line -->
 ;Arts and culture
-* A terrorist threat results in the evacuation of tens of thousands of fans at the first day of the annual [[Rock am Ring and Rock im Park|Rock am Ring]] music festival at the [[Nazi_party_rally_grounds#Zeppelinfeld|Zeppelinfeld]] in [[Nuremberg]], Germany. Organizers say they hope the festival will resume Saturday. [http://www.bbc.com/news/world-europe-40140968 (BBC)]
+*[[Rock am Ring]]
+**A terrorist threat results in the evacuation of tens of thousands of fans at the first day of the annual [[Rock am Ring and Rock im Park|Rock am Ring]] music festival at the [[Nazi_party_rally_grounds#Zeppelinfeld|Zeppelinfeld]] in [[Nuremberg]], Germany. Organizers say they hope the festival will resume Saturday. [http://www.bbc.com/news/world-europe-40140968 (BBC)]
 
 ;Health and medicine
-*Fifteen young children die  of "[[Sepsis|severe sepsis]]/[[toxicity]]" from [[Contamination|contaminated]]  vaccine during [[South Sudan]]'s [[Measles vaccine|measles vaccination]] campaign.  In one instance, a syringe containing vaccine stored without refrigeration was used for all the children over four days. [http://www.nbcnews.com/health/health-news/contaminated-measles-vaccine-kills-15-kids-south-sudan-n767516 (AP via NBC News)]
+*[[Health in South Sudan]]
+**Fifteen young children die  of "[[Sepsis|severe sepsis]]/[[toxicity]]" from [[Contamination|contaminated]]  vaccine during [[South Sudan]]'s [[Measles vaccine|measles vaccination]] campaign.  In one instance, a syringe containing vaccine stored without refrigeration was used for all the children over four days. [http://www.nbcnews.com/health/health-news/contaminated-measles-vaccine-kills-15-kids-south-sudan-n767516 (AP via NBC News)]
 
 ;International relations
 *[[United Nations Security Council election, 2017]]
