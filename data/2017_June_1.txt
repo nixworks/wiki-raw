@@ -23,5 +23,5 @@
 
 ;Science and technology
 *[[Gravitational-wave astronomy]]
-**Scientists announce that the Advanced Laser Interferometer Gravitational-wave Observatory ([[LIGO]]) has made a third detection of [[gravitational waves]], named [[GW170104]]. The signal beam, detected on 4 January 2017, apparently results from a [[Binary_black_hole#Lifecycle|merger]] of two [[black holes]] of 19 and 31 solar masses. Such detections are said to be progressively moving this emerging field in astronomy "from novelty to new observational science". [http://www.bbc.com/news/science-environment-40120680 (BBC)]
+**Scientists announce that the Advanced Laser Interferometer Gravitational-wave Observatory ([[LIGO]]) has made a [[List of gravitational wave observations|third detection]] of [[gravitational waves]], named [[GW170104]]. The signal beam, detected on 4 January 2017, apparently results from a [[Binary_black_hole#Lifecycle|merger]] of two [[black holes]] of 19 and 31 solar masses. Such detections are said to be progressively moving this emerging field in astronomy "from novelty to new observational science". [http://www.bbc.com/news/science-environment-40120680 (BBC)]
 <!-- All news items above this line -->|}
