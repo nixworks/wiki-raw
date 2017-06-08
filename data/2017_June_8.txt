@@ -1,5 +1,11 @@
 {{Current events header|2017|06|8}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[North Korea and nuclear weapons]]
+**[[North Korea]] test fires missile immediately after [[South Korea]] pulls off the [[THAAD]] missile system. [https://www.nytimes.com/2017/06/07/world/asia/south-korea-thaad-missile-defense-us.html (The New York Times'')]
+
+;Politics and elections
+*[[United Kingdom general election, 2017]]
+**Polls open in the [[United Kingdom]] with [[Jeremy Corbyn]] and [[Theresa May]] battling in a tight race to become [[Prime Minister of the United Kingdom|prime minister]]. [https://www.reuters.com/article/us-britain-election-idUSKBN18Y0PR (Reuters)]
 <!-- All news items above this line -->|}
