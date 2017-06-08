@@ -7,10 +7,6 @@
 *[[War in Somalia (2009–present)|War in Somalia]]
 **[[Al-Shabaab (militant group)|Al-Shabaab]] militants storm a military base in [[Puntland]]. The subsequent battle with the [[Somali Armed Forces|Somali military]] leaves at least 70 people dead. Somali officials called the attack the deadliest in the country in years. [http://www.aljazeera.com/news/2017/06/casualties-al-shabab-attack-puntland-army-base-170608102915346.html (Al Jazeera)]
 
-;Law and crime
-*[[Ukraine–United States relations]]
-**An explosive device is hurled at the [[United States]] [[Embassy of the United States, Kiev|embassy]] in [[Kiev]]. [http://www.nydailynews.com/news/world/explosive-device-u-s-embassy-kiev-article-1.3230345 (''The New York Daily News'')]
-
 ;Arts and culture
 *[[Freedom of the press in the United States]]
 **[[Montana]] congressman [[Greg Gianforte]] apologizes to journalist [[Ben Jacobs (journalist)|Ben Jacobs]] for the alleged [[body slam]] incident that occurred on May 24, and donates [[United States dollar|US$]]50,000 to the [[Committee to Protect Journalists]]. [http://www.cnn.com/2017/06/08/politics/gianforte-apologizes-guardian-reporter-letter/ (CNN)]
@@ -19,13 +15,19 @@
 *[[United Nations Ocean Conference]]
 **At a [[United Nations-Oceans]] summit, delegates from [[China]], [[Indonesia]], the [[Philippines]] and [[Thailand]], four of the top polluters of [[plastic]] [[Marine debris|into the oceans]], pledge to reduce their levels of oceanic [[plastic pollution]]. [http://www.bbc.com/news/science-environment-40195664 (BBC)]
 
+;Law and crime
+*[[Ukraine–United States relations]]
+**An explosive device is hurled at the [[United States]] [[Embassy of the United States, Kiev|embassy]] in [[Kiev]]. [http://www.nydailynews.com/news/world/explosive-device-u-s-embassy-kiev-article-1.3230345 (''The New York Daily News'')]
+
 ;Politics and elections
 *[[United Kingdom general election, 2017]]
 **Polls open in the [[United Kingdom]], with [[Labour Party (UK)|Labour]] leader [[Jeremy Corbyn]] and incumbent [[Theresa May]] of the [[Conservative Party (UK)|Conservatives]] battling in a tight race, according to final [[Opinion polling for the United Kingdom general election, 2017|opinion polling]], to become [[Prime Minister of the United Kingdom|prime minister]]. [https://www.reuters.com/article/us-britain-election-idUSKBN18Y0PR (Reuters)]
-*[[Russian interference in the 2016 United States elections]]
-**[[James Comey]], the former [[Director of the Federal Bureau of Investigation|FBI Director]] who was [[Dismissal of James Comey|dismissed]] by President [[Donald Trump]] last month, is scheduled to appear before the [[United States Senate Select Committee on Intelligence|Intelligence Committee]]. [https://www.theguardian.com/us-news/2017/jun/07/james-comey-trump-congress-statement (''The Guardian'')]
+*[[Russian interference in the 2016 United States elections]], [[Dismissal of James Comey]]
+**[[James Comey]], the former [[Director of the Federal Bureau of Investigation|FBI Director]] who was [[Dismissal of James Comey|dismissed]] by President [[Donald Trump]] last month, appears before the [[United States Senate Select Committee on Intelligence]]. Comey says he believes he was fired because of the FBI investigation into the possible collusion between President Trump's campaign team and [[Russia]]'s interference in the 2016 elections.[https://www.theguardian.com/us-news/2017/jun/07/james-comey-trump-congress-statement (''The Guardian'')] [http://uk.reuters.com/article/uk-usa-trump-russia-idUKKBN18Z0HL?il=0 (Reuters)]
+*[[United States withdrawal from the Paris Agreement]]
+**The state of [[Hawaii]] becomes the first state to enact a law, to document sea level rise and set strategies to reduce greenhouse gas emissions, that aligns the state's goals with the Paris climate accord. [[Governor of Hawaii|Governor]] [[David Ige]]  says the islands are seeing the impacts of climate change first-hand. [http://www.nbcnews.com/news/us-news/hawaii-becomes-first-state-enact-law-align-goals-paris-climate-n769791 (NBC News)]
 
-;Nature and environment
+;Science and technology
 *[[IUCN Red List]]
 **American actor [[Leonardo DiCaprio]] and [[Mexico|Mexican]] president [[Enrique Peña Nieto]] meet to discuss the protection of the [[Vaquita]] porpoise. [http://www.dailymail.co.uk/news/article-4583096/DiCaprio-Mexico-push-save-vaquita-porpoise.html (''The Daily Mail'')] 
 <!-- All news items above this line -->|}
