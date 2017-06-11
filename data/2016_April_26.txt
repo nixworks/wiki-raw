@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Syrian Civil War]]
-**A Syrian government airstrike near [[Aleppo]] kills at least five members of the [[Syrian Civil Defense]] rescue organisation. Dozens of people have been killed in Aleppo over the past few days from government airstrikes and opposition bombardment. [http://www.reuters.com/article/us-mideast-crisis-syria-aleppo-idUSKCN0XN0M3?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29 (Reuters)]
+**A Syrian government airstrike near [[Aleppo]] kills at least five members of the [[Syrian Civil Defense]] rescue organisation. Dozens of people have been killed in Aleppo over the past few days from government airstrikes and opposition bombardment. [http://www.reuters.com/article/us-mideast-crisis-syria-aleppo-idUSKCN0XN0M3?feedType=RSS&feedName=topNews (Reuters)]
 *[[Attacks on secularists in Bangladesh]]
 **Ansar-al Islam, the [[Bangladesh]]i branch of [[al-Qaeda in the Indian Subcontinent]], claims responsibility for yesterday's murder of [[USAID]] employee and LGBT activist [[Xulhaz Mannan]] and his friend, actor Tanay Majumder. [http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-04-26-AS--Bangladesh-Attacks/id-0a1ec113ce58423cba59a4913d851bec (AP)]
 
@@ -13,7 +13,7 @@
 ;Business and economy
 *[[Collins-class submarine replacement project]]
 **The [[Prime Minister of Australia]] [[Malcolm Turnbull]] announces that French company [[DCNS (company)|DCNS]] has been awarded a $50 billion contract to build a new fleet of submarines for the [[Royal Australian Navy]] with the subs to be built in [[Adelaide]]. [http://www.abc.net.au/news/2016-04-26/pm-announces-france-has-won-submarine-contract/7357462 (ABC News Australia)]
-*[[Mitsubishi]] Motors admits that it has used  [[fuel economy in automobiles|fuel economy]] measuring methods that have not complied with [[Japanese government]] regulations for 25 years. [http://www.reuters.com/article/us-mitsubishimotors-regulations-idUSKCN0XN0DV?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29 (Reuters)]
+*[[Mitsubishi]] Motors admits that it has used  [[fuel economy in automobiles|fuel economy]] measuring methods that have not complied with [[Japanese government]] regulations for 25 years. [http://www.reuters.com/article/us-mitsubishimotors-regulations-idUSKCN0XN0DV?feedType=RSS&feedName=topNews (Reuters)]
 *British doctors go on strike for the first time in the history of the [[National Health Service]]. [http://hosted.ap.org/dynamic/stories/E/EU_BRITAIN__DOCTORS_STRIKE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
 
 ;Disasters and accidents
