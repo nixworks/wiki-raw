@@ -29,7 +29,7 @@
 *A draft [[United Nations]] report says crimes by the [[Rwanda]]n army and allied rebels in [[Democratic Republic of the Congo]] during the [[Second Congo War]] could be classified as [[genocide]]. [http://www.bbc.co.uk/news/world-africa-11105289 (BBC)] [http://www.iol.co.za/index.php?set_id=1&click_id=136&art_id=nw20100827091245181C675450 (IOL)] [http://af.reuters.com/article/topNews/idAFJOE67Q02020100827?sp=true (Reuters Africa)]
 *Former [[President of the United States]] [[Jimmy Carter]] secures the release of [[United States|US]] citizen [[Aijalon Gomes]] from [[North Korea]]. [http://www.bbc.co.uk/news/world-11105918 (BBC)] [http://english.yonhapnews.co.kr/national/2010/08/27/11/0301000000AEN20100827004700315F.HTML (Yonhap)] [http://news.xinhuanet.com/english2010/world/2010-08/27/c_13465505.htm (Xinhua)]
 *The [[President of Kenya]] [[Mwai Kibaki]] enacts the [[Constitution of Kenya|new constitution]]. [http://edition.cnn.com/2010/WORLD/africa/08/27/kenya.new.constitution/index.html?eref=edition#fbid=YIYm6U-LlVS&wom=false (CNN)] [http://www.kbc.co.ke/story.asp?ID=66065 (Kenya Broadcasting Corporation)]
-*The chief investigator of the mass killing of 72 people in [[Mexico]]'s [[Tamaulipas]] state has been missing since Wednesday. [http://www.bbc.co.uk/news/world-latin-america-11117697?utm_source=twitterfeed&utm_medium=twitter (BBC)]
+*The chief investigator of the mass killing of 72 people in [[Mexico]]'s [[Tamaulipas]] state has been missing since Wednesday. [http://www.bbc.co.uk/news/world-latin-america-11117697 (BBC)]
 *[[Paul Allen]]'s company, [[Interval Licensing LLC]], files a [[patent infringement]] lawsuit against [[Google]], [[Apple Computer]], [[AOL]], [[eBay]], [[Facebook]], [[Netflix]], [[Office Depot]], [[OfficeMax]], [[Staples Inc.]], [[Yahoo]] and [[YouTube]].  [http://www.nytimes.com/2010/08/28/technology/28patent.html?src=mv (NYT)]
 
 ;Politics 
@@ -41,6 +41,6 @@
 *[[Arrowhead]]s found in the [[Sibudu Cave]] in northern [[ KwaZulu-Natal]], [[South Africa]] show that humans were using [[bow and arrow]]s 64000 years ago. [http://www.bbc.co.uk/news/science-environment-11086110 (BBC)]
 
 ;Weather
-*Hurricane Danielle strengthens to [[Saffir–Simpson Hurricane Scale|Category 4]], becoming the first major [[hurricane]] of the [[2010 Atlantic hurricane season]]. [http://www.msnbc.msn.com/id/38849585 (MSNBC)] [http://www.cnn.com/2010/US/08/27/hurricanes/index.html?eref=rss_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+rss/cnn_topstories+(RSS:+Top+Stories)&utm_content=Google+Feedfetcher (CNN)] [http://www.cbc.ca/world/story/2010/08/27/hurricane-danielle-tropical.html (CBC)]
+*Hurricane Danielle strengthens to [[Saffir–Simpson Hurricane Scale|Category 4]], becoming the first major [[hurricane]] of the [[2010 Atlantic hurricane season]]. [http://www.msnbc.msn.com/id/38849585 (MSNBC)] [http://www.cnn.com/2010/US/08/27/hurricanes/index.html?eref=rss_topstories (CNN)] [http://www.cbc.ca/world/story/2010/08/27/hurricane-danielle-tropical.html (CBC)]
 
 <!-- All news items above this line -->{{Current events footer}}

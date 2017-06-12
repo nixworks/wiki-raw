@@ -57,6 +57,6 @@
 
 ;Science
 *At a two-day council meeting of the [[European Space Agency]] (ESA) in [[Paris]], Europe comes to an agreement to extend its operations at the [[International Space Station]] (ISS) until 2020. [http://www.bbc.co.uk/news/science-environment-12772805 (BBC)]
-*[[NASA]]'s [[MESSENGER]] [[space probe]] becomes the first space craft ever to enter into [[orbit]] around [[Mercury (planet)|Mercury]]. [http://www.msnbc.msn.com/id/42142053/ns/technology_and_science-space (Space via MSNBC)], [http://www.bbc.co.uk/news/science-environment-12761025?utm_source=twitterfeed&utm_medium=twitter (BBC)]
+*[[NASA]]'s [[MESSENGER]] [[space probe]] becomes the first space craft ever to enter into [[orbit]] around [[Mercury (planet)|Mercury]]. [http://www.msnbc.msn.com/id/42142053/ns/technology_and_science-space (Space via MSNBC)], [http://www.bbc.co.uk/news/science-environment-12761025 (BBC)]
 
 <!-- All news items above this line -->{{Current events footer}}

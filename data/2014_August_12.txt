@@ -9,7 +9,7 @@
 *The Natural Development and Reform Commission, an economic planning agency of the [[People's Republic of China]], announces an increase in the price of [[natural gas]] sold to non-residential buyers. [http://www.nasdaq.com/article/china-to-raise-nonresidential-naturalgas-prices-20140812-00626 (Dow Jones)] 
 
 ;Disasters
-*A shallow 5.1 magnitude [[earthquake]] near [[Quito]]'s capital region kills four with another three missing in a landslide. [http://www.news.com.au/world/breaking-news/quake-kills-four-in-quito-ecuador/story-e6frfkui-1227023666187?utm_source=News&utm_medium=email&utm_campaign=editorial&net_sub_uid=17161212 (AAP via News Limited)]
+*A shallow 5.1 magnitude [[earthquake]] near [[Quito]]'s capital region kills four with another three missing in a landslide. [http://www.news.com.au/world/breaking-news/quake-kills-four-in-quito-ecuador/story-e6frfkui-1227023666187?net_sub_uid=17161212 (AAP via News Limited)]
 
 ;Health
 *[[2014 West Africa Ebola virus outbreak]]
@@ -23,6 +23,6 @@
 *[[Artur Avila]], [[Manjul Bhargava]], [[Martin Hairer]], and [[Maryam Mirzakhani]] are awarded [[Fields Medal|Fields Medals]]. Mirzakhani became the first female and the first Iranian Fields medalist. [http://www.mathunion.org/general/prizes/2014/ Fields Medals 2014 (IMU)] [http://www.nature.com/news/iranian-is-first-woman-to-nab-highest-prize-in-maths-1.15686?WT.mc_id=FBK_NatureNews Nature] [http://www.newscientist.com/article/dn26044-iranian-woman-wins-maths-top-prize-the-fields-medal.html#.U-qB7vldV1k New Scientist]
 
 ;Sports
-*The sale of the [[Los Angeles Clippers]] [[NBA]] team to ex-CEO of [[Microsoft]] [[Steve Ballmer]] has been completed. [http://www.huffingtonpost.com/2014/08/12/clippers-steve-ballmer-sold_n_5672169.html?utm_hp_ref=sports (Huffington Post)]
+*The sale of the [[Los Angeles Clippers]] [[NBA]] team to ex-CEO of [[Microsoft]] [[Steve Ballmer]] has been completed. [http://www.huffingtonpost.com/2014/08/12/clippers-steve-ballmer-sold_n_5672169.html (Huffington Post)]
 
 <!-- All news items above this line -->{{Current events footer}}
