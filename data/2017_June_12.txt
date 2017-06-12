@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Disasters and accidents
 *[[List of earthquakes in 2017|Earthquakes in 2017]]
-**An earthquake of 6.3 [[Richter magnitude scale|magnitudes]] shakes the [[Aegean Sea]], causing no deaths.  	Many houses were damaged in [[Plomari]], [[Greece]], and some collapsed.[https://apnews.com/7a2ba78801fd4cf0885e3b75f6692c62/6.2-magnitude-earthquake-shakes-western-Turkey,-Greek-island (AP)]
+**An earthquake of 6.3 [[Moment_magnitude_scale|magnitude]] shakes the [[Aegean Sea]], causing no deaths.  	Many houses were damaged in [[Plomari]], [[Greece]], and some collapsed.[https://apnews.com/7a2ba78801fd4cf0885e3b75f6692c62/6.2-magnitude-earthquake-shakes-western-Turkey,-Greek-island (AP)]
 
 ;Politics and elections
 *[[2017 Russian protests]]
