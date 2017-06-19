@@ -21,4 +21,6 @@
 *[[Freedom of speech in the United States]]
 **[[The Slants]] win their case with the [[Supreme Court of the United States]] that the [[U.S. Patent and Trademark Office]]'s rejection of their trademark under the [[Lanham Act]] due to their name being "disparaging" is an unconstitutional violation of their free speech rights under the [[First Amendment to the United States Constitution|First Amendment]]. [http://www.npr.org/sections/thetwo-way/2017/06/19/533514196/the-slants-win-supreme-court-battle-over-bands-name-in-trademark-dispute (NPR)]
 
+;Science and technology
+* Personal information of about 200 million US citizens has been exposed on the Internet since January when  unsecured files were uploaded by Republican contractor [[Sara Taylor#Deep Root Analytics|Deep Root Analytics]]. The data, available via publicly accessible providers such as [[Amazon Web Services]], included birth dates, home addresses, telephone numbers, religious affiliations, ethnicities, and political views. The problem was discovered by an [[UpGuard]] analyst. [http://www.bbc.com/news/technology-40331215 (BBC)] [http://www.salon.com/2017/06/19/nearly-200-american-voters-data-exposed-from-republican-contractors-unsecured-files/ (Salon)]
 <!-- All news items above this line -->|}
