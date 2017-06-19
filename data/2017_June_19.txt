@@ -1,7 +1,14 @@
 {{Current events header|2017|06|19}}
 
 <!-- All news items below this line -->
-;Law and crime
+;Armed conflict and attack
 *[[2017 Finsbury Park incident]]
-**Several people have reportedly been killed after a van runs over pedestrians outside the [[Finsbury Park Mosque]] in the [[north London]] suburb of [[Finsbury Park]]. [http://www.news.com.au/world/europe/van-mows-down-people-outside-north-london-mosque/news-story/5d6d8ae571163cbdd15ab355458ccf61 (News Limited)]
+**At least one person has been killed  and ten injured after a van runs over pedestrians outside the [[Finsbury Park Mosque]] in the [[north London]] suburb of [[Finsbury Park]]. Police are investigating the act as a terrorist incident. [http://www.news.com.au/world/europe/van-mows-down-people-outside-north-london-mosque/news-story/5d6d8ae571163cbdd15ab355458ccf61 (News Limited)], [http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2017-06-19-EU-Britain-Pedestrians-Struck/id-20fe4812e9b74f3684b2cc7358b69703 (AP)]
+
+;Business and economy 
+*The global price of [[crude oil]] decreases due to increased [[United States]] supply and decreased [[supply and demand|demand]].  [http://www.reuters.com/article/us-global-oil-idUSKBN19A029 (Reuters)]
+
+;Disasters and accidents
+*The number of people [[population displacement|displaced]] globally totals 60.6 million after an addition of 10.3 million people displaced in 2016. [[Syria]], [[Colombia]], [[Afghanistan]], [[Iraq]] and [[South Sudan]] are the countries in the top five.  [https://www.washingtonpost.com/world/africa/un-number-of-global-displaced-up-to-656-million-last-year/2017/06/19/248404d6-54ad-11e7-840b-512026319da7_story.html?utm_term=.460f21d788ee (''The Washington Post'')]
+
 <!-- All news items above this line -->|}
