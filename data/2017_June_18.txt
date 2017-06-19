@@ -2,21 +2,24 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[War in Afghanistan (2015–present)]]
+*[[War in Afghanistan (2015–present)|War in Afghanistan]]
 **A coordinated [[suicide bombing]] attack on a police station in the town of [[Gardez]] in [[Paktia Province]] results in dozens of people killed and injured. [http://www.abc.net.au/news/2017-06-18/afghanistan-suicide-bomb-blast-kills-and-wounds-dozens/8628940 (Reuters via Aus. Broadcasting Corp.)]
 *[[June 2017 Bamako attack]]
 **Gunmen storm a popular tourist resort near the [[Mali]]an capital, [[Bamako]]. At least two people are reportedly killed. Malian troops and France's [[Operation Barkhane]] counter-terrorist force are at the site. [http://www.bbc.co.uk/news/world-africa-40322039 (BBC)]
 *[[Saudi Arabian-led intervention in Yemen]]
 **An air raid kills at least 24 civilians at a market in [[Houthis|Houthi]]-held [[Saada Governorate]], [[Yemen]]. [https://www.pri.org/stories/2017-06-18/24-killed-air-raid-yemen-market (AFP via PRI)]
 *[[Syrian Civil War]]
-**[[Iran]] fires ground-to-ground missiles from western Iran to militant targets in [[Deir ez-Zor Governorate]], eastern [[Syria]], in retaliation for the June 7 [[2017 Tehran attacks|Tehran attacks]]. [http://www.haaretz.com/middle-east-news/iran/1.796422 (''Haaretz'')] [https://www.reuters.com/article/us-mideast-crisis-syria-iran-idUSKBN1990WI (Reuters)]
-**A [[United States|U.S.]] [[F/A-18E Super Hornet]] shoots down a [[Syrian Arab Air Force]] warplane after it struck Kurdish-led [[Syrian Democratic Forces]] (SDF) in [[Raqqa Governorate]], according to [[United States Central Command]]. The [[Syrian Armed Forces]] says its jet was in a combat mission against [[Islamic State of Iraq and the Levant|ISIL]]. [http://www.independent.co.uk/news/world/middle-east/syria-war-latest-us-shoots-down-regime-assad-fighter-jet-bombed-attacked-coalition-sdf-isis-raqqa-a7796511.html (''The Independent'')] [http://www.reuters.com/article/us-mideast-crisis-syria-usa-idUSKBN1990XI (''Reuters'')]
+**[[2017 Deir ez-Zor missile strike]]
+***[[Iran]] fires ground-to-ground missiles from western Iran to militant targets in [[Deir ez-Zor Governorate]], eastern [[Syria]], in retaliation for the June 7 [[2017 Tehran attacks|Tehran attacks]]. [http://www.haaretz.com/middle-east-news/iran/1.796422 (''Haaretz'')] [https://www.reuters.com/article/us-mideast-crisis-syria-iran-idUSKBN1990WI (Reuters)]
+**[[Battle of Raqqa (2017)]]
+***A [[United States|U.S.]] [[F/A-18E Super Hornet]] shoots down a [[Syrian Arab Air Force]] warplane after it struck Kurdish-led [[Syrian Democratic Forces]] (SDF) in [[Raqqa Governorate]], according to [[United States Central Command]]. The [[Syrian Armed Forces]] says its jet was on a combat mission against [[Islamic State of Iraq and the Levant|ISIL]]. [http://www.independent.co.uk/news/world/middle-east/syria-war-latest-us-shoots-down-regime-assad-fighter-jet-bombed-attacked-coalition-sdf-isis-raqqa-a7796511.html (''The Independent'')] [http://www.reuters.com/article/us-mideast-crisis-syria-usa-idUSKBN1990XI (''Reuters'')]
 
 ;Disasters and accidents
 *[[USS Fitzgerald and MV ACX Crystal collision|USS ''Fitzgerald'' and MV ''ACX Crystal'' collision]]
 **Rescuers find the bodies of seven [[United States Navy]] sailors who were missing after the prior day's collision between the [[USS Fitzgerald|USS ''Fitzgerald'']] and the [[MV ACX Crystal|MV ''ACX Crysta''l]] off the coast of [[Yokosuka, Kanagawa|Yokosuka]], [[Japan]]. [http://www.japantimes.co.jp/news/2017/06/18/national/bodies-missing-uss-fitzgerald-sailors-found-ships-flooded-compartments/ (AP, Reuters via ''The Japan Times'')]
 *[[2017 Portugal wildfires]]
 **The death toll from forest fires in [[Pedrógão Grande]], central [[Portugal]], rises to at least 62. Many victims were trapped on the road between the towns of [[Figueiró dos Vinhos]] and [[Castanheira de Pera]]. [http://www.bbc.com/news/world-europe-40316934 (BBC)], [http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2017-06-18-EU--Portugal-Forest%20Fires/id-7f327208cca64801bd08fd8ae0af88e4 (AP)], [http://www.euronews.com/2017/06/18/death-toll-climbs-above-60-in-portugal-forest-fire (Euronews)].
+*An earthquake and tsunami strike [[Greenland]] leaving at least 4 dead. [http://www.cbc.ca/news/canada/north/tsunami-waves-hit-greenland-1.4166406 (CBC)]
 ;International relations
 *[[North Korean defectors]]
 **A [[North Korea]]n soldier defects to [[South Korea]] after swimming across the [[Han River (Korea)|Han River]], the second North Korean defection in a week. [http://www.bbc.co.uk/news/world-asia-40318246 (BBC)]
@@ -30,5 +33,8 @@
 **Six members of President Trump's  [[Presidential Advisory Council on HIV/AIDS|Advisory Council on HIV/AIDS]]  resign stating the administration doesn't have a strategy to address the epidemic, doesn't seek input from experts on HIV policy, supports legislation that would halt or reverse important gains made in the fight against this disease and would harm people living with HIV. [http://www.nbcnews.com/news/us-news/six-experts-resign-president-s-hiv-aids-advisory-panel-protest-n773821 (NBC News)] [http://www.independent.co.uk/news/world/americas/us-politics/donald-trump-hivaids-council-quit-walkout-doesnt-care-a7796086.html (''The Independent'')] [http://www.newsweek.com/trump-doesnt-care-about-hiv-were-outta-here-626285 (''Newsweek'')]
 
 ;Sports
-*[[Porsche in motorsport|Porsche]] wins the [[2017 24 Hours of Le Mans]], the team's third consecutive Le Mans victory. [[Aston Martin Racing|Aston Martin]] wins in GTE Pro, their first in the category.
+*[[2017 FIA World Endurance Championship]]
+**[[Porsche in motorsport|Porsche]] wins the [[2017 24 Hours of Le Mans]], the team's third consecutive Le Mans victory. [[Aston Martin Racing|Aston Martin]] wins in [[LM GTE|LMGTE Pro]], their first in the category. [http://www.lemans.org/en/News/porsche-wins-high-drama-24-hours-of-le-mans/47023 (Le Mans)]
+*[[2017 U.S. Open (golf)]]
+**In [[golf]], [[Brooks Koepka]] of the United States wins the 2017 U.S. Open at the [[Erin Hills]] course. It is Koepka's first win at a major tournament. [http://www.abc.net.au/news/2017-06-19/brooks-koepka-wins-us-open-golf/8629884 (ABC News)]
 <!-- All news items above this line -->|}
