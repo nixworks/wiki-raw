@@ -1,8 +1,12 @@
 {{Current events header|2017|06|23}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[War in North-West Pakistan]]
+**Multiple blasts occur at a market in [[Parachinar]], killing at least 13 people and wounding over 50 more. [https://www.rferl.org/a/pakistan-quetta-police-target-blast/28574638.html (Radio Free Europe/Radio Liberty)]
+
 ;Science and technology
 *[[2017 in spaceflight]]
-**[[Indian Space Research Organisation|ISRO]]'s [[Polar Satellite Launch Vehicle|PSLV-C38]] successfully launches [[Cartosat-2E]] and 30 other satellites from [[Satish Dhawan Space Centre First Launch Pad]] in Sriharikota, [[Andhra Pradesh]]. [http://timesofindia.indiatimes.com/india/isros-pslv-c38-places-cartosat-2s-and-30-nano-satellites-in-orbit/articleshow/59280366.cms (Times of India)]
+**[[Indian Space Research Organisation|ISRO]]'s [[Polar Satellite Launch Vehicle|PSLV-C38]] successfully launches [[Cartosat-2E]] and 30 other satellites from [[Satish Dhawan Space Centre First Launch Pad]] in Sriharikota, [[Andhra Pradesh]]. [http://timesofindia.indiatimes.com/india/isros-pslv-c38-places-cartosat-2s-and-30-nano-satellites-in-orbit/articleshow/59280366.cms (''The Times of India'')]
 
 <!-- All news items above this line -->|}
