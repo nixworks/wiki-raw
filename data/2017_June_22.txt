@@ -18,7 +18,7 @@
 *[[Chagos Archipelago sovereignty dispute]]
 **In a vote at the [[United Nations General Assembly]], 94 states support a [[Mauritius]]-sponsored resolution to seek an advisory opinion from the [[International Court of Justice]] on the legal status of the disputed [[Chagos Archipelago]]. [https://www.theguardian.com/world/2017/jun/22/un-vote-backing-chagos-islands-a-blow-for-uk (''The Guardian'')]
 *[[Chinese espionage in the United States]]
-**An American who formerly worked for the [[Central Intelligence Agency]] is arrested on charges of selling [[classified information]] to [[China|Chinese]] operatives in May 2017. [https://www.washingtonpost.com/local/public-safety/ex-dod-employee-accused-of-selling-top-secret-governments-to-china/2017/06/22/3ec3a706-576f-11e7-a204-ad706461fa4f_story.html?utm_term=.a5eec2941c22 (''The Washington Post'')]
+**An American who formerly worked for the [[Central Intelligence Agency]] is arrested on charges of selling [[classified information]] to [[China|Chinese]] operatives in May 2017. [https://www.washingtonpost.com/local/public-safety/ex-dod-employee-accused-of-selling-top-secret-governments-to-china/2017/06/22/3ec3a706-576f-11e7-a204-ad706461fa4f_story.html (''The Washington Post'')]
 *[[Brexit negotiations]]
 **UK Prime Minister [[Theresa May]] announces that [[Citizenship of the European Union|citizens]] of the [[European Union]] living in the [[United Kingdom]] will be able to acquire a "UK settled status" after [[Brexit|the UK leaves the EU]]. [http://www.bbc.com/news/world-europe-40375761 (BBC)]
 
@@ -33,5 +33,6 @@
 ;Sports
 * [[2017 NBA draft]]
 ** [[Markelle Fultz]] of the [[Washington Huskies men's basketball|University of Washington]] is [[List of first overall NBA draft picks|selected first]] by the [[Philadelphia 76ers]]. [http://www.espn.com/nba/story/_/id/19710875/2017-nba-draft-philadelphia-76ers-take-markelle-fultz-no-1-overall-pick (ESPN)]
-* In [[cricket]], the [[International Cricket Council]] votes to elevate [[Afghanistan national cricket team|Afghanistan]] and [[Ireland cricket team|Ireland]] to full [[Test cricket|Test]] status. The two countries become the 11th and 12th Test nations. [http://www.espncricinfo.com/ci-icc/content/story/1105347.html (ESPNcricinfo)]
+* [[Test cricket]]
+** In [[cricket]], the [[International Cricket Council]] votes to elevate [[Afghanistan national cricket team|Afghanistan]] and [[Ireland cricket team|Ireland]] to full [[Test cricket|Test]] status. The two countries become the 11th and 12th Test nations. [http://www.espncricinfo.com/ci-icc/content/story/1105347.html (ESPNcricinfo)]
 <!-- All news items above this line -->|}
