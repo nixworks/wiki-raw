@@ -2,14 +2,16 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Israel]] and [[Syria]] exchange weapons fire, with Israel destroying several targets, including two Syrian tanks. Although there were deaths on the ground in Syria, the number of casualties among Syrian forces is unknown. No Israeli troops were injured. [http://www.cnn.com/2017/06/24/middleeast/israel-syria-golan-heights-strike/index.html (CNN)]
+*[[Israeli involvement in the Syrian Civil War]]
+**[[Israel]] and [[Syria]] exchange weapons fire in the disputed [[Golan Heights]], with Israel destroying several targets, including two Syrian tanks. Although there were deaths on the ground in Syria, the number of casualties among Syrian forces is unknown. No Israeli troops were injured. [http://www.cnn.com/2017/06/24/middleeast/israel-syria-golan-heights-strike/index.html (CNN)]
+
 ;Disasters and accidents
 *[[2017 Sichuan landslide]]
-**An early-morning landslide buries 40 homes and leaves 100 people missing in [[Ngawa Tibetan and Qiang Autonomous Prefecture|Aba Prefecture]], [[Sichuan Province]], China. At least 500 rescue workers are on scene, and a 2-km stretch of the river in [[Mao County]] is blocked. [http://edition.cnn.com/2017/06/23/china/china-landslide/index.html (CNN)]
+**An early-morning landslide buries 40 homes and leaves 15 people dead and 114 others missing in [[Ngawa Tibetan and Qiang Autonomous Prefecture|Aba Prefecture]], [[Sichuan Province]], China. At least 500 rescue workers are on scene, and a 2-km stretch of the river in [[Mao County]] is blocked. [http://edition.cnn.com/2017/06/23/china/china-landslide/index.html (CNN)]
 
-;Health
+;Health and medicine
 *[[Timeline of cholera]]
-**The number of [[cholera]] cases in [[Yemen]] passes 200,000 with 1,500 deaths so far. There are 5000 cases reported everyday. [http://www.bbc.com/news/world-middle-east-40395522 (BBC)]
+**The number of [[cholera]] cases in [[Yemen]] passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. [http://www.bbc.com/news/world-middle-east-40395522 (BBC)]
 
 ;Law and crime
 *[[2017 Westminster cyberattack]]
