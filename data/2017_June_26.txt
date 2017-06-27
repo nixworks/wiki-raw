@@ -2,8 +2,8 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Colombian conflict]]
-**According to the [[United Nations]], [[FARC]] has completed its [[Colombian peace process|disarmament process]], with former rebels due to make the transition to civilian life and the group to transform into a legal political party in the country. [http://www.aljazeera.com/news/2017/06/colombia-farc-rebels-complete-disarmament-170626232629067.html (Al Jazeera)]
+*[[Colombian peace process]]
+**The [[United Nations]] confirms that the [[FARC]] has completed its disarmament process, with former rebels due to make the transition to civilian life and the group to transform into a legal political party in the country. [http://www.aljazeera.com/news/2017/06/colombia-farc-rebels-complete-disarmament-170626232629067.html (Al Jazeera)]
 
 ;International relations
 *[[CNN controversies]]
@@ -25,8 +25,6 @@
 *[[Politics of Israel]]
 **The [[Jewish Agency for Israel]] [[Jewish Agency for Israel#Governance|Board of Governors]] cancels Monday's dinner with [[Prime Minister of Israel|Israeli Prime Minister]] [[Benjamin Netanyahu]] to protest Sunday's decision by his cabinet to rescind plans for a mixed-gender prayer area at Jerusalem's [[Western Wall]], a compromise agreement reached after three years of intense negotiations. [http://abcnews.go.com/Lifestyle/wireStory/jewish-group-cancels-meeting-netanyahu-protest-48276666 (AP via ABC News)]
 
-;Society
-*A fire in a building of 6 floors from the peruvian city of [[Chiclayo]] leaves 7 died, 10 injured and 22 damnified. [https://www.terra.com.pe/noticias/peru/incendio-en-edificio-familiar-deja-siete-muertos-al-norte-de-peru,1fece23d8a28874d96e88e5b177dfcc0z75eh6ae.html (Terra)]
 
 ;Sports
 *[[2017 America's Cup]]
