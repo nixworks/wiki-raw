@@ -2,11 +2,11 @@
 
 <!-- All news items below this line -->
 ;Business and economy
-*The [[European Commission]] impose a record $2.7bn [[antitrust]] fine on search engine giant [[Google]]. This is related to manipulation of its search engine results. [http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html (CNN)]
+*[[European Union competition law]]
+**The [[European Commission]] impose a record $2.7bn [[antitrust]] fine on search engine giant [[Google]]. This is related to manipulation of its [[search engine]] results. [http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html (CNN)]
 ;Law and crime
-*[[Bosnian War]] 
-**[[Bosnian genocide]]; [[Ethnic cleansing in the Bosnian War]]
-***An appeals court of [[The Hague]] rules that the Dutch State was partly to blame for the deaths of some 350 Muslim Bosnians men in the [[Srebrenica genocide|1995 Srebrenica genocide]] and, in a move considered landmark, orders it to pay limited damages. [http://www.telegraph.co.uk/news/2017/06/27/court-rules-dutch-state-partly-blame-death-350-bosnian-muslims/ (''The Telegraph'')] [http://www.bbc.com/news/world-europe-40417019 (''BBC News'')]
+*Aftermath of the [[Bosnian War]] and [[Bosnian genocide]]
+**An appeals court of [[The Hague]] rules that the Dutch State was partly to blame for the [[Ethnic cleansing in the Bosnian War|deaths of some 350 Muslim Bosnians men]] in the [[Srebrenica massacres|1995 Srebrenica genocide]] and, in a move considered landmark, orders it to pay limited damages. [http://www.telegraph.co.uk/news/2017/06/27/court-rules-dutch-state-partly-blame-death-350-bosnian-muslims/ (''The Telegraph'')] [http://www.bbc.com/news/world-europe-40417019 (''BBC News'')]
 *[[2017 Petya cyberattack]]
 **A major [[ransomware]] [[cyberattack]] strikes companies across the globe. [http://www.bbc.com/news/technology-40416611 (BBC)]
 ;Politics and elections
