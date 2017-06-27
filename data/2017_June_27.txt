@@ -2,12 +2,13 @@
 
 <!-- All news items below this line -->
 ;Business and economy
-*[[The European Commission]] impose a record $2.7bn [[antitrust]] fine on search engine giant [[Google]]. This is related to manipulation of its search engine results. [http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html (CNN)]
+*The [[European Commission]] impose a record $2.7bn [[antitrust]] fine on search engine giant [[Google]]. This is related to manipulation of its search engine results. [http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html (CNN)]
 ;Law and crime
 *[[Bosnian War]] 
-**''[[Bosnian genocide]]''; ''[[Ethnic cleansing in the Bosnian War]]''
-***A appeals court of [[The Hague]] ruled the Dutch State was partly to blame for the deaths of some 350 Muslim Bosnians men in the [[Srebrenica genocide|1995 Srebrenica genocide]], and in a move, considered landmark, ordered it to pay limited damages. [http://www.telegraph.co.uk/news/2017/06/27/court-rules-dutch-state-partly-blame-death-350-bosnian-muslims/ (''The Telegraph'')] [http://www.bbc.com/news/world-europe-40417019 (''BBC News'')]
-*A major [[ransomware]] [[cyberattack]] strikes companies across the globe. [http://www.bbc.com/news/technology-40416611 (BBC)]
+**[[Bosnian genocide]]; [[Ethnic cleansing in the Bosnian War]]
+***An appeals court of [[The Hague]] rules that the Dutch State was partly to blame for the deaths of some 350 Muslim Bosnians men in the [[Srebrenica genocide|1995 Srebrenica genocide]] and, in a move considered landmark, orders it to pay limited damages. [http://www.telegraph.co.uk/news/2017/06/27/court-rules-dutch-state-partly-blame-death-350-bosnian-muslims/ (''The Telegraph'')] [http://www.bbc.com/news/world-europe-40417019 (''BBC News'')]
+*[[2017 Petya cyberattack]]
+**A major [[ransomware]] [[cyberattack]] strikes companies across the globe. [http://www.bbc.com/news/technology-40416611 (BBC)]
 ;Politics and elections
 *[[Corruption in Brazil]]
 **[[President of Brazil|Brazilian President]] [[Michel Temer]] is charged with corruption by [[Prosecutor General of Brazil|Prosecutor General]] [[Rodrigo Janot]]. The case will now go to the [[Supreme Federal Court]]. [https://www.theguardian.com/world/2017/jun/27/brazils-president-michel-temer-charged-over-alleged-corruption (''The Guardian'')]
