@@ -3,16 +3,16 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Ukrainian crisis]]
-**[[The Ukraine|Ukrainian]] intelligence officer and head of a special forces unit, [[Maksym Shapoval]], is assassinated in [[Kiev]] by car bomb. [http://www.bbc.com/news/world-europe-40420339 (BBC)] [https://www.theguardian.com/world/2017/jun/27/ukraine-colonel-maksim-shapoval-killed-car-bomb-kiev (''The Guardian'')]
+**[[Ukraine|Ukrainian]] intelligence officer and head of a special forces unit, [[Maksym Shapoval]], is assassinated in [[Kiev]] by car bomb. [http://www.bbc.com/news/world-europe-40420339 (BBC)] [https://www.theguardian.com/world/2017/jun/27/ukraine-colonel-maksim-shapoval-killed-car-bomb-kiev (''The Guardian'')]
 *[[2017 Venezuelan protests]]
 **[[2017 Venezuelan constitutional crisis]]
 ***Armed civilian groups attack the [[National Assembly of Venezuela|National Assembly]] building, after a clash between lawmakers and the [[Bolivarian National Guard]] (GNB), leaving various legislators and journalists injured. Opposition legislator and [[President of the National Assembly of Venezuela|President of the Assembly]] [[Julio Borges]] blames President [[Nicolás Maduro]] for the attack. [http://www.firstpost.com/world/venezuelan-parliament-attacked-by-armed-civilian-groups-several-legislators-and-reporters-injured-3752637.html (''Firstpost'')]
 **[[2017 Venezuelan helicopter incident]]
-***A police helicopter strafes the [[Supreme Tribunal of Justice (Venezuela)|Supreme Court]] and the  [[Ministry of Interior, Justice and Peace|Interior Ministry]] in what President [[Nicolás Maduro]] calls an attack by terrorists seeking a coup. There are no reports of injuries. [http://www.reuters.com/article/us-venezuela-politics-idUSKBN19I2RV (Reuters)]
+***A police helicopter strafes the [[Supreme Tribunal of Justice (Venezuela)|Supreme Court]] and the [[Ministry of Interior, Justice and Peace|Interior Ministry]] in what President [[Nicolás Maduro]] calls an attack by terrorists seeking a coup. There are no reports of injuries. [http://www.reuters.com/article/us-venezuela-politics-idUSKBN19I2RV (Reuters)]
 
 ;Business and economy
 *[[European Union competition law]]
-**The [[European Commission]] imposes a record €2.42bn [[antitrust]] fine on internet giant [[Google]] for manipulating its [[search engine]] results. [http://www.bbc.com/news/technology-40406542 (BBC News)], [http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html (CNN)]
+**The [[European Commission]] imposes a record €2.42bn [[antitrust]] fine on internet giant [[Google]] for allegedly manipulating its [[search engine]] results. [http://www.bbc.com/news/technology-40406542 (BBC News)], [http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html (CNN)]
 
 ;Law and crime
 *Aftermath of the [[Bosnian War]] and [[Bosnian genocide]]
@@ -26,7 +26,7 @@
 *[[Efforts to repeal the Patient Protection and Affordable Care Act|Efforts to repeal and replace Obamacare]]
 **The U.S. Republican Party's leadership, facing strong opposition to the Senate version of H.R. 1628,  the [[American Health Care Act of 2017]], postpones the planned vote on the bill, a setback to Senate Majority Leader [[Mitch McConnell]]. [http://www.reuters.com/article/us-usa-healthcare-republican-idUSKBN19I11V (Reuters)] [http://www.mercurynews.com/2017/06/27/budget-office-sees-22-million-fewer-covered-with-senate-bill/ (AP via ''The Mercury News'')]
 *[[Political appointments of Donald Trump]]
-**The White House announces that President Trump plans to nominate  [[Textron#Textron Systems|Textron Systems]] Chief Executive Ellen Lord for [[Under Secretary of Defense for Acquisition, Technology and Logistics]].  Textron Systems is  a defense contractor. [http://fortune.com/2017/06/27/trump-textron-ellen-lord/ (''Fortune'')]
+**The White House announces that President Trump plans to nominate [[Textron#Textron Systems|Textron Systems]] Chief Executive Ellen Lord for [[Under Secretary of Defense for Acquisition, Technology and Logistics]].  Textron Systems is a defense contractor. [http://fortune.com/2017/06/27/trump-textron-ellen-lord/ (''Fortune'')]
 
 ;Science and technology
 *[[Social networking service]]
