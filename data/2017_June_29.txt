@@ -1,6 +1,10 @@
 {{Current events header|2017|06|29}}
 
 <!-- All news items below this line -->
+;Disasters and accidents
+*[[Charra Pani#2017 cable car accident|Charra Pani cable car accident]]
+**At least twelve people die and two others are injured after a [[cable car]] falls nearly 500 feet into a ditch in [[Charra Pani]], [[Galyat]], [[Pakistan]]. [https://www.pakistanpoint.com/en/pakistan/news/12-perish-as-cable-car-falls-156509.html (Pakistan Point News)]
+
 ;International relations
 *[[Australia–United States relations]]
 **Australia and the United States begin month-long [[Military exercise#Joint exercise|joint military exercises]], their largest ever, in Australian territorial waters involving 33,000 U.S. and Australian troops on board [[amphibious assault ship]]s. [http://www.reuters.com/article/us-australia-usa-military-idUSKBN19K0ID?il=0 (Reuters)]
@@ -15,6 +19,7 @@
 ;Politics and elections
 *[[Gun laws in the Czech Republic]]
 **The [[Chamber of Deputies of the Czech Republic|Chamber of Deputies]] of the [[Czech Republic]] passes a [[Czech Social Democratic Party]]-proposed amendment to the [[Constitution of the Czech Republic|constitution]], giving citizens the right to acquire, posses and carry firearms for the purpose of security. The constitutional amendment will now go to the [[Senate of the Czech Republic|Senate]], where it is expected to pass. [http://www.bbc.co.uk/news/world-europe-40438378 (BBC)]
+*After six days of debate, the [[House of Commons of the United Kingdom]] votes to approve, with 323 votes for and 309 against, the policies set out in the [[Speech from the throne|Queen's Speech]]. In order to avoid a 'regret' amendment, [[Chancellor of the Exchequer]] [[Philip Hammond]] says that [[England]]'s [[National Health Service]] is to provide free [[abortion]]s to women from [[Northern Ireland]] with funds from the [[Government Equalities Office]]. [http://www.mirror.co.uk/news/politics/queens-speech-passes-tory-abortion-10708542 (''the Daily Mirror'')]
 
 ;Science and technology
 *[[2017 in spaceflight]]
