@@ -2,8 +2,8 @@
 
 <!-- All news items below this line -->
 ;Arts and culture
-*[[Transfer of sovereignty of Hong Kong]]
-**Protests mark the 20th anniversary of the transfer of [[Hong Kong]] to [[China]] from the [[United Kingdom]] alongside the arrival of Chinese President [[Xi Jinping]]. [https://www.hongkongfp.com/2017/06/29/pictures-i-china-hongkongers-decry-ugly-handover-decorations-welcoming-xi-jinping/ (''Hong Kong Free Press'')]
+*Anniversary of the [[transfer of sovereignty over Hong Kong]]
+**Protests mark the 20th anniversary of the transfer of [[Hong Kong]] to [[China]] from the [[United Kingdom]] alongside the arrival of [[Chinese President]] [[Xi Jinping]]. [https://www.hongkongfp.com/2017/06/29/pictures-i-china-hongkongers-decry-ugly-handover-decorations-welcoming-xi-jinping/ (''Hong Kong Free Press'')]
 
 ;Disasters and accidents
 *[[Charra Pani#2017 cable car accident|Charra Pani cable car accident]]
@@ -19,10 +19,11 @@
 
 ;Law and crime
 *[[2017 Paris Mosque Incident]]
-**A man attempts to run over pedestrians outside a Mosque in Paris France.
+**A man attempts to run over pedestrians outside a mosque in [[Paris]], [[France]]. ([http://www.bbc.co.uk/news/world-europe-40452264 BBC])
 *[[Recognition of same-sex unions in Germany]]
 **[[Germans|German]] same-sex couples may be able to [[same-sex marriage|marry]] after Chancellor [[Angela Merkel]] drops her opposition for a parliamentary vote. [http://www.bbc.com/news/world-europe-40441712 (BBC)]
-*A car knocks down the security fences of the [[Casa Rosada|Pink House]], the Presidential Palace of [[Argentina]], and then stops in front of the building's gate. Authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. [http://www.eluniverso.com/noticias/2017/06/29/nota/6255319/hombre-derriba-su-auto-vallas-metalicas-casa-rosada (''El Universo'')] [http://www.infobae.com/politica/2017/06/29/echaron-a-custodios-de-la-casa-rosada-y-reforzaran-la-seguridad-tras-el-incidente-con-el-auto/ (''Infobae'')]
+*[[Crime in Argentina]]
+**A car knocks down the security fences of the [[Casa Rosada|Pink House]], the Presidential Palace of [[Argentina]], and then stops in front of the building's gate. Authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. [http://www.eluniverso.com/noticias/2017/06/29/nota/6255319/hombre-derriba-su-auto-vallas-metalicas-casa-rosada (''El Universo'')] [http://www.infobae.com/politica/2017/06/29/echaron-a-custodios-de-la-casa-rosada-y-reforzaran-la-seguridad-tras-el-incidente-con-el-auto/ (''Infobae'')]
 *[[Child sexual abuse in Australia]]
 **[[Victoria Police]] charge [[Cardinal (Catholicism)|Cardinal]] [[George Pell]], the [[Prefect]] of the [[Secretariat for the Economy]], and the third most senior official of the [[Catholic Church]], with historic child sex offences. Pell will be required to attend hearings at the [[Melbourne Magistrates Court]] in Australia on July 19. [http://www.abc.net.au/news/2017-06-29/cardinal-george-pell-charged-sexual-assault-offences/8547668 (ABC News Australia)]
 **The [[Roman Catholic Archdiocese of Sydney|Catholic Archdiocese of Sydney]] says Cardinal Pell "strenuously denies" these sexual assault charges. [http://www.reuters.com/article/us-australia-abuse-pell-catholic-idUSKBN19K072?il=0 (Reuters)]
@@ -32,7 +33,8 @@
 ;Politics and elections
 *[[Gun laws in the Czech Republic]]
 **The [[Chamber of Deputies of the Czech Republic|Chamber of Deputies]] of the [[Czech Republic]] passes a [[Czech Social Democratic Party]]-proposed amendment to the [[Constitution of the Czech Republic|constitution]], giving citizens the right to acquire, possess and carry firearms for the purpose of security. The constitutional amendment will now go to the [[Senate of the Czech Republic|Senate]], where it is expected to pass. [http://www.bbc.co.uk/news/world-europe-40438378 (BBC)]
-*After six days of debate, the [[House of Commons of the United Kingdom]] votes to approve, with 323 votes for and 309 against, the policies set out in the [[Speech from the throne|Queen's Speech]]. In order to avoid a 'regret' amendment, [[Chancellor of the Exchequer]] [[Philip Hammond]] says that [[England]]'s [[National Health Service]] is to provide free [[abortion]]s to women from [[Northern Ireland]] with funds from the [[Government Equalities Office]]. [http://www.mirror.co.uk/news/politics/queens-speech-passes-tory-abortion-10708542 (''The Daily Mirror'')]
+*[[Politics of the United Kingdom]]
+**After six days of debate, the [[House of Commons of the United Kingdom]] votes to approve, with 323 votes for and 309 against, the policies set out in the [[Speech from the throne|Queen's Speech]]. In order to avoid a 'regret' amendment, [[Chancellor of the Exchequer]] [[Philip Hammond]] says that [[England]]'s [[National Health Service]] is to provide free [[abortion]]s to women from [[Northern Ireland]] with funds from the [[Government Equalities Office]]. [http://www.mirror.co.uk/news/politics/queens-speech-passes-tory-abortion-10708542 (''The Daily Mirror'')]
 
 ;Science and technology
 *[[2017 in spaceflight]]
