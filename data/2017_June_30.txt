@@ -1,13 +1,13 @@
 {{Current events header|2017|06|30}}
 
 <!-- All news items below this line -->
-;Law and crime
-*[[Recognition of same-sex unions in Germany]]
-**The [[Bundestag]] votes to introduce [[same-sex marriage]] in [[Germany]].  With 393 votes in favor and 226 against, including [[Angela Merkel]], the law is expected to enter into force before the end of the year. [https://www.theguardian.com/world/2017/jun/30/germany-poised-legalise-same-sex-marriage-bill-law (''The Guardian'')]
-
 ;International relations
 *[[China–India relations]], [[Bhutan–China relations]]
 **[[China]] informs [[India]] that it must withdraw its troops for any dialogue to occur as tensions rise between China and India and [[Bhutan]] over the [[List of territorial disputes#Asia and the Pacific|disputed territory of Doklam]]. [http://www.financialexpress.com/india-news/china-asks-india-to-back-down-learn-from-historical-lessons/742139/ (Financial Express)]
+
+;Law and crime
+*[[Recognition of same-sex unions in Germany]]
+**The [[Bundestag]] votes to introduce [[same-sex marriage]] in [[Germany]].  With 393 votes in favor and 226 against, including Chancellor [[Angela Merkel]] voting against, the law is expected to enter into force before the end of the year. [https://www.theguardian.com/world/2017/jun/30/germany-poised-legalise-same-sex-marriage-bill-law (''The Guardian'')]
 
 ;Science and technology
 *[[Colony collapse disorder]]
