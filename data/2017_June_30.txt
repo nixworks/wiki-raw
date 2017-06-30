@@ -1,6 +1,10 @@
 {{Current events header|2017|06|30}}
 
 <!-- All news items below this line -->
+;International relations
+*[[China–India relations]], [[Bhutan–China relations]]
+**[[China]] informs [[India]] that it must withdraw its troops for any dialogue to occur as tensions rise between China and India and [[Bhutan]] and China over the [[List of territorial disputes#Asia and the Pacific|disputed territory of Doklam]]. [http://www.financialexpress.com/india-news/china-asks-india-to-back-down-learn-from-historical-lessons/742139/ (Financial Express)]
+
 ;Science and technology
 *[[Colony collapse disorder]]
 **A study funded by [[Bayer]] and [[Syngenta]] confirms that [[neonicotinoids]] kill [[queen bee|queen]] and [[worker bee]]s. [http://www.npr.org/sections/thesalt/2017/06/29/534852611/pesticides-are-harming-bees-but-not-everywhere-major-new-study-shows (NPR)]
