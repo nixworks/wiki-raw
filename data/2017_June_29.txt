@@ -1,9 +1,12 @@
 {{Current events header|2017|06|29}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[2017 Paris Mosque Incident]] 
+**A man attempts to run over pedestrians outside a mosque in Paris, France. ([http://www.bbc.co.uk/news/world-europe-40452264 BBC])
+
 ;Arts and culture
-*Anniversary of the [[transfer of sovereignty over Hong Kong]]
-**Protests mark the 20th anniversary of the transfer of [[Hong Kong]] to [[China]] from the [[United Kingdom]] alongside the arrival of [[Chinese President]] [[Xi Jinping]]. [https://www.hongkongfp.com/2017/06/29/pictures-i-china-hongkongers-decry-ugly-handover-decorations-welcoming-xi-jinping/ (''Hong Kong Free Press'')]
+*Protests mark the 20th anniversary of the [[Transfer of sovereignty over Hong Kong|transfer of sovereignty]] over [[Hong Kong]] to [[China]] from the [[United Kingdom]] alongside the arrival of [[Chinese President]] [[Xi Jinping]]. [https://www.hongkongfp.com/2017/06/29/pictures-i-china-hongkongers-decry-ugly-handover-decorations-welcoming-xi-jinping/ (''Hong Kong Free Press'')]
 
 ;Disasters and accidents
 *[[Charra Pani#2017 cable car accident|Charra Pani cable car accident]]
@@ -18,8 +21,6 @@
 **Amid a stand off between [[China]] and [[India]] in the Indian state of [[Sikkim]], [[Bhutan]] protests to China over the construction of a road in the disputed territory of Doklam, a meeting point for all three countries' borders. [http://www.straitstimes.com/asia/bhutan-protests-against-chinas-road-construction (The Straits Times)]
 
 ;Law and crime
-*[[2017 Paris Mosque Incident]]
-**A man attempts to run over pedestrians outside a mosque in [[Paris]], [[France]]. ([http://www.bbc.co.uk/news/world-europe-40452264 BBC])
 *[[Recognition of same-sex unions in Germany]]
 **[[Germans|German]] same-sex couples may be able to [[same-sex marriage|marry]] after Chancellor [[Angela Merkel]] drops her opposition for a parliamentary vote. [http://www.bbc.com/news/world-europe-40441712 (BBC)]
 *[[Crime in Argentina]]
