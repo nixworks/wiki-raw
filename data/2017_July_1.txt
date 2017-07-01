@@ -1,14 +1,14 @@
 {{Current events header|2017|07|1}}
 <!-- All news items below this line -->
-;Politics and Elections
-*[[Canadian Confederation]]
-**Canada celebrates the sesquicentennial anniversary of Canadian Confederation. [http://canada.pch.gc.ca/eng/1468262573081 (Canada.ca)]
-
-;International relations
-*[[Bhutan–China relations]], [[China–India relations]]
-**Amid growing tensions between [[China]] and [[India]] and [[Bhutan]], China releases a map detailing a [[List of territorial disputes#Asia and the Pacific|pieces of land claimed by Bhutan and India]] as belonging to China. China claims, via the map, that territory up until [[Gipmochi]] belongs to China and claims it's supported by the 1890 Britain-China treaty. [http://indiatoday.intoday.in/story/china-releases-new-map-territorial-claims-stand-off-site/1/991733.html (India Today)] 
-
 ;Business and economy
 *[[Taxation in India]]
 **India replaces its federal and state taxes with the [[Goods and Services Tax (India)|Goods and Services Tax (GST)]], the most extensive tax reform since its independence. [http://www.bbc.com/news/world-asia-india-40453774 (BBC)]
+
+;International relations
+*[[Bhutan–China relations]], [[China–India relations]]
+**Amid growing tensions between [[China]] and [[India]] and [[Bhutan]], China releases a map detailing a [[List of territorial disputes#Asia and the Pacific|pieces of land claimed by Bhutan and India]] as belonging to China. China claims, via the map, that territory up until [[Gipmochi]] belongs to China and claims it's supported by the 1890 Britain-China treaty. [http://indiatoday.intoday.in/story/china-releases-new-map-territorial-claims-stand-off-site/1/991733.html (''India Today'')]
+
+;Politics and elections
+*[[Politics of Canada]]
+**Canada celebrates the [[sesquicentennial]] anniversary of [[Canadian Confederation]]. [http://canada.pch.gc.ca/eng/1468262573081 (Canada.ca)]
 <!-- All news items above this line -->|}
