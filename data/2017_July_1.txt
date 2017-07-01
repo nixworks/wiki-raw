@@ -1,9 +1,5 @@
 {{Current events header|2017|07|1}}
 <!-- All news items below this line -->
-;Politics and elections 
-*[[Politics of Canada]]
-**Canada celebrates the [[sesquicentennial]] anniversary of [[Canadian Confederation]]. [http://canada.pch.gc.ca/eng/1468262573081 (Canada.ca)]
-
 ;Business and economy
 *[[Taxation in India]]
 **India replaces its federal and state taxes with the [[Goods and Services Tax (India)|Goods and Services Tax (GST)]], the most extensive tax reform since its independence. [http://www.bbc.com/news/world-asia-india-40453774 (BBC)]
@@ -13,6 +9,10 @@
 **Amid growing tensions between [[China]] and [[India]] and [[Bhutan]], China releases a map detailing a [[List of territorial disputes#Asia and the Pacific|pieces of land claimed by Bhutan and India]] as belonging to China. China claims, via the map, that territory up until [[Gipmochi]] belongs to China and claims it's supported by the 1890 Britain-China treaty. [http://indiatoday.intoday.in/story/china-releases-new-map-territorial-claims-stand-off-site/1/991733.html (''India Today'')]
 
 ;Law and crime
-*[[2017 Little Rock club shooting]]
-**Arguments that lead to an exchange of gunfire at a concert at the Power Ultra Lounge in [[Little Rock, Arkansas]], result in at least 17 people injured, one hospitalized in stable condition. Police says others were hurt as they tried to flee the  second floor club. [http://www.nbcnews.com/news/us-news/little-rock-shooting-least-17-hurt-arkansas-club-dispute-n778816 (NBC News)] [http://www.npr.org/sections/thetwo-way/2017/07/01/535142427/shooting-at-little-rock-nightclub-injures-17 (NPR)] [https://www.local10.com/news/national/little-rock-police-several-injured-after-nightclub-shooting (AP via WPLG)]
+*[[Little Rock nightclub shooting]]
+**Arguments that lead to an exchange of gunfire at a concert at the Power Ultra Lounge in [[Little Rock, Arkansas]], result in at least 28 people injured, one hospitalized in stable condition. Police says others were hurt as they tried to flee the  second floor club. [http://www.nbcnews.com/news/us-news/little-rock-shooting-least-17-hurt-arkansas-club-dispute-n778816 (NBC News)] [http://www.npr.org/sections/thetwo-way/2017/07/01/535142427/shooting-at-little-rock-nightclub-injures-17 (NPR)] [https://www.local10.com/news/national/little-rock-police-several-injured-after-nightclub-shooting (AP via WPLG)]
+
+;Politics and elections 
+*[[Politics of Canada]]
+**Canada celebrates the [[sesquicentennial]] anniversary of [[Canadian Confederation]]. [http://canada.pch.gc.ca/eng/1468262573081 (Canada.ca)]
 <!-- All news items above this line -->|}
