@@ -19,7 +19,7 @@
 *[[2017 cyberattacks on Ukraine]]
 **As part of an investigation into the recent cyberattacks, the servers of Ukraine's most popular accounting software company, M.E.Doc, are seized by Ukrainian police. [http://www.nbcnews.com/news/world/ukrainian-software-firm-s-servers-seized-after-cyber-attack-n779531 (NBC News)]
 *[[CNN controversies]]
-**[[CNN]] is accused of threatening to [[doxing|reveal the personal identity]] of a [[Reddit]] user who made a [[GIF]] depicting [[President of the United States|United States President]] [[Donald Trump]] tackling a man to the ground, with CNN's logo superimposed on his face. The GIF was modified and posted on [[Donald Trump on social media|Trump's Twitter feed]]. [https://www.nytimes.com/2017/07/05/business/media/cnn-trump-tweet.html (''The New York Times'')]
+**[[CNN]] is accused of threatening to [[doxing|reveal the personal identity]] of a [[Reddit]] user who made a [[GIF]] depicting [[President of the United States|United States President]] [[Donald Trump]] tackling a man to the ground, with CNN's logo superimposed on the man's face. The GIF was modified and posted on [[Donald Trump on social media|Trump's Twitter feed]]. [https://www.nytimes.com/2017/07/05/business/media/cnn-trump-tweet.html (''The New York Times'')]
 
 ;Science and technology
 *[[Evolution]]
