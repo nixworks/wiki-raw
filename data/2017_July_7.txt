@@ -1,5 +1,9 @@
 {{Current events header|2017|07|7}}
 
 <!-- All news items below this line -->
-*
+;International relations
+*Leaders from the [[Group of Twenty]] come together at the [[2017 G20 Hamburg summit]] today, including [[United States]] President [[Donald Trump]] who is set to meet with President of the [[Russian Federation]] [[Vladimir Putin]]. [http://www.cnn.com/2017/07/07/europe/ode-to-joy-beethoven-g20-merkel-trump/index.html (CNN)]
+
+;Science & Technology
+*[[South Australia]] has finalized a deal with [[Elon Musk]] owned [[Tesla, Inc.|Tesla]] to install a battery system in the state. Tesla said in a statement that upon completion by December 2017 , the system would be the largest [[lithium-ion battery]] storage project in the world, overtaking an 80 [[megawatt-hour]] power station at [[Mira Loma]] in [[California]] also built using Tesla batteries. [http://www.reuters.com/article/us-australia-power-tesla-idUSKBN19S0EV?il=0 (Reuters)]
 <!-- All news items above this line -->|}
