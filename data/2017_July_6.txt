@@ -1,6 +1,9 @@
 {{Current events header|2017|07|6}}
 
 <!-- All news items below this line -->
+;Arts and culture
+*In a meeting held in the city of [[Kraków]], [[Poland]], [[UNESCO]] decides not to include [[Machu Picchu]] on its [[List of World Heritage in Danger|list of endangered heritage sites]] due to the steps taken by Peruvian authorities to address concerns about the condition of the Inca citadel. [http://www.theaustralian.com.au/news/latest-news/un-wont-designate-machu-picchu-endangered/news-story/c4f34ce86745727f71a8ec2a809ba2c9 (''The Australian'')]
+
 ;Disasters and accidents
 *[[2017 Leyte earthquake]]
 **At least two are killed and power supply is interrupted in [[Eastern Visayas]] and [[Bohol]] when a 6.5 magnitude earthquake hits the province of [[Leyte]] in the Philippines [http://www.interaksyon.com/magnitude-6-5-quake-hits-jaro-leyte-damage-aftershocks-expected/ (''InterAksyon'')]
@@ -18,9 +21,6 @@
 *[[Tallis Obed Moses]] is elected [[President of Vanuatu]], succeeding the late President [[Baldwin Lonsdale]], who died in office in June. [http://www.radionz.co.nz/international/pacific-news/334564/tallis-obed-moses-named-as-new-vanuatu-president (''RNZI'')]
 *[[Martial law in the Philippines]]
 **The [[Supreme Court of the Philippines]] says [[President of the Philippines]] [[Rodrigo Duterte]] can declare [[Martial law in the Philippines|martial law]] in the whole [[Philippines]]. This comes as the Supreme Court has [http://sc.judiciary.gov.ph/pdf/web/viewer.html?file=/jurisprudence/2017/july2017/231658.pdf ruled] 2 days prior on the constitutionality of [[Proclamation No. 216]] declaring Martial Law and [[habeas corpus|suspending the privilege of the writ of habeas corpus]] in the whole of [[Mindanao]], in response to the [[Marawi crisis]]. [http://www.rappler.com/nation/174819-sc-ruling-martial-law-duterte-nationwide (''Rappler'')]
-
-;Art and culture
-*In a meeting held in the city of [[Kraków]], [[Poland]], [[UNESCO]] decides not to include [[Machu Picchu]] on its [[List of World Heritage in Danger|list of endangered heritage sites]] due to the steps taken by Peruvian authorities to address concerns about the condition of the Inca citadel. [http://www.theaustralian.com.au/news/latest-news/un-wont-designate-machu-picchu-endangered/news-story/c4f34ce86745727f71a8ec2a809ba2c9 (''The Australian'')]
 
 ;Science and technology
 *Scientists announce the detection of a [[Xi baryon|new subatomic particle]] at the [[Large Hadron Collider]]. [http://www.bbc.com/news/science-environment-40521445 (''BBC News'')]
