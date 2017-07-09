@@ -1,10 +1,6 @@
 {{Current events header|2017|07|8}}
 
 <!-- All news items below this line -->
-
-;Politics
-*The Venezuelan oppositor leader [[Leopoldo López]], leader of the [[Popular Will]] party, leaves the jail after almost 3 years and a half of imprisonment, to happen to comply house arrest with an electronic shackle. According to Venezuelan justice, this measure was taken for humanitarian reasons. He was sentenced to 13 years in prison and 9 months of prison for supposedly instigate to the violence during the [[2014 Venezuelan protests|2014 anti-Government protests]], although his supporters and much of the international community deny this version and consider that exist a political persecution against him. [http://www.chicagotribune.com/news/nationworld/ct-venezuela-opposition-house-arrest-20170708-story.html (Chicago Tribune)] [http://www.andina.com.pe/AGENCIA/noticia-leopoldo-lopez-bajo-arresto-domiciliario-grillete-electronico-674043.aspx (Andina)]
-
 ;Disasters and accidents
 *[[Tropical Storm Nanmadol (2017)]]
 **The death toll from flooding on the southern [[Japan]]ese island of [[Kyushu]] rises to 15, with six others missing. [http://www.telegraph.co.uk/news/2017/07/08/japanese-flooding-death-toll-rises-15/ (AP via ''The Telegraph'')]
@@ -12,6 +8,9 @@
 ;International relations
 *[[2017 G20 Hamburg summit]]
 **The summit announces it is unable to gain agreement on [[climate change]] between the [[United States]] and the other 19 members of this international forum. [http://www.reuters.com/article/us-g20-germany-communique-idUSKBN19T07P (Reuters)]
+
+;Politics
+*[[Venezuelan]] opposition leader [[Leopoldo López]], leader of the [[Popular Will]] party, is granted house arrest after over three years of imprisonment. [http://www.reuters.com/article/us-venezuela-politics-idUSKBN19T0IH?il=0 (Reuters)]
 
 ;Sports
 *[[2017 British and Irish Lions tour to New Zealand]]
