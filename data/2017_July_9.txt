@@ -2,7 +2,8 @@
 
 <!-- All news items below this line -->
 ;Arts and culture
-*[[UNESCO]] declares eight new sites as [[world heritage site]]s; including [[Lake District]] in [[North West England]] and Iran's Historic City of [[Yazd]]. [http://www.bbc.co.uk/news/uk-england-cumbria-40547691 (BBC)] [http://whc.unesco.org/en/news/1689/ (UNESCO)]
+*[[World heritage sites]]
+**[[UNESCO]] declares eight new sites as [[world heritage site]]s; including [[Lake District]] in [[North West England]] and Iran's Historic City of [[Yazd]]. [http://www.bbc.co.uk/news/uk-england-cumbria-40547691 (BBC)] [http://whc.unesco.org/en/news/1689/ (UNESCO)]
 
 ;International relations
 *[[Russia–United States relations]]
@@ -11,4 +12,8 @@
 ;Law and crime
 *[[2017 Beckton acid attack]]
 **The chief suspect in an attack on June 21, 2017, turns himself in to the police. [http://www.bbc.com/news/uk-england-london-40552021 (BBC)]
+
+;Politics and elections
+*[[2017 March for Justice]]
+**The 450 km-long Turkish [[March for Justice]] concludes in [[Istanbul]] at a mass rally attended by hundreds of thousands of people. [http://www.bbc.com/news/world-europe-40547972 (BBC)]
 <!-- All news items above this line -->|}
