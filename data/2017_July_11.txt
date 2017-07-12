@@ -2,8 +2,6 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[2016–17 purges in Turkey]]
-**Turkish authorities have ordered the arrest of 105 people working in [[information technology]] who were believed to have been involved in the attempted overthrow of the government last year, state-run [[Anadolu Agency]] reported on Tuesday. [http://www.reuters.com/article/us-turkey-security-detentions-idUSKBN19W0GL (Reuters)]
 *[[Kurdish–Turkish conflict (2015–present)]]
 **According to the [[Turkish Army]], its overnight air strike in [[Dargeçit]] killed eleven militants from the [[Kurdistan Workers' Party]]. [http://www.reuters.com/article/us-turkey-security-kurds-idUSKBN19W0DZ (Reuters)]
 *[[Syrian Civil War]]
@@ -26,13 +24,15 @@
 **Visas given to potential [[entrepreneur]]s who are foreigners will be significantly reduced prompting fears and criticism from [[Silicon Valley]]. Many of those given visas are from [[India]].  [https://www.voanews.com/a/us-expected-to-scrap-visa-program-for-entrepreneurs/3936958.html (''Voice of America'')], [https://www.usnews.com/news/best-countries/articles/2017-07-10/donald-trumps-america-first-policy-may-jeopardize-the-dreams-of-indians (''U.S. News and World Report'')]
 **The [[United States Department of Homeland Security|U.S. Department of Homeland Security]] reportedly plans to restrict [[student visa]] holders, most of whom are from [[China]], from staying in the [[United States]] for over a year. [https://www.washingtonpost.com/local/overseas-students-would-face-close-scrutiny-under-proposal-floated-at-dhs/2017/07/10/393b5cc0-6282-11e7-a4f7-af34fc1d9d39_story.html (''The Washington Post'')]
 *[[United Kingdom–United States relations]]
-**The [[Presidency of Donald Trump|Trump Administration]] announces this year's Presidential state visit to the U.K. is delayed until at least 2018. Both the White House and 10 Downing Street state the two countries had been unable to agree on a 2017 date. This planned visit has drawn protests in the [[United Kingdom]] since February, and more than 1.8 million signatures on a petition to [[Parliament of the United Kingdom|Parliament]] to cancel the meeting.  [http://www.reuters.com/article/us-usa-trump-britain-idUSKBN19W28G?il=0 (Reuters)] [http://www.businessinsider.com/donald-trumps-state-visit-to-the-uk-has-been-delayed-until-2018-2017-7 (Business Insider)] [http://www.theaustralian.com.au/news/world/trump-eyes-swift-uk-trade-deal-state-visit/news-story/89430722f5b07e64c692eccfd13c311e (''The Australian'')]
+**The [[Presidency of Donald Trump|Trump Administration]] announces this year's Presidential state visit to the U.K. is delayed until at least 2018. Both the White House and 10 Downing Street state the two countries had been unable to agree on a 2017 date. This planned visit has drawn protests in the [[United Kingdom]] since February, and more than 1.8 million signatures on a petition to [[Parliament of the United Kingdom|Parliament]] to cancel the meeting.  [http://www.reuters.com/article/us-usa-trump-britain-idUSKBN19W28G (Reuters)] [http://www.businessinsider.com/donald-trumps-state-visit-to-the-uk-has-been-delayed-until-2018-2017-7 (Business Insider)] [http://www.theaustralian.com.au/news/world/trump-eyes-swift-uk-trade-deal-state-visit/news-story/89430722f5b07e64c692eccfd13c311e (''The Australian'')]
 
 ;Law and crime
 *[[Human rights in the Philippines]]
 **The detained [[Senate of the Philippines|senator]] [[Leila de Lima]] files a bill urging the teaching of [[human rights]] in [[Philippines|Philippine]] schools. [http://www.rappler.com/nation/175312-senate-bill-specialized-subject-human-rights (''Rappler'')]
 
 ;Politics and elections
+*[[2016–17 purges in Turkey]]
+**Turkish authorities have ordered the arrest of 105 people working in [[information technology]] who were believed to have been involved in the attempted overthrow of the government last year, state-run [[Anadolu Agency]] reported on Tuesday. [http://www.reuters.com/article/us-turkey-security-detentions-idUSKBN19W0GL (Reuters)]
 *[[Human rights in Haiti]]
 **[[Haiti]] will reinstate its [[Armed Forces of Haiti|armed forces]] after 20 years of having none. [http://www.bbc.com/news/world-latin-america-40576545 (BBC)]
 *[[Links between Trump associates and Russian officials]]
@@ -43,6 +43,6 @@
 **Scientists at the [[Chinese Academy of Sciences]] successfully teleport a photon from a ground station in [[Tibet]] to a satellite orbiting [[Earth]] at distance of 500km away. It is the first time an object has been teleported from the planet into space. [https://www.technologyreview.com/s/608252/first-object-teleported-from-earth-to-orbit/ (MIT Technology Review)]
 
 ;Sports
-*[[130th IOC Session]] preparations
+*[[131st IOC Session]] preparations
 **The [[International Olympic Committee]] plans on awarding the [[2024 Summer Olympics|2024]] games to [[Paris]] and the [[2028 Summer Olympics|2028]] games to [[Los Angeles]].  Both [[Emmanuel Macron]] and [[Donald Trump]] have voiced their support. [http://www.npr.org/sections/thetwo-way/2017/07/11/536691843/ioc-expects-to-award-paris-and-los-angeles-2024-and-2028-olympics (NPR)]
 <!-- All news items above this line -->|}
