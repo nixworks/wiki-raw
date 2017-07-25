@@ -8,10 +8,6 @@
 *[[War in North-West Pakistan]]
 **At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern [[Lahore]]. [http://www.bbc.com/news/world-asia-40702927 (BBC)]
 
-;Arts and culture
-*[[History of the Philippines (1898–1946)|Philippine history]]
-**In a speech through [[Congress of the Philippines|Congress]],  [[Philippines|Philippine]] President [[Rodrigo Duterte]] asks the [[United States]] to return the iconic [[Balangiga bells]] taken during the [[Philippine–American War]]. [https://www.washingtonpost.com/news/worldviews/wp/2017/07/24/philippiness-duterte-keeps-lashing-out-at-the-united-states-over-its-atrocities-a-century-ago/ (''The Washington Post'')], [https://www.upi.com/Top_News/World-News/2017/07/24/Duterte-to-US-Return-Balangiga-bells-seized-in-1901/5301500915328/ (''United Press International'')]
-
 ;Business and economics
 *[[Microsoft Paint]]
 **[[Microsoft]] announces that [[Microsoft Paint|Paint]] will [[Deprecation#Software_deprecation|cease to be updated]] after the Windows 10 Fall Creators Update because its functionality was "integrated into Paint 3D". Paint was first released 32 years ago. [https://www.theguardian.com/technology/2017/jul/24/microsoft-paint-kill-off-after-32-years-graphics-editing-program (''The Guardian'')], [https://www.cnet.com/how-to/free-replacements-for-microsoft-paint/ (CNET)]
@@ -28,6 +24,9 @@
 *[[Israel–Jordan relations]]
 **[[2017 Amman incident]]
 ***[[Israel]]'s embassy staff in [[Jordan]], including a security guard involved in a shooting incident in which two Jordanians were killed yesterday, return to Israel from [[Amman]]. Israeli Prime Minister [[Benjamin Netanyahu]] thanked U.S. President [[Donald Trump]] and Jordan's [[Abdullah II of Jordan|King Abdullah]] for their help and cooperation. [http://www.reuters.com/article/us-jordan-israel-idUSKBN1A90DN (Reuters)] [http://www.bbc.com/news/world-middle-east-40712381 (BBC)]
+*[[Philippines–United States relations]]
+**[[History of the Philippines (1898–1946)]], [[Philippine–American War]], [[Balangiga massacre]]
+***During the annual [[State of the Nation Address (Philippines)|State of the Nation Address]] through the [[Congress of the Philippines]], [[President of the Philippines]] [[Rodrigo Duterte]] has outright demanded the [[United States]] to return the controversial [[Balangiga bells]], taken during [[Balangiga massacre|one of the campaigns]] of the [[Philippine–American War]] as [[Looting#War looting|spoils of war]]. [[Balangiga_bells#Attempts at recovery of the bells|Previous attempts to recover the bells]] have all failed so far. [https://www.washingtonpost.com/news/worldviews/wp/2017/07/24/philippiness-duterte-keeps-lashing-out-at-the-united-states-over-its-atrocities-a-century-ago/ (''The Washington Post'')], [https://www.upi.com/Top_News/World-News/2017/07/24/Duterte-to-US-Return-Balangiga-bells-seized-in-1901/5301500915328/ (''United Press International'')]
 
 ;Law and crime
 *[[Crime in Switzerland]]
