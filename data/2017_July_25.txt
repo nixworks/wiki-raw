@@ -1,10 +1,10 @@
 {{Current events header|2017|07|25}}
 
 <!-- All news items below this line -->
-;Armed attacks and conflicts
+;Armed conflicts and attacks
 *[[Israeli–Palestinian conflict]]
 **[[2017 Temple Mount crisis]]
-***The [[Israel]]i government says it will remove metal detectors and some cameras recently installed at the entrances to the [[Temple Mount]] in [[Jerusalem]] that resulted in a wave of protests and some deaths. Instead,  smart, less obtrusive surveillance means will be used. [https://www.nytimes.com/2017/07/24/world/middleeast/israel-jordan-aqsa-temple-mount-violence.html (''The New York Times'')] [http://www.haaretz.com/israel-news/1.803266 (''Haaretz'')] [http://www.reuters.com/article/us-israel-palestinians-idUSKBN1A92Q5 (Reuters)]
+***The [[Israel]]i government says it will remove metal detectors and some cameras recently installed at the entrances to the [[Temple Mount]] in [[Jerusalem]] that resulted in a wave of protests and some deaths. Instead,  less obtrusive surveillance means will be used. [https://www.nytimes.com/2017/07/24/world/middleeast/israel-jordan-aqsa-temple-mount-violence.html (''The New York Times'')] [http://www.haaretz.com/israel-news/1.803266 (''Haaretz'')] [http://www.reuters.com/article/us-israel-palestinians-idUSKBN1A92Q5 (Reuters)]
 
 ;Business and economy
 *[[Microsoft Paint]]
@@ -20,4 +20,6 @@
 ;International relations
 *[[Jordan–United States relations]]
 **[[Jordan]]ian authorities release a video of a shooting of [[United States Army|United States soldiers]] by a [[Jordanian Air Force]] sergeant. [https://www.nytimes.com/2017/07/24/us/video-shows-us-soldiers-surrendering-before-fatal-shooting-in-jordan.html (''The New York Times'')]
+* [[Iran–United States relations]]
+**The [[United States Navy]] says the [[USS Thunderbolt]] fired a warning shot at an [[Iran]]ian patrol boat after it came within 150 yards of the ship. [http://abcnews.go.com/International/us-navy-ship-fires-multiple-warning-shots-iranian/story?id=48835417 (''ABC News'')]
 <!-- All news items above this line -->|}
