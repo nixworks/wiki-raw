@@ -1,5 +1,7 @@
 {{Current events header|2017|07|28}}
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[2017 Patient Protection and Affordable Care Act replacement proposals]]
+**The [[American Health Care Act of 2017]], an attempt to repeal the [[Patient Protection and Affordable Care Act]], fails passage in the [[United States Senate]]. [http://www.reuters.com/article/us-usa-healthcare-idUSKBN1AC1G0?il=0 (Reuters)]
 <!-- All news items above this line -->|}
