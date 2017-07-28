@@ -1,17 +1,23 @@
 {{Current events header|2017|07|28}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*One person is killed and four are others injured in a knife attack in an [[Edeka]] supermarket in [[Barmbek]] in the German city of [[Hamburg]]. The motive for the attack is currently unknown. [http://www.bbc.com/news/world-europe-40757119 (BBC)]
+
 ;Disasters and accidents
 *[[2017 Barcelona train crash]]
 **A passenger train crashes into a buffer stop at [[Barcelona França railway station]], injuring 54 people, five seriously. [http://www.bbc.co.uk/news/world-europe-40750343 (BBC)]
 
+;Health and medicine
+*[[Charlie Gard case]]
+**Baby Charlie Gard dies at the age of 11 months. [http://www.bbc.com/news/uk-england-london-40752120 (BBC)] [http://news.sky.com/story/terminally-ill-charlie-gard-dies-in-hospice-10965654 (Sky News)]
 ;International relations
 *[[North Korea and weapons of mass destruction]]
-**North Korea launched a ballistic missile that flew 620 miles horizontally in about 45 minutes landing in the [[Sea of Japan]], according to [[Japan]], [[South Korea]], and the [[United States]]. [http://abcnews.go.com/International/us-detects-north-korean-missile-launch/story?id=48908129 (ABC News)] [http://www.reuters.com/article/us-northkorea-missiles-idUSKBN1AD1ZB (Reuters)]
+**North Korea launches a ballistic missile that flies 620 miles horizontally in about 45 minutes, landing in the [[Sea of Japan]], according to [[Japan]], [[South Korea]] and the [[United States]].  [http://abcnews.go.com/International/us-detects-north-korean-missile-launch/story?id=48908129 (ABC News)] [http://www.reuters.com/article/us-northkorea-missiles-idUSKBN1AD1ZB (Reuters)]
 
 ;Politics and elections
 *[[2017 Patient Protection and Affordable Care Act replacement proposals]]
 **The [[American Health Care Act of 2017]], an attempt to repeal the [[Patient Protection and Affordable Care Act]], fails passage in the [[United States Senate]]. [http://www.reuters.com/article/us-usa-healthcare-idUSKBN1AC1G0?il=0 (Reuters)]
 *[[Politics of Pakistan]]
-**The [[Supreme Court of Pakistan]] disqualifies [[Prime Minister of Pakistan|Prime Minister]] [[Nawaz Sharif]] from holding public office following a [[Panama Papers case (Pakistan)|verdict]] that he had been dishonest in not disclosing his employment in the Dubai-based Capital FZE company in his nomination papers. [https://www.dawn.com/news/1348191 (''Dawn (Pakistan)'')]
+** The [[Prime Minister of Pakistan]], [[Nawaz Sharif]] resigns after the [[Supreme Court of Pakistan|Supreme Court]] disqualifies him from holding public office following a [[Panama Papers case (Pakistan)|verdict]] that he had been dishonest in not disclosing his employment in the Dubai-based Capital FZE company in his nomination papers. [https://www.dawn.com/news/1348191 (''Dawn (Pakistan)'')] [http://www.bbc.com/news/world-asia-40750671 (BBC)]
 <!-- All news items above this line -->|}
