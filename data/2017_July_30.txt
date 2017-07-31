@@ -2,21 +2,26 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Philippine Drug War]]
-**[[2017 Ozamiz police raid]]
-***Fifteen people, including Mayor Reynaldo Parojinog Sr., are killed in a police drug raid in [[Ozamiz]], [[Philippines]]. [http://cnnphilippines.com/news/2017/07/30/Ozamiz-Mayor-killed-in-police-raid.html (CNN Philippines)] [http://www.gmanetwork.com/news/news/regions/619989/two-killed-ozamiz-city-vice-mayor-arrested-in-police-raid/story/ (GMA News)]
 *[[Boko Haram insurgency]]
 **[[Boko Haram]] insurgents ambush an oil exploration team in the [[Magumeri]] area of [[Borno State]], [[Nigeria]], killing at least 69 people. [http://www.news24.com/news24/Africa/News/boko-haram-ambush-death-toll-hits-69-20170729 (AFP via News24)]
 *[[War in Somalia (2009–present)|War in Somalia]]
 **A car bomb explodes near a police station in [[Mogadishu]], killing at least six people and wounding thirteen others. [http://www.aljazeera.com/news/2017/07/car-bomb-explodes-police-station-mogadishu-170730090829579.html (Al Jazeera)]
+
+;Disasters and accidents
+*At least nine people are injured following a two-vehicle collision at an [[intersection]] in [[Mid-Wilshire, Los Angeles|Los Angeles' mid-Wilshire neighborhood]] that sent one car onto the sidewalk where a crowd of people were dining. Eight people were taken to hospital, one in critical and three in serious condition. [http://www.nbclosangeles.com/news/local/Vehicle-Strikes-Crowd-in-Mid-Wilshire-Area-6-Injured-437537893.html (KNBC)] [http://www.latimes.com/local/lanow/la-me-ln-mid-wilshire-crash-20170730-story.html (''Los Angeles Times'')] 
+
 ;International relations
 *[[Russia–United States relations]]
 **[[President of Russia|Russian President Vladimir Putin]] expels 755 [[United States]] Diplomats in response to new sanctions imposed by the United States. [http://www.aljazeera.com/news/2017/07/russia-expels-755-diplomats-response-sanctions-170730201720880.html (Al Jazeera)] [http://edition.cnn.com/2017/07/30/politics/russia-us-diplomatic-missions/index.html (CNN)]
 
 ;Law and crime
 *[[Konstanz shooting]]
-**Two people are killed and three people seriously injured in [[Konstanz shooting|a shooting]] at a nightclub in [[Konstanz]], [[Germany]]. The gunman is shot and killed by police. [http://www.bbc.com/news/world-europe-40767954 (BBC)] 
-*Former Iranian [[President of Iran|President]] [[Mahmoud Ahmadinejad]] faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the  [[Supreme Audit Court of Iran|Supreme Audit Court]] public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. [https://www.reuters.com/article/us-iran-politics-ahmadinejad-idUSKBN1AF0QV (Reuters)]
+**Two people are killed and three people seriously injured in [[Konstanz shooting|a shooting]] at a nightclub in [[Konstanz]], [[Germany]]. The gunman is shot and killed by police. [http://www.bbc.com/news/world-europe-40767954 (BBC)]
+*[[Corruption in Iran]]
+**Former Iranian [[President of Iran|President]] [[Mahmoud Ahmadinejad]] faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the  [[Supreme Audit Court of Iran|Supreme Audit Court]] public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. [https://www.reuters.com/article/us-iran-politics-ahmadinejad-idUSKBN1AF0QV (Reuters)]
+*[[Philippine Drug War]]
+**[[2017 Ozamiz police raid]]
+***Fifteen people, including Mayor Reynaldo Parojinog Sr. and his wife, are killed in a police drug raid in [[Ozamiz|Ozamiz City]] in the province of [[Misamis Occidental]]. The mayor has been previously identified in [[President of the Philippines]] [[Rodrigo Duterte]]'s "narco list", as well as the Parojinog family as a drug syndicate in the [[New Bilibid Prison drug trafficking scandal]]. [http://cnnphilippines.com/news/2017/07/30/Ozamiz-Mayor-killed-in-police-raid.html (CNN Philippines)] [http://www.gmanetwork.com/news/news/regions/619989/two-killed-ozamiz-city-vice-mayor-arrested-in-police-raid/story/ (GMA News)]
 
 ;Politics and elections
 *[[Venezuelan Constitutional Assembly election, 2017]]
@@ -28,5 +33,6 @@
 **Voters in the [[Republic of the Congo]] return to the polls for the [[Two-round system|second round]] of an election for 139 [[National Assembly (Republic of the Congo)|National Assembly]] members, after the governing [[Congolese Party of Labour]] won 70 seats in the first round two weeks earlier. [http://www.rfi.fr/afrique/20170722-congo-brazzaville-resultats-legislatives-pct-sassou-nguesso (RFI)]
 
 ;Sports
-* [[Adrián Beltré]] of the [[Texas Rangers (baseball)|Texas Rangers]] becomes the 31st player with [[3,000 hit club|3,000 career hits]] in [[Major League Baseball]], reaching the milestone with a fourth-inning [[Double (baseball)|double]] in the Rangers' 10–6 loss to the [[2017 Baltimore Orioles season|Baltimore Orioles]]. Beltré is the first [[Dominican Republic|Dominican]]-born player to reach the milestone. [http://www.espn.com/mlb/story/_/id/20202537/adrian-beltre-joins-3000-hit-club-double-orioles (ESPN)]
+*[[2017 Major League Baseball season]]
+**[[Adrián Beltré]] of the [[Texas Rangers (baseball)|Texas Rangers]] becomes the 31st player with [[3,000 hit club|3,000 career hits]] in [[Major League Baseball]], reaching the milestone with a fourth-inning [[Double (baseball)|double]] in the Rangers' 10–6 loss to the [[2017 Baltimore Orioles season|Baltimore Orioles]]. Beltré is the first [[Dominican Republic|Dominican]]-born player to reach the milestone. [http://www.espn.com/mlb/story/_/id/20202537/adrian-beltre-joins-3000-hit-club-double-orioles (ESPN)]
 <!-- All news items above this line -->|}
