@@ -6,7 +6,7 @@
 
 ;Business and economy
 *[[Affirmative action in the United States|Affirmative action]]
-**The [[United States Department of Justice|U.S. Justice department]] plans on challenging [[Higher education in the United States|American colleges and universities]] on [[affirmative action]] that disproportionately affects [[Asian Americans|Asian American]] students. [http://www.newsweek.com/affirmative-action-college-admissions-explained-645482 (''Newsweek'')], [https://www.nytimes.com/2017/08/01/us/politics/trump-affirmative-action-universities.html (''The New York Times'')]
+**The [[United States Department of Justice|U.S. Justice department]] plans on challenging [[Higher education in the United States|American colleges and universities]] on [[affirmative action]] that disproportionately affects [[Asian American|Asian]] and [[White Americans|White American]] students. [http://www.newsweek.com/affirmative-action-college-admissions-explained-645482 (''Newsweek'')], [https://www.nytimes.com/2017/08/01/us/politics/trump-affirmative-action-universities.html (''The New York Times'')]
 
 ;Disasters and accidents
 *[[Floods in the United States]]
@@ -14,11 +14,12 @@
 *A natural gas explosion at college prep school [[Minnehaha Academy]] in [[Minneapolis]], [[Minnesota]], kills two staff members. Another nine people were injured, seven of whom are hospitalized, three in critical and four in serious condition. [https://apnews.com/f0a281ba42724049ab7a5c16401fa90e/1-dead,-1-missing-after-explosion-at-Minneapolis-school (AP)] [http://www.cbsnews.com/news/minneapolis-school-explosion-collapses-building/ (CBS News)]
 
 ;Health and medicine 
-*American and South Korean scientists have, for the first time, successfully freed embryos of a piece of faulty DNA that causes deadly heart disease to run in families. [http://www.bbc.com/news/health-40802147 {BBC}]
+*[[Genome editing|Gene editing]]
+**Teams of [[United States]]-based researchers, composed of American, [[China|Chinese]] and [[South Korea]]n scientists, successfully [[genome editing|edits]] a piece of faulty [[DNA]] that causes a deadly form of [[Cardiovascular disease|heart disease]] from [[cell (biology)|cells]] in [[human]] [[embryo]]s.  [http://www.bbc.com/news/health-40802147 (BBC)] [http://www.cnn.com/2017/08/02/health/crispr-human-embryos-gene-editing-study/index.html (CNN)] [https://www.sciencenews.org/article/crispr-gene-editing-human-embryos (''Science News Magazine'')] [https://www.scientificamerican.com/article/embryo-gene-editing-experiment-reignites-ethical-debate/ (''Scientific American'')]
 
 ;International relations
 *[[Immigration policy of Donald Trump]]
-**[[United States]] President [[Donald Trump]], together with Senators [[Tom Cotton]] and [[David Perdue]], unveils the [[Reforming American Immigration for Strong Employment Act of 2017]] (RAISE Act), a plan that would, if passed, reduce [[immigration to the United States|legal immigration to the U.S.]] by half each year, and implement a "merit-based system" prioritizing skilled workers, instead of the current family-based [[chain migration]] system. [https://www.washingtonpost.com/news/post-politics/wp/2017/08/02/trump-gop-senators-to-introduce-bill-to-slash-legal-immigration-levels/ (''The Washington Post'')], [http://www.npr.org/2017/08/02/541104795/trump-to-unveil-legislation-limiting-legal-immigration (NPR)]
+**[[United States]] President [[Donald Trump]], together with Senators [[Tom Cotton]] and [[David Perdue]], unveils the ''Reforming American Immigration for Strong Employment Act of 2017'' (RAISE Act), a plan that would, if passed, reduce [[immigration to the United States|legal immigration to the U.S.]] by half each year, and implement a "merit-based system" prioritizing skilled workers, instead of the current family-based [[chain migration]] system. [https://www.washingtonpost.com/news/post-politics/wp/2017/08/02/trump-gop-senators-to-introduce-bill-to-slash-legal-immigration-levels/ (''The Washington Post'')], [http://www.npr.org/2017/08/02/541104795/trump-to-unveil-legislation-limiting-legal-immigration (NPR)]
 
 ;Law and crime
 *[[Impeachment in the Philippines]]
@@ -27,6 +28,8 @@
 ;Politics and Elections
 *[[Papua New Guinean general election, 2017]]
 **The [[parliament]] of [[Papua New Guinea]] [[Incumbent|re-elects]] [[Peter O'Neill]] as [[Prime Minister]], ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. [http://www.reuters.com/article/us-papua-election-idUSKBN1AI0MF?il=0 (Reuters)]
+*[[Venezuelan Constitutional Assembly election, 2017]]
+**At a news briefing in [[London]], the CEO of [[Smartmatic]],  the Venezuelan-owned multinational company that provided the [[Electronic voting|election system]] used in  Sunday's election, says the number of  those participating in the poll was tampered with,  off by at least one million. [http://www.npr.org/sections/thetwo-way/2017/08/02/541129956/venezuelan-poll-tampered-with-says-voting-system-company (NPR)]
 
 ;Science and technology
 *Large parts of [[South Asia|Southern]] [[Southeast Asia|Asia]] may be uninhabitable by 2100 due to levels of [[humidity]] dangerous to [[human]]s. [http://news.nationalgeographic.com/2017/08/south-asia-heat-waves-temperature-rise-global-warming-climate-change/ (''National Geographic'')]
