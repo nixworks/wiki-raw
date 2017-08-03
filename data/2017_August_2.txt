@@ -2,11 +2,11 @@
 
 <!-- All news items below this line -->
 ;Arts and culture
-*[[Prince Philip, Duke of Edinburgh]] retires from public appearances. [http://www.abc.net.au/news/2017-08-03/prince-philip-queen-elizabeth-royal-husband-retires/8769254 (ABC.net.au)]
+*[[Prince Philip, Duke of Edinburgh]], retires from public appearances at the age of 96, after having completed 22,219 solo engagements since 1952. [http://www.abc.net.au/news/2017-08-03/prince-philip-queen-elizabeth-royal-husband-retires/8769254 (''ABC news'')]
 
 ;Business and economy
-*[[Affirmative action in the United States|Affirmative action]]
-**The [[United States Department of Justice|U.S. Justice Department]] plans on challenging [[Higher education in the United States|American colleges and universities]] on [[affirmative action]] decisions that it views disproportionately affect [[Asian American|Asian]] and [[White Americans|White American]] students. [http://www.newsweek.com/affirmative-action-college-admissions-explained-645482 (''Newsweek'')], [https://www.nytimes.com/2017/08/01/us/politics/trump-affirmative-action-universities.html (''The New York Times'')]
+*[[Affirmative action in the United States]]
+**The [[United States Department of Justice|U.S. Justice Department]] announces internally that it is to start investigating colleges which have admissions policies that are seen as unfair to white applicants.. [http://www.newsweek.com/affirmative-action-college-admissions-explained-645482 (''Newsweek'')], [https://www.nytimes.com/2017/08/01/us/politics/trump-affirmative-action-universities.html (''The New York Times'')]
 
 ;Disasters and accidents
 *[[Floods in the United States: 2001–present|Floods in the United States]]
@@ -15,7 +15,7 @@
 
 ;Health and medicine 
 *[[Genome editing|Gene editing]]
-**Teams of [[United States]]-based researchers, composed of American, [[China|Chinese]] and [[South Korea]]n scientists, successfully [[genome editing|edits]] a piece of faulty [[DNA]] that causes a deadly form of [[Cardiovascular disease|heart disease]] from [[cell (biology)|cells]] in [[human]] [[embryo]]s.  [http://www.bbc.com/news/health-40802147 (BBC)] [http://www.cnn.com/2017/08/02/health/crispr-human-embryos-gene-editing-study/index.html (CNN)] [https://www.sciencenews.org/article/crispr-gene-editing-human-embryos (''Science News Magazine'')] [https://www.scientificamerican.com/article/embryo-gene-editing-experiment-reignites-ethical-debate/ (''Scientific American'')]
+**Teams of [[United States]]-based researchers, composed of American, [[China|Chinese]] and [[South Korea]]n scientists, successfully [[genome editing|edit]] a piece of faulty [[DNA]] that causes a deadly form of [[Cardiovascular disease|heart disease]] from [[cell (biology)|cells]] in [[human]] [[embryo]]s.  [http://www.bbc.com/news/health-40802147 (BBC)] [http://www.cnn.com/2017/08/02/health/crispr-human-embryos-gene-editing-study/index.html (CNN)] [https://www.sciencenews.org/article/crispr-gene-editing-human-embryos (''Science News Magazine'')] [https://www.scientificamerican.com/article/embryo-gene-editing-experiment-reignites-ethical-debate/ (''Scientific American'')]
 
 ;International relations
 *[[Immigration policy of Donald Trump]]
@@ -23,14 +23,17 @@
 
 ;Law and crime
 *[[Impeachment in the Philippines]]
-**Two impeachment complaints are filed in the [[House of Representatives of the Philippines|lower house of the Philippine Congress]] against [[Supreme Court of the Philippines|Supreme Court]] [[Chief Justice of the Supreme Court of the Philippines|Chief Justice]] [[Maria Lourdes Sereno]]. [http://news.abs-cbn.com/news/08/02/17/impeachment-raps-filed-vs-chief-justice-sereno (ABS-CBN News)] [http://www.manilastandard.net/news/national/243179/cj-sereno-faces-impeachment-raps.html (''Manila Standard'')] 
+**Two impeachment complaints are filed in the [[House of Representatives of the Philippines|lower house of the Philippine Congress]] against [[Supreme Court of the Philippines|Supreme Court]] [[Chief Justice of the Supreme Court of the Philippines|Chief Justice]] [[Maria Lourdes Sereno]]. [http://news.abs-cbn.com/news/08/02/17/impeachment-raps-filed-vs-chief-justice-sereno (ABS-CBN News)] [http://www.manilastandard.net/news/national/243179/cj-sereno-faces-impeachment-raps.html (''Manila Standard'')]
+*[[War in Afghanistan (2015–present)|War in Afghanistan]]
+**A suicide bomber kills two American troops near the [[Kandahar International Airport]] in Afghanistan. The [[Taliban insurgency]] claims responsibility. [https://www.reuters.com/article/us-afghanistan-attack-nato-idUSKBN1AI14S (Reuters)]
 
-;Politics and Elections
+;Politics and elections
 *[[Papua New Guinean general election, 2017]]
 **The [[parliament]] of [[Papua New Guinea]] [[Incumbent|re-elects]] [[Peter O'Neill]] as [[Prime Minister]], ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. [http://www.reuters.com/article/us-papua-election-idUSKBN1AI0MF?il=0 (Reuters)]
 *[[Venezuelan Constitutional Assembly election, 2017]]
-**At a news briefing in [[London]], the CEO of [[Smartmatic]],  the Venezuelan-owned multinational company that provided the [[Electronic voting|election system]] used in  Sunday's election, says the number of  those participating in the poll was tampered with,  off by at least one million. [http://www.npr.org/sections/thetwo-way/2017/08/02/541129956/venezuelan-poll-tampered-with-says-voting-system-company (NPR)]
+**At a news briefing in [[London]], the CEO of [[Smartmatic]],  the Venezuelan-owned multinational company that provided the [[Electronic voting|election system]] used in  Sunday's election, says the number of those participating in the poll was tampered with, off by at least one million. [http://www.npr.org/sections/thetwo-way/2017/08/02/541129956/venezuelan-poll-tampered-with-says-voting-system-company (NPR)]
 
 ;Science and technology
-*Large parts of [[South Asia|Southern]] [[Southeast Asia|Asia]] may be uninhabitable by 2100 due to levels of [[humidity]] dangerous to [[human]]s. [http://news.nationalgeographic.com/2017/08/south-asia-heat-waves-temperature-rise-global-warming-climate-change/ (''National Geographic'')]
+*[[Effects of global warming on South Asia]]
+**New research suggests that large parts of [[South Asia|Southern]] [[Southeast Asia|Asia]] may be uninhabitable by 2100 due to levels of [[humidity]] dangerous to [[human]]s. [http://news.nationalgeographic.com/2017/08/south-asia-heat-waves-temperature-rise-global-warming-climate-change/ (''National Geographic'')]
 <!-- All news items above this line -->|}
