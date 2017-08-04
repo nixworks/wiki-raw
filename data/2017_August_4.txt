@@ -2,7 +2,8 @@
 
 <!-- All news items below this line -->
 ;Business and economics
-*The [[Economy of the United States|U.S. economy]] added over 200,000 jobs last month, dropping that country’s [[unemployment]] rate to match a previous 16-year low at 4.3%.  Wage growth remained below the [[Federal Reserve Board of Governors|Federal Reserve Board’s]] target of 3.5%. [http://money.cnn.com/2017/08/04/news/economy/july-jobs-report/index.html?adkey=bn (CNN Money)]
+*[[Economy of the United States]]
+**The U.S. economy added over 200,000 jobs last month, dropping that country's [[unemployment]] rate to match a previous 16-year low at 4.3%.  Wage growth remained below the [[Federal Reserve Board of Governors|Federal Reserve Board's]] target of 3.5%. [http://money.cnn.com/2017/08/04/news/economy/july-jobs-report/index.html?adkey=bn (CNN Money)]
 ;Politics and elections
 *[[Rwandan presidential election, 2017]]
 **Voters in [[Rwanda]] go to the polls to elect their [[List of Presidents of Rwanda|president]]. [[Paul Kagame]], incumbent since 2000, referred to the election as a formality, despite challenges from the [[Democratic Green Party of Rwanda|Democratic Greens]]' [[Frank Habineza]] and independent Philippe Mpayimana. [http://www.bbc.com/news/world-africa-40822530 (BBC)]
