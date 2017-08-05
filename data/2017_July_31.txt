@@ -2,7 +2,8 @@
 
 <!-- All news items below this line -->
 ;Business and economics
-*[[Discovery Communications]] announces it will acquire [[Scripps Networks Interactive]] for [[United States dollar|US$]] 14.6 billion. [https://www.cnbc.com/2017/07/31/discovery-communications-to-buy-scripps-networks-for-14-point-6b-in-cash-and-stock.html (CNBC)]
+*[[Scripps Networks Interactive]]
+**[[Discovery Communications]] announces it will acquire [[Scripps Networks Interactive]] for [[United States dollar|US$]] 14.6 billion. [https://www.cnbc.com/2017/07/31/discovery-communications-to-buy-scripps-networks-for-14-point-6b-in-cash-and-stock.html (CNBC)]
 
 ;Disasters and accidents
 *[[2017 Gujarat flood]]
@@ -21,6 +22,6 @@
 **Newly-appointed [[White House Chief of Staff]] [[John F. Kelly]] fires [[White House Communications Director|Director of Communications]] [[Anthony Scaramucci]] less than ten days after Scaramucci took up his post. [https://www.nytimes.com/2017/07/31/us/politics/anthony-scaramucci-white-house.html (''The New York Times'')] [http://www.bbc.com/news/world-us-canada-40782299 (BBC)]
 
 ;Sports
-* [[2024 Summer Olympics|2024]] and [[2028 Summer Olympics]]
-** [[Los Angeles]] has reportedly reached an agreement with the [[International Olympic Committee]] to host the 2028 Games. This means that [[Paris]] will most likely host the 2024 Games. Both Games will be formally awarded at the [[131st IOC Session]] in [[Lima]], [[Peru]], in September. [http://www.espn.com/olympics/story/_/id/20192092/los-angeles-agrees-host-2028-summer-olympics-paris-serve-2024-site (ESPN)]
+*[[2024 Summer Olympics|2024]] and [[2028 Summer Olympics|2028]] [[Summer Olympics]]
+**[[Los Angeles]] has reportedly reached an agreement with the [[International Olympic Committee]] to host the 2028 Games. This means that [[Paris]] will most likely host the 2024 Games. Both Games will be formally awarded at the [[131st IOC Session]] in [[Lima]], [[Peru]], in September. [http://www.espn.com/olympics/story/_/id/20192092/los-angeles-agrees-host-2028-summer-olympics-paris-serve-2024-site (ESPN)]
 <!-- All news items above this line -->|}
