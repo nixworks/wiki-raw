@@ -2,8 +2,6 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Battle of Marawi]]
-**[[Philippines]] senator [[Leila de Lima]] requests the [[Department of Foreign Affairs (Philippines)|foreign affairs department]] to invite the [[United Nations]] for an investigation on alleged [[human rights in the Philippines|human rights]] violations in [[Marawi]]. [http://www.rappler.com/nation/177866-de-lima-united-nations-rapporteur-internally-displaced-persons-marawi (Rappler)]
 *[[Boko Haram insurgency]]
 **Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of [[Ozubulu]] in [[Nigeria]]'s [[Anambra State]]. [http://www.reuters.com/article/us-nigeria-security-idUSKBN1AM0SL?il=0 (Reuters)]
 *[[2017 Venezuelan constitutional crisis]]
@@ -18,6 +16,11 @@
 **The search for three members of the [[United States Marines Corps]] lost in a [[MV-22 Osprey]] crash in [[Shoalwater Bay]] in the [[Australia]]n state of [[Queensland]] is called off. [http://www.skynews.com.au/news/top-stories/2017/08/06/search-for-us-marines-missing-off-qld-coast.html (Sky News)]
 *[[2017 Tulsa tornado]]
 **An [[Enhanced Fujita scale|EF-2]] tornado strikes [[Tulsa, Oklahoma]], injuring 30 people and damaging dozens of buildings. [http://www.reuters.com/article/us-oklahoma-tornado-idUSKBN1AN03G (Reuters)]
+
+;International relations
+*[[Territorial disputes in the South China Sea]]
+**During one of the meetings of the 50th [[Association of Southeast Asian Nations]] Regional Forum at [[Manila]], the foreign ministers of the member nations issued a [[communiqué]] "emphasizing the importance of non-militarisation and self-restraint," ending an impasse regarding the disputes on the South China Sea. [http://www.reuters.com/article/us-asean-philippines-southchinasea-state-idUSKBN1AM0IR (Reuters)]
+
 ;Sports
 *[[2017 CrossFit Games]]
 **[[Mathew Fraser]] and [[Tia-Clair Toomey]] win the [[2017 CrossFit Games]] in [[Madison, Wisconsin]] and claim the title of Fittest on Earth for Individual Men's and Women's respectively. [https://games.crossfit.com/leaderboard/games/2017?division=2&sort=0&page=1 (Crossfit.com)]
