@@ -1,6 +1,10 @@
 {{Current events header|2017|08|8}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Battle of Marawi]]
+**[[The Pentagon]] is considering conducting airstrikes in [[Marawi]], which if approved would later put U.S. troops on the ground to battle the ISIS-affiliated [[Maute group]] as well as related Islamist terror groups. A spokesperson later denied the claims as well as clarified that the [[Philippines]] has yet to make a request. [http://www.nbcnews.com/news/world/u-s-may-begin-airstrikes-against-isis-philippines-n790271 (NBC News)]
+
 ;Disasters and accidents
 *[[2017 Jiuzhaigou earthquake]]
 **A magnitude 7.0 earthquake strikes [[Sichuan]] in southwest [[China]], killing at least thirteen people and injuring more than 175. [http://www.bbc.co.uk/news/world-asia-40869028 (BBC)], [http://www.reuters.com/article/us-china-quake-idUSKBN1AP005?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29 (Reuters)]
@@ -13,5 +17,5 @@
 *[[Kenyan general election, 2017]]
 **Voters in [[Kenya]] go to the polls to elect the [[President of Kenya|President]], as well as members of the [[National Assembly (Kenya)|National Assembly]] and [[Senate of Kenya|Senate]]. [http://www.bbc.com/news/world-africa-40855040 (BBC)]
 *[[Corruption in South Africa]]
-**[[President of South Africa|President]] [[Jacob Zuma]] survives his eighth no-confidence motion in parliament via a 198–177 secret ballot vote with four abstentions. The [[South African rand|rand]] fell by 1 percent on the announcement of the outcome.  [http://www.reuters.com/article/us-safrica-politics-idUSKBN1AN2JY?il=0 (Reuters)]
+**[[President of South Africa|President]] [[Jacob Zuma]] survives his eighth no-confidence motion in parliament via a 198–177 secret ballot vote with nine abstentions. The [[South African rand|rand]] fell by 1 percent on the announcement of the outcome.  [http://www.reuters.com/article/us-safrica-politics-idUSKBN1AN2JY?il=0 (Reuters)]
 <!-- All news items above this line -->|}
