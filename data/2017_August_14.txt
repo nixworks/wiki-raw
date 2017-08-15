@@ -19,7 +19,7 @@
 
 ;Law and crime
 *Aftermath of the [[2017 Unite the Right rally]]
-**Several internet companies, such as domain registrar [[GoDaddy]] and video game chat application [[Discord (software)|Discord]], shut down services for [[Neo-Nazism|neo-Nazi]], [[White supremacy|white supremacist]], [[alt-right]] website [[The Daily Stormer]] for violation of [[terms of service]], and in response to this weekend's violence in [[Charlottesville, Virginia]]. [https://www.theguardian.com/technology/2017/aug/14/daily-stormer-alt-right-google-go-daddy-charlottesville (''The Guardian'')] [https://techcrunch.com/2017/08/14/discord-shuts-down-alt-right-server-and-accounts-for-tos-violations/ (TechCrunch)]
+**Several internet companies, such as domain registrar [[GoDaddy]] and video game chat application [[Discord (software)|Discord]], shut down services for [[Neo-Nazism|neo-Nazi]], [[White supremacy|white supremacist]], [[alt-right]] website ''[[The Daily Stormer]]'' for violation of [[terms of service]], and in response to this weekend's violence in [[Charlottesville, Virginia]]. [https://www.theguardian.com/technology/2017/aug/14/daily-stormer-alt-right-google-go-daddy-charlottesville (''The Guardian'')] [https://techcrunch.com/2017/08/14/discord-shuts-down-alt-right-server-and-accounts-for-tos-violations/ (TechCrunch)]
 
 ;Politics and elections
 *[[2016–17 Rohingya persecution in Myanmar]]
