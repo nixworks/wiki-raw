@@ -27,9 +27,9 @@
 
 ;Politics and elections
 *[[Presidency of Donald Trump]]
-**[[President of the United States|Pesident]] [[Donald Trump]] has ended his planed [https://en.wikisource.org/wiki/Executive_Order_13805 Presidential Advisory Council on Infrastructure] after only a month, coming a day after [[Strategic and Policy Forum|two other]] [[American Manufacturing Council|advisory councils]] were scrapped. No reason was given. [https://www.cnn.com/2017/08/17/politics/trump-ends-council-on-infrastructure/index.html (CNN)] [https://www.bloomberg.com/news/articles/2017-08-17/trump-is-said-to-abandon-plan-for-council-on-infrastructure (Bloomberg)]
+**[[President of the United States|President]] [[Donald Trump]] has ended his planned [https://en.wikisource.org/wiki/Executive_Order_13805 Presidential Advisory Council on Infrastructure] after only a month, coming a day after [[Strategic and Policy Forum|two other]] [[American Manufacturing Council|advisory councils]] were scrapped. No reason was given. [https://www.cnn.com/2017/08/17/politics/trump-ends-council-on-infrastructure/index.html (CNN)] [https://www.bloomberg.com/news/articles/2017-08-17/trump-is-said-to-abandon-plan-for-council-on-infrastructure (Bloomberg)]
 
 ;Science and technology
-*Aftermath of the [[2017 Unite the Right rally]]
-**Internet firm [[CloudFlare]] has also terminated the [[Neo-Nazism|neo-Nazi]], [[White supremacy|white supremacist]], [[alt-right]] website ''[[The Daily Stormer]]'', following criticism due to the [[2017 Unite the Right rally|events]] in [[Charlottesville, Virginia]]. [https://blog.cloudflare.com/why-we-terminated-daily-stormer/ (Cloudflare's Official Blog)] [https://money.cnn.com/2017/08/17/technology/business/cloudflare-drops-daily-stormer/index.html (CNN Money)]
+*Aftermath of the [[Unite the Right rally]]
+**Internet firm [[CloudFlare]] has also terminated the [[Neo-Nazism|neo-Nazi]], [[White supremacy|white supremacist]], [[alt-right]] website ''[[The Daily Stormer]]'', following criticism due to the [[Unite the Right rally|events]] in [[Charlottesville, Virginia]]. ''The Daily Stormer'' website had already lost web-hosting services by the domain register [[GoDaddy]] and Google [https://blog.cloudflare.com/why-we-terminated-daily-stormer/ (Cloudflare's Official Blog)] [http://money.cnn.com/2017/08/17/technology/business/cloudflare-drops-daily-stormer/index.html (CNN Money)]
 <!-- All news items above this line -->|}
