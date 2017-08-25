@@ -1,5 +1,10 @@
 {{Current events header|2017|08|25}}
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[Afghanistan War (2001-)]]
+**[[New Zealand]] on Friday announced an extra three non-combat military personnel, boosting its military commitment to 13. [http://www.reuters.com/article/us-newzealand-afghanistan-idUSKCN1B502E?il=0 (Reuters)]
+
+;Science and technology
+*[[FORMOSAT-5]], the first satellite fully designed by [[Taiwan]]'s [[National Space Organization]], is launched into low-earth orbit by [[SpaceX]]'s [[Falcon 9]] rocket. [https://www.bloomberg.com/news/articles/2017-08-24/satellite-for-taiwan-launched-from-california (AP via Bloomberg)]
 <!-- All news items above this line -->|}
