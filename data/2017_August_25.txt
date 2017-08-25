@@ -2,9 +2,13 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Afghanistan War (2001-)]]
-**[[New Zealand]] on Friday announced an extra three non-combat military personnel, boosting its military commitment to 13. [http://www.reuters.com/article/us-newzealand-afghanistan-idUSKCN1B502E?il=0 (Reuters)]
+*[[Rohingya insurgency in Western Myanmar]]
+**[[2016–17 Northern Rakhine State clashes]]
+***[[Myanmar]] officials report at least five policemen and seven [[Rohingya people|Rohingya]] insurgents were killed overnight during coordinated attacks by insurgents on 24 police posts and an army base in [[Rakhine State]]. [http://www.reuters.com/article/us-myanmar-rohingya-idUSKCN1B507K?il=0 (Reuters)] 
 
+;Law and crime
+*[[Supreme Court of Thailand|Thailand's Supreme Court]] issues an arrest warrant for former [[Prime Minister of Thailand|Prime Minister]] [[Yingluck Shinawatra]], who didn't appear in court for the verdict in her negligence trial regarding a rice subsidy program for farmers. The court also issued a statement questioning her attorney's report that she is unwell and a potential flight risk, citing the lack of a physician's certificate. The reading of the verdict has been rescheduled to September 27. [http://www.reuters.com/article/us-thailand-politics-idUSKCN1B50AR (Reuters)] [http://www.smh.com.au/world/yingluck-shinawatra-trial-supreme-court-seeks-arrest-of-former-prime-minister-20170825-gy42xb.html (''The Sydney Morning Herald'')] [https://www.nytimes.com/2017/08/24/world/asia/thailand-yingluck-shinawatra-trial-verdict-arrest-warrant.html (''The New York Times'')]
+ 
 ;Science and technology
 *[[FORMOSAT-5]], the first satellite fully designed by [[Taiwan]]'s [[National Space Organization]], is launched into low-earth orbit by [[SpaceX]]'s [[Falcon 9]] rocket. [https://www.bloomberg.com/news/articles/2017-08-24/satellite-for-taiwan-launched-from-california (AP via Bloomberg)]
 <!-- All news items above this line -->|}
