@@ -2,14 +2,14 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[War in Afghanistan (2001–present)]]
+*[[War in Afghanistan (2001–present)|War in Afghanistan]]
 **[[New Zealand]] announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. [http://www.reuters.com/article/us-newzealand-afghanistan-idUSKCN1B502E?il=0 (Reuters)]
 **Four gunmen attack a Shiite mosque in [[Kabul]], [[Afghanistan]], killing at least 20 people. [http://abcnews.go.com/International/wireStory/latest-explosions-reported-shiite-mosque-kabul-49413088 (ABC News)]
 *[[Rohingya insurgency in Western Myanmar]]
 **[[2016–17 Northern Rakhine State clashes]]
 ***[[Myanmar]] officials report eight policemen and one immigration officer,  and 16 [[Rohingya people|Rohingya]] insurgents were killed overnight during coordinated attacks by insurgents on at least 26 police posts and an army base in [[Rakhine State]]. [http://www.reuters.com/article/us-myanmar-rohingya-idUSKCN1B507K?il=0 (Reuters)] [https://apnews.com/37103be49dd249af8f2e7297b599fb41/Myanmar:-25-dead-in-militant-attacks-on-police,-border-posts (AP)]
 *[[2017 Haryana riots]]
-**The riots began in [[Panchkula]] and later spread to other parts of [[northern India]]n states of [[Haryana]] and [[Punjab, India|Punjab]] and the capital [[New Delhi]] after the court found the [[Dera Sacha Sauda]] chief [[Gurmeet Ram Rahim Singh]] guilty of rape. At least 28 people were killed and 250 others were injured. [http://www.thehindu.com/news/national/other-states/live-updates-dera-sacha-sauda-chief-convicted-in-rape-case/article19558757.ece (The Hindu)] [https://www.washingtonpost.com/news/morning-mix/wp/2017/08/25/indias-guru-of-bling-convicted-of-rape/ (''The Washington Post'')]
+**Riots erupt in [[Panchkula]] and later spread to other parts of the [[northern India]]n state of [[Haryana]], as well as the state of [[Punjab, India|Punjab]] and the Indian capital of [[New Delhi]], after a special [[Central Bureau of Investigation|CBI]] court found the [[Dera Sacha Sauda]] chief [[Gurmeet Ram Rahim Singh]] guilty of rape. At least 28 people have been killed and 250 others injured. [http://www.thehindu.com/news/national/other-states/live-updates-dera-sacha-sauda-chief-convicted-in-rape-case/article19558757.ece (The Hindu)][https://www.washingtonpost.com/news/morning-mix/wp/2017/08/25/indias-guru-of-bling-convicted-of-rape/ (''The Washington Post'')]
 
 ;Business and economy
 *[[Environment of Brazil]]
@@ -27,10 +27,11 @@
 **[[Lee Jae-yong (businessman)|Lee Jae-yong]] (Jay Y. Lee), the vice-chairman of the [[Samsung Group]] is sentenced to five years for graft for his involvement in the [[2016 South Korean political scandal]] that led to the impeachment of [[President of South Korea]] [[Park Geun-hye]]. [https://www.bloomberg.com/news/articles/2017-08-25/samsung-heir-sentenced-to-five-years-prison-on-graft-conviction (Bloomberg)] [http://www.reuters.com/article/us-samsung-lee-idUSKCN1B41VC (Reuters)]
 
 ;Politics and elections
-*U.S. [[President of the United States|President]] [[Donald Trump]] pardons former [[sheriff]] of [[Maricopa County, Arizona]], [[Joe Arpaio]]. [https://www.washingtonpost.com/politics/president-trump-grants-pardon-to-former-sheriff-joe-arpaio-of-arizona/2017/08/25/84878658-89f2-11e7-96a7-d178cf3524eb_story.html?utm_term=.1c74ba3f5374 (''The Washington Post'')]
+*U.S. [[President of the United States|President]] [[Donald Trump]] pardons former [[sheriff]] of [[Maricopa County, Arizona]], [[Joe Arpaio]]. [https://www.washingtonpost.com/politics/president-trump-grants-pardon-to-former-sheriff-joe-arpaio-of-arizona/2017/08/25/84878658-89f2-11e7-96a7-d178cf3524eb_story.html?utm_term=.1c74ba3f5374 (''The Washington Post'')], [http://reason.com/blog/2017/08/25/trumps-pardon-of-former-sheriff-joe-arpa (''Reason'')]
 *[[Political appointments by Donald Trump]]
 **Deputy Assistant to the President [[Sebastian Gorka]] resigns expressing unhappiness with the direction of the Trump administration’s foreign policy. [http://www.nydailynews.com/news/national/trump-aide-sebastian-gorka-resigns-white-house-article-1.3443137 (''New York Daily News'')] [http://thefederalist.com/2017/08/25/breaking-sebastian-gorka-resigns-from-trump-administration/ (The Federalist)]
- 
+*[[Sexual orientation and gender identity in the United States military]]
+**President Donald Trump issues a [[presidential memorandum]] that stops funding of [[Sex reassignment surgery|sex reassignment]] procedures for military personnel, and that denies entry of [[transgender]] individuals into the military. President Trump announced this policy change via twitter in late July. Two [[LGBT rights organizations]] filed a federal lawsuit two weeks ago arguing this policy change is unconstitutional because it denies transgender service members equal protection and due process.  [https://www.washingtonpost.com/politics/trump-directs-pentagon-to-implement-ban-on-transgender-service-members-bans-sex-reassignment-surgery/2017/08/25/c8c604d8-89e4-11e7-9ce7-9e175d8953fa_story.html?utm_term=.7ed979afbe85 (''The Washington Post'')] [https://www.nbcnews.com/news/military/lawsuit-opposes-trump-s-ban-transgender-military-service-n791241 (AP via NBC News)]
 ;Science and technology
 *[[2017 in spaceflight]]
 **[[FORMOSAT-5]], the first satellite fully designed by [[Taiwan]]'s [[National Space Organization]], is launched into low-earth orbit by [[SpaceX]]'s [[Falcon 9]] rocket. [https://www.bloomberg.com/news/articles/2017-08-24/satellite-for-taiwan-launched-from-california (AP via Bloomberg)]
