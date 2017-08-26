@@ -1,13 +1,17 @@
 {{Current events header|2017|08|26}}
 
 <!-- All news items below this line -->
-;International relations
-*[[2017 North Korea crisis]]
-**The [[Republic of Korea Armed Forces|South Korean military]] reports [[North Korea]] has fired several short-range projectiles into [[Sea of Japan|the sea]]  from its eastern [[Kangwon Province (North Korea)|Kangwon province]]. The [[United States Department of Defense|U.S. military]] says three short-range missile launches either  exploded on launch or failed in flight. [http://www.reuters.com/article/us-northkorea-missiles-idUSKCN1B52Q2?il=0 (Reuters)] [http://www.reuters.com/article/us-northkorea-missiles-usa-military-idUSKCN1B52SI?il=0 (Reuters�)]
-
 ;Disasters and accidents
 *[[2017 M1 motorway crash]]
 **Several people are dead after two trucks collide with a minibus on the [[M1 motorway]] near the [[England|English]] town of [[Newport Pagnell]]. [http://www.independent.ie/world-news/europe/britain/several-dead-after-two-lorries-minibus-crash-in-england-36071150.html (''Irish Independent'')]
+*[[2017 Atlantic hurricane season]]
+**[[Hurricane Harvey]]
+***Hurricane Harvey is now a [[Tropical cyclone#Tropical storm|tropical storm]]. It made landfall on Texas's eastern coast, the eye striking the town of [[Rockport, Texas|Rockport]], as a [[Saffir–Simpson scale#Category 4|Category 4]] hurricane. It's the strongest storm to hit the state since 1961. Harvey is expected to maintain tropical storm strength, with heavy rains and flooding, for at least four days. [http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/261748.shtml (National Hurricane Center)]  [https://www.nytimes.com/2017/08/26/us/hurricane-harvey-texas.html (''The New York Times'')] [http://www.bbc.com/news/world-us-canada-41062633 (BBC)] [http://www.chron.com/news/houston-weather/hurricaneharvey/article/Harvey-impacts-Texas-Latest-tropical-weather-11953474.php (''Houston Chronicle'')]
+***At [[Governor of Texas|Governor]] [[Greg Abbott]]'s request,  President Trump issues a disaster proclamation for the state, freeing up federal aid for the worst-affected areas. [https://www.nytimes.com/2017/08/25/us/hurricane-harvey-texas.html?rref=collection%2Ftimestopic%2FFederal%20Emergency%20Management%20Agency&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=2&pgtype=collection (''The New York Times'')]
+
+;International relations
+*[[2017 North Korea crisis]]
+**The [[Republic of Korea Armed Forces|South Korean military]] reports [[North Korea]] has fired several short-range projectiles into [[Sea of Japan|the sea]]  from its eastern [[Kangwon Province (North Korea)|Kangwon province]]. The [[United States Department of Defense|U.S. military]] says three short-range missile launches either  exploded on launch or failed in flight. [http://www.reuters.com/article/us-northkorea-missiles-idUSKCN1B52Q2?il=0 (Reuters)] [http://www.reuters.com/article/us-northkorea-missiles-usa-military-idUSKCN1B52SI?il=0 (Reuters²)]
 
 ;Law and crime
 *[[Yingluck Shinawatra#Trial|Trial of Yingluck Shinawatra]]
