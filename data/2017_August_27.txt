@@ -2,5 +2,6 @@
 
 <!-- All news items below this line -->
 ;Sports
-* In boxing, Floyd Mayweather [[Floyd Mayweather Jr. vs. Conor McGregor|defeats]] MMA fighter Conor McGregor in the 10th round by technical knockout. [http://www.espn.com/boxing/story/_/id/20471276/floyd-mayweather-defeats-conor-mcgregor-tko-10th-round (ESPN)]
+*[[Floyd Mayweather Jr. vs. Conor McGregor]]
+**In boxing, [[Floyd Mayweather Jr.]] defeats MMA fighter [[Conor McGregor]] in the 10th round by technical knockout. [http://www.espn.com/boxing/story/_/id/20471276/floyd-mayweather-defeats-conor-mcgregor-tko-10th-round (ESPN)]
 <!-- All news items above this line -->|}
