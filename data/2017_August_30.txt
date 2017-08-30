@@ -1,6 +1,11 @@
 {{Current events header|2017|08|30}}
 
 <!-- All news items below this line -->
+;Disasters and accident
+*At least five people are killed in the [[India]]n city of [[Mumbai]] caused by the worst monsoon in years. [http://www.telegraph.co.uk/news/2017/08/30/floods-hit-mumbai-worst-monsoon-years-kills-1200-across-south/ (''The Telegraph'')]
+*[[Hurricane Harvey]]
+**Tropical Storm Harvey makes its second landfall in the US state of [[Louisiana]] as the death toll from Hurricane Harvey rises to 30. [https://www.nytimes.com/2017/08/29/us/harvey-texas-louisiana.html?emc=edit_na_20170830&nl=breaking-news&nlid=80824687&ref=headline&_r=0 (''New York Times'')]
+
 ;Law and crime
 * [[Crime in South Korea]]
 ** A teenager suspected of murdering an 8-year old boy in Incheon, South Korea, is convicted to 20 years in prison.{{cn}}
