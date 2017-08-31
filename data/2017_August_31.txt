@@ -4,15 +4,18 @@
 ;Disasters and accidents
 *[[2017 Atlantic hurricane season]]
 **[[Hurricane Harvey]]
-***The [[Arkema]] chemical plant in [[Crosby, Texas]], near [[Houston]] is at risk of explosion after [[flood]] waters damage the facility. Residents living within a 1.5-mile (2.4km) radius of the plant are evacuated. [https://www.nbcnews.com/storyline/hurricane-harvey/harvey-danger-major-chemical-plant-near-houston-likely-explode-facility-n797581 (NBC News)] [http://www.bbc.co.uk/news/world-us-canada-41104451 (BBC)]
+***The [[Arkema]] chemical plant in [[Crosby, Texas]], near [[Houston]] is at risk of explosion after [[flood]] waters damage the facility. Residents living within a {{convert|1.5|mi|km|adj=on}} radius of the plant are evacuated. [https://www.nbcnews.com/storyline/hurricane-harvey/harvey-danger-major-chemical-plant-near-houston-likely-explode-facility-n797581 (NBC News)] [http://www.bbc.co.uk/news/world-us-canada-41104451 (BBC)]
+
 ;International relations
 *[[Joint Comprehensive Plan of Action]]
 **An [[International Atomic Energy Agency|IAEA]] report says [[Iran]] remains within key limits set in the 2015 agreement with world powers on development of its [[Nuclear program of Iran|nuclear program]]. [https://in.reuters.com/article/iran-nuclear-iaea-idINKCN1BB26T (Reuters)]
 *[[Russia–United States relations]]
-**The [[United States]] orders [[Russia]] to close a consulate and two other buildings by Saturday, September 2nd, invoking "parity" over a Russian measure in July. [http://www.bbc.com/news/world-us-canada-41115352 (BBC)]
+**The [[United States]] [[United States Department of State|State Department]] orders [[Russia]] to close the [[Consulate-General of Russia in San Francisco]] and two other buildings by September 2, 2017, invoking "parity" over a Russian measure in July. [http://www.bbc.com/news/world-us-canada-41115352 (BBC)]
+
 ;Law and crime
 *[[Assassination of Benazir Bhutto]]
 **Two police officials found guilty of negligence and mistreatment of evidence are sentenced to 17 years in prison. Five accused [[Tehrik-i-Taliban Pakistan|TTP]] militants are acquitted. The main suspect, former [[President of Pakistan|president]] [[Pervez Musharraf]], who now resides in [[Dubai]], is declared a fugitive for having failed to show up in court and has his property confiscated. [https://www.theguardian.com/world/2017/aug/31/pakistan-benazir-bhutto-two-jailed (''The Guardian'')]
+
 ;Politics and elections
 *The [[19th National Congress of the Communist Party of China]] is expected to start October 18, 2017. [http://www.npr.org/sections/parallels/2017/08/31/547544659/china-has-set-oct-18-for-its-communist-party-congress-heres-what-to-expect (NPR)] 
 <!-- All news items above this line -->|}
