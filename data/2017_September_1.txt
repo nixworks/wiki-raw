@@ -1,5 +1,7 @@
 {{Current events header|2017|09|1}}
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[New Zealand general election, 2017]]
+**The [[Labour Party (New Zealand)|Labour Party]], led by [[Jacinda Ardern]], surges in the polls and is neck-and-neck with the [[National Party (New Zealand)|National Party]], led by [[Bill English]], for the race for [[Prime Minister of New Zealand|Prime Minister]] of [[New Zealand]]. [https://www.theguardian.com/australia-news/2017/sep/01/morning-mail-jacinda-ardern-leads-labour-to-nz-poll-lead (''The Guardian'')]
 <!-- All news items above this line -->|}
