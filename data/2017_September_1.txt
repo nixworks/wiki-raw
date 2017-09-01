@@ -1,6 +1,9 @@
 {{Current events header|2017|09|1}}
 
 <!-- All news items below this line -->
+;Disasters and accidents
+*[[2017 Atlantic hurricane season]]
+**[[2017 Atlantic hurricane season#Hurricane Irma|Hurricane Irma]], now a [[Saffir–Simpson scale#Category 2|Category 2]] hurricane with maximum sustained winds of 110 miles per hour (175 kilometers per hour), is expected to resume strengthening this weekend increasing the danger when it nears the [[Leeward Islands]] in the [[Caribbean Sea|Caribbean]] next Thursday. [https://weather.com/storms/hurricane/news/hurricane-irma-major-hurricane-atlantic-ocean (Weather Channel)] [http://www.cnn.com/2017/08/31/us/hurricane-irma-forecast-weather/index.html (CNN)] [http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/011449.shtml (National Hurricane Center]
 ;Politics and elections
 *[[New Zealand general election, 2017]]
 **The [[Labour Party (New Zealand)|Labour Party]], led by [[Jacinda Ardern]], surges in the polls and is neck-and-neck with the [[National Party (New Zealand)|National Party]], led by [[Bill English]], for the race for [[Prime Minister of New Zealand|Prime Minister]] of [[New Zealand]]. [https://www.theguardian.com/world/2017/aug/31/jacinda-ardern-lifts-labour-into-poll-lead-in-new-zealand-election (''The Guardian'')]
@@ -8,6 +11,6 @@
 **The [[Supreme Court of Kenya]] annuls the results of the recent presidential election, that indicated  [[President of Kenya|President]] [[Uhuru Kenyatta]] was reelected, due to irregularities, and orders a new election. [http://www.bbc.com/news/world-africa-41123329 (BBC)]
 
 ;Science and technology
-*[[Asteroid]] [[3122 Florence]], which is roughly 2.7-miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth — just 18 times the distance from our planet to the moon. [https://www.space.com/38013-huge-asteroid-florence-makes-earth-flyby.html (Space)]
-*Researchers report, in the ''[[Environmental Science & Technology]]'' journal, the discovery of [[Antidepressant|human antidepressants]] concentrations in 10 kinds of fish in the [[Niagara River]], which links to the [[Great Lakes]] via [[Lake Erie|Lakes Erie]] and [[Lake Ontario|Ontario]]. One of the factors:  treatment plants are not keeping up with today’s antidepressant usage which rose 65 percent over 12 years. [http://www.nydailynews.com/life-style/health/antidepressants-found-great-lakes-region-fish-brains-article-1.3458750 (''New York Daily News'')]
+*[[Asteroid]] [[3122 Florence]], which is roughly 2.7-miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth — approximately 18 times the distance from our planet to the moon. [https://www.space.com/38013-huge-asteroid-florence-makes-earth-flyby.html (Space)]
+*Researchers report, in the ''[[Environmental Science & Technology]]'' journal, the discovery of [[Antidepressant|human antidepressants]] concentrations in 10 kinds of fish in the [[Niagara River]], which links to the [[Great Lakes]] via [[Lake Erie|Lakes Erie]] and [[Lake Ontario|Ontario]]. Speculated causes include a lack of adequate treatment of water released into waterways. [http://www.nydailynews.com/life-style/health/antidepressants-found-great-lakes-region-fish-brains-article-1.3458750 (''New York Daily News'')]
 <!-- All news items above this line -->|}
