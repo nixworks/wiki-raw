@@ -1,7 +1,11 @@
 {{Current events header|2017|09|3}}
 
 <!-- All news items below this line -->
+;Disasters and accidents
+*[[Hurricane Harvey]] is projected to possibly become the second costliest Hurricane in the [[United States]]'s history, with an estimated total as high as [[United States Dollar|US$]]108 billion [[United States Dollar|USD]].  In comparison, [[Hurricane Katrina]]'s total damage is estimated to be around US$118 to US$160 billion. [http://abcnews.go.com/US/hurricane-harvey-projected-2nd-costliest-storm-us-history/story?id=49565583 (ABC News)]
+
 ;International relations
-*[[North Korea and weapons of mass destruction]]
-**[[North Korea]] claims that it has developed a more advanced [[hydrogen bomb]] that can be loaded on a [[ballistic missile]]. As yet, there is no independent verification of these claims. [http://www.bbc.com/news/world-asia-41138834 (BBC)]
+*[[North Korea and weapons of mass destruction]], [[2017 North Korea crisis]]
+**North Korea has claimed to have developed a [[hydrogen bomb]] that can be fitted on a [[ballistic missile]]. [https://www.nytimes.com/2017/09/02/world/asia/north-korea-hydrogen-bomb-missile.html (''New York Times'')]
+**A seismic tremor is detected near an underground nuclear test site in [[North Korea]], with [[Japan]] claiming that its neighbour has  conducted its sixth nuclear test. [https://www.nytimes.com/2017/09/02/world/asia/north-korea-tremor-possible-6th-nuclear-test.html (''New York Times'')], [http://www.theaustralian.com.au/news/world/kim-jongun-boasts-north-korea-has-missileready-nuclear-weapon/news-story/f4dec8a034604fd0a7f2589cb11e6a6b (AFP, Wall Street Journal via the Australian)]
 <!-- All news items above this line -->|}
