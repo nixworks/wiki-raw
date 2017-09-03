@@ -1,5 +1,7 @@
 {{Current events header|2017|09|3}}
 
 <!-- All news items below this line -->
-*
+;International relations
+*[[North Korea and weapons of mass destruction]]
+**[[North Korea]] claims that it has developed a more advanced [[hydrogen bomb]] that can be loaded on a [[ballistic missile]]. As yet, there is no independent verification of these claims. [http://www.bbc.com/news/world-asia-41138834 (BBC)]
 <!-- All news items above this line -->|}
