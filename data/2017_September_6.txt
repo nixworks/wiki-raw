@@ -8,6 +8,7 @@
 ;Business and economy
 *[[Deferred Action for Childhood Arrivals]]
 **Business leaders from various [[United States|U.S.]] companies, including [[Facebook]], [[Marriott International]], [[JPMorgan Chase]], and [[Microsoft]], lobby to members of [[United States Congress|Congress]] to work on a permanent solution for [[DREAM Act|DREAMers]] to stay legally in the country, many of whom are their employees. [http://www.politico.com/story/2017/09/05/trump-daca-dreamers-ceo-business-leaders-242342 (''Politico'')]
+*[[Federal Reserve System|U.S. Federal Reserve]] Vice Chair [[Stanley Fischer]] announces he will resign in mid-October, eight months before his term expires. [http://www.reuters.com/article/us-usa-fed-fischer/feds-fischer-resigns-leaving-trump-earlier-chance-to-shape-central-bank-idUSKCN1BH21R (Reuters)]
 
 ;Disasters and accidents
 *[[General Dynamics F-16 Fighting Falcon#Notable accidents and incidents|2017 Arizona F-16 crash]]
@@ -15,11 +16,16 @@
 *[[2017 Atlantic hurricane season]] 
 **[[Hurricane Irma]] 
 ***Hurricane Irma makes first landfall on [[Barbuda]], [[Saint Martin]], and [[Anguilla]] in the northeastern [[Leeward Islands]]. Irma has maintained 185 mph winds for 24 hours, setting another record for [[Atlantic hurricane|Atlantic]] and [[Pacific hurricane|eastern Pacific]] storms. [http://abcnews.go.com/US/hurricane-irma-slams-caribbean-florida-face-direct-impacts/story?id=49645643 (ABC News)], [https://www.theguardian.com/world/live/2017/sep/06/hurricane-irma-caribbean-islands-category-5-storm?page=with:block-59afd634e4b046d20d3e8a02#block-59afd634e4b046d20d3e8a02 (''The Guardian'')], [http://www.cnn.com/2017/09/06/us/hurricane-irma-puerto-rico-florida/index.html (CNN)]
-* A car crash involving a dump truck kills two people in [[Coquitlam]], [[British Columbia]] [http://www.cbc.ca/news/canada/british-columbia/runaway-dump-truck-kills-2-in-coquitlam-including-driver-1.4277211 (CBC)]
+***At least two people are killed and two others seriously injured on the islands of [[Saint Barthélemy|St. Barts]] and St. Martin. Heavy rain and [[Saffir–Simpson scale#Category 5|Category 5]] winds hit the [[Virgin Islands]] and [[Puerto Rico]]’s northeast coast. [http://www.cnn.com/2017/09/06/us/hurricane-irma-puerto-rico-florida/index.html (CNN)] [http://www.kcra.com/article/path-of-irma/12182287 (KCRA-TV)]
+* A car crash involving a dump truck kills two people in [[Coquitlam]], [[British Columbia]]. [http://www.cbc.ca/news/canada/british-columbia/runaway-dump-truck-kills-2-in-coquitlam-including-driver-1.4277211 (CBC)]
 
 ;Law and crime
 *[[European migrant crisis]]
 **The [[European Court of Justice]] dismisses complaints by [[Slovakia]] and [[Hungary]] about [[European Union|EU]] migration policy, upholding [[Brussels and the European Union|Brussels’]] right to force member states to take in asylum seekers. [http://www.reuters.com/article/us-europe-migrants-easteurope/eu-court-dismisses-hungary-slovak-case-against-taking-refugees-idUSKCN1BH0VR?il=0 (Reuters)]
+
+;Politics and elections
 *[[Catalan independence referendum, 2017]]
 **A last minute presentation to the parliament of [[Catalonia]] results in the formal approval of a referendum concerning independence from Spain. Though the country's president urges the government to ignore the bill, parliament is expected to vote in favor of an independence vote. [http://abcnews.go.com/International/wireStory/catalan-parliament-paves-independence-vote-49646053 (ABC)]
+*[[Deferred Action for Childhood Arrivals]]
+**Fifteen states and the [[Washington, D.C.|District of Columbia]] file suit challenging President Donald Trump’s decision to end the Deferred Action for Childhood Arrivals (DACA) program, arguing, in part, that federal government has reneged on the promise to protect young immigrants who came forward and registered with the government. [http://www.reuters.com/article/us-usa-immigration-ny/states-file-lawsuit-challenging-trump-decision-on-dreamers-idUSKCN1BH1HS (Reuters)] [http://www.latimes.com/politics/la-dreamers-decision-live-updates-washington-state-says-it-will-join-with-1504720942-htmlstory.html (''Los Angeles Times'')]
 <!-- All news items above this line -->|}
