@@ -1,7 +1,11 @@
 {{Current events header|2017|09|9}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks 
+*[[Syrian Civil War]]
+**[[Syrian Democratic Forces|SDF]] announces an operation against [[Islamic State of Iraq and the Levant|ISIL]] militants in northern [[Deir ez-Zor Governorate|Deir ez-Zor]] province, [[Syria]]. [https://www.reuters.com/article/us-mideast-crisis-syria-east/u-s-backed-sdf-attacks-islamic-state-in-syrias-deir-al-zor-province-idUSKCN1BK09A (Reuters)]
+
 ;International relations
-*[[2017 Qatar diplomatic crisis|Qatar diplomatic crisis]]
+*[[2017 Qatar diplomatic crisis]]
 **[[Saudi Arabia]] suspends any dialogue with [[Qatar]], accusing it of “distorting facts” in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. [https://www.reuters.com/article/us-gulf-qatar/saudi-arabia-suspends-any-dialogue-with-qatar-spa-idUSKCN1BJ2OW (Reuters)] [https://newsline.com/saudi-arabia-suspends-all-dialogue-with-doha-after-phone-talks-with-qatar-emir-trump/ (RT via Newsline)]
 <!-- All news items above this line -->|}
