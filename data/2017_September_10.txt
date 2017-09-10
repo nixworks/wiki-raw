@@ -1,8 +1,12 @@
 {{Current events header|2017|09|10}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Russian military intervention in the Syrian Civil War]]
+**[[Russia]]n airstrikes on several ferries attempting to cross the [[Euphrates]] near [[Deir ez-Zor]], kill at least 34 people, according to the [[Syrian Observatory for Human Rights]]. [http://www.dailymail.co.uk/wires/afp/article-4870010/US-backed-force-makes-sweeping-advance-east-Syria-monitor.html (AFP via ''Daily Mail'')]
+
 ;Disasters and accidents
 *[[2017 Atlantic hurricane season]]
 **[[Hurricane Irma]] 
-***Hurricane Irma makes its way to [[Florida]] and is expected to make landfall near [[Key West]] today. [http://www.cnn.com/2017/09/09/us/hurricane-irma-cuba-florida/index.html (CNN)], [https://www.theguardian.com/world/live/2017/sep/09/hurricane-irma-florida-evacuate-landfall-cuba-live-latest (''The Guardian'')]
+***Hurricane Irma makes landfall in [[Florida]] as a category 4 hurricane, killing at least three people and knocking out power to over one million households. [http://abcnews.go.com/US/hurricane-irma-close-landfall-florida-keys-dead-state/story?id=49738525 (ABC News)] [http://www.cnn.com/2017/09/09/us/hurricane-irma-cuba-florida/index.html (CNN)], [https://www.theguardian.com/world/live/2017/sep/09/hurricane-irma-florida-evacuate-landfall-cuba-live-latest (''The Guardian'')]
 <!-- All news items above this line -->|}
