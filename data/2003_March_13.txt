@@ -1,0 +1,5 @@
+<!-- All news items below this line -->{{Current events header|2003|03|13}}
+
+* The United States [[Food and Drug Administration]] approves [[Enfuvirtide]] (trade name [[Fuzeon]]), a new [[AIDS drug]] that acts as an [[entry inhibitor]].
+
+<!-- All news items above this line -->{{Current events footer}}
