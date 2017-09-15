@@ -1,0 +1,4 @@
+<!-- All news items below this line -->{{Current events header|2003|05|23}}
+* [[Congress of the United States|US Congress]] passes a {{Nowrap|$350 billion}} tax cut plan. The plan is less than half the size of [[George W. Bush|President Bush's]] original proposal. [[United States Vice President|Vice President]] [[Dick Cheney]] casts the deciding vote, breaking the 50–50 tie in the [[United States Senate|Senate]]<ref>{{cite web|url=http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=108&session=1&vote=00196 |title=U.S. Senate: Roll Call Vote |publisher=Senate.gov |date= |accessdate=2015-10-24}}</ref> 
+* The [[Euro]] breaks through its 1999 launch exchange rate of [[USD]] 1.1747 for the first time.<ref>{{cite news| url=http://reuters.com/newsArticle.jhtml?type=businessNews&storyID=2804044 | work=Reuters}} {{Dead link|date=October 2010|bot=RjwilmsiBot}}</ref>
+<!-- All news items above this line -->{{Current events footer}}
