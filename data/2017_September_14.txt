@@ -2,14 +2,14 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Iraqi Civil War (2014–present)]]
+*[[Iraqi Civil War (2014–present)|Iraqi Civil War]]
 **[[2017 Nasiriyah attacks]]
 ***Several members of [[ISIL]] stage multiple attacks on the outskirts of [[Nasiriyah]] in the southern [[Dhi Qar Governorate]], killing at least 50 people and injuring 87 others. [http://www.bbc.com/news/world-middle-east-41270791 (BBC)] [https://www.rt.com/news/403313-southern-iraq-twin-blast-dead/ (RT)]
 
 ;Disasters and accidents
 *A fire at an [[Islamic]] [[boarding school]] for boys kills 24 people, most of them students, in [[Kuala Lumpur]], [[Malaysia]]. [https://www.reuters.com/article/us-malaysia-fire/blaze-kills-24-at-islamic-school-in-malaysian-capital-idUSKCN1BP04T (Reuters)]
 *[[2017 Pacific typhoon season]]
-**Flights are cancelled and evacuations are ordered for over 100,000 people in the [[North Central Coast]] of [[Vietnam]], in preparation for [[Typhoon]] Doksuri. The system has already claimed four lives passing over the [[Philippines]]. [https://www.washingtonpost.com/world/asia_pacific/vietnam-braces-for-storm-doksuri-ordering-evacuation/2017/09/14/f12d7564-9920-11e7-af6a-6555caaeb8dc_story.html?utm_term=.9c57530dd21c (''The Washington Post'')]
+**Flights are cancelled and evacuations are ordered for over 100,000 people in the [[North Central Coast]] of [[Vietnam]], in preparation for [[Typhoon]] Doksuri. The system has already claimed four lives passing over the [[Philippines]]. [https://www.washingtonpost.com/world/asia_pacific/vietnam-braces-for-storm-doksuri-ordering-evacuation/2017/09/14/f12d7564-9920-11e7-af6a-6555caaeb8dc_story.html  (''The Washington Post'')]
 
 ;International relations
 *[[Zapad 2017 exercise]], [[Belarus–Russia relations]]
@@ -22,10 +22,12 @@
 **The [[Communist Party of the Philippines|Communist]]-aligned [[Makabayan]] bloc leaves the majority of the [[House of Representatives of the Philippines|Philippine lower House]] over disagreements due to the ongoing [[Philippine Drug War|drug crackdown]]. [https://www.rappler.com/nation/182150-makabayan-bloc-leaves-house-representatives-majority (Rappler)]
 
 ;Science and technology
-*After 20 years floating the [[Solar System]], the ''[[Cassini-Huygens]]'' probe makes its way towards the atmosphere of [[Saturn]]; its [[Cassini retirement|final voyage]]. [http://www.bbc.com/news/science-environment-41262984 (BBC)]
-*The [[International Union for Conservation of Nature]] upgrades the [[conservation status]] of the [[snow leopard]] from endangered to vulnerable. [http://news.sky.com/story/snow-leopard-taken-off-endangered-list-but-still-vulnerable-11035447 (Sky News)]
+*[[Cassini retirement|''Cassini'' retirement]]
+**After 20 years floating the [[Solar System]], the ''[[Cassini-Huygens]]'' probe makes its way towards the atmosphere of [[Saturn]]; its final voyage. [http://www.bbc.com/news/science-environment-41262984 (BBC)]
+*[[Snow leopard]]
+**The [[International Union for Conservation of Nature]] upgrades the [[conservation status]] of the [[snow leopard]] from endangered to vulnerable. [http://news.sky.com/story/snow-leopard-taken-off-endangered-list-but-still-vulnerable-11035447 (Sky News)]
 
-;Sport
-*In [[baseball]], the [[Cleveland Indians]] break the [[Major League Baseball]] record for longest [[List of Major League Baseball longest winning streaks|winning streak]] with 22 wins in a row. The 1935 [[Chicago Cubs]] previously held the record with 21. [https://www.washingtonpost.com/sports/catch-22-for-indians-win-streak-goes-extras-and-extends-to-a-record/2017/09/14/00357644-996f-11e7-87fc-c3f7ee4035c9_story.html?utm_term=.54ea0c5fc3ae&wpisrc=al_alert-COMBO-sports%252Bnation&wpmk=1 (''Washington Post'')]
- 
+;Sports
+*[[2017 Major League Baseball season]]
+**In [[baseball]], the [[Cleveland Indians]] break the [[Major League Baseball]] record for longest [[List of Major League Baseball longest winning streaks|winning streak]] with 22 wins in a row. The 1935 [[Chicago Cubs]] previously held the record with 21. [https://www.washingtonpost.com/sports/catch-22-for-indians-win-streak-goes-extras-and-extends-to-a-record/2017/09/14/00357644-996f-11e7-87fc-c3f7ee4035c9_story.html (''Washington Post'')]
 <!-- All news items above this line -->|}
