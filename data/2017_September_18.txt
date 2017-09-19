@@ -10,7 +10,8 @@
 
 ;Disasters and accidents
 *[[2017 Atlantic hurricane season]]
-**[[Hurricane Maria]] reaches [[Saffir–Simpson scale|Category 5]] as it threatens the [[Leeward Islands]], [[Puerto Rico]], and the [[Dominican Republic]]. [https://www.nbcnews.com/news/weather/hurricane-maria-loads-another-blow-caribbean-n802511?cid=eml_nbn_20170918 (NBC News)]
+**[[Hurricane Maria]]
+***Hurricane Maria reaches [[Saffir–Simpson scale|Category 5]] as it threatens the [[Leeward Islands]], [[Puerto Rico]], and the [[Dominican Republic]]. [https://www.nbcnews.com/news/weather/hurricane-maria-loads-another-blow-caribbean-n802511?cid=eml_nbn_20170918 (NBC News)]
 
 ;Politics and elections
 *[[Politics of the Netherlands]]

@@ -3,5 +3,6 @@
 <!-- All news items below this line -->
 ;Disasters and accidents
 *[[2017 Atlantic hurricane season]]
-**[[Hurricane Maria]] makes landfall on [[Dominica]] as a [[Saffir-Simpson scale|category 5]] hurricane with maximum sustained winds of 160 mph (260 km/h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and [[2007 Atlantic hurricane season|2007]] the only seasons on record to feature this occurence. [http://www.nhc.noaa.gov/text/refresh/MIATCUAT5+shtml/190133.shtml (National Hurricane Center)]
+**[[Hurricane Maria]]
+***Hurricane Maria makes landfall on [[Dominica]] as a [[Saffir-Simpson scale|category 5]] hurricane with maximum sustained winds of 160 mph (260 km/h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and [[2007 Atlantic hurricane season|2007]] the only seasons on record to feature this occurence. [http://www.nhc.noaa.gov/text/refresh/MIATCUAT5+shtml/190133.shtml (National Hurricane Center)]
 <!-- All news items above this line -->|}
