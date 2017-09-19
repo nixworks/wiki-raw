@@ -4,8 +4,4 @@
 ;Disasters and accidents
 *[[2017 Atlantic hurricane season]]
 **[[Hurricane Maria]] makes landfall on [[Dominica]] as a [[Saffir-Simpson scale|category 5]] hurricane with maximum sustained winds of 160 mph (260 km/h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and [[2007 Atlantic hurricane season|2007]] the only seasons on record to feature this occurence. [http://www.nhc.noaa.gov/text/refresh/MIATCUAT5+shtml/190133.shtml (National Hurricane Center)]
-
-;Law and crime
-*[[Fair and Accurate Credit Transactions Act]]
-**[[Equifax#May-July_2017_security_breach|Equifax data breach]] causes an estimated 143 million U.S. consumers to be accessed by [[hackers]] of [[personally identifiable information]] including [[Social Security number]]s. Credit Reporting Companies (CRCs) are responsible for responding to persons under the [[Fair and Accurate Credit Transactions Act]] to provide 90-day fraud alerting and credit freeze services. [http://www.sfchronicle.com/business/networth/article/Equifax-hack-must-prompt-lawmakers-to-act-12189839.php (San Francisco Chronicle)]
 <!-- All news items above this line -->|}
