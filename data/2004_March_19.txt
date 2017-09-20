@@ -1,4 +1,4 @@
-<!-- All news items below this line -->{{Current events header|2004|02|19}}
+<!-- All news items below this line -->{{Current events header|2004|03|19}}
 
 * [[ICANN]] announces that a [[Toronto, Canada]], organization, the [[International Foundation for Online Responsibility]] (IFFOR), has applied to sponsor the.xxx [[top-level domain]]. IFFOR claims that a special domain would help control the spread of [[pornography]] to [[child]]ren. However, in February the [[Internet Engineering Task Force]] released [[Request for Comments|RFC]] [[RFC 3675|3675]], ".sex Considered Dangerous", detailing technical and administrative concerns with such proposals. [http://thewhir.com/marketwatch/ica032304.cfm (Web Host Industry Review)] [http://www.spinics.net/lists/ietf-ann/msg13799.html (IETF announcement)] [http://www.icann.org/tlds/stld-apps-19mar04/xxx.htm (.xxx application)]
 * [[Pakistan]]i soldiers seal off an area of [[Waziristan|South Waziristan]] where they suspect that the senior [[Al-Qaida]] leader [[Ayman al-Zawahiri]] is hiding. The Pakistanis have suffered many casualties.[http://www.cnn.com/2004/WORLD/asiapcf/03/19/pakistan.alqaeda/index.html (CNN)]
