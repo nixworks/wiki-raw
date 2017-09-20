@@ -4,4 +4,8 @@
 ;Disasters and accidents
 *[[2017 Puebla earthquake]]
 **Searches continue for possible survivors of the 7.1 magnitude [[earthquake]] that hit central [[Mexico]] yesterday. [http://www.latimes.com/world/la-fg-mexico-earthquake-20170919-story.html (''Los Angeles Times'')]
+*[[2017 Atlantic hurricane season]] 
+**[[Hurricane Maria]] 
+***Hurricane Maria makes landfall on [[Puerto Rico]]. [http://www.nhc.noaa.gov/archive/2017/al15/al152017.public_a.017.shtml? (NHC)], [http://www.telegraph.co.uk/news/2017/09/20/hurricane-maria-path-latest-news-live-puerto-rico-virgin-islands/ (''The Telegraph'')]
+
 <!-- All news items above this line -->|}
