@@ -1,13 +1,22 @@
 {{Current events header|2017|09|20}}
 
 <!-- All news items below this line -->
-;Disasters and accidents
-*[[2017 Puebla earthquake]]
-**Searches continue for possible survivors of the 7.1 magnitude [[earthquake]] that hit central [[Mexico]] yesterday. [http://www.latimes.com/world/la-fg-mexico-earthquake-20170919-story.html (''Los Angeles Times'')]
-*[[2017 Atlantic hurricane season]] 
-**[[Hurricane Maria]] 
-***Hurricane Maria makes landfall on [[Puerto Rico]] as a [[Category 5 hurricane]]. [http://www.nhc.noaa.gov/archive/2017/al15/al152017.public_a.017.shtml? (NHC)], [https://www.reuters.com/article/us-storm-maria/hurricane-maria-slams-puerto-rico-with-high-rains-storm-surge-idUSKCN1BT1RW (Reuters)], [http://www.telegraph.co.uk/news/2017/09/20/hurricane-maria-path-latest-news-live-puerto-rico-virgin-islands/ (''The Telegraph'')] Effects are disastrous and the island loses power entirely. [https://www.washingtonpost.com/news/post-nation/wp/2017/09/20/hurricane-maria-takes-aim-at-puerto-rico-with-force-not-seen-in-modern-history/?utm_term=.10672861725f (Washington Post)]
+; Business and economics
+* [[Economy of the United States]]
+** The [[Federal Reserve System|U.S. Federal Reserve]] announces its [[Federal funds rate|benchmark interest rate]] will not change this month, though it expects an increase by the end of the year, along with three increases in 2018 and two in 2019. The Federal Reserve also says its [[balance sheet]] reduction program will begin in October. [https://www.cnbc.com/2017/09/20/fed-approves-october-reversal-of-historic-stimulus-leaves-rates-unchanged.html (CNBC)]
 
-;Politics and elections
-*[[Saudi Arabia]] lifts its ban on internet calls ([[Voice over IP|VoIP]]), introduced in 2013,  effective midnight local time (2100 UTC/5:00 PM EDT). [https://uk.reuters.com/article/us-saudi-telecoms-ban/saudi-arabia-to-lift-ban-on-internet-calls-idUKKCN1BV128 (Reuters)]
+; Disasters and accidents
+* [[2017 Central Mexico earthquake]]
+** Searches continue for possible survivors of the magnitude 7.1 [[earthquake]] that hit central [[Mexico]] yesterday. [http://www.latimes.com/world/la-fg-mexico-earthquake-20170919-story.html (''Los Angeles Times'')]
+* [[2017 Atlantic hurricane season]] 
+** [[Hurricane Maria]] 
+*** Hurricane Maria makes landfall on [[Puerto Rico]] as a [[Category 4 hurricane]]. Effects are disastrous and the entire island loses power. [http://www.nhc.noaa.gov/archive/2017/al15/al152017.public_a.017.shtml (NHC)] [https://www.reuters.com/article/us-storm-maria/hurricane-maria-slams-puerto-rico-with-high-rains-storm-surge-idUSKCN1BT1RW (Reuters)] [http://www.telegraph.co.uk/news/2017/09/20/hurricane-maria-path-latest-news-live-puerto-rico-virgin-islands/ (''The Telegraph'')]  [https://www.washingtonpost.com/news/post-nation/wp/2017/09/20/hurricane-maria-takes-aim-at-puerto-rico-with-force-not-seen-in-modern-history/ (''The Washington Post'')]
+
+; Law and crime
+* [[Presidency of Donald Trump]]
+** [[Attorney General of California|California Attorney General]] [[Xavier Becerra]] files suit in federal court against [[President of the United States|U.S. president]] [[Donald Trump]]'s proposed plan for a [[Mexico–United States barrier|wall along the U.S.–Mexico border]]. [https://apnews.com/94a5ab1078e648beb2d1a5017b8005ae/California-sues-Trump-administration-to-prevent-border-wall (AP)] [http://thehill.com/blogs/blog-briefing-room/351547-california-to-sue-over-trumps-border-wall (''The Hill'')] 
+
+; Politics and elections
+* [[Censorship in Saudi Arabia]]
+** [[Saudi Arabia]] lifts its 2013 ban on [[Voice over IP|internet calls]], effective midnight local time (21:00 UTC). [https://uk.reuters.com/article/us-saudi-telecoms-ban/saudi-arabia-to-lift-ban-on-internet-calls-idUKKCN1BV128 (Reuters)]
 <!-- All news items above this line -->|}
