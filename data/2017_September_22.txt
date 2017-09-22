@@ -2,6 +2,9 @@
 
 <!-- All news items below this line -->
 ;Science and technology
-* A new study shows that [[Neanderthal]] brains developed more slowly than [[Anatomically modern human|modern humans]], contradicting previous studies. [http://www.bbc.com/news/science-environment-41351019 (BBC)]
+* A new study shows that [[Neanderthal]] brains developed more slowly than those of [[Anatomically modern human|modern humans]], contradicting previous studies. [http://www.bbc.com/news/science-environment-41351019 (BBC)]
+
+;Transport
+* [[Uber (company)|Uber]] will not be issued a new private hire license, [[Transport for London]] (TfL) has said. [http://www.bbc.com/news/uk-england-41358640 (BBC)]
 
 <!-- All news items above this line -->|}
