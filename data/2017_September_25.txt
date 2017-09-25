@@ -3,5 +3,7 @@
 <!-- All news items below this line -->
 ;Politics and elections
 *[[Iraqi Kurdistan independence referendum, 2017]]
-**Voters in [[Iraqi Kurdistan]] head to the polls for a historic referendum on [[Kurdish nationalism|independence]] from [[Iraq]]. [http://news.sky.com/story/kurdish-independence-referendum-in-iraq-fuels-violence-fears-11051207 (Sky News)]
+**Voters in [[Iraqi Kurdistan]] head to the polls for a referendum on [[Kurdish nationalism|independence]] from [[Iraq]]. [http://news.sky.com/story/kurdish-independence-referendum-in-iraq-fuels-violence-fears-11051207 (Sky News)]
+;Science and technology
+*At the [[International Astronautical Congress]] in [[Adelaide]], the [[Government of Australia]] announces that it will create an Australian [[List of government space agencies|space agency]]. [http://www.smh.com.au/technology/sci-tech/government-announces-creation-of-national-space-agency-20170924-gynx3c.html (''The Sydney Morning Herald'')]
 <!-- All news items above this line -->|}
