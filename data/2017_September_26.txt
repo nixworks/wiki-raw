@@ -3,9 +3,11 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[2017 Har Adar shooting]]
-**Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Jewish settlement of [[Har Adar]] in the [[West Bank]]. [http://www.reuters.com/article/us-palestinians-israel-violence/palestinian-gunman-kills-three-israelis-in-west-bank-settlement-radio-idUSKCN1C10F4?il=0 (''Reuters'')]
+**Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the [[Israeli settlement|Jewish settlement]] of [[Har Adar]] in the [[West Bank]]. [http://www.reuters.com/article/us-palestinians-israel-violence/palestinian-gunman-kills-three-israelis-in-west-bank-settlement-radio-idUSKCN1C10F4?il=0 (''Reuters'')]
 
 ;Business and economy
+*[[Mass surveillance in the United States]]
+**The [[United States Department of Homeland Security]] plans to collect the [[social media]] information – such as those in [[Facebook]], [[Reddit]], [[Twitter]] and [[Youtube]] – of all [[immigration to the United States|immigrants]], including [[Permanent residence (United States)|green card holders]] and [[United States nationality law|naturalized citizens]], beginning on October 18, 2017. [https://www.cnet.com/news/homeland-security-plans-to-collect-immigrants-social-media-info/ (CNet)]
 *[[Twitter]] announces that it'll double its 140 character limit to 280 characters for languages that need the extra space. [https://www.usatoday.com/story/tech/2017/09/26/twitter-hopes-its-new-280-character-limit-make-tweeting-great-again/702380001/ (Twitter Blog)] [https://www.usatoday.com/story/tech/2017/09/26/twitter-hopes-its-new-280-character-limit-make-tweeting-great-again/702380001/ (USA Today)]
   
 ;Disasters and accidents
@@ -14,11 +16,11 @@
 
 ;Law and crime
 *[[Women's rights in Saudi Arabia]]
-**Women in [[Saudi Arabia]] will be able to [[driving|drive]] from June next year. It is the last modern sovereign state to do so. [https://www.theguardian.com/world/2017/sep/26/saudi-arabias-king-issues-order-allowing-women-to-drive (''The Guardian'')], [https://www.yahoo.com/news/saudi-arabia-allow-women-drive-191526867.html?soc_trk=gcm&soc_src=69f70237-124f-3ea9-acd0-fc922af945e2&.tsrc=notification-brknews (''The Telegraph'' via Yahoo News)]
+**The [[Salman of Saudi Arabia|king]] of Saudi Arabia issues a decree requiring that women be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow [[Women to drive movement|women to drive]]. [https://www.theguardian.com/world/2017/sep/26/saudi-arabias-king-issues-order-allowing-women-to-drive (''The Guardian'')], [http://www.telegraph.co.uk/news/2017/09/26/saudi-arabia-allow-women-drive/ (''The Telegraph'')]
 *[[National Basketball Association criticisms and controversies|National Basketball Association controversies]]
 **The office of the [[United States Attorney for the Southern District of New York]] announces that 10 individuals, including assistant coaches at four [[National Collegiate Athletic Association|NCAA]] [[NCAA Division I|Division I]] men's [[basketball]] programs—[[Arizona Wildcats men's basketball|Arizona]], [[Auburn Tigers men's basketball|Auburn]], [[Oklahoma State Cowboys basketball|Oklahoma State]], and [[USC Trojans men's basketball|USC]]—have been arrested on federal corruption charges. [http://www.espn.com/mens-college-basketball/story/_/id/20824193/ncaa-basketball-coaches-10-charged-fraud-corruption (ESPN)]
 **The accused are alleged to be part of a scheme by which coaches accepted bribes to steer [[National Basketball Association|NBA]]-bound college players toward certain [[Sports agent|agents]] and financial advisers. [http://www.espn.com/mens-college-basketball/story/_/id/20824193/ncaa-basketball-coaches-10-charged-fraud-corruption (ESPN)]
-**Court documents also allege that an apparel company paid $100,000 to the family of an unnamed player to ensure his signing with the [[Louisville Cardinals men's basketball|University of Louisville]], as confirmed by the school's interim president. [http://www.espn.com/mens-college-basketball/story/_/id/20824193/ncaa-basketball-coaches-10-charged-fraud-corruption (ESPN)]
+**Court documents also allege that an apparel company paid $100,000 to the family of an unnamed player to ensure his signing with an unnamed Division I school, which was later confirmed as the [[Louisville Cardinals men's basketball|University of Louisville]]. [http://www.espn.com/mens-college-basketball/story/_/id/20824193/ncaa-basketball-coaches-10-charged-fraud-corruption (ESPN)]
 
 ;Politics and elections
 *[[Iraqi Kurdistan independence referendum, 2017]]
