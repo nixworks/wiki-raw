@@ -38,4 +38,6 @@
 ;Science and technology
 *Aftermath of the [[Unite the Right rally]]
 **Several internet companies, such as domain registrar [[GoDaddy]] and video game chat application [[Discord (software)|Discord]], shut down services for [[Neo-Nazism|neo-Nazi]], [[White supremacy|white supremacist]], [[alt-right]] website ''[[The Daily Stormer]]'' for violation of [[terms of service]], and in response to this weekend's violence in [[Charlottesville, Virginia]]. [https://www.theguardian.com/technology/2017/aug/14/daily-stormer-alt-right-google-go-daddy-charlottesville (''The Guardian'')] [https://techcrunch.com/2017/08/14/discord-shuts-down-alt-right-server-and-accounts-for-tos-violations/ (TechCrunch)]
+*[[GW170814]]
+**[[LIGO]] and [[Virgo interferometer|Virgo]] observatories detect the [[gravitational wave]] signal from two [[Binary black hole|merging black holes]]. [https://phys.org/news/2017-09-ligo-virgo-observatories-black-hole.html (Phys.org)]
 <!-- All news items above this line -->|}
