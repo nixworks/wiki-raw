@@ -1,9 +1,17 @@
 {{Current events header|2017|09|27}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Syrian Civil War]]
+**[[Russia]]n aircraft carries out air strikes on the [[Christianity in Syria|Christian]]-majority Qaina and Yaqobia villages, in the western countryside of [[Idlib]], killing a child and injuring 5 others. [https://www.iraqinews.com/arab-world-news/russian-airstrikes-christian-majority-villages-idlib-leave-6-casualties/ (Iraqi News)]
+*[[Russia and weapons of mass destruction]]
+**[[Russia]] announces it has completed the destruction of all of its [[chemical weapons]] under the terms of the [[Chemical Weapons Convention]]. [https://www.nytimes.com/2017/09/27/world/europe/russia-putin-chemical-weapons.html (''New York Times'')]
+*Thirty thousand people are evacuated  in [[Ukraine]] following an explosion in an ammunition dump 180 kilometres southwest of [[Kiev]]. The [[Government of Ukraine]] blames sabotage. [http://www.independent.ie/world-news/europe/ukraine-says-ammunitions-blast-was-sabotage-as-30000-evacuated-36176276.html (''Irish Independent'')]
+
 ;Business and economy
 *[[Hurricane Maria]]
-**The [[United States Department of Homeland Security]] will not waive the [[Merchant Marine Act of 1920]] (or "Jones Act") in response to the ongoing disaster in [[Puerto Rico]], even though similar waivers were granted for [[Houston]] and parts of Florida, in the aftermath of [[Hurricane Harvey]] and [[Hurricane Irma]], respectively. [http://thehill.com/homenews/administration/352597-us-wont-waive-shipping-restrictions-for-puerto-rico-relief (''The Hill'')] [http://www.newsweek.com/puerto-rico-hurricane-maria-donald-trump-jones-act-relief-aid-672778 (''Newsweek'')]
+**Maria strengthens into a hurricane and causes flooding in the [[Outer Banks]] of [[North Carolina]]. [http://abcnews.go.com/US/wireStory/north-carolina-latest-suffer-2017-hurricane-season-50122452 (ABC News)]
+**The [[United States Department of Homeland Security]] will not waive the [[Merchant Marine Act of 1920]] (or "Jones Act") in response to the ongoing disaster in [[Puerto Rico]]. [http://thehill.com/homenews/administration/352597-us-wont-waive-shipping-restrictions-for-puerto-rico-relief (''The Hill'')] [http://www.newsweek.com/puerto-rico-hurricane-maria-donald-trump-jones-act-relief-aid-672778 (''Newsweek'')]
 
 ;International relations
 *Along with the [[Solomon Islands]], the [[State of Palestine]] joins [[Interpol]] despite objections from [[Israel]]. [http://www.aljazeera.com/news/2017/09/interpol-approves-palestinian-membership-bid-170927110731224.html (''al-Jazeera'')]
@@ -12,7 +20,7 @@
 *[[Politics of Uzbekistan]]
 **[[Uzbekistan]] dissident writer Nurulloh Muhammad Raufkhon is arrested on his return to the [[Central Asia]]n country from exile. [https://www.reuters.com/article/us-uzbekistan-dissident/uzbek-dissident-detained-upon-return-from-exile-idUSKCN1C209H (Reuters)]
 *[[Politics of Thailand]]
-**Former [[Thailand|Thai]] Prime Minister [[Yingluck Shinawatra]] is jailed ''[[in absentia]]''. [http://www.bbc.com/news/world-asia-41410047 (BBC)]
+**Former [[Thailand|Thai]] Prime Minister [[Yingluck Shinawatra]] is sentenced to five years in prison ''[[in absentia]]''. [http://www.bbc.com/news/world-asia-41410047 (BBC)]
 
 ;Politics and elections
 *[[Japanese general election, 2017]]
@@ -24,6 +32,10 @@
 **[[Iraq]]'s prime minister has demanded the [[Kurdistan Regional Government]] "cancel" the outcome of the [[Iraqi Kurdistan independence referendum, 2017|referendum]] on independence that it held on Monday. [http://www.bbc.com/news/world-middle-east-41413999 (BBC)]
 *[[German federal election, 2017]]
 **Former members of the [[Alternative für Deutschland]] party [[Frauke Petry]] and [[Marcus Pretzell]] may create a new party. [http://www.dw.com/en/afd-defectors-led-by-frauke-petry-hint-at-breakaway-party/a-40706314 (''Deutsche Welle'')]
+*[[United States presidential primary]]
+** [[California]] moves its 2020 presidential primary to March 3, making it  fifth in the nominating process after [[Iowa]], [[New Hampshire]], [[Nevada]], and [[South Carolina]]. The 2016 primary was held on June 7.  [https://www.reuters.com/article/us-california-politics/california-moves-presidential-primary-for-bigger-say-in-candidate-choice-idUSKCN1C23A5 (Reuters)] [http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-california-moves-its-2020-presidential-1506545303-htmlstory.html (''Los Angeles Times'')]
+*[[Russian interference in the 2016 United States elections ]]
+** [[Facebook]], [[Google]], and [[Twitter]] executives have been asked to testify before the [[United States House Permanent Select Committee on Intelligence|House of Representatives Intelligence Committee]] in October and the [[United States Senate Select Committee on Intelligence|Senate Intelligence Committee]] on November 1, according to committee sources. [https://www.reuters.com/article/us-usa-trump-russia-tech/facebook-google-twitter-asked-to-testify-on-russian-meddling-idUSKCN1C234Q (Reuters)]
 
 ;Sports
 *The [[University of Louisville]], whose [[Louisville Cardinals men's basketball|men's basketball team]] was linked to illicit payments by [[Adidas]] to the family of a freshman player, places head coach [[Rick Pitino]] and [[athletic director]] [[Tom Jurich]] on administrative leave, pending further university action. Pitino's attorney tells Louisville's newspaper, ''[[The Courier-Journal]]'', that Pitino has been "effectively fired", and multiple media reports indicate that Jurich has also been effectively fired. Louisville men's basketball was already on [[National Collegiate Athletic Association|NCAA]] probation due to violations related to a [[2017 University of Louisville basketball scandal|recent sex scandal]]. [https://www.cbssports.com/college-basketball/news/reports-louisville-coach-rick-pitino-ad-tom-jurich-out-amid-recruiting-scandal/ (CBS Sports)]
