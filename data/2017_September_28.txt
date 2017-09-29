@@ -1,7 +1,8 @@
 {{Current events header|2017|09|28}}
 <!-- All news items below this line -->
 ;Business and economy
-*[[Whole Foods Market]], recently acquired by [[Amazon (company)|Amazon]], announces [[Cybercrime|hacking]] of payment card information from some of its stores. [https://www.reuters.com/article/us-amazon-com-cyber/whole-foods-says-taprooms-restaurants-hacked-idUSKCN1C33DF (Reuters)]
+*[[Credit card fraud]]
+**[[Whole Foods Market]], recently acquired by [[Amazon (company)|Amazon]], announces [[Cybercrime|hacking]] of payment card information from some of its stores. [https://www.reuters.com/article/us-amazon-com-cyber/whole-foods-says-taprooms-restaurants-hacked-idUSKCN1C33DF (Reuters)]
 
 ;Disasters and accidents
 *[[2017 Atlantic hurricane season]]
@@ -19,5 +20,6 @@
 **The [[President of the Generalitat of Catalonia|President]] of [[Catalonia]] vows to continue on with the vote despite objections from [[Spain]]. [https://www.usatoday.com/story/news/world/2017/09/28/spains-catalonia-region-seeks-independence-and-may-provoke-violence/711357001/ (''USA Today'')]
 
 ;Science and technology
-*Aquatic species from [[Japan]] hitched a ride on debris from the [[2011 Tōhoku earthquake and tsunami]] and were able to reach the [[West Coast of the United States]] alive. [https://phys.org/news/2017-09-tsunami-enabled-hundreds-aquatic-species.html (Phys.org)]
+*[[Aftermath of the 2011 Tōhoku earthquake and tsunami]]
+**Aquatic species from [[Japan]] hitched a ride on debris from the [[2011 Tōhoku earthquake and tsunami]] and were able to reach the [[West Coast of the United States]] alive. [https://phys.org/news/2017-09-tsunami-enabled-hundreds-aquatic-species.html (Phys.org)]
 <!-- All news items above this line -->|}
