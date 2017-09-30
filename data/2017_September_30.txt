@@ -2,10 +2,10 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-* A fire at a retirement home in [[Bucharest]] leaves one dead and 19 injured. [https://www.nytimes.com/aponline/2017/09/30/world/europe/ap-eu-romania-retirement-home-fire.html?mcubz=3 (The New York Times)]
-*A military transport plane crashes after take-off from [[N'djili Airport]] in [[Kinshasha]], [[Democratic Republic of Congo]]. All 12 [[Russia]]n crew members die in the crash. [https://www.msn.com/en-au/news/world/military-plane-crash-in-congo-kills-dozens/ar-AAsEEnZ (MSN)]
+*A fire at a retirement home in [[Bucharest]] leaves one person dead and 19 others injured. [https://www.nytimes.com/aponline/2017/09/30/world/europe/ap-eu-romania-retirement-home-fire.html?mcubz=3 (''The New York Times'')]
+*A military transport plane crashes after take-off from [[N'djili Airport]] in [[Kinshasha]], [[Democratic Republic of Congo]], killing all 12 [[Russia]]n crew members. [https://www.msn.com/en-au/news/world/military-plane-crash-in-congo-kills-dozens/ar-AAsEEnZ (Deutsche Welle via MSN)]
 
-;Sport
-*In [[Australian rules]] football, the [[Richmond Football Club]] defeats the [[Adelaide Football Club]] in the [[2017 AFL Grand Final]] by 108 points to 60. [[Dustin Martin]] won the [[Norm Smith Medal]] for best on ground after having won the [[2017 Brownlow Medal]] for the best and fairest player in the competition. [http://www.abc.net.au/news/2017-09-30/afl-grand-final-dustin-martin-completes-record-breaking-season/9004402 (ABC Australia)] [http://www.abc.net.au/news/2017-09-30/joy-for-tigerland-as-richmond-ends-37-year-drought-at-mcg/9004358 (ABC Australia)]
-
+;Sports
+*In [[Australian rules]] football
+**The [[Richmond Football Club]] defeats the [[Adelaide Football Club]] in the [[2017 AFL Grand Final]] by 108 points to 60. [[Dustin Martin]] won the [[Norm Smith Medal]] for best on ground after having won the [[2017 Brownlow Medal]] for the best and fairest player in the competition. [http://www.abc.net.au/news/2017-09-30/afl-grand-final-dustin-martin-completes-record-breaking-season/9004402 (ABC Australia)][http://www.abc.net.au/news/2017-09-30/joy-for-tigerland-as-richmond-ends-37-year-drought-at-mcg/9004358 (ABC Australia)]
 <!-- All news items above this line -->|}
