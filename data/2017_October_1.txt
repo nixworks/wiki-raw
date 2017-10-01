@@ -1,6 +1,10 @@
 {{Current events header|2017|10|1}}
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Yemeni Crisis (2011–present)]]
+**[[Houthis|Houthi]] forces claim to have shot down a [[United States|U.S.]] [[General Atomics MQ-9 Reaper|MQ-9 Reaper]] drone over the [[Yemen]]i capital [[Sana'a]]. Footage released by [[Saba News Agency]] appears to show crowds gathering around the wreckage of an aircraft. [http://www.reuters.com/article/us-yemen-security-usa/yemen-houthis-say-have-shot-down-u-s-surveillance-drone-state-news-agency-idUSKCN1C619H?il=0 (Reuters)]
+
 ;Law and crime
 *[[O. J. Simpson robbery case]]
 **[[O. J. Simpson]] is released from a [[Nevada]] prison after serving nine years for a Las Vegas armed robbery. [http://edition.cnn.com/2017/10/01/us/oj-simpson-released-from-prison/index.html (CNN)]
