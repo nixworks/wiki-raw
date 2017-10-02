@@ -1,5 +1,7 @@
 {{Current events header|2017|10|2}}
 
 <!-- All news items below this line -->
-*
+;Health and medicine
+*[[Nobel Prize]]
+**The Nobel Prize committee will announce which scientist has won the [[Nobel Prize in Physiology or Medicine]]. [https://www.nobelprize.org/ (Nobel Prize.org)]
 <!-- All news items above this line -->|}
