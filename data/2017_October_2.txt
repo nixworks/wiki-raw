@@ -1,14 +1,18 @@
 {{Current events header|2017|10|2}}
 
 <!-- All news items below this line -->
-;Armed conflict and attacks
-*[[2017 Las Vegas Strip shooting]]
+;Armed conflicts and attacks
+*[[Las Vegas Strip shooting]]
 **The [[Luxor Hotel]] is placed on lockdown due to a bomb threat. [http://www.express.co.uk/news/world/861169/las-vegas-shooting-mandalay-bay-resort-luxor-hotel-bomb-threat (Express)]
-**The death toll rises to at least 58 people with an additional 500 others injuried. [https://www.nytimes.com/2017/10/02/us/las-vegas-shooting.html (''The New York Times'')] [https://www.washingtonpost.com/news/morning-mix/wp/2017/10/02/police-shut-down-part-of-las-vegas-strip-due-to-shooting/?hpid=hp_hp-banner-main_las-vegas-230am%3Ahomepage%2Fstory&utm_term=.0ab7f30e97d7 (''The Washington Post'')]
-**Authorities name the shooter as 64-year-old [[Nevada]] resident Stephen Paddock. [https://www.cnbc.com/2017/10/02/las-vegas-gunman-suspect-is-stephen-paddock-64-of-mesquite.html (CNBC)]
+**The death toll rises to at least 59 people with an additional 515 others injured. [https://www.nytimes.com/2017/10/02/us/las-vegas-shooting.html (''The New York Times'')] [https://www.washingtonpost.com/news/morning-mix/wp/2017/10/02/police-shut-down-part-of-las-vegas-strip-due-to-shooting/?hpid=hp_hp-banner-main_las-vegas-230am%3Ahomepage%2Fstory&utm_term=.0ab7f30e97d7 (''The Washington Post'')]
+**Authorities name the shooter, who killed himself before police arrived at his room in the [[Mandalay Bay]] casino and hotel, as 64-year-old [[Nevada]] resident Stephen Paddock. [https://www.cnbc.com/2017/10/02/las-vegas-gunman-suspect-is-stephen-paddock-64-of-mesquite.html (CNBC)]
 **The attack is the deadliest mass shooting in U.S. history. [https://www.theguardian.com/us-news/live/2017/oct/02/las-vegas-two-dead-in-mandalay-bay-casino-shooting-latest-updates (''The Guardian'')]
+**Stephen Paddock's former neighbors in [[Reno, Nevada]] describe him as having a possible [[Problem gambling|gambling problem]]. [http://www.newsweek.com/las-vegas-gunman-stephen-paddock-neighbors-say-recluse-675584 (''Newsweek'')]
 *[[Syrian Civil War]]
 **Two suicide bombers attack a police station in the [[Al-Midan]] neighbourhood of [[Damascus]], killing at least 15 people. [http://www.reuters.com/article/us-mideast-crisis-syria-damascus/deadly-twin-suicide-attack-hits-damascus-police-station-idUSKCN1C71GK?il=0 (Reuters)]
+
+;Art and culture
+*[[United States|American]] singer and songwriter [[Tom Petty]] dies at [[UCLA Medical Center]], [[Santa Monica]], at the age of 66. [http://www.reuters.com/article/us-people-tompetty/tom-petty-reported-found-unconscious-after-cardiac-arrest-in-california-idUSKCN1C72LY (Reuters)]
 
 ;International relations
 *[[Egypt–North Korea relations]]
@@ -18,6 +22,7 @@
 *[[Nobel Prize in Physiology or Medicine]]
 **The Nobel Prize committee awards [[United States|Americans]] [[Jeffrey C. Hall]], [[Michael Rosbash]], and [[Michael W. Young]] the prize for their work on molecular mechanisms that control [[Chronobiology|circadian]] systems. [https://www.theguardian.com/science/live/2017/oct/02/the-2017-nobel-prize-in-physiology-or-medicine-live (''The Guardian'')][https://www.nobelprize.org/ (Nobel Prize.org)]
 
-;Politics and elections:
-* Former astronaut [[Julie Payette]] is installed as [[Canada]]'s 29th [[Governor General of Canada]]. [http://www.cbc.ca/news/politics/payette-governor-general-investiture-1.4313299 (CBC)]
+;Politics and elections
+*[[Politics of Canada]]
+**After her appointment by [[Prime Minister of Canada]] [[Justin Trudeau]], former astronaut [[Julie Payette]], in an installment ceremony, becomes the 29th [[Governor General of Canada]]. [http://www.cbc.ca/news/politics/payette-governor-general-investiture-1.4313299 (CBC)]
 <!-- All news items above this line -->|}
