@@ -2,5 +2,6 @@
 
 <!-- All news items below this line -->
 ;Science and technology
-*The Nobel Prize committee will announce which scientist has won the [[Nobel Prize in Physics]]. [https://www.nobelprize.org/ (Nobel Prize.org)]
+*[[Nobel Prize]]
+**The [[Nobel Committee]] will announce which scientist has won the [[Nobel Prize in Physics]] later today at 11:45 UTC. [https://www.nobelprize.org/nobel_prizes/physics/ (Nobelprize.org)]
 <!-- All news items above this line -->|}
