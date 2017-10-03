@@ -3,12 +3,16 @@
 <!-- All news items below this line -->
 ;Business and economy
 *[[Hydraulic fracturing in the United Kingdom]]
-**The [[Scottish Government]] announces a ban on the use of [[Hydraulic fracturing|fracking]] in [[Scotland]]. [http://www.bbc.co.uk/news/uk-scotland-scotland-politics-41484153 (BBC)]
+**The [[Scottish Government]] [[Minister for Business, Innovation and Energy|Energy Minister]] [[Paul Wheelhouse]] announces that he will seek an indefinite [[Ban (law)|ban]] (an existing [[Moratorium (law)|moratorium]] has been in place since 2015) on [[Petroleum|crude oil]] recovery in [[Scotland]] by means of the use of the process of [[hydraulic fracturing]]. [http://www.bbc.co.uk/news/uk-scotland-scotland-politics-41484153 (BBC)]
+
+;International relations
+*[[Iran–United States relations]]
+**[[United States District Court for the District of Columbia|U.S. District Court for the District of Columbia]] Judge [[Ellen Segal Huvelle|Ellen S. Huvelle]] awards [[Amir Hekmati]], a [[United States Marine Corps|U.S. Marine]] who was imprisoned in [[Iran]] as a [[False accusation|falsely accused]] [[Central Intelligence Agency|CIA]] [[Espionage|spy]], a [[default judgment]] of [[United States dollar|$]]63 million for his ordeal. [https://www.washingtonpost.com/local/public-safety/us-judge-orders-iran-to-pay-63-million-to-ex-marine-tortured-imprisoned-four-years/2017/09/29/26aa9a0a-a54c-11e7-8cfe-d5b912fabc99_story.html (''The Washington Post'')]
 
 ;Politics and elections
 *[[2017 Spanish constitutional crisis]]
 **[[Catalan general strike]]
-***[[Catalan independence|Pro-independent]] trade unions, businesses, and schools in [[Catalonia]] hold a [[general strike]] to protest Spanish [[police brutality]] during the [[Catalan independence referendum, 2017|October 1 independence referendum]]. [https://www.cnbc.com/2017/10/03/catalonia-goes-on-strike-as-calls-for-declaration-of-independence-grow.html (CNBC)]
+***[[Catalan independence|Pro-independent]] trade unions, businesses, and schools in [[Catalonia]] hold a [[general strike]] to protest [[Spanish]] [[police brutality]] during the [[Catalan independence referendum, 2017|October 1 independence referendum]]. [https://www.cnbc.com/2017/10/03/catalonia-goes-on-strike-as-calls-for-declaration-of-independence-grow.html (CNBC)]
 
 ;Science and technology
 *[[Nobel Prize in Physics]]
