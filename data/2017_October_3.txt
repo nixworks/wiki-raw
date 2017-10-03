@@ -1,12 +1,16 @@
 {{Current events header|2017|10|3}}
 
 <!-- All news items below this line -->
+;Business and economy
+*[[Hydraulic fracturing in the United Kingdom]]
+**The [[Scottish Government]] announces a ban on the use of [[Hydraulic fracturing|fracking]] in [[Scotland]]. [http://www.bbc.co.uk/news/uk-scotland-scotland-politics-41484153 (BBC)]
+
 ;Politics and elections
 *[[2017 Spanish constitutional crisis]]
 **[[Catalan general strike]]
-***[[Catalan independence|Pro-separatist]] trade unions, businesses, and schools in [[Catalonia]] hold a [[general strike]] to protest Spanish [[police brutality]] during the [[Catalan independence referendum, 2017|October 1 independence referendum]]. [https://www.cnbc.com/2017/10/03/catalonia-goes-on-strike-as-calls-for-declaration-of-independence-grow.html (CNBC)]
+***[[Catalan independence|Pro-independent]] trade unions, businesses, and schools in [[Catalonia]] hold a [[general strike]] to protest Spanish [[police brutality]] during the [[Catalan independence referendum, 2017|October 1 independence referendum]]. [https://www.cnbc.com/2017/10/03/catalonia-goes-on-strike-as-calls-for-declaration-of-independence-grow.html (CNBC)]
 
 ;Science and technology
 *[[Nobel Prize in Physics]]
-**The Nobel Prize committee awards [[United States|Americans]] [[Rainer Weiss]], [[Barry Barish]], and [[Kip Thorne]]  the [[List of Nobel laureates in Physics|Nobel Prize in Physics]] for their work in the [[LIGO Scientific Collaboration]] that discovered [[gravitational waves]].. [https://www.nobelprize.org/nobel_prizes/physics/ (Nobel Prize.org)], [https://www.washingtonpost.com/news/speaking-of-science/wp/2017/10/03/nobel-prize-in-physics-won-by-rainer-weiss-barry-barish-and-kip-thorne/?deferJs=true&outputType=default-article&utm_term=.64ba59e67baf&wpisrc=al_alert-COMBO-hse%252Bnational&wpmk=1 (''The Washington Post'')]
+**The [[Nobel Prize]] committee awards [[United States|Americans]] [[Rainer Weiss]], [[Barry Barish]], and [[Kip Thorne]] the [[List of Nobel laureates in Physics|Nobel Prize in Physics]] for their work in the [[LIGO Scientific Collaboration]] that [[First observation of gravitational waves|discovered]] [[gravitational waves]]. [https://www.nobelprize.org/nobel_prizes/physics/ (Nobel Prize.org)], [https://www.washingtonpost.com/news/speaking-of-science/wp/2017/10/03/nobel-prize-in-physics-won-by-rainer-weiss-barry-barish-and-kip-thorne/?deferJs=true&outputType=default-article&utm_term=.64ba59e67baf&wpisrc=al_alert-COMBO-hse%252Bnational&wpmk=1 (''The Washington Post'')]
 <!-- All news items above this line -->|}
