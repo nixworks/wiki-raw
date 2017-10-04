@@ -1,6 +1,10 @@
-{{Current events header|2017|10|3}}
+{{Current events|year=2017|month=10|day=3|content=
 
 <!-- All news items below this line -->
+;Armed attacks and conflicts
+*[[Syrian Civil War]]
+**[[Islamic State of Iraq and the Levant|ISIL]] releases video footage of two injured Russian soldiers it captured. However, [[Russia|the Russian Federation]] denies the claims. [http://www.newsweek.com/isis-release-video-captured-russia-soldiers-moscow-denies-losing-syria-677106 (''Newsweek'')]
+
 ;Business and economy
 *[[Hydraulic fracturing in the United Kingdom]]
 **The [[Scottish Government]] [[Minister for Business, Innovation and Energy|Energy Minister]] [[Paul Wheelhouse]] announces that he will seek an indefinite [[Ban (law)|ban]] (an existing [[Moratorium (law)|moratorium]] has been in place since 2015) on [[Petroleum|crude oil]] recovery in [[Scotland]] by means of the process of [[hydraulic fracturing]]. [http://www.bbc.co.uk/news/uk-scotland-scotland-politics-41484153 (BBC)]
@@ -31,9 +35,4 @@
 ;Science and technology
 *[[Nobel Prize in Physics]]
 **The [[Nobel Prize]] committee awards [[United States|Americans]] [[Rainer Weiss]], [[Barry Barish]], and [[Kip Thorne]] the [[List of Nobel laureates in Physics|Nobel Prize in Physics]] for their work in the [[LIGO Scientific Collaboration]] that [[First observation of gravitational waves|discovered]] [[gravitational waves]]. [https://www.nobelprize.org/nobel_prizes/physics/ (Nobel Prize.org)], [https://www.washingtonpost.com/news/speaking-of-science/wp/2017/10/03/nobel-prize-in-physics-won-by-rainer-weiss-barry-barish-and-kip-thorne/ (''The Washington Post'')]
-
-;War
-*[[Syrian Civil War]]
-**The Islamic State group releases video footage of two Russian soldiers it has captured. However, the Russian Federation denies the claims. [http://www.newsweek.com/isis-release-video-captured-russia-soldiers-moscow-denies-losing-syria-677106 (''Newsweek'')]
-
-<!-- All news items above this line -->|}
+<!-- All news items above this line -->}}
