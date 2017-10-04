@@ -3,5 +3,5 @@
 <!-- All news items below this line -->
 ;Science and technology
 *[[Nobel Prize in Chemistry]]
-**[[Jacques Dubochet]], [[Joachim Frank]] and [[Richard Henderson (biologist)|Richard Henderson]] are awarded the prize for developing [[cryo-electron microscopy]] for the high-resolution structure determination of biomolecules in solution. [https://www.theguardian.com/science/live/2017/oct/04/the-2017-nobel-prize-in-chemistry-to-be-announced-live (''The Guardian'')]
+**The [[Nobel Prize]] committee awards [[Swiss ]] [[Jacques Dubochet]], [[German]] [[Joachim Frank]], and [[Richard Henderson (biologist)|Richard Henderson]] the Nobel prize for developing [[cryo-electron microscopy]] for the high-resolution structure determination of biomolecules in solution. [https://www.theguardian.com/science/live/2017/oct/04/the-2017-nobel-prize-in-chemistry-to-be-announced-live (''The Guardian'')]
 <!-- All news items above this line -->|}
