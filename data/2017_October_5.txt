@@ -1,6 +1,11 @@
 {{Current events|year=2017|month=10|day=5|content=
 
 <!-- All news items below this line -->
+;Arts and culture
 *[[Nobel Prize in Literature]]
 **The [[Nobel Committee]] awards [[Kazuo Ishiguro]] the [[List of Nobel laureates in Literature|Nobel Prize in Literature]] for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world" [https://www.nobelprize.org (Nobelprize.org)]
+
+;International relations
+*[[Russia–Saudi Arabia relations]]
+**[[King Salman]] of [[Saudi Arabia]] visits Russian President [[Vladimir Putin]] in the [[Moscow Kremlin]]. They discuss oil prices and the [[Syrian Civil War]]. [http://www.reuters.com/article/us-russia-saudi-terror/russia-saudi-arabia-cement-new-friendship-with-kings-visit-idUSKBN1CA1QU?il=0 (Reuters)]
 <!-- All news items above this line -->}}
