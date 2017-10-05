@@ -1,15 +1,19 @@
 {{Current events|year=2017|month=10|day=5|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Iraqi Civil War (2014–present)]], [[Battle of Hawija (2017–present)|Battle of Hawija]]
+**The [[Iraqi Army]] fully retakes the city of [[Hawija]] in the [[Kirkuk Governorate]] from [[Islamic State of Iraq and the Levant|ISIL]]. Fighting continues to the north and east of the city as Iraqi troops continue anti-ISIL operations in the [[Hawija District]]. [https://www.theguardian.com/world/2017/oct/05/iraqi-army-claims-recapture-islamic-state-isis-held-areas-hawija (''The Guardian'')]
+
 ;Arts and culture
 *[[Nobel Prize in Literature]]
-**The [[Nobel Committee]] awards [[Kazuo Ishiguro]] the [[List of Nobel laureates in Literature|Nobel Prize in Literature]] for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world" [https://www.nobelprize.org (Nobelprize.org)]
+**The [[Nobel Committee]] awards [[Japanese]]-born [[British]] [[Kazuo Ishiguro]] the [[List of Nobel laureates in Literature|Nobel Prize in Literature]] for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." [https://www.nobelprize.org (Nobelprize.org)]
 
 ;International relations
 *[[Russia–Saudi Arabia relations]]
-**[[King Salman]] of [[Saudi Arabia]] visits Russian President [[Vladimir Putin]] in the [[Moscow Kremlin]]. They discuss oil prices and the [[Syrian Civil War]]. [http://www.reuters.com/article/us-russia-saudi-terror/russia-saudi-arabia-cement-new-friendship-with-kings-visit-idUSKBN1CA1QU?il=0 (Reuters)]
+**[[King Salman]] of [[Saudi Arabia]] visits [[President of Russia| Russian President]] [[Vladimir Putin]] in the [[Moscow Kremlin]]. They discuss oil prices and the [[Syrian Civil War]]. [http://www.reuters.com/article/us-russia-saudi-terror/russia-saudi-arabia-cement-new-friendship-with-kings-visit-idUSKBN1CA1QU?il=0 (Reuters)]
 
 ;Politics and elections
 *[[LGBT employment discrimination in the United States]]
-**[[Jeff Sessions]] reverses an Obama-era policy which applied [[Title VII of the Civil Rights Act]] to disallow [[Employment discrimination law in the United States|discrimination]] of transgender employees. [https://www.cbsnews.com/news/sessions-doj-reverses-obama-era-transgender-work-protections/ (CBS News)]
+**The [[Trump administration]], through the [[United States Department of Justice|Department of Justice]], reverses an [[Presidency of Barack Obama|Obama]]-era policy which applied [[Title VII of the Civil Rights Act]] to disallow [[Employment discrimination law in the United States|discrimination]] of [[transgender]] employees. [https://www.cbsnews.com/news/sessions-doj-reverses-obama-era-transgender-work-protections/ (CBS News)]
 <!-- All news items above this line -->}}
