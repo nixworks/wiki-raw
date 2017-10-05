@@ -4,9 +4,13 @@
 ;Armed conflicts and attacks
 *[[Iraqi Civil War (2014–present)]], [[Battle of Hawija (2017–present)|Battle of Hawija]]
 **The [[Iraqi Army]] and allied paramilitary fighters storm the [[Islamic State of Iraq and the Levant|ISIL]]-held city of [[Hawija]] in the [[Kirkuk Governorate]]. Hawija is one of the last remaining ISIL strongholds in [[Iraq]]. [http://www.bbc.co.uk/news/world-middle-east-41501664 (BBC)]
+*[[Insurgency in the Maghreb (2002–present)|Insurgency in the Maghreb]]
+**An apparent ambush in [[Niger]] near the [[Malian]] border leaves three  [[United States]] [[Special Forces (United States Army)|Green Berets]] and five [[Niger Armed Forces|Nigerien soldiers]] dead during a joint patrol. [https://www.reuters.com/article/us-nigeria-security/u-s-confirms-attack-on-joint-patrol-in-niger-no-word-on-u-s-casualties-idUSKBN1C9310?il=0 (Reuters)],[https://www.rt.com/usa/405709-us-soldiers-niger-died/ (RT)]
 
 ;Law and crime
-*[[Brazilian]] police detain fugitive [[Italian]] former left-wing guerrilla and convicted murderer [[Cesare Battisti (born 1954)|Cesare Battisti]], as he was attempting to flee across the border into [[Bolivia]] to avoid extradition back to Italy and facing his life sentence prison term for four murders in the 1970s. [https://www.reuters.com/article/us-brazil-italy-battisti/brazilian-police-detain-italian-fugitive-battisti-idUSKBN1C92QO?il=0 (Reuters)]
+*[[Brazilian]] police detain fugitive [[Italian]] former [[Armed Proletarians for Communism|left-wing guerrilla]] and convicted murderer [[Cesare Battisti (born 1954)|Cesare Battisti]], as he was attempting to flee across the border into [[Bolivia]] to avoid extradition back to Italy and facing his life sentence prison term for four murders in the 1970s. [https://www.reuters.com/article/us-brazil-italy-battisti/brazilian-police-detain-italian-fugitive-battisti-idUSKBN1C92QO?il=0 (Reuters)]
+*[[Cybercrime]]
+**U.S. fast-food chain operator [[Sonic Drive-In]] may have had a malware attack at some of its drive-in outlets  and may have allowed hackers to access customers’ debit and credit card information. [https://www.reuters.com/article/us-cyber-sonic/drive-in-chain-sonic-says-payment-cards-possibly-hacked-idUSKBN1C92S8 (Reuters)]
 
 ;Politics and elections
 *[[2017 Spanish constitutional crisis]]
