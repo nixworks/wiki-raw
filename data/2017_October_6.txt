@@ -3,8 +3,14 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Syrian Civil War]]
-**[[Russia]]n airstrikes kill at least 14 civilians, including three children, as they were crossing the [[Euphrates]] river near the [[ISIS]]-held town of [[Mayadin]] in eastern Syria. The civilians were fleeing the village of Mahkan. [http://www.trtworld.com/mea/russia-air-strikes-kill-at-least-14-civilians-in-syria-monitor-11132 (TRT World)]
+**[[Russia]]n airstrikes kill at least 14 civilians, including three children, as they were crossing the [[Euphrates]] river near the [[ISIL]]-held city of [[Mayadin]] in eastern Syria. The civilians were fleeing the village of Mahkan. [http://www.trtworld.com/mea/russia-air-strikes-kill-at-least-14-civilians-in-syria-monitor-11132 (TRT World)]
 **[[Jaysh al-Islam]] rebels launch a successful counter-attack in the East [[Ghouta]] region of rural [[Damascus]], targeting the points they lost to the Syrian government over the course of seven days near the town of Hawsh Dawahra, and recovering all of the lost territories. [https://www.almasdarnews.com/article/jaysh-al-islam-reverses-syrian-armys-gains-east-ghouta/ (Al Masdar News)]
+
+;Business and economy
+*[[AIM (software)]]
+**AIM's owner, Oath Inc., announced that it would discontinue AIM as a service on December 15, 2017. [https://www.usatoday.com/story/tech/talkingtech/2017/10/06/rip-aim-aol-instant-messenger-dies-december/739076001/ (USA Today)]
+*[[2017 Spanish constitutional crisis]]
+**[[Spain]]'s third largest bank, [[CaixaBank]], announces it is moving its legal base out of [[Catalonia]] to [[Valencia]]. This follows a similar move yesterday by Catalan banking group [[Banco Sabadell]] who announced they are moving their headquarters to [[Alicante]] in response to growing political insecurity in Catalonia. [https://www.theguardian.com/world/2017/oct/06/catalonia-business-independence-spanish-government (''The Guardian'')]
 
 ;Disasters and accidents
 *A train hits a bus on a crossing in [[Vladimir, Russia]], killing at least 19 people on the bus. No train passengers were injured. [http://www.bbc.com/news/world-europe-41522748 (BBC)]
