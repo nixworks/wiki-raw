@@ -2,8 +2,8 @@
 
 <!-- All news items below this line -->
 ;Business and economy
-*[[Google]] gets go-ahead to restore cell phone service in [[Puerto Rico]] with its balloons. [http://www.telegraph.co.uk/news/2017/10/07/google-gets-go-ahead-restore-cell-phone-service-puerto-rico/ (''The Telegraph'')]
+*The [[Federal Communications Commission]] approves [[Google]]'s plan to restore some cell phone service in hurricane-hit [[Puerto Rico]] with [[Project Loon]] balloons. [http://www.telegraph.co.uk/news/2017/10/07/google-gets-go-ahead-restore-cell-phone-service-puerto-rico/ (''The Telegraph'')]
 ;Disasters and accidents
-*[[October 2017 London attack]]
+*[[South Kensington crash]]
 **Multiple people injured in a road traffic incident on [[Exhibition Road]], [[London]]. [http://www.bbc.co.uk/news/uk-41538762/ (''BBC News'')]
 <!-- All news items above this line -->}}
