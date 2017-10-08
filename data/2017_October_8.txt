@@ -3,4 +3,7 @@
 <!-- All news items below this line -->
 ;Politics and elections
 *350,000 people including [[Mario Vargas Llosa]] attend a rally in [[Barcelona]] opposing [[Catalan independence]]. ([http://www.bbc.co.uk/news/world-europe-41544849 BBC])
+
+;International relations
+*The [[Consulate General of the United States, Istanbul|U.S Mission]] in [[Turkey]] suspends all non-immigration visa services in the country citing security concerns. [https://www.reuters.com/article/us-usa-turkey-security/u-s-mission-to-turkey-suspends-visa-services-for-security-reasons-idUSKBN1CD0SC (Reuters)]
 <!-- All news items above this line -->}}
