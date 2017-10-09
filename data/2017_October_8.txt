@@ -1,11 +1,15 @@
 {{Current events|year=2017|month=10|day=8|content=
 
 <!-- All news items below this line -->
+;Disasters and accidents
+*[[Rohingya persecution in Myanmar (2016–present)]]
+**A [[refugee]] boat fleeing from [[Myanmar]] to [[Bangladesh]] capsizes, killing at least two people. [https://www.reuters.com/article/us-myanmar-rohingya-bangladesh-capsize/boat-carrying-asylum-seekers-from-myanmar-capsizes-off-bangladesh-idUSKBN1CD0VH?il=0 (Reuters)]
+
 ;International relations
 *[[Turkey–United States relations]]
 **The [[Consulate General of the United States, Istanbul|U.S Mission]] in [[Turkey]] suspends all non-immigration [[Travel visa|visa]] services in the country citing security concerns. [https://www.reuters.com/article/us-usa-turkey-security/u-s-mission-to-turkey-suspends-visa-services-for-security-reasons-idUSKBN1CD0SC (Reuters)]
 
 ;Politics and elections
 *[[2017 Spanish constitutional crisis]]
-**[[Peruvians|Peruvian]] [[List of Nobel laureates in Literature|Nobel Prize laurete]] writer [[Mario Vargas Llosa]] joins 350,000 people in attending a rally in [[Barcelona]] opposing [[Catalan independence]]. ([http://www.bbc.co.uk/news/world-europe-41544849 BBC])
+**[[Peruvians|Peruvian]] [[List of Nobel laureates in Literature|Nobel Prize laurete]] writer [[Mario Vargas Llosa]] joins 350,000 people in attending a rally in [[Barcelona]] opposing [[Catalan independence]]. [http://www.bbc.co.uk/news/world-europe-41544849 (BBC)]
 <!-- All news items above this line -->}}
