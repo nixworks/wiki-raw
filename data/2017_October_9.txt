@@ -3,5 +3,5 @@
 <!-- All news items below this line -->
 ;Business and economy
 *[[Nobel Memorial Prize in Economic Sciences]]
-**The [[Nobel Prize]] committee awards [[United States|American]] [[Richard Thaler]] the [[List of Nobel Memorial Prize laureates in Economics|The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel]] "for his contributions to [[behavioral economics]]." [https://www.nobelprize.org/ (Nobel Prize.org)]
+**The [[Nobel Prize]] committee awards [[United States|American]] [[Richard Thaler]] the [[List of Nobel Memorial Prize laureates in Economics|The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel]] "for his contributions to [[behavioral economics]]." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. [https://www.nobelprize.org/ (Nobel Prize.org)]
 <!-- All news items above this line -->}}
