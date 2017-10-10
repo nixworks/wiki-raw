@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed attacks and conflicts
 *[[2017 Edmonton attack]]
-**In [[Edmonton]], [[Alberta]], Canada, near [[Commonwealth Stadium (Edmonton)|Commonwealth Stadium]], a man drives into a police officer and then stabs the officer. The suspect fled the scene and was later arrested that night following a police pursuit, where four pedestrians were hit by the suspect in a rental truck. Police are investigating the incident as an act of terrorism. [http://edmontonjournal.com/news/crime/heavy-police-presence-near-commonwealth-stadium-officers-checking-vehicles (''Edmonton Journal'')][https://www.reuters.com/article/us-canada-attacks/canadian-police-probe-car-attacks-stabbing-as-acts-of-terrorism-idUSKCN1C61FP (Reuters)]
+**In [[Edmonton]], [[Alberta]], Canada, near [[Commonwealth Stadium (Edmonton)|Commonwealth Stadium]], a man drives into a police officer and then stabs the officer. The suspect fled the scene and was later arrested that night following a police pursuit, where four pedestrians were hit by the suspect in a rental truck. Police are investigating the incident as an act of terrorism. [http://edmontonjournal.com/news/crime/heavy-police-presence-near-commonwealth-stadium-officers-checking-vehicles (''Edmonton Journal'')], [https://www.reuters.com/article/us-canada-attacks/canadian-police-probe-car-attacks-stabbing-as-acts-of-terrorism-idUSKCN1C61FP (Reuters)]
 
 ;Disasters and accidents
 *A fire at a retirement home in [[Bucharest]], [[Romania]], leaves one person dead and 19 others injured. [https://www.nytimes.com/aponline/2017/09/30/world/europe/ap-eu-romania-retirement-home-fire.html?mcubz=3 (''The New York Times'')]
@@ -22,5 +22,5 @@
 
 ;Sports
 *[[2017 AFL Grand Final]]
-**The [[Australian rules football]] club [[Richmond Football Club]] defeats the [[Adelaide Football Club]] in the 2017 [[AFL Grand Final]] by 108 points to 60. [[Dustin Martin]] won the [[Norm Smith Medal]] for best on ground after having won the [[2017 Brownlow Medal]] for the best and fairest player in the competition. [http://www.abc.net.au/news/2017-09-30/afl-grand-final-dustin-martin-completes-record-breaking-season/9004402 (ABC Australia)][http://www.abc.net.au/news/2017-09-30/joy-for-tigerland-as-richmond-ends-37-year-drought-at-mcg/9004358 (ABC Australia)]
+**The [[Australian rules football]] club [[Richmond Football Club]] defeats the [[Adelaide Football Club]] in the 2017 [[AFL Grand Final]] by 108 points to 60. [[Dustin Martin]] won the [[Norm Smith Medal]] for best on ground after having won the [[2017 Brownlow Medal]] for the best and fairest player in the competition. [http://www.abc.net.au/news/2017-09-30/afl-grand-final-dustin-martin-completes-record-breaking-season/9004402 (ABC Australia)], [http://www.abc.net.au/news/2017-09-30/joy-for-tigerland-as-richmond-ends-37-year-drought-at-mcg/9004358 (ABC Australia)]
 <!-- All news items above this line -->|}
