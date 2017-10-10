@@ -1,5 +1,7 @@
 {{Current events|year=2017|month=10|day=10|content=
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[2017 North Korea crisis]]
+**A [[South Korean]] lawmaker reveals that in 2016, [[North Korean]] [[Security hacker|hackers]] stole military documents which describe the gameplan by South Korea-U.S. in wartime operations. [https://www.ft.com/content/d8bbceb0-ad64-11e7-aab9-abaa44b1e130 (''The Financial Times'')]
 <!-- All news items above this line -->}}
