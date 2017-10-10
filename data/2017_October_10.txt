@@ -3,9 +3,11 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[2017 North Korea crisis]]
-**A [[South Korean]] lawmaker reveals that in 2016, [[North Korean]] [[Security hacker|hackers]] stole military documents which describe the gameplan by South Korea-U.S. in wartime operations. [https://www.ft.com/content/d8bbceb0-ad64-11e7-aab9-abaa44b1e130 (''The Financial Times'')]
+**A [[South Korean]] lawmaker reveals that in 2016, [[North Korean]] [[Security hacker|hackers]] stole military documents which describe the South Korea-U.S. gameplan in wartime operations. [https://www.ft.com/content/d8bbceb0-ad64-11e7-aab9-abaa44b1e130 (''The Financial Times'')]
 
 ;Disasters and accidents
 *[[2017 California wildfires]]
-**Authorities in [[Sonoma County, California]] claim that they have received over 100 missing persons reports. At least 10 people have died during the fires. [https://www.nbcnews.com/storyline/western-wildfires/one-killed-major-wildfires-ignite-overnight-across-northern-california-n809206?cid=eml_nbn_20171010 (NBC News)]
+**Authorities in [[Sonoma County, California]], claim that they have received over 100 missing persons reports. The death toll stands at at least 10 people. [https://www.nbcnews.com/storyline/western-wildfires/one-killed-major-wildfires-ignite-overnight-across-northern-california-n809206?cid=eml_nbn_20171010 (NBC)]
+*[[Syrian Civil War]]
+**A [[Russian Air Force]] [[Sukhoi Su-24]] crashes at the [[Khmeimim (air base)|Khmeimim air base]] in [[Latakia Governorate|Latakia province]] in northwestern [[Syria]], killing the two crewmen. [http://www.i24news.tv/en/news/international/middle-east/157377-171010-russian-jet-crashes-in-syria-crew-killed-agencies (i24 News)], [https://www.rt.com/news/406201-su24-crash-syria-killed/ (RT)]
 <!-- All news items above this line -->}}
