@@ -2,8 +2,9 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*According to Syrian state media, three suicide bombers attacked a police command center in [[Damascus]], killing two others and injuring six. [http://www.reuters.com/article/us-mideast-crisis-syria-attack/suicide-bombers-attack-damascus-police-center-syrian-state-media-idUSKBN1CG1QI?il=0 (Reuters)]
+*[[Syrian civil war]]
+**Three suicide bombers attacked a police command center in [[Damascus]], killing two people and injuring six others. [http://www.reuters.com/article/us-mideast-crisis-syria-attack/suicide-bombers-attack-damascus-police-center-syrian-state-media-idUSKBN1CG1QI?il=0 (Reuters)]
 
-;Science
+;Science and technology
 *A [[ring system]] is discovered around the [[dwarf planet]] [[Haumea]]. [https://www.theverge.com/2017/10/11/16453478/haumea-dwarf-planet-ring-formation-occultation (The Verge)]
 <!-- All news items above this line -->}}
