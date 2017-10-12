@@ -1,4 +1,4 @@
-{{Current events|year=2017|month=10|day=11|content=
+{{Current events header|2017|10|11}}
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
@@ -24,4 +24,4 @@
 *[[Solar System]]
 **[[Nature (journal)|''Nature'']] publishes research from The [[Instituto de Astrofísica de Andalucía|Institute of Astrophysics of Andalusia]] at the Glorieta de la Astronomía of [[Granada, Spain]], describing the discovery that a [[ring system#Rings systems of minor planets and moons|ring system]] orbits the [[dwarf planet]], [[trans-Neptunian object]], [[Haumea]]. [https://www.theverge.com/2017/10/11/16453478/haumea-dwarf-planet-ring-formation-occultation (The Verge)], [http://www.nature.com/nature/journal/v550/n7675/full/nature24051.html (''Nature'')]
 *[[SpaceX]] [[List of Falcon 9 and Falcon Heavy launches|launches]] a [[Falcon (rocket family)|Falcon]] [[Falcon 9 Full Thrust|9 Full Thrust]] rocket at [[Cape Canaveral]], [[Florida]], to [[supersynchronous orbit]] an [[Airbus]]-built communications satellite for [[Luxembourg]]-based [[SES]] and [[United States|U.S.]]-headquartered [[EchoStar]]. [https://spaceflightnow.com/2017/10/12/spacex-launches-its-15th-mission-of-the-year/ (Space Flight Now)]
-<!-- All news items above this line -->}}
+<!-- All news items above this line -->|}
