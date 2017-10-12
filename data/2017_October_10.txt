@@ -1,4 +1,4 @@
-{{Current events|year=2017|month=10|day=10|content=
+{{Current events header|2017|10|10}}
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
@@ -35,4 +35,4 @@
 ;Sports
 *[[2018 FIFA World Cup qualifying]]
 **The [[United States men's national soccer team]] loses 2&ndash;1 to [[Trinidad and Tobago national football team|Trinidad and Tobago]], thus being eliminated from making it to the [[2018 FIFA World Cup]]. This is the first time the U.S. will miss the tournament since the 1986 iteration. [http://www.espnfc.com/team/united-states/660/blog/post/3224210/us-crash-out-of-world-cup-as-only-christian-pulisic-steps-up (ESPN)]
-<!-- All news items above this line -->}}
+<!-- All news items above this line -->|}
