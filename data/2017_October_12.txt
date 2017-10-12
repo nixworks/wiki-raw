@@ -3,4 +3,5 @@
 <!-- All news items below this line -->
 ;Disasters and accidents
 *[[Apollo asteroid|Apollo-group-type asteroid]] [[2012 TC4]] (approximately 15 meters in diameter) passes 0.0003352 AU (50,150 km; 31,160 mi) from [[Earth]], well within the [[Moon]]'s orbit. [http://www.cbc.ca/news/technology/asteroid-close-flyby-2012-tc4-1.4347501 (CBC)]
+*Floods and landslides in [[Yên Bái]] and [[Hòa Bình]] [[Vietnam]] provinces kill at least 37 people with 40 more missing. [http://www.bbc.com/news/world-asia-41591784 (BBC)]
 <!-- All news items above this line -->}}
