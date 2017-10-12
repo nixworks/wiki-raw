@@ -1,6 +1,6 @@
 {{Current events|year=2017|month=10|day=12|content=
 
 <!-- All news items below this line -->
-;Science and technology
+;Disasters and accidents
 *[[Apollo asteroid|Apollo-group-type asteroid]] [[2012 TC4]] (approximately 15 meters in diameter) passes 0.0003352 AU (50,150 km; 31,160 mi) from [[Earth]], well within the [[Moon]]'s orbit. [http://www.cbc.ca/news/technology/asteroid-close-flyby-2012-tc4-1.4347501 (CBC)]
 <!-- All news items above this line -->}}

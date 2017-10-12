@@ -14,7 +14,7 @@
 
 ;Law and crime
 *[[Cybercrime]]
-**A hacker stole non-classified information about [[Australia]]’s [[Joint Strike Fighter program|Joint Strike Fighter]] program and other military hardware last year after breaching the network of a defense contractor. [http://www.reuters.com/article/us-australia-defence-cyber/joint-strike-fighter-plans-stolen-in-australia-cyber-attack-idUSKBN1CH00F (Reuters)]
+**Last year a hacker stole non-classified information about [[Australia]]’s [[Lockheed Martin F-35 Lightning II procurement#Australia|Joint Strike Fighter program]] and other military hardware after breaching the network of a defense contractor. [http://www.reuters.com/article/us-australia-defence-cyber/joint-strike-fighter-plans-stolen-in-australia-cyber-attack-idUSKBN1CH00F (Reuters)]
 
 ;Politics and elections
 *[[Politics of Peru]]
