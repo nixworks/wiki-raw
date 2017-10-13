@@ -1,10 +1,19 @@
 {{Current events|year=2017|month=10|day=13|content=
 
 <!-- All news items below this line -->
+;Arts and culture
+*[[October 2017 Northern California wildfires|Wine Country wildfires]]
+**The [[Santa Rosa, California|Santa Rosa]] home of ''[[Peanuts]]'' creator [[Charles M. Schulz]] is among those burned to the ground in the wildfires that tore up the [[California]] [[Wine Country (California)|Wine Country]]. ''Peanuts'' features the beloved characters [[Snoopy]] and [[Charlie Brown]]. [http://www.cnn.com/2017/10/13/us/charles-schulz-home-california-fires/index.html (CNN)]
+
 ;Business and economy
 *[[Human rights in the Philippines]]
-**Filipino activists urged [[Apple Inc.]] to stop sponsoring apps that relate to the murderous [[Philippine Drug War]]. [https://www.reuters.com/article/us-philippines-drugs-apple-apps/activists-urge-apple-to-drop-apps-that-play-up-philippine-drugs-war-idUSKBN1CI13Z (Reuters)]
+**Filipino activists urge [[Apple Inc.]] to stop sponsoring apps that relate to the [[Philippine Drug War]]. [https://www.reuters.com/article/us-philippines-drugs-apple-apps/activists-urge-apple-to-drop-apps-that-play-up-philippine-drugs-war-idUSKBN1CI13Z (Reuters)]
 *The head of the [[Financial Conduct Authority]] (FCA) has admitted meeting oil giant [[Saudi Aramco]] over a potential £1.5 trillion listing on the [[London Stock Exchange]]. [http://www.bbc.com/news/business-41610083 (BBC)]
+
 ;International relations
-*[[President of the United States|President]] [[Donald Trump]] chooses not to certify that [[Iran]] complies with the 2015 [[Joint Comprehensive Plan of Action|JCPOA]] agreement. The [[United States Congress]] now has 60 days to decide whether to lift sanctions relief, possibly breaching the agreement. [http://www.reuters.com/article/us-iran-nuclear-usa/trump-strikes-blow-at-iran-nuclear-deal-in-major-u-s-policy-shift-idUSKBN1CI24I (Reuters)]
+*[[President of the United States|U.S. President]] [[Donald Trump]] chooses not to certify that [[Iran]] complies with the 2015 [[Joint Comprehensive Plan of Action|JCPOA]] agreement. The [[United States Congress]] now has 60 days to decide whether to lift sanctions relief, possibly breaching the agreement. [http://www.reuters.com/article/us-iran-nuclear-usa/trump-strikes-blow-at-iran-nuclear-deal-in-major-u-s-policy-shift-idUSKBN1CI24I (Reuters)]
+
+;Sport
+*[[2018 FIFA World Cup qualification]]
+**[[Bruce Arena]] resigns as manager of the [[United States men's national soccer team]] following the failure of the team to qualify for the [[2018 FIFA World Cup]], the first time the U.S. has failed to qualify for a FIFA World Cup since [[1986 FIFA World Cup|1986]]. [https://www.theguardian.com/football/2017/oct/13/bruce-arena-resigns-usa-coach-world-cup-failure-soccer (''The Guardian'')]
 <!-- All news items above this line -->}}
