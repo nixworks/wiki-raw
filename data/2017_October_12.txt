@@ -10,13 +10,13 @@
 *[[October 2017 Northern California wildfires]]
 **Various local safety officials report a total of at least 31 people have been killed by the 17 fires, while almost half (437) of the 900 reported missing in [[Sonoma County, California|Sonoma County]] have been located.  [http://www.latimes.com/local/lanow/la-me-northern-california-firestorms-20171012-story.html (''Los Angeles Times'')]
 
+;Health and medicine
+*[[Gene therapy]]
+**A panel of external experts to the U.S. [[Food and Drug Administration]] unanimously vote that the benefits of the [[Gene therapy#Approaches|gene replacement treatment]] made by [[Katherine A. High|Spark Therapeutics]] of [[Philadelphia, Pennsylvania]], called [[voretigene neparvovec]] (trade name, Luxturna), which treats a form of [[hereditary]] [[blindness]], [[Leber's congenital amaurosis]], outweigh its risks. The treatment, which targets a specific disease-causing [[mutation]], is designed to treat individuals who have two mutated copies of a [[gene]] called ''[[RPE65]]'' and consists of a [[virus]] [[injected]] into the [[eye]] loaded with a [[Allele|normal copy]] of the ''RPE65'' gene. Further, this technique utilizing [[adeno-associated virus]] as a [[Viral vector|vector]] may, in the future, be used for the treatment of [[heart disease]] and also other mutations, including some [[cancer]]s. [http://www.nature.com/news/fda-advisers-back-gene-therapy-for-rare-form-of-blindness-1.22819 (Nature)], [https://www.technologyreview.com/s/609075/fda-vote-sets-stage-for-gene-therapys-future/ (MIT Technology Review)]
+
 ;International relations
 *[[United States and the United Nations]], [[Israel and the United Nations]]
 **The [[United States]] [[Presidency of Donald Trump|Trump administration]] and the government of [[Israel]] announce their plans to withdraw as members of [[UNESCO]]. [https://www.washingtonpost.com/news/post-nation/wp/2017/10/12/u-s-withdraws-from-unesco-the-u-n-s-cultural-organization-citing-anti-israel-bias/ (''The Washington Post'')], [http://www.bbc.com/news/world-us-canada-41598991 (BBC)]
-
-;Health and medicine
-*[[Gene therapy]]
-**A panel of external experts to the U.S. [[Food and Drug Administration]] unanimously vote that the benefits of the [[Gene therapy#Approaches|gene replacement treatment]] made by [[Katherine A. High|Spark Therapeutics]] of [[Philadelphia, Pennsylvania]], called [[voretigene neparvovec]] (trade name, Luxturna), which treats a form of [[hereditary]] [[blindness]], [[Leber's congenital amaurosis]], outweigh its risks. The treatment, which targets a specific disease-causing [[mutation]], is designed to treat individuals who have two mutated copies of a [[gene]] called ''[[RPE65]]'' and consists of a [[virus]] [[injected]] into the [[eye]] loaded with a [[Allele|normal copy]] of the ''RPE65'' gene. Further, this technique utilizing [[adeno-associated virus]] as a [[Viral vector|vector]] may, in the future, be used for treatment of [[heart disease]] and also other mutations, including [[cancer]]. [http://www.nature.com/news/fda-advisers-back-gene-therapy-for-rare-form-of-blindness-1.22819 (Nature)], [https://www.technologyreview.com/s/609075/fda-vote-sets-stage-for-gene-therapys-future/ (MIT Technology Review)]
 
 ;Law and crime
 *[[Harvey Weinstein sexual misconduct allegations]]
@@ -29,5 +29,5 @@
 
 ;Science and technology
 *[[Space exploration]]
-**As predicted by [[NASA]], the [[Apollo asteroid|Apollo-group-type asteroid]] [[2012 TC4]] (approximately {{convert|15|m|ft|abbr=on}} in diameter) passes {{convert|0.0003352|AU|km mi|abbr=on}} from [[Earth]], well within the [[Moon]]'s orbit. [http://www.cbc.ca/news/technology/asteroid-close-flyby-2012-tc4-1.4347501 (CBC)], [https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2012TC4;cad=1#cad (NASA)]
+**As predicted by [[NASA]], the [[Apollo asteroid|Apollo-group-type asteroid]] [[2012 TC4]] (approximately {{convert|15|m|ft|abbr=on}} in diameter) passes a distance of {{convert|0.0003352|AU|km mi|abbr=on}} from [[Earth]], well within the [[Moon]]'s orbit. [http://www.cbc.ca/news/technology/asteroid-close-flyby-2012-tc4-1.4347501 (CBC)], [https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2012TC4;cad=1#cad (NASA)]
 <!-- All news items above this line -->}}
