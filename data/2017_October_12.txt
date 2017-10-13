@@ -3,16 +3,16 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[War in North-West Pakistan]]
-**[[Canada|Canadian]] [[Joshua Boyle]], [[United States|American]] Caitlan Coleman, and their family, are rescued by [[Pakistan]]i forces in the [[Kurram Agency|Kurram Valley]]. The family had been kidnapped by the [[Taliban]] nearly 5 years ago in Afghanistan's [[Maidan Wardak Province|Wardak Province]] [https://globalnews.ca/news/3798807/canadian-joshua-boyle-taliban-rescued/ (Global News)] [https://www.washingtonpost.com/news/worldviews/wp/2017/10/12/inside-american-caitlan-colemans-five-year-ordeal-as-a-taliban-prisoner/?utm_term=.d641e41280f0 (''The Washington Post'')]
+**[[Pakistan]]i forces rescue [[Canada|Canadian]] [[Joshua Boyle]], [[United States|American]] Caitlan Coleman, and their family, in the [[Kurram Agency|Kurram Valley]]. The family had been kidnapped by the [[Taliban]] nearly five years ago in Afghanistan's [[Maidan Wardak Province|Wardak Province]]. [https://globalnews.ca/news/3798807/canadian-joshua-boyle-taliban-rescued/ (Global News)], [https://www.washingtonpost.com/news/worldviews/wp/2017/10/12/inside-american-caitlan-colemans-five-year-ordeal-as-a-taliban-prisoner/ (''The Washington Post'')]
 
 ;Disasters and accidents
 *Floods and landslides in [[Yên Bái Province|Yên Bái]] and [[Hòa Bình Province|Hòa Bình]] provinces in [[Vietnam]] kill at least 37 people with 40 more missing. [http://www.bbc.com/news/world-asia-41591784 (BBC)]
 *[[October 2017 Northern California wildfires]]
-**Local officials report at least 28 people have been killed by the 17 fires, while almost half (437) of the 900 reported missing in [[Sonoma County, California|Sonoma County]] have been located.  [http://www.latimes.com/local/lanow/la-me-northern-california-firestorms-20171012-story.html (''Los Angeles Times'')]
+**Various local safety officials report a total of at least 28 people have been killed by the 17 fires, while almost half (437) of the 900 reported missing in [[Sonoma County, California|Sonoma County]] have been located.  [http://www.latimes.com/local/lanow/la-me-northern-california-firestorms-20171012-story.html (''Los Angeles Times'')]
 
 ;International relations
 *[[United States and the United Nations]], [[Israel and the United Nations]]
-**The [[United States]] and [[Israel]] announce their plans to withdraw as members of [[UNESCO]]. [https://www.washingtonpost.com/news/post-nation/wp/2017/10/12/u-s-withdraws-from-unesco-the-u-n-s-cultural-organization-citing-anti-israel-bias/ (''The Washington Post'')] [http://www.bbc.com/news/world-us-canada-41598991 (BBC)]
+**The [[United States]] [[Presidency of Donald Trump|Trump administraion]] and [[Israel]] announce their plans to withdraw as members of [[UNESCO]]. [https://www.washingtonpost.com/news/post-nation/wp/2017/10/12/u-s-withdraws-from-unesco-the-u-n-s-cultural-organization-citing-anti-israel-bias/ (''The Washington Post'')], [http://www.bbc.com/news/world-us-canada-41598991 (BBC)]
 
 ;Law and crime
 *[[Harvey Weinstein sexual misconduct allegations]]
@@ -20,7 +20,7 @@
 
 ;Politics and elections
 *[[Fatah–Hamas reconciliation process]]
-**Palestinian factions, [[Hamas]] and [[Fatah]], sign a unity deal in [[Cairo]], that is publicly supported by [[Egypt]] and [[Saudi Arabia]]. The  Fatah-controlled  [[Palestinian National Authority]], along with [[Israel]], currently governs the [[West Bank]]. The PNA will take administrative control of the [[Gaza Strip]], and, along with Hamas, police its borders. The parties consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. [[Israel]] opposes any involvement by Hamas in a Palestinian government. [https://www.nytimes.com/2017/10/12/world/middleeast/palestinians-fatah-hamas-gaza.html (''The New York Times'')] [http://www.bbc.com/news/world-middle-east-41591450 (BBC)]
+**Palestinian factions, [[Hamas]] and [[Fatah]], sign a unity deal in [[Cairo]], that is publicly supported by [[Egypt]] and [[Saudi Arabia]]. The  Fatah-controlled  [[Palestinian National Authority]], along with [[Israel]], currently governs the [[West Bank]]. The PNA will take administrative control of the [[Gaza Strip]], and, along with Hamas, police its borders. The parties consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. [[Israel]] opposes any involvement by Hamas in a Palestinian government. [https://www.nytimes.com/2017/10/12/world/middleeast/palestinians-fatah-hamas-gaza.html (''The New York Times'')], [http://www.bbc.com/news/world-middle-east-41591450 (BBC)]
 
 ;Science and technology
 *[[Apollo asteroid|Apollo-group-type asteroid]] [[2012 TC4]] (approximately {{convert|15|m|ft|abbr=on}} in diameter) passes {{convert|0.0003352|AU|km mi|abbr=on}} from [[Earth]], well within the [[Moon]]'s orbit. [http://www.cbc.ca/news/technology/asteroid-close-flyby-2012-tc4-1.4347501 (CBC)]
