@@ -3,4 +3,6 @@
 <!-- All news items below this line -->
 ;Business and economy
 *The head of the [[Financial Conduct Authority]] (FCA) has admitted meeting oil giant [[Saudi Aramco]] over a potential £1.5 trillion listing on the [[London Stock Exchange]]. [http://www.bbc.com/news/business-41610083 (BBC)]
+;International relations
+*[[President of the United States|President]] [[Donald Trump]] chooses not to certify that [[Iran]] complies with the 2015 [[Joint Comprehensive Plan of Action|JCPOA]] agreement. The [[United States Congress]] now has 60 days to decide whether to lift sanctions relief, possibly breaching the agreement. [http://www.reuters.com/article/us-iran-nuclear-usa/trump-strikes-blow-at-iran-nuclear-deal-in-major-u-s-policy-shift-idUSKBN1CI24I (Reuters)]
 <!-- All news items above this line -->}}
