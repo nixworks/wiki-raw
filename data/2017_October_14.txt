@@ -1,8 +1,10 @@
 {{Current events|year=2017|month=10|day=14|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[War in Somalia (2009–present)]]
+**More than 30 people are killed when a explosive filled lorry detonates outside a hotel in the capital [[Mogadishu]]. [http://www.bbc.com/news/world-africa-41621660 (BBC)]
 ;Science and technology
-*[[Recreational drug use]]
-**A small-scale study has determined that [[psilocybin mushroom]]s, that contain the drug [[psilocybin]], can treat [[depression]]. [http://www.bbc.com/news/health-41608984 (BBC)].
+*A small-scale study has determined that [[psilocybin mushroom]]s, that contain the drug [[psilocybin]], can treat [[depression]]. [http://www.bbc.com/news/health-41608984 (BBC)].
 
 <!-- All news items above this line -->}}
