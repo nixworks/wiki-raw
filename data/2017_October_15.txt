@@ -1,5 +1,9 @@
 {{Current events|year=2017|month=10|day=15|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[Austrian legislative election, 2017]]
+**Voters in [[Austria]] go to the polls to elect all 183 members of the [[National Council (Austria)|National Council]]. [[Opinion polling for the Austrian legislative election, 2017|Opinion polling]] predicts that [[Sebastian Kurz]] of the right-wing [[Austrian People's Party]] will become the new [[Chancellor of Austria|Chancellor]]. [http://www.politico.eu/article/austrian-election-live-blog-sebastian-kurz-christian-kern/ (Politico)]
+*[[Kyrgyz presidential election, 2017]]
+**Voters in [[Kyrgyzstan]] go to the polls to elect a new [[President of Kyrgyzstan|President]]. Former [[Prime Minister of Kyrgyzstan|Prime Ministers]] [[Temir Sariyev]], [[Ömürbek Babanov]], and [[Sooronbay Jeenbekov]] are in contention to become the Kyrgyz head of state. [https://thewire.in/187128/stakes-in-presidential-elections-extend-beyond-kyrgyz-republic/ (''The Wire'')]
 <!-- All news items above this line -->}}
