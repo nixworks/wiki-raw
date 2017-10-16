@@ -21,9 +21,9 @@
 ;Disasters and accidents 
 *[[2017 Atlantic hurricane season]]
 **[[Hurricane Ophelia (2017)]] 
-***Schools and hospitals are closed in [[Republic of Ireland|Ireland]] and [[Northern Ireland]] as the post-tropical Hurricane Ophelia is forecasted to make landfall on the island. [http://uk.reuters.com/article/us-storm-ophelia/ireland-braces-as-tropical-storm-ophelia-approaches-idUKKBN1CL0LA (Reuters)]
+***Schools and hospitals are closed in [[Republic of Ireland|Ireland]] and [[Northern Ireland]] as the [[extratropical cyclone]] Ophelia is forecasted to make landfall on the island. [http://uk.reuters.com/article/us-storm-ophelia/ireland-braces-as-tropical-storm-ophelia-approaches-idUKKBN1CL0LA (Reuters)]
 ***At least three people are killed in [[Republic of Ireland|Ireland]] as over 360,000 homes lose power due to the remnants of Hurricane Ophelia. [http://www.bbc.co.uk/news/uk-41627442 (BBC)]
-*Wildfires in [[Spain]] and [[Portugal]] kill at least 31 people, which were worsened by strong winds brought by Hurricane Ophelia. [http://www.bbc.com/news/world-europe-41634125 (BBC)]
+***Wildfires in [[Spain]] and [[Portugal]] kill at least 31 people, which were worsened by strong winds brought by Hurricane Ophelia. [http://www.bbc.com/news/world-europe-41634125 (BBC)]
 
 ;International relations
 *[[North Korea–Russia relations]]
@@ -31,8 +31,7 @@
 
 ;Science and technology
 *[[Gravitational-wave astronomy]]
-**The [[LIGO]] and [[Virgo interferometer|VIRGO]] gravitational wave observatories detect for the first time gravitational waves from the merger of two [[neutron stars]]. The event [[GW170817]], coinciding with a [[Gamma-ray burst#Short gamma-ray bursts|short gamma ray burst]] detected by the [[Fermi Gamma-ray Space Telescope]], lead to immediate follow-up observations by the [[Hubble space telescope]] and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. [https://www.ligo.caltech.edu/page/press-release-gw170817 (LIGO press release)]
+**Scientists announce that the [[LIGO]] and [[Virgo interferometer|VIRGO]] gravitational wave observatories detected for the first time gravitational waves from the merger of two [[neutron stars]]. The event, [[GW170817]], coincided with a [[Gamma-ray burst#Short gamma-ray bursts|short gamma ray burst]] detected by the [[Fermi Gamma-ray Space Telescope]], leading to immediate follow-up observations by the [[Hubble space telescope]] and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. [https://www.ligo.caltech.edu/page/press-release-gw170817 (LIGO press release)]
 *[[Wireless security]]
-**[[KRACK]]
-***Researchers discover a vulnerability in the [[WPA2]] protocol, leaving devices running [[Microsoft Windows]], [[Mac OS]], [[iOS]], [[Android (operating system)|Android]], [[Linux]] and [[OpenBSD]] operating systems vulnerable to attack over wireless connections. [https://arstechnica.com/information-technology/2017/10/severe-flaw-in-wpa2-protocol-leaves-wi-fi-traffic-open-to-eavesdropping/ (Ars Technica)]
+**Researchers discover [[KRACK|a vulnerability]] in the [[WPA2]] protocol, leaving devices running [[Microsoft Windows]], [[Mac OS]], [[iOS]], [[Android (operating system)|Android]], [[Linux]] and [[OpenBSD]] operating systems vulnerable to attack over wireless connections. [https://arstechnica.com/information-technology/2017/10/severe-flaw-in-wpa2-protocol-leaves-wi-fi-traffic-open-to-eavesdropping/ (Ars Technica)]
 <!-- All news items above this line -->}}
