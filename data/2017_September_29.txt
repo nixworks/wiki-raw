@@ -1,7 +1,7 @@
 {{Current events header|2017|09|29}}
 
 <!-- All news items below this line -->
-;Armed conflict and attacks
+;Armed conflicts and attacks
 *[[War in Somalia (2009–present)|War in Somalia]]
 **[[Al-Shabaab (militant group)|Al-Shabaab]] militants attack a military base outside the [[Somalia|Somalian]] capital [[Mogadishu]], with 15 [[Somali Armed Forces|soldiers]] reported dead. [https://www.reuters.com/article/us-somalia-attacks/militants-attack-somali-military-base-kill-at-least-15-idUSKCN1C40CY (Reuters)]
 
@@ -27,5 +27,6 @@
 **Reverberations from the Sun Zhengcai case are said to have ensnared a number of senior officials from Chongqing, including former Organization Department head [[Zeng Qinghong (female)]]. 14 out of 43 delegates to the [[19th Party Congress]] from Chongqing are said to have lost their eligibility. [http://www.scmp.com/news/china/policies-politics/article/2113515/dozen-more-chongqing-officials-could-be-caught-sun (SCMP)]
 
 ;Science and technology
-*The journal ''[[Protein & Cell]]'' publishes [[Sun Yat-sen University]] research describing the use of [[gene therapy]] in the removal of a version of the [[Genetic disorder|inherited]] [[Hemoglobinopathy|blood disorder]] [[Beta thalassemia|beta-thalassemia]] from an artificially-created [[nuclear transfer]]-type of [[cloning]]-[[Modelling biological systems|model system]] of human [[oocytes]]. Collectively, this study demonstrated the feasibility of curing [[CRISPR#Society and culture|this and a range of other inherited diseases]] using the same [[genome editing]] technology of [[CRISPR]]. [http://www.bbc.com/news/health-41386849 (BBC)], [https://link.springer.com/article/10.1007/s13238-017-0475-6 (''Protein & Cell'')]
+*[[Gene therapy]]
+**The journal ''[[Protein & Cell]]'' publishes [[Sun Yat-sen University]] research describing the use of [[gene therapy]] in the removal of a version of the [[Genetic disorder|inherited]] [[Hemoglobinopathy|blood disorder]] [[Beta thalassemia|beta-thalassemia]] from an artificially-created [[nuclear transfer]]-type of [[cloning]]-[[Modelling biological systems|model system]] of human [[oocytes]]. Collectively, this study demonstrated the feasibility of curing [[CRISPR#Society and culture|this and a range of other inherited diseases]] using the same [[genome editing]] technology of [[CRISPR]]. [http://www.bbc.com/news/health-41386849 (BBC)], [https://link.springer.com/article/10.1007/s13238-017-0475-6 (''Protein & Cell'')]
 <!-- All news items above this line -->|}

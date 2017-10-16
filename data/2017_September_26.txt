@@ -8,8 +8,10 @@
 ;Business and economy
 *[[Mass surveillance in the United States]]
 **The [[United States Department of Homeland Security]] plans to collect the [[social media]] information of all [[immigration to the United States|immigrants]], including [[Permanent residence (United States)|green card holders]] and [[United States nationality law|naturalized citizens]], beginning on October 18, 2017. [https://www.cnet.com/news/homeland-security-plans-to-collect-immigrants-social-media-info/ (CNET)]
-*[[Twitter]] is experimenting with doubling its 140 character limit to 280 characters for all languages except [[Japanese language|Japanese]], [[Chinese language|Chinese]] and [[Korean language|Korean]].  [https://www.usatoday.com/story/tech/2017/09/26/twitter-hopes-its-new-280-character-limit-make-tweeting-great-again/702380001/ (''USA Today'')]
-*The [[United States Department of Commerce|U.S. Commerce Department]] imposes preliminary anti-subsidy duties on [[Bombardier Inc.]] [[Bombardier CSeries|CSeries jets]] following American rival [[Boeing]]'s claims of unfair Canadian [[Subsidy#Transport_subsidies|subsidies]].  The penalty is on hold pending the [[United States International Trade Commission|U.S. International Trade Commission]]'s final decision, expected in 2018. [https://www.reuters.com/article/us-boeing-bombardier/u-s-slaps-steep-duties-on-bombardier-jets-after-boeing-complaint-idUSKCN1C138W (Reuters)] [https://www.washingtonpost.com/business/economy/us-moves-to-impose-tariffs-on-canadian-jet-maker-siding-with-boeing/2017/09/26/9f67cf9e-a2ea-11e7-ade1-76d061d56efa_story.html (''The Washington Post'')]
+*[[Social networking service]]s
+**[[Twitter]] is experimenting with doubling its 140 character limit to 280 characters for all languages except [[Japanese language|Japanese]], [[Chinese language|Chinese]] and [[Korean language|Korean]].  [https://www.usatoday.com/story/tech/2017/09/26/twitter-hopes-its-new-280-character-limit-make-tweeting-great-again/702380001/ (''USA Today'')]
+*[[Economy of the United States]]
+**The [[United States Department of Commerce|U.S. Commerce Department]] imposes preliminary anti-subsidy duties on [[Bombardier Inc.]] [[Bombardier CSeries|CSeries jets]] following American rival [[Boeing]]'s claims of unfair Canadian [[Subsidy#Transport_subsidies|subsidies]].  The penalty is on hold pending the [[United States International Trade Commission|U.S. International Trade Commission]]'s final decision, expected in 2018. [https://www.reuters.com/article/us-boeing-bombardier/u-s-slaps-steep-duties-on-bombardier-jets-after-boeing-complaint-idUSKCN1C138W (Reuters)] [https://www.washingtonpost.com/business/economy/us-moves-to-impose-tariffs-on-canadian-jet-maker-siding-with-boeing/2017/09/26/9f67cf9e-a2ea-11e7-ade1-76d061d56efa_story.html (''The Washington Post'')]
 
 ;Law and crime
 *[[Women's rights in Saudi Arabia]]
@@ -28,8 +30,10 @@
 **United States Senator [[Bob Corker]] (R-Tenn), the senate's [[United States Senate Committee on Foreign Relations|Foreign Relations]] Chairman, announces he will not seek reelection in 2018. He is the first senator to announce his retirement this term. [http://www.politico.com/story/2017/09/26/corker-to-retire-after-2018-243168 (Politico)] [https://www.washingtonpost.com/news/the-fix/wp/2017/09/26/sen-bob-corkers-retirement-is-notable-for-when-its-happening/ (''The Washington Post'')]
 *[[Politics of Russia]]
 **[[President of Russia|Russian President]] [[Vladimir Putin]] dismisses [[Nizhny Novgorod Oblast]] governor [[Valery Shantsev]] from his post, the second governor to lose his job in a week after Putin dismissed [[Samara Oblast]] governor [[Nikolay Merkushkin]] the day before. The dismissals come amid speculation that governors of several [[Federal subjects of Russia|federal subjects]] will resign in anticipation of [[Russian presidential election, 2018|presidential elections]] in 2018. [https://www.rferl.org/a/russia-putin-dismisses-shantsev-nizhny-novgorod-second-governor/28758226.html (Radio Free Europe/Radio Liberty)]
-*Acting U.S. [[Drug Enforcement Administration]] chief [[Chuck Rosenberg]] announces his resignation, effective Oct. 1, after more than two years in the position. [https://www.usatoday.com/story/news/politics/2017/09/26/acting-dea-chief-chuck-rosenberg-step-down-rick-fuentes-under-consideration/705943001/ (''USA Today'')]
+*[[Presidency of Donald Trump]]
+**Acting U.S. [[Drug Enforcement Administration]] chief [[Chuck Rosenberg]] announces his resignation, effective Oct. 1, after more than two years in the position. [https://www.usatoday.com/story/news/politics/2017/09/26/acting-dea-chief-chuck-rosenberg-step-down-rick-fuentes-under-consideration/705943001/ (''USA Today'')]
 
 ;Science and technology
-*Africa's [[Great Green Wall]] is successfully reversing [[desertification]]. [http://www.bbc.com/news/av/magazine-41391844/why-is-africa-building-a-great-green-wall (BBC)]
+*[[Green wall]]
+**Africa's [[Great Green Wall]] is successfully reversing [[desertification]]. [http://www.bbc.com/news/av/magazine-41391844/why-is-africa-building-a-great-green-wall (BBC)]
 <!-- All news items above this line -->|}
