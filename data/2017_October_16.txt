@@ -11,7 +11,7 @@
 *[[Iraqi Kurdistan conflict (2017)]]
 **[[Battle of Kirkuk (2017)]]
 ***[[Iraqi Armed Forces|Iraqi government forces]] have captured key installations outside the disputed city of Kirkuk from Kurdish fighters. [http://www.bbc.com/news/world-middle-east-41631697 (BBC)] 
-***Concern over oil supplies from Iraq has pushed crude prices higher as the country's government continues its move against Kurdish forces. [http://www.bbc.com/news/business-41637791 (BBC)]
+***Concern over oil supplies from Iraq has pushed crude prices higher as the country's government continues its move against Kurdish forces. Several countries like the USA, Iran, Turkey and Russia threatened to intervene if the conflict escalates. [http://www.bbc.com/news/business-41637791 (BBC)]
 *[[Moro conflict]]
 **[[Battle of Marawi]]
 ***Filipino ISIL leaders [[Isnilon Hapilon]] and [[Omar and Abdullah Maute|Omar Maute]] are reportedly killed during the siege of Marawi. [http://news.abs-cbn.com/news/10/16/17/terrorists-isnilon-hapilon-omar-maute-killed-in-marawi-battle (ABS-CBN)]
@@ -30,7 +30,7 @@
 
 ;Science and technology
 *[[Gravitational-wave astronomy]]
-**The [[LIGO]] and [[Virgo interferometer|VIRGO]] gravitational wave observatories detect for the first time gravitational waves from the merger of two [[neutron stars]]. The event [[GW170817]], coinciding with a [[Gamma-ray burst#Short gamma-ray bursts|short gamma ray burst]] detected by the [[Fermi Gamma-ray Space Telescope]], lead to immediate follow-up observations by the [[Hubble space telescope]] and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are a cause of short gamma-ray bursts. [https://www.ligo.caltech.edu/page/press-release-gw170817 (LIGO press release)]
+**The [[LIGO]] and [[Virgo interferometer|VIRGO]] gravitational wave observatories detect for the first time gravitational waves from the merger of two [[neutron stars]]. The event [[GW170817]], coinciding with a [[Gamma-ray burst#Short gamma-ray bursts|short gamma ray burst]] detected by the [[Fermi Gamma-ray Space Telescope]], lead to immediate follow-up observations by the [[Hubble space telescope]] and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. [https://www.ligo.caltech.edu/page/press-release-gw170817 (LIGO press release)]
 *[[Wireless security]]
 **[[KRACK]]
 ***Researchers discover a vulnerability in the [[WPA2]] protocol, leaving devices running [[Microsoft Windows]], [[Mac OS]], [[iOS]], [[Android (operating system)|Android]], [[Linux]] and [[OpenBSD]] operating systems vulnerable to attack over wireless connections. [https://arstechnica.com/information-technology/2017/10/severe-flaw-in-wpa2-protocol-leaves-wi-fi-traffic-open-to-eavesdropping/ (Ars Technica)]
