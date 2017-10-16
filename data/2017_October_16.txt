@@ -1,5 +1,12 @@
 {{Current events|year=2017|month=10|day=16|content=
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks 
+*[[October 2017 Mogadishu bombings]]
+**[[Somalis]] reacted to a devastating bomb attack on Saturday by marching to demonstrate their anger at the presence of al-Shabab. [http://www.bbc.com/news/av/world-africa-41632656/mogadishu-somalis-protest-against-al-shabab (BBC)] 
+
+;Disasters and accidents 
+*[[2017 Atlantic hurricane season]]
+**[[Hurricane Ophelia (2017)]] 
+***Schools and hospitals are closed in [[Ireland]] as the post-tropical hurricane Ophelia is forecasted to make landfall on the island. [http://uk.reuters.com/article/us-storm-ophelia/ireland-braces-as-tropical-storm-ophelia-approaches-idUKKBN1CL0LA (Reuters)] 
 <!-- All news items above this line -->}}
