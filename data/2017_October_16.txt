@@ -2,6 +2,9 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
+*[[Panama Papers]]
+**[[Maltese general election, 2017]]
+***The Maltese blogger and journalist [[Daphne Caruana Galizia]], whose corruption allegations against prime minister [[Joseph Muscat]] led him to call early elections, is killed by a car bomb near her home. [https://www.timesofmalta.com/articles/view/20171016/local/car-goes-up-in-flames-in-bidnija.660575 (Times of Malta)] [http://www.politico.eu/article/leading-maltese-political-journalist-killed-by-car-bomb/ (Politico.eu)]
 *[[War in Somalia (2009–present)|War in Somalia]]
 **[[October 2017 Mogadishu bombings]]
 ***[[Somalis]] reacted to a devastating bomb attack on Saturday by marching to demonstrate their anger at the presence of al-Shabaab. [http://www.bbc.com/news/av/world-africa-41632656/mogadishu-somalis-protest-against-al-shabab (BBC)]
@@ -18,10 +21,12 @@
 **[[Hurricane Ophelia (2017)]] 
 ***Schools and hospitals are closed in [[Republic of Ireland|Ireland]] and [[Northern Ireland]] as the post-tropical hurricane Ophelia is forecasted to make landfall on the island. [http://uk.reuters.com/article/us-storm-ophelia/ireland-braces-as-tropical-storm-ophelia-approaches-idUKKBN1CL0LA (Reuters)] 
 ***At least 31 people have died in a series of [[wildfire]]s in [[Portugal]], which were worsened by strong winds brought by Hurricane Ophelia. [http://www.bbc.com/news/world-europe-41634125 (BBC)]
-*Wildfires in Spain and Portugal kill at least 31 people. [http://www.bbc.com/news/world-europe-41634125 (BBC) ]
+*[[2017 Portugal wildfires]]
+**Wildfires in Spain and Portugal kill at least 31 people. [http://www.bbc.com/news/world-europe-41634125 (BBC) ]
 
 ;International relations
-* Russian president signs decree to implement UNSC sanctions on North Korea [http://tass.com/politics/970972 (TASS)].
+*[[North Korea–Russia relations]]
+**Russian president signs decree to implement [[UNSC]] [[Sanctions against North Korea|sanctions]] on [[North Korea]]. [http://tass.com/politics/970972 (TASS)].
 
 ;Science and technology
 *[[Gravitational-wave astronomy]]
