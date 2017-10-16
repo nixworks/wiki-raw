@@ -7,10 +7,18 @@
 *[[Battle of Kirkuk (2017)]]
 **[[Iraqi Armed Forces|Iraqi government forces]] have captured key installations outside the disputed city of Kirkuk from Kurdish fighters. [http://www.bbc.com/news/world-middle-east-41631697 (BBC)] 
 **Concern over oil supplies from Iraq has pushed crude prices higher as the country's government continues its move against Kurdish forces. [http://www.bbc.com/news/business-41637791 (BBC)] 
+*[[Battle of Marawi]]
+**Filipino ISIL leaders [[Isnilon Hapilon]] and [[Omar and Abdullah Maute|Omar Maute]] are reportedly killed during the siege of Marawi. [http://news.abs-cbn.com/news/10/16/17/terrorists-isnilon-hapilon-omar-maute-killed-in-marawi-battle (ABS-CBN)]
 
 ;Disasters and accidents 
 *[[2017 Atlantic hurricane season]]
 **[[Hurricane Ophelia (2017)]] 
 ***Schools and hospitals are closed in [[Republic of Ireland|Ireland]] and [[Northern Ireland]] as the post-tropical hurricane Ophelia is forecasted to make landfall on the island. [http://uk.reuters.com/article/us-storm-ophelia/ireland-braces-as-tropical-storm-ophelia-approaches-idUKKBN1CL0LA (Reuters)] 
 ***At least 31 people have died in a series of [[wildfire]]s in [[Portugal]], which were worsened by strong winds brought by Hurricane Ophelia. [http://www.bbc.com/news/world-europe-41634125 (BBC)]
+
+;Science and technology
+*[[Wireless security]]
+**[[KRACK]]
+***Researchers discover a vulnerability in the [[WPA2]] protocol, leaving devices running [[Microsoft Windows]], [[Mac OS]], [[iOS]], [[Android (operating system)|Android]], [[Linux]] and [[OpenBSD]] operating systems vulnerable to attack over wireless connections. [https://arstechnica.com/information-technology/2017/10/severe-flaw-in-wpa2-protocol-leaves-wi-fi-traffic-open-to-eavesdropping/ (Ars Technica)]
+
 <!-- All news items above this line -->}}
