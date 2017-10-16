@@ -2,8 +2,9 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Battle of Kirkuk (2017)]]
-**[[Iraq]]i forces advance into [[Iraqi Kurdistan|Kurdish]]-held territory around the city of [[Kirkuk]]. Clashes have been reported in the surrounding cities. [https://www.reuters.com/article/us-mideast-crisis-iraq-kurds-kirkuk/iraqi-forces-start-advancing-toward-kurdish-held-kirkuk-iraqi-and-kurdish-officials-idUSKBN1CK0XL?il=0 (Reuters)] [https://www.rt.com/news/406773-iraq-kirkuk-operation-peshmerga/ (RT)]
+*[[Iraqi Kurdistan conflict (2017)]]
+**[[Battle of Kirkuk (2017)]]
+***[[Iraq]]i forces advance into [[Iraqi Kurdistan|Kurdish]]-held territory around the city of [[Kirkuk]]. Clashes have been reported in the surrounding cities. [https://www.reuters.com/article/us-mideast-crisis-iraq-kurds-kirkuk/iraqi-forces-start-advancing-toward-kurdish-held-kirkuk-iraqi-and-kurdish-officials-idUSKBN1CK0XL?il=0 (Reuters)] [https://www.rt.com/news/406773-iraq-kirkuk-operation-peshmerga/ (RT)]
 
 ;Politics and elections
 *[[Kyrgyz presidential election, 2017]]
