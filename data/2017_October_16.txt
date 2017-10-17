@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;Law and crime
-*Aftermath of the [[Panama Papers]] and [[Maltese general election, 2017]]
+*[[Reactions to the Panama Papers]] and [[Maltese general election, 2017]]
 **The Maltese blogger and journalist [[Daphne Caruana Galizia]], whose corruption allegations against prime minister [[Joseph Muscat]] led him to call early elections, is killed by a car bomb near her home. [https://www.timesofmalta.com/articles/view/20171016/local/car-goes-up-in-flames-in-bidnija.660575 (Times of Malta)] [http://www.politico.eu/article/leading-maltese-political-journalist-killed-by-car-bomb/ (Politico.eu)]
 
 ;Armed conflicts and attacks
@@ -28,7 +28,7 @@
 
 ;International relations
 *[[North Korea–Russia relations]]
-**[[President of Russia|Russian president]] [[Vladimir Putin]] signs decree to implement [[UNSC]] [[Sanctions against North Korea|sanctions]] on [[North Korea]]. [http://tass.com/politics/970972 (TASS)].
+**[[President of Russia|Russian president]] [[Vladimir Putin]] signs decree to [[List of United Nations Security Council resolutions concerning North Korea|implement U.N. resolution]] [[Sanctions against North Korea|sanctioning]] on [[North Korea]]. [http://tass.com/politics/970972 (TASS)].
 
 ;Science and technology
 *[[Gravitational-wave astronomy]], [[GW170817]]
