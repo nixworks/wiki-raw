@@ -1,10 +1,11 @@
 {{Current events|year=2017|month=10|day=16|content=
 
 <!-- All news items below this line -->
+;Law and crime
+*Aftermath of the [[Panama Papers]] and [[Maltese general election, 2017]]
+**The Maltese blogger and journalist [[Daphne Caruana Galizia]], whose corruption allegations against prime minister [[Joseph Muscat]] led him to call early elections, is killed by a car bomb near her home. [https://www.timesofmalta.com/articles/view/20171016/local/car-goes-up-in-flames-in-bidnija.660575 (Times of Malta)] [http://www.politico.eu/article/leading-maltese-political-journalist-killed-by-car-bomb/ (Politico.eu)]
+
 ;Armed conflicts and attacks
-*[[Panama Papers]]
-**[[Maltese general election, 2017]]
-***The Maltese blogger and journalist [[Daphne Caruana Galizia]], whose corruption allegations against prime minister [[Joseph Muscat]] led him to call early elections, is killed by a car bomb near her home. [https://www.timesofmalta.com/articles/view/20171016/local/car-goes-up-in-flames-in-bidnija.660575 (Times of Malta)] [http://www.politico.eu/article/leading-maltese-political-journalist-killed-by-car-bomb/ (Politico.eu)]
 *[[War in Somalia (2009–present)|War in Somalia]]
 **[[October 2017 Mogadishu bombings]]
 ***[[Somalis]] reacted to a devastating bomb attack on Saturday by marching to demonstrate their anger at the presence of al-Shabaab. [http://www.bbc.com/news/av/world-africa-41632656/mogadishu-somalis-protest-against-al-shabab (BBC)]
@@ -30,8 +31,8 @@
 **[[President of Russia|Russian president]] [[Vladimir Putin]] signs decree to implement [[UNSC]] [[Sanctions against North Korea|sanctions]] on [[North Korea]]. [http://tass.com/politics/970972 (TASS)].
 
 ;Science and technology
-*[[Gravitational-wave astronomy]]
-**Scientists announce that the [[LIGO]] and [[Virgo interferometer|VIRGO]] gravitational wave observatories detected for the first time gravitational waves from the merger of two [[neutron stars]]. The event, [[GW170817]], coincided with a [[Gamma-ray burst#Short gamma-ray bursts|short gamma ray burst]] detected by the [[Fermi Gamma-ray Space Telescope]], leading to immediate follow-up observations by the [[Hubble space telescope]] and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. [https://www.ligo.caltech.edu/page/press-release-gw170817 (LIGO press release)]
-*[[Wireless security]]
-**Researchers discover [[KRACK|a vulnerability]] in the [[WPA2]] protocol, leaving devices running [[Microsoft Windows]], [[Mac OS]], [[iOS]], [[Android (operating system)|Android]], [[Linux]] and [[OpenBSD]] operating systems vulnerable to attack over wireless connections. [https://arstechnica.com/information-technology/2017/10/severe-flaw-in-wpa2-protocol-leaves-wi-fi-traffic-open-to-eavesdropping/ (Ars Technica)]
+*[[Gravitational-wave astronomy]], [[GW170817]]
+**Scientists announce that the [[LIGO]] and [[Virgo interferometer|VIRGO]] gravitational wave observatories detected for the first time gravitational waves from the merger of two [[neutron stars]]. The event coincided with a [[Gamma-ray burst#Short gamma-ray bursts|short gamma ray burst]] [[GRB 170817A]] detected by the [[Fermi Gamma-ray Space Telescope]], leading to [[SSS17a]], the immediate follow-up observations by the [[Hubble space telescope]] and numerous ground-based telescopes. This confirms the theory according to which [[neutron star collision|neutron star mergers]] are the cause of at least some short gamma-ray bursts. [https://www.ligo.caltech.edu/page/press-release-gw170817 (LIGO press release)], [https://www.theverge.com/2017/10/16/16471616/gravitational-waves-ligo-virgo-neutron-stars-merger-multi-messenger-astronomy (''The Verge'')]
+*[[Wireless security]], [[KRACK]]
+**Researchers discover a vulnerability in the [[WPA2]] protocol, leaving devices running [[Microsoft Windows]], [[Mac OS]], [[iOS]], [[Android (operating system)|Android]], [[Linux]] and [[OpenBSD]] operating systems vulnerable to attack over wireless connections. [https://arstechnica.com/information-technology/2017/10/severe-flaw-in-wpa2-protocol-leaves-wi-fi-traffic-open-to-eavesdropping/ (Ars Technica)]
 <!-- All news items above this line -->}}
