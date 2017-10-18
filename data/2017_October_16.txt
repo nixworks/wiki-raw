@@ -1,15 +1,11 @@
 {{Current events|year=2017|month=10|day=16|content=
 
 <!-- All news items below this line -->
-;Law and crime
-*[[Reactions to the Panama Papers]] and [[Maltese general election, 2017]]
-**The Maltese blogger and journalist [[Daphne Caruana Galizia]], whose corruption allegations against prime minister [[Joseph Muscat]] led him to call early elections, is killed by a car bomb near her home. [https://www.timesofmalta.com/articles/view/20171016/local/car-goes-up-in-flames-in-bidnija.660575 (Times of Malta)] [http://www.politico.eu/article/leading-maltese-political-journalist-killed-by-car-bomb/ (Politico.eu)]
-
 ;Armed conflicts and attacks
 *[[War in Somalia (2009–present)|War in Somalia]]
 **[[October 2017 Mogadishu bombings]]
 ***[[Somalis]] march to demonstrate their anger at the presence of [[Al-Shabaab (militant group)|al-Shabaab]], the group believed to be responsible for a recent bombing attack. [http://www.bbc.com/news/av/world-africa-41632656/mogadishu-somalis-protest-against-al-shabab (BBC)]
-*[[Third Iraqi–Kurdish War]]
+*[[Third Iraqi–Kurdish War|2017 Iraqi–Kurdish conflict]]
 **[[Battle of Kirkuk (2017)]]
 ***[[Iraqi Armed Forces|Iraqi government forces]] have captured key installations outside the disputed city of Kirkuk from Kurdish fighters. [http://www.bbc.com/news/world-middle-east-41631697 (BBC)] 
 ***Concern over oil supplies from Iraq has pushed crude prices higher as the country's government continues its move against Kurdish forces. [http://www.bbc.com/news/business-41637791 (BBC)]
@@ -28,7 +24,11 @@
 
 ;International relations
 *[[North Korea–Russia relations]]
-**[[President of Russia|Russian president]] [[Vladimir Putin]] signs decree to [[List of United Nations Security Council resolutions concerning North Korea|implement U.N. resolution]] [[Sanctions against North Korea|sanctioning]] on [[North Korea]]. [http://tass.com/politics/970972 (TASS)].
+**[[President of Russia|Russian president]] [[Vladimir Putin]] signs decree to [[List of United Nations Security Council resolutions concerning North Korea|implement U.N. resolution]] [[Sanctions against North Korea|sanctioning]] on [[North Korea]]. [http://tass.com/politics/970972 (TASS)]
+
+;Law and crime
+*[[Reactions to the Panama Papers]] and [[Maltese general election, 2017]]
+**The Maltese blogger and journalist [[Daphne Caruana Galizia]], whose corruption allegations against prime minister [[Joseph Muscat]] led him to call early elections, is killed by a car bomb near her home. [https://www.timesofmalta.com/articles/view/20171016/local/car-goes-up-in-flames-in-bidnija.660575 (Times of Malta)] [http://www.politico.eu/article/leading-maltese-political-journalist-killed-by-car-bomb/ (Politico.eu)]
 
 ;Science and technology
 *[[Gravitational-wave astronomy]], [[GW170817]]
