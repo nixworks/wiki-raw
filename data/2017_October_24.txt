@@ -2,8 +2,10 @@
 
 <!-- All news items below this line -->
 ;Business and economy
-*Citing "no foreseeable agreement" in sight on criteria, the [[European Commission]] scraps the draft legislation that would have permitted the [[European Banking Authority|EBA regulator]] to order "[[too big to fail]]" banks to split off their [[Trader (finance)|trading activities]]. The draft was supposed to be the [[European Union|EU]]'s answer to the [[United States]]' [[Volcker Rule]]. [http://www.reuters.com/article/us-eu-banks-regulations/eu-scraps-its-answer-to-u-s-volcker-rule-for-banks-idUSKBN1CT285?il=0 (Reuters)]
+*The [[European Commission]] scraps the draft legislation that would have permitted the [[European Banking Authority|EBA regulator]] to order "[[too big to fail]]" banks to split off their [[Trader (finance)|trading activities]], citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the [[European Union|EU]]'s answer to the [[United States]]' [[Volcker Rule]]. [http://www.reuters.com/article/us-eu-banks-regulations/eu-scraps-its-answer-to-u-s-volcker-rule-for-banks-idUSKBN1CT285?il=0 (Reuters)]
 ;Politics and elections
 *[[19th National Congress of the Communist Party of China]]
 **The week-long [[Communist Party of China|Communist Party]] congress in [[Beijing]] draws to an end, with [[President of the People's Republic of China|China's President]] [[Xi Jinping]] set to increase his grip on power, which may elevate him to the level of party founder [[Mao Zedong]]. [http://www.bbc.com/news/world-asia-china-41730948 (BBC)]
+*[[United States Senate elections, 2018]]
+**[[United States Senator]] [[Jeff Flake]] announces that he will not [[United States Senate election in Arizona, 2018|run again in 2018]]. [http://www.politico.com/story/2017/10/24/flake-retiring-after-2018-244114 (Politico)]
 <!-- All news items above this line -->}}
