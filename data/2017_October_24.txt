@@ -1,9 +1,18 @@
 {{Current events|year=2017|month=10|day=24|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*German police find guns, ammunition in raid of suspected Islamist militant. [https://www.reuters.com/article/us-germany-security-raids/german-police-find-guns-ammunition-in-raid-of-suspected-islamist-militant-idUSKBN1CU0W3?il=0]
+*Indonesia arrests nine with alleged Islamic State links. [https://www.reuters.com/article/us-indonesia-security/indonesia-arrests-nine-with-alleged-islamic-state-links-idUSKBN1CU0BH?il=0]
+
 ;Business and economy
 *[[Banking in the United States]]
 **[[Vice President]] [[Mike Pence]] casts the tie-breaking vote late against repealing a rule that would have made it easier for Americans to sue their banks and credit card companies. [http://www.cnn.com/2017/10/24/politics/senate-cfpb-arbitration-repeal/index.html (CNN)]
+*Toyota confirms it will scale back Mexico plant. [https://www.reuters.com/article/us-mexico-toyota-plant/toyota-confirms-it-will-scale-back-mexico-plant-idUSKBN1CT34U?il=0]
+*Lumber Liquidators settles class-actions related to China-made products. [https://www.reuters.com/article/us-lumber-liquidate-settlement/lumber-liquidators-settles-class-actions-related-to-china-made-products-idUSKBN1CT34I?il=0]
+
+;Disasters and accidents
+*Plague kills 124 in Madagascar, cities most affected. [https://www.reuters.com/article/us-madagascar-plague/plague-kills-124-in-madagascar-cities-most-affected-report-idUSKBN1CU0Y5?il=0]
 
 ;International relations
 *[[Immigration policy of Donald Trump]]
@@ -12,8 +21,14 @@
 ;Law and crime
 *Hundreds of women, including actress [[Julianne Moore]], accuse director [[James Toback]] of sexual harassment. [http://www.nydailynews.com/entertainment/200-women-accuse-director-james-toback-sexual-harassment-article-1.3585912]
 *[[Terry Richardson]] says his 'sexual' photo shoots were all consensual amid abuse claims. [http://www.ibtimes.co.uk/terry-richardson-says-photo-shoots-were-sexual-explicit-he-behaved-consensually-1644408]
+*Pizza Hut hack may have compromised customers' credit card numbers and delivery addresses . [http://www.latimes.com/food/sns-dailymeal-1855063-eat-pizza-hut-hack-may-have-compromised-customers-credit-card-numbers-and-delivery-addresses-102317-20171023-story.html]
+*Some Russian financial organizations suffered 'BadRabbit' attack: central bank. [https://www.reuters.com/article/us-russia-cyber-cenbank/some-russian-financial-organizations-suffered-badrabbit-attack-central-bank-idUSKBN1CU1DQ?il=0]
+*Volkswagen CEO denies price fixing by German carmakers. [https://www.reuters.com/article/us-volkswagen-cartel/volkswagen-ceo-denies-price-fixing-by-german-carmakers-idUSKBN1CU0YR?il=0]
+*Brazil's top court suspends controversial slavery decree. [https://www.reuters.com/article/us-brazil-rights/brazils-top-court-suspends-controversial-slavery-decree-idUSKBN1CT32S?il=0]
 
 ;Politics and elections
 *[[Politics of the United States]]
 **Republican leaders in the [[U.S. House of Representatives]] launch an investigation into the [[Obama administration]]'s decision in 2010 to allow [[Rosatom]] to purchase [[Uranium One]]. [http://www.latimes.com/nation/la-na-nunes-uranium-20171024-story.html (''Los Angeles Times'')]
+*Supreme Court dismisses Hawaii's challenge to Trump travel ban. [https://www.reuters.com/article/us-usa-court-immigration/supreme-court-dismisses-hawaiis-challenge-to-trump-travel-ban-idUSKBN1CT2NJ]
+*Twitter to label election ads after U.S. regulatory threat. [https://www.reuters.com/article/us-twitter-advertising/twitter-to-label-election-ads-after-u-s-regulatory-threat-idUSKBN1CT2XB?il=0]
 <!-- All news items above this line -->}}
