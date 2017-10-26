@@ -3,4 +3,9 @@
 <!-- All news items below this line -->
 ;Disasters and accidents
 *An explosion in a fireworks plant located west of the [[Indonesia]]n capital [[Jakarta]] kills at least 27 and injures 35. [http://www.abc.net.au/news/2017-10-26/indonesia-fireworks-factory-explosion-kills-27-injures-35/9090478 (Reuters via ABC News Australia)]
+
+;Politics and elections
+*[[2017 Spanish constitutional crisis]]
+**At least two Catalan officials defect from the ruling [[Junts pel Sí]] as Catalan president [[Carles Puigdemont]] cancels a speech regarding snap elections. Puigdemont plans to draw back from declaring independence from Spain. [https://www.bloomberg.com/news/articles/2017-10-26/catalonia-is-said-to-lean-toward-elections-not-independence-j98c78kx (Bloomberg)]
+
 <!-- All news items above this line -->}}
