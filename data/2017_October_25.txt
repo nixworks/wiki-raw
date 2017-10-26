@@ -11,5 +11,5 @@
 *One man was killed and three other people were injured in an explosion in [[Kiev]]. Ukrainian MP Igor Mosiychuk was reportedly among the injured. [https://www.rt.com/news/407782-ukrainian-mp-wounded-in-explosion/ (RT)]
 
 ;Science and technology
-*The discovery of a comet with a record high eccentricity, [[C/2017 U1 (PANSTARRS)]], is announced. It may be the first known example of an [[interstellar comet]]. [http://www.minorplanetcenter.net/mpec/K17/K17UI1.html (IAU Minor Planet Center)]
+*The discovery of an asteroid with a record high eccentricity, [[A/2017 U1]], is announced. It may be the first known example of an [[interstellar comet|interstellar object]]. While initially thought to be a comet, it is now considered an asteroid. [http://www.minorplanetcenter.net/mpec/K17/K17UI1.html (IAU Minor Planet Center)]
 <!-- All news items above this line -->}}

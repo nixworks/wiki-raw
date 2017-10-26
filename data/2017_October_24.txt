@@ -14,7 +14,7 @@
 
 ;Law and crime
 *[[Ransomware]]
-**Security researchers report on the outbreak of the ransomware nicknamed [[Bad Rabbit]], which has affected computer networks in [[Russia]], [[Ukraine]], and has been detected throughout the world. [http://www.ibtimes.com/what-bad-rabbit-petya-style-ransomware-attack-hits-russia-ukraine-2605724 (''International Business Times'')] [http://www.bbc.com/news/technology-41740768 (BBC)]
+**Security researchers report on the outbreak of the ransomware nicknamed [[Bad Rabbit]], which has affected computer networks throughout the world, with [[Russia]] and [[Ukraine]] being the worst affected. [http://www.ibtimes.com/what-bad-rabbit-petya-style-ransomware-attack-hits-russia-ukraine-2605724 (''International Business Times'')] [http://www.bbc.com/news/technology-41740768 (BBC)]
 
 ;Politics and elections
 *[[19th National Congress of the Communist Party of China]]
