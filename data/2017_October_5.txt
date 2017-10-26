@@ -2,8 +2,9 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Iraqi Civil War (2014–present)]], [[Battle of Hawija (2017–present)|Battle of Hawija]]
-**The [[Iraqi Army]] fully retakes the city of [[Hawija]] in the [[Kirkuk Governorate]] from [[Islamic State of Iraq and the Levant|ISIL]]. Fighting continues to the north and east of the city as Iraqi troops continue anti-ISIL operations in the [[Hawija District]]. [https://www.theguardian.com/world/2017/oct/05/iraqi-army-claims-recapture-islamic-state-isis-held-areas-hawija (''The Guardian'')]
+*[[Iraqi Civil War (2014–present)]]
+**[[Battle of Hawija (2017–present)|Battle of Hawija]]
+***The [[Iraqi Army]] fully retakes the city of [[Hawija]] in the [[Kirkuk Governorate]] from [[Islamic State of Iraq and the Levant|ISIL]]. Fighting continues to the north and east of the city as Iraqi troops continue anti-ISIL operations in the [[Hawija District]]. [https://www.theguardian.com/world/2017/oct/05/iraqi-army-claims-recapture-islamic-state-isis-held-areas-hawija (''The Guardian'')]
 
 ;Arts and culture
 *[[Nobel Prize in Literature]]
