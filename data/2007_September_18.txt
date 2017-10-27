@@ -1,6 +1,6 @@
 <!-- All news items below this line -->{{Current events header|2007|09|18}}
 
-* A supposed [[2007 Peruvian meteor illness|meteorite impact in Peru]] leads to hundreds of nearby villagers falling ill from still unknown causes. [http://www.reuters.com/article/newsOne/idUSN1843987520070918 (Reuters)]
+* A supposed [[2007 Peruvian meteor illness|meteorite impact in Peru]] leads to hundreds of nearby villagers falling ill from still unknown causes. [https://www.reuters.com/article/newsOne/idUSN1843987520070918 (Reuters)]
 * [[Nuclear program of Iran]]: The [[United States]] is drafting a [[United Nations Security Council]] resolution calling for [[economic sanctions|sanctions]] against [[Iran]] prior to discussions amongst the five permanent members. [http://afp.google.com/article/ALeqM5gdPpLfJFLCqkT6_q3wDQLGA5G2dg (AFP)]
 * The [[United States Federal Reserve]] cuts a key short-term [[interest rates|interest rate]] by a half-percentage point, resulting in a [[stock market]] rally. [http://money.cnn.com/2007/09/18/markets/markets_0445/index.htm?eref=rss_topstories (CNN Money)]
 * [[Bangladesh]]i [[cartoonist]] [[Arifur Rahman]] is detained on suspicion of disrespecting [[Muhammad]]. The Interim Government confiscates copies of the ''[[Prothom Alo]]'' newspaper issue in which Muhammad is [[caricature]]d. 
@@ -12,7 +12,7 @@
 * [[Australia]], the second largest [[wheat]] exporter in the world, cuts its forecast production by 30 per cent due to an ongoing drought. [http://news.bbc.co.uk/2/hi/asia-pacific/7000113.stm (BBC)]
 * [[2007 Pacific typhoon season]]: Hundreds of thousands of people are evacuated from [[Shanghai]], [[China]] as Typhoon Wipha approaches. [http://www.news.com.au/story/0,23599,22438525-2,00.html (Reuters, AFP via News Limited)]
 * The son of [[Philippines|Philippine]] House Speaker [[Jose De Venecia, Jr.]], Jose "Joey" De Venecia III, disclosed in a [[Senate of the Philippines|Senate]] inquiry that [[First Ladies and Gentleman of the Philippines|First Gentleman]] [[Jose Miguel Arroyo|Mike Arroyo]] is the "mystery man" behind the controversial $ 329-million [[broadband]] contract with [[ZTE|ZTE Corp.]] in [[China]]. [http://newsinfo.inquirer.net/inquirerheadlines/nation/view_article.php?article_id=89399 (Inquirer)]
-* [[O.J. Simpson]] is charged with several [[felony|felonies]] in [[Las Vegas, Nevada]]. [http://www.reuters.com/article/newsOne/idUSN1421498820070919 (Reuters)]
+* [[O.J. Simpson]] is charged with several [[felony|felonies]] in [[Las Vegas, Nevada]]. [https://www.reuters.com/article/newsOne/idUSN1421498820070919 (Reuters)]
 * In Japan, the event "Nice Boat" occurred on all Japanese TV's replacing the final episode of the anime, "School Days".
 
 <!-- All news items above this line -->{{Current events footer}}

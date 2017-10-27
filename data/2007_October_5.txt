@@ -1,7 +1,7 @@
 <!-- All news items below this line -->{{Current events header|2007|10|05}}
 
 * Two bomb blasts in [[Kidapawan City]], on [[Mindanao]] in the [[Philippines]], the explosion killed a child and injured 36 people. [http://www.radioaustralia.net.au/news/stories/s2052623.htm (Radio Australia)]
-* [[Topps Meat Company]] announces that it is going out of business as a result of recalling 21.7 million pounds of [[beef]] in the [[United States]] linked to 30 cases of [[E. coli]]-related illness. [http://www.reuters.com/article/topNews/idUSWNAS566620071006?feedType=RSS&feedName=topNews (Reuters)]
+* [[Topps Meat Company]] announces that it is going out of business as a result of recalling 21.7 million pounds of [[beef]] in the [[United States]] linked to 30 cases of [[E. coli]]-related illness. [https://www.reuters.com/article/topNews/idUSWNAS566620071006?feedType=RSS&feedName=topNews (Reuters)]
 * [[Canada]] stops the sale of [[Novartis]] anti-inflammatory [[drug]] [[Prexige]] and cancels its authorisation due to the risk of [[liver]]-related effects such as [[hepatitis]]. [http://online.wsj.com/article/SB119154840484949804.html?mod=googlenews_wsj (Reuters via Wall Street Journal)]
 * [[2007 Burmese anti-government protests]]: 
 ** [[Burma|Burmese]] security forces claim that they are looking for four of the monks that led the protests. [http://edition.cnn.com/2007/WORLD/asiapcf/10/05/monk.hunt.ap/index.html (AP via CNN)]
@@ -10,6 +10,6 @@
 * [[Marion Jones]] admits using banned substances during her [[athletics (track and field)|athletic]] career and risks being stripped of her five [[Olympics|Olympic]] medals. [http://www.abc.net.au/news/stories/2007/10/06/2052570.htm (AFP via ABC News Online)]
 * [[Saudi Arabia]] announces that it will overhaul its judicial system including the creation of a supreme court, an appeals court and new general courts to replace the Supreme Judicial Council. [http://news.bbc.co.uk/2/hi/middle_east/7029308.stm (BBC)]
 * [[Nepalese Constituent Assembly election, 2007|Elections]] for a Nepalese Constituent Assembly are delayed as the [[Seven Party Alliance]] of ruling parties and the former [[Communist Party of Nepal (Maoist)]] rebels fail to break a deadlock over the republic issue and the voting system to be used. [http://news.bbc.co.uk/2/hi/south_asia/7029251.stm (BBC)]
-* [[SELENE]], [[Japan]]'s lunar probe, successfully achieves an [[orbit]] around the [[moon]]. [http://www.nytimes.com/aponline/world/AP-Japan-Moon-Probe.html?_r=1&ex=1349236800&en=7e6dbb45d1e855e9&ei=5088&partner=rssnyt&emc=rss&oref=slogin (AP via NYT)]
+* [[SELENE]], [[Japan]]'s lunar probe, successfully achieves an [[orbit]] around the [[moon]]. [https://www.nytimes.com/aponline/world/AP-Japan-Moon-Probe.html?_r=1&ex=1349236800&en=7e6dbb45d1e855e9&ei=5088&partner=rssnyt&emc=rss&oref=slogin (AP via NYT)]
 
 <!-- All news items above this line -->{{Current events footer}}

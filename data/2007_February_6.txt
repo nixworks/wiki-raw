@@ -1,6 +1,6 @@
 <!-- All news items below this line -->{{Current events header|2007|02|06}}
 
-* At least three [[domain name system]] [[root nameserver]]s are under [[denial-of-service attack]]. [http://www.theregister.co.uk/2007/02/07/root_server_attack/ (The Register)]. See ''[[DNS Backbone DDoS Attacks]]''
+* At least three [[domain name system]] [[root nameserver]]s are under [[denial-of-service attack]]. [https://www.theregister.co.uk/2007/02/07/root_server_attack/ (The Register)]. See ''[[DNS Backbone DDoS Attacks]]''
 * Representatives of the [[Lord's Resistance Army]] say they will continue fighting with the [[Government of Uganda]] if negotiations are not moved to another location outside of southern [[Sudan]]. [http://english.aljazeera.net/NR/exeres/69685285-D442-48EA-B1D1-FE295AF0692E.htm (Al Jazeera)]
 * A [[Human Rights Watch]] report concludes that [[European Union]] [[economic sanctions|sanctions]] on the [[Government of Uzbekistan]], which came in response to the "[[Andijan massacre]]" in [[May 2005]], have failed due to a lack of commitment in enforcing them. [http://www.eurasianet.org/departments/insight/articles/eav020607a.shtml (EurasiaNet)]
 * [[President of the  United States|United States President]] [[George W. Bush]] approves a [[The Pentagon|Pentagon]] plan for establishing [[United States Africa Command|a new command center]] in [[Africa]]. [http://news.bbc.co.uk/2/hi/americas/6336063.stm (BBC)]

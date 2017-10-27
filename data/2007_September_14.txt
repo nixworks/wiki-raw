@@ -5,7 +5,7 @@
 * There is a [[Bank run|run]] on the [[Northern Rock]] [[bank]] in the [[United Kingdom]] following revelations that it sought a rescue injection of funds from the [[Bank of England]]. [http://business.timesonline.co.uk/tol/business/industry_sectors/banking_and_finance/article2457009.ece#cid=OTC-RSS&attr=1185799 (The Times)]
 * [[War in Iraq]]:
 ** U.S. [[General]] [[Peter Pace]], outgoing chair of the [[Joint Chiefs of Staff]], acknowledges that mistakes were made during the war. [http://edition.cnn.com/2007/US/09/14/pace.iraq/index.html?eref=rss_us  (CNN)]
-** [[Sunni]] [[Arab]] [[Iraq]]is and [[United States]] forces vow to keep fighting [[Al Qaeda]] in [[Anbar Province]] following the assassination of [[Sheikh Sittar]]. [http://www.reuters.com/article/topNews/idUSL1477322720070915?feedType=RSS&feedName=topNews (Reuters)]
+** [[Sunni]] [[Arab]] [[Iraq]]is and [[United States]] forces vow to keep fighting [[Al Qaeda]] in [[Anbar Province]] following the assassination of [[Sheikh Sittar]]. [https://www.reuters.com/article/topNews/idUSL1477322720070915?feedType=RSS&feedName=topNews (Reuters)]
 * A new case of [[foot and mouth disease]] is confirmed at a farm in [[Egham]], [[Surrey]], [[England]]. [http://www.abc.net.au/news/stories/2007/09/15/2033743.htm (AFP via ABC News Australia)]
 * An official for the [[United Nations]] [[Office for the Coordination of Humanitarian Affairs]] warns that a million people in [[Africa]] require assistance after [[flood]]s have killed more than 200 people in recent weeks. [http://afp.google.com/article/ALeqM5hlydF-pIX_oep2oddq3-krsjYy1g (AFP)]
 * The [[Pakistan Peoples Party]] unanimously decides that [[Benazir Bhutto]] will return to Pakistan on October 18, 2007. 
@@ -16,6 +16,6 @@
 ** At least 13 people are confirmed dead and hundreds of homes damaged as a result of the [[earthquake]]s. [http://www.abc.net.au/news/stories/2007/09/14/2033267.htm (AFP via ABC News Australia)]
 ** Another earthquake of 6.9 magnitude occurs off the coast of [[Sumatra]]. [http://news.bbc.co.uk/2/hi/asia-pacific/6994386.stm (BBC)]
 * The [[Japan Aerospace Exploration Agency]] successfully launches [[SELENE]], the largest lunar mission since the [[Apollo program]], on a mission to explore the [[moon]]. [http://news.bbc.co.uk/2/hi/asia-pacific/6994272.stm (BBC)]
-* [[Michael Sulick]] is named the new [[Director of the National Clandestine Service|Director]] of the United States' [[National Clandestine Service]]. [http://www.nytimes.com/2007/09/15/washington/15cia.html]
+* [[Michael Sulick]] is named the new [[Director of the National Clandestine Service|Director]] of the United States' [[National Clandestine Service]]. [https://www.nytimes.com/2007/09/15/washington/15cia.html]
 
 <!-- All news items above this line -->{{Current events footer}}
