@@ -1,6 +1,12 @@
 {{Current events|year=2017|month=10|day=27|content=
 
 <!-- All news items below this line -->
+;International relations
+*[[Burundian unrest (2015–present)]]
+**[[Burundi]] becomes the first country to leave the [[International Criminal Court]] amid accusations the government committed [[crimes against humanity]], including torture of political opponents. Burundi has accused the ICC of deliberately targeting [[Africa]]ns for prosecution. [http://www.bbc.co.uk/news/world-africa-41775951 (BBC)]
+*[[Russia–United States relations|United States–Russia relations]]
+**The [[United States]] releases a list of 39 [[Russia]]n military companies and intelligence agencies targeted by [[economic sanctions]] under the [[Countering America’s Adversaries Through Sanctions Act]]. [https://www.cbsnews.com/news/state-dept-gives-congress-list-of-russia-sanction-targets/ (CBS News)]
+
 ;Politics and elections
 *[[Catalan independence referendum, 2017]], [[Catalan Republic (2017)]], [[2017 Spanish constitutional crisis]]
 **[[Catalonia]] [[Declaration of Independence of Catalonia|declares independence]] from Spain as [[Catalan Republic (2017)|Catalan Republic]]. [http://www.cnn.com/2017/10/27/europe/catalonia-independence-spain/index.html (CNN)]
