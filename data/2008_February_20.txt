@@ -5,7 +5,7 @@
 
 ;Disasters and accidents
 * Two [[United States Air Force]] [[F-15 Eagle]] fighter planes crash in mid-air over the [[Gulf of Mexico]] near [[Florida]]. [http://www.news.com.au/story/0,23599,23250687-23109,00.html (AFP via News Limited)]
-* The [[United States Geological Survey]] reports the occurrence of a 7.6 magnitude earthquake off the western coast of the [[Indonesia]]n island of [[Sumatra]]. [http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008nran.php (USGS)]
+* The [[United States Geological Survey]] reports the occurrence of a 7.6 magnitude earthquake off the western coast of the [[Indonesia]]n island of [[Sumatra]]. [https://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008nran.php (USGS)]
 * Seven [[South Korea]]n servicemen die in a military helicopter crash. [http://www.alertnet.org/thenews/newsdesk/L19869251.htm (Reuters)]
 
 ;Law and crime
