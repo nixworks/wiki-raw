@@ -1,7 +1,12 @@
 {{Current events|year=2017|month=10|day=28|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks 
+*An explosion occurs near the national theater area in [[Mogadishu]], [[Somalia]]. [https://www.reuters.com/article/us-somalia-violence-blast/huge-blast-in-somalias-capital-mogadishu-reuters-witness-idUSKBN1CX0GQ (Reuters)] 
+
 ;Politics and elections
 *[[Icelandic parliamentary election, 2017]]
 **Voters in [[Iceland]] go to the polls to elect 63 members of the [[Althing]]. [http://www.bbc.com/news/world-europe-41787919 (BBC News)]
+*[[Politics of California]]
+**[[California]] Governor [[Jerry Brown]] warns California conservatives to not vote for tax reform. [http://www.breitbart.com/california/2017/10/28/jerry-brown-warns-california-republicans-not-vote-tax-reform/ (Breitbart)]
 <!-- All news items above this line -->}}
