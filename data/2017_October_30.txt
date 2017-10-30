@@ -1,11 +1,17 @@
 {{Current events|year=2017|month=10|day=30|content=
 
 <!-- All news items below this line -->
+;Law and crime
+*[[2017 Special Counsel investigation]]
+**[[Paul Manafort]] and [[Rick Gates (political consultant)|Rick Gates]] surrender to the [[Federal Bureau of Investigation|F.B.I.]] after being charged on 12 counts, among which [[conspiracy]], [[money laundering]] and failing to register as [[foreign agent]]s. [https://www.usatoday.com/story/news/politics/2017/10/30/report-former-trump-campaign-chair-paul-manafort-charged-russia-probe-told-surrender-feds/812424001/ (''USA Today'')]
+
+*[[2017 Spanish constitutional crisis]], [[Catalan Republic (2017)]]
+**The [[Spanish Attorney General|Spanish attorney general]] requests a lawsuit against (former) [[Executive Council of Catalonia|Catalan government]] members, seeking charges of [[sedition]], [[rebellion]] and [[embezzlement]].  [http://www.sfgate.com/news/crime/article/The-Latest-Ousted-leader-leaves-Catalans-12316417.php (''SFGATE'')]
+**[[Carles Puigdemont]] and part of his cabinet flee to [[Belgium]] to escape prosecution as business as usual returns to Catalonia under direct Spanish rule. [http://www.reuters.com/article/us-spain-politics-catalonia/work-resumes-normally-in-catalonia-as-spain-enforces-direct-rule-idUSKBN1CZ0IP?il=0 (Reuters)], [http://www.eldiario.es/politica/Puigdemont-Belgica-justicia-euroorden-detencion_0_702730131.html (Eldiario)]
+
 ;Politics and elections
 *[[Women's rights in Saudi Arabia]]
 **Starting in 2018, women will be allowed to attend sports events in stadiums in [[Saudi Arabia]] for the first time in the country's history, officials say. [http://www.bbc.com/news/world-middle-east-41798481 (BBC)]
-*[[2017 Spanish constitutional crisis]]
-**The [[Spanish Attorney General|Spanish attorney general]] requests a lawsuit against (former) [[Executive Council of Catalonia|Catalan government]] members, seeking charges of [[sedition]], [[rebellion]] and [[embezzlement]]. [http://www.sfgate.com/news/crime/article/The-Latest-Ousted-leader-leaves-Catalans-12316417.php (''SFGATE'')]
 
 ;Science and technology
 *[[Carbon dioxide in Earth's atmosphere]]
