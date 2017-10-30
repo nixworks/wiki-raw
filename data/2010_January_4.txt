@@ -9,7 +9,7 @@
 *A representation of [[President of the United States|President]] of the [[United States]] [[Barack Obama]] is found hanging by a noose with the [[epitaph]] "[[Plains, Georgia]]. Home of [[Jimmy Carter]], our 39th President". [http://news.bbc.co.uk/2/hi/americas/8438852.stm (BBC)]
 
 ;Disasters and accidents
-*At least 500 homes are damaged after a 7.2 magnitude earthquake hits the [[Solomon Islands]]. [http://www.google.com/hostednews/afp/article/ALeqM5izPfAZ-ohFfJsyObH1w8DknnFKFg (AFP)] [http://www.washingtonpost.com/wp-dyn/content/article/2010/01/04/AR2010010400862.html (''Washington Post'')]
+*At least 500 homes are damaged after a 7.2 magnitude earthquake hits the [[Solomon Islands]]. [http://www.google.com/hostednews/afp/article/ALeqM5izPfAZ-ohFfJsyObH1w8DknnFKFg (AFP)] [https://www.washingtonpost.com/wp-dyn/content/article/2010/01/04/AR2010010400862.html (''Washington Post'')]
 *Large parts of northern [[People's Republic of China|China]] and [[South Korea]] are affected by the heaviest snowfall in 60 years, causing widespread disruption. [http://english.people.com.cn/90001/90776/90882/6858078.html (''People's Daily'')] [http://news.bbc.co.uk/1/hi/world/asia-pacific/8438871.stm (BBC)] [http://www.koreatimes.co.kr/www/news/nation/2010/01/117_58405.html (''Korea Times'')]
 *[[Met Éireann]] says [[Republic of Ireland|Ireland]] is experiencing its [[European winter storms of 2009–10|most extreme cold spell of weather since 1963]]. [http://www.rte.ie/news/2010/0104/weather.html (RTÉ)]
 
@@ -32,6 +32,6 @@
 *[[Burma|Burmese]] [[State Peace and Development Council|military junta]] leader General [[Than Shwe]] urges people to make the "correct choices" in [[Burmese general election, 2010|elections]] later this year. [http://www.bernama.com/bernama/v5/newsworld.php?id=465849 (Bernama)] [http://news.bbc.co.uk/1/hi/world/asia-pacific/8439160.stm (BBC)]
 
 ;Science and technology
-*[[NASA]]'s [[Kepler Mission|Kepler telescope]] detects its first five [[extrasolar planet|exoplanets]]. [http://news.bbc.co.uk/1/hi/sci/tech/8440392.stm (BBC)] [http://news.nationalgeographic.com/news/2010/01/100104-new-planets-kepler-nasa.html (National Geographic)] [http://www.newscientist.com/article/dn18335-kepler-telescope-spots-styrofoam-planet.html (''New Scientist'')]
+*[[NASA]]'s [[Kepler Mission|Kepler telescope]] detects its first five [[extrasolar planet|exoplanets]]. [http://news.bbc.co.uk/1/hi/sci/tech/8440392.stm (BBC)] [http://news.nationalgeographic.com/news/2010/01/100104-new-planets-kepler-nasa.html (National Geographic)] [https://www.newscientist.com/article/dn18335-kepler-telescope-spots-styrofoam-planet.html (''New Scientist'')]
 
 <!-- All news items above this line -->{{Current events footer}}

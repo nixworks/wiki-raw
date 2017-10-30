@@ -12,7 +12,7 @@
 *[[Metro Bank (UK)|Metro Bank]] opens its first branch, in [[Holborn]], [[London]], the first wholly new high street [[bank]] in the [[United Kingdom]] for more than a century. [http://www.bbc.co.uk/news/business-10790996 (BBC)]
 
 '''Disasters'''
-*Heavy [[monsoon]] rains delay the salvage of the wreckage of [[Airblue]] [[Airblue Flight 202|Flight 202]] near [[Islamabad]], [[Pakistan]]. [http://www.reuters.com/article/idUSTRE66R0SE20100729 (Reuters)] [http://www.dailytimes.com.pk/default.asp?page=2010\07\29\story_29-7-2010_pg1_1 (''Daily Times of Pakistan'')]
+*Heavy [[monsoon]] rains delay the salvage of the wreckage of [[Airblue]] [[Airblue Flight 202|Flight 202]] near [[Islamabad]], [[Pakistan]]. [https://www.reuters.com/article/idUSTRE66R0SE20100729 (Reuters)] [http://www.dailytimes.com.pk/default.asp?page=2010\07\29\story_29-7-2010_pg1_1 (''Daily Times of Pakistan'')]
 
 '''International relations'''
 *The [[Arab League]] endorses direct talks between the [[Palestinian Authority]] and [[Israel]] providing certain conditions are met. [http://www.jpost.com/MiddleEast/Article.aspx?id=183034 (''Jerusalem Post'')]
@@ -27,11 +27,11 @@
 *[[Greece|Greek]] police fire [[tear gas]] at demonstrating lorry drivers who were on strike in protest against new license charges. [http://www.bbc.co.uk/news/world-europe-10802239 (BBC)] [http://www.guardian.co.uk/world/2010/jul/29/greek-police-tear-gas-striking-truckers (''The Guardian'')]
 *People in the U.S. state of [[Arizona]] protest the introduction of [[Arizona SB 1070|state immigration laws]] with demonstrators being arrested outside the office of [[Maricopa County]] [[sheriff]] [[Joe Arpaio]]. [http://www.cnn.com/2010/US/07/29/arizona.immigration.protests/ (CNN)]
 *The [[United States House of Representatives]] [[List of United States House of Representatives committees|Ethics Committee]] begins a public hearing into [[New York (state)|New York]] [[Democratic Party (United States)|Democratic]] [[United States Congress|Congressman]] [[Charles B. Rangel]]. [http://www.cbsnews.com/8301-503544_162-20012108-503544.html (CBS)]
-*Musician [[Wyclef Jean]] announces that he has taken formal steps towards running for [[President of Haiti]] in the [[Haitian general election, 2010|2010 general election]] but has not yet decided on a candidacy. [http://www.reuters.com/article/idUSTRE66Q5TX20100730 (Reuters)]
+*Musician [[Wyclef Jean]] announces that he has taken formal steps towards running for [[President of Haiti]] in the [[Haitian general election, 2010|2010 general election]] but has not yet decided on a candidacy. [https://www.reuters.com/article/idUSTRE66Q5TX20100730 (Reuters)]
 
 '''Science'''
 *[[UNESCO]]'s [[World Heritage Committee]] removes [[Ecuador]]'s [[Galápagos Islands]] from its list of endangered [[World Heritage Site]]s. [http://www.nzherald.co.nz/travel/news/article.cfm?c_id=7&objectid=10662349 (''New Zealand Herald'')]
-*[[Google]] claims that its [[Peoples Republic of China|Chinese]] [[Internet]] [[search engine|search]] and mobile search is blocked. [http://www.reuters.com/article/idUSN298963020100729 (Reuters)]
+*[[Google]] claims that its [[Peoples Republic of China|Chinese]] [[Internet]] [[search engine|search]] and mobile search is blocked. [https://www.reuters.com/article/idUSN298963020100729 (Reuters)]
 *[[Moscow]] records its hottest temperature in recorded history with a [[heat wave]] expected to result in its hottest month on record. [http://edition.cnn.com/2010/WORLD/europe/07/29/russia.moscow.heat/#fbid=YIYm6U-LlVS (CNN)]
 
 <!-- All news items above this line -->{{Current events footer}}

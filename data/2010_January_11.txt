@@ -1,10 +1,10 @@
 <!-- All news items below this line -->{{Current events header|2010|01|11}}
 
 ;Arts and culture
-*People in 16 countries in 44 cities from [[Adelaide]] to [[Zürich]] cause "scenes of chaos and joy in public places" by [[No Pants Day|removing their trousers in public]], with 3,000 people doing it in New York alone. [http://news.bbc.co.uk/2/hi/americas/8451565.stm (BBC)] [http://www.independent.co.uk/news/people/news/brief-encounter-pants-off-subway-day-goes-global-1864691.html (''The Independent'')] [http://www.ottawacitizen.com/health/Pantless+commuters+take+subways+urban+stunt/2428713/story.html (''Ottawa Citizen'')]
+*People in 16 countries in 44 cities from [[Adelaide]] to [[Zürich]] cause "scenes of chaos and joy in public places" by [[No Pants Day|removing their trousers in public]], with 3,000 people doing it in New York alone. [http://news.bbc.co.uk/2/hi/americas/8451565.stm (BBC)] [https://www.independent.co.uk/news/people/news/brief-encounter-pants-off-subway-day-goes-global-1864691.html (''The Independent'')] [http://www.ottawacitizen.com/health/Pantless+commuters+take+subways+urban+stunt/2428713/story.html (''Ottawa Citizen'')]
 
 ;Business and economy
-*The People's Republic of China conducts a land-based high-altitude [[2010 Chinese anti-ballistic missile test|anti-ballistic missile test]]. [http://mil.news.sina.com.cn/2010-01-11/2104580287.html (SINA News)] [http://news.yahoo.com/s/ap/20100111/ap_on_re_as/as_china_missile_defense (Yahoo! News)]
+*The People's Republic of China conducts a land-based high-altitude [[2010 Chinese anti-ballistic missile test|anti-ballistic missile test]]. [http://mil.news.sina.com.cn/2010-01-11/2104580287.html (SINA News)] [https://news.yahoo.com/s/ap/20100111/ap_on_re_as/as_china_missile_defense (Yahoo! News)]
 *The [[Chinese Academy of Social Sciences]] reports that more than 24 million Chinese men of marrying age will be without spouses by the end of the decade, citing an uneven birth rate. [http://china.globaltimes.cn/society/2010-01/497474.html (''Global Times'')] [http://news.bbc.co.uk/1/hi/world/asia-pacific/8451289.stm (BBC)]
 
 ;Health
@@ -15,7 +15,7 @@
 
 ;International relations
 *[[North Korea]] proposes a peace treaty, replacing the [[Korean War]] armistice. [http://english.yonhapnews.co.kr/northkorea/2010/01/11/48/0401000000AEN20100111009600315F.HTML (Yonhap)] [http://www.google.com/hostednews/afp/article/ALeqM5heyZS6xq314Wf12N06N07SgRX0sw (AFP)]
-*The '''Low Couch diplomatic spat''' between Israel and Turkey. Turkey demands Israeli apology.[http://www.reuters.com/article/idUSTRE60B5T820100112]
+*The '''Low Couch diplomatic spat''' between Israel and Turkey. Turkey demands Israeli apology.[https://www.reuters.com/article/idUSTRE60B5T820100112]
 
 ;Law and crime
 *''[[Perry v. Schwarzenegger]]'', a challenge to [[California Proposition 8 (2008)|California Proposition 8]] and likely a [[landmark case]] regarding [[same-sex marriage]] rights in the United States, begins in [[San Francisco]]. [http://hosted.ap.org/dynamic/stories/U/US_GAY_MARRIAGE_TRIAL?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2010-01-11-15-26-20 (Associated Press)]
@@ -23,7 +23,7 @@
 *[[Northern Ireland]]'s [[First Minister and deputy First Minister|First Minister]] [[Peter Robinson (Northern Ireland politician)|Peter Robinson]] temporarily hands over his position to [[Arlene Foster]] in the wake of [[Iris Robinson scandal|the ongoing political scandal]] surrounding his wife and fellow politician [[Iris Robinson]].
 
 ;Politics and elections
-*Thousands of [[National United Front of Democracy Against Dictatorship|supporters]] of former [[Thailand|Thai]] Prime Minister [[Thaksin Shinawatra]] gather outside the home of a royal adviser accused of involvement in the [[2006 Thai coup d'état|2006 coup]] that ousted the Prime Minister. [http://enews.mcot.net/view.php?id=13652 (Thai News Agency)] [http://www.reuters.com/article/idUSTRE60A13F20100111 (Reuters)] [http://english.aljazeera.net/news/asia-pacific/2010/01/201011194949662661.html (Al Jazeera)]
+*Thousands of [[National United Front of Democracy Against Dictatorship|supporters]] of former [[Thailand|Thai]] Prime Minister [[Thaksin Shinawatra]] gather outside the home of a royal adviser accused of involvement in the [[2006 Thai coup d'état|2006 coup]] that ousted the Prime Minister. [http://enews.mcot.net/view.php?id=13652 (Thai News Agency)] [https://www.reuters.com/article/idUSTRE60A13F20100111 (Reuters)] [http://english.aljazeera.net/news/asia-pacific/2010/01/201011194949662661.html (Al Jazeera)]
 
 ;Science and technology
 *[[Tombs]] discovered near [[Egypt's pyramids]] reinforce the theory they were built by free workers rather than [[slaves]]. [http://news.bbc.co.uk/2/hi/middle_east/8451538.stm (BBC News)]

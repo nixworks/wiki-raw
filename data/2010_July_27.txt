@@ -7,7 +7,7 @@
 *Experts verify that [[Negative (photography)|photographic negatives]] bought at a [[garage sale]] are early works of the [[United States|American]] [[photographer]] [[Ansel Adams]]. [http://edition.cnn.com/2010/SHOWBIZ/07/27/ansel.adams.discovery/?hpt=Mid#fbid=YIYm6U-LlVS (CNN)]
 
 '''Business and economics'''
-*[[BP]] announces that [[Tony Hayward]] is to step down as [[CEO]] following the [[Deepwater Horizon oil spill]] and will be replaced by [[Bob Dudley]] on October 1st. [http://tvnz.co.nz/world-news/bp-ceo-tony-hayward-has-stepped-down-3675696 (TV New Zealand)], [http://www.bloomberg.com/news/2010-07-27/bp-reports-record-quarterly-loss-on-oil-spill-as-dudley-replaces-hayward.html (Bloomberg)]
+*[[BP]] announces that [[Tony Hayward]] is to step down as [[CEO]] following the [[Deepwater Horizon oil spill]] and will be replaced by [[Bob Dudley]] on October 1st. [http://tvnz.co.nz/world-news/bp-ceo-tony-hayward-has-stepped-down-3675696 (TV New Zealand)], [https://www.bloomberg.com/news/2010-07-27/bp-reports-record-quarterly-loss-on-oil-spill-as-dudley-replaces-hayward.html (Bloomberg)]
 
 '''Disasters'''
 *[[2010 South China floods|South China floods]]
@@ -15,7 +15,7 @@
 **A [[landslide]] in [[Peoples Republic of China|China]]'s [[Sichuan Province]] caused by heavy [[rain]]s results in 21 people being missing. [http://www.google.com/hostednews/ap/article/ALeqM5h4WzWeMJ7PKISlH1gvwNg_5weS1wD9H76QQG0 (AP via Google News)]
 **A [[bridge]] collapse in [[Luanchuan County]] in [[Henan]] Province of [[Peoples Republic of China|China]] results in at least 37 deaths. [http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_558353.html (Reuters via Straits Times)]
 *[[BP]] sets aside [[US dollar|$]]32.2bn to clean up the [[Gulf of Mexico]] [[Deepwater Horizon oil spill|oil spill]]. [http://www.bbc.co.uk/news/business-10770252 (BBC)]
-*[[Lufthansa Cargo flight 8460]], a [[McDonnell Douglas MD-11]], crashes upon landing in [[Saudi Arabia]], injuring the pilot and the first officer. [http://www.bbc.co.uk/news/world-middle-east-10772817 (BBC)] [http://www.reuters.com/article/idUSLDE66Q10Z20100727 (Reuters)]
+*[[Lufthansa Cargo flight 8460]], a [[McDonnell Douglas MD-11]], crashes upon landing in [[Saudi Arabia]], injuring the pilot and the first officer. [http://www.bbc.co.uk/news/world-middle-east-10772817 (BBC)] [https://www.reuters.com/article/idUSLDE66Q10Z20100727 (Reuters)]
 *An [[Xingang Port oil spill|oil spill]] in [[Dalian]], China, is contained from reaching [[international waters]]. [http://www.chinadaily.com.cn/china/2010-07/27/content_11052491.htm (''China Daily'')]
 
 '''Law and crime'''
@@ -25,7 +25,7 @@
  
 '''Politics'''
 *[[David Cameron]], the [[Prime Minister of the United Kingdom]], describes the [[Gaza Strip]] as a "[[internment|prison camp]]" during a visit to [[Turkey]]. [[Israel]]'s ambassador to the UK, [[Ron Prosor]], describes the people of the Gaza strip as "prisoners of the [[terrorist]] organization [[Hamas]]". [http://www.cnn.com/2010/WORLD/europe/07/27/cameron.gaza/?hpt=Sbin (CNN)]
-*The [[United States Congress]] provides funding for a [[United States Armed Forces|troop]] increase for the [[War in Afghanistan (2001–present)|War in Afghanistan]]. [http://www.reuters.com/article/idUSTRE66O1G220100728 (Reuters)]
+*The [[United States Congress]] provides funding for a [[United States Armed Forces|troop]] increase for the [[War in Afghanistan (2001–present)|War in Afghanistan]]. [https://www.reuters.com/article/idUSTRE66O1G220100728 (Reuters)]
 
 '''Science'''
 *The wreck of the [[19th century]] [[Royal Navy]] ship [[HMS Investigator (1848)|HMS Investigator]] is found in [[Mercy Bay]] in northern [[Canada]]. [http://www.nationalpost.com/news/Arctic+search+team+found+Investigator/3334393/story.html (''National Post'')]
