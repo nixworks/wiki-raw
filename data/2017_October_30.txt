@@ -4,4 +4,8 @@
 ;Politics and elections
 *[[Women's rights in Saudi Arabia]]
 **Starting in 2018, women will be allowed to attend sports events in stadiums in [[Saudi Arabia]] for the first time in the country's history, officials say. [http://www.bbc.com/news/world-middle-east-41798481 (BBC)]
+
+;Science and technology
+*[[Carbon dioxide in Earth's atmosphere]]
+**Concentrations of [[carbon dioxide]] ({{CO2}}) in the [[Earth's atmosphere]] surged to a record high in 2016, according to the [[World Meteorological Organization]]. [http://www.bbc.com/news/science-environment-41778089 (BBC)]
 <!-- All news items above this line -->}}
