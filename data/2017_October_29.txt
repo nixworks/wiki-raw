@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Northern Rakhine State clashes]]
-**More than 2,000 people march in Myanmar's capital of [[Yangon]] to show support for the [[Tatmadaw|military]], urging the military to secure the country's sovereignty, protect national security and stop illegal intruders (referring to the [[Rohingya people]]). [http://abcnews.go.com/International/wireStory/thousands-march-support-myanmar-military-50792867 (ABC News)]
+**More than 2,000 people march in [[Yangon]] to show support for the [[Tatmadaw|military]], urging the military to secure the country's sovereignty, protect national security and stop illegal intruders (referring to the [[Rohingya people]]). [http://abcnews.go.com/International/wireStory/thousands-march-support-myanmar-military-50792867 (ABC News)]
 
 ;Disasters and accidents
 *[[October 2017 Northern California wildfires]]
@@ -20,5 +20,7 @@
 *[[2017 FIA Formula One World Championship]]
 **After a first-lap collision and a ninth-place finish in the [[2017 Mexican Grand Prix|Mexican Grand Prix]], [[Lewis Hamilton]] becomes the [[List of Formula One World Drivers' Champions|fifth driver]] to win four [[Formula One|FIA Formula One World Championship]] titles. [https://www.theguardian.com/sport/2017/oct/29/lewis-hamilton-formula-one-world-title-mexico-grand-prix-f1 (''The Guardian'')]
 *[[2017 World Rally Championship]]
-**[[S�bastien Ogier]] clinches his [[List of World Rally Championship Drivers' champions|fifth successive]] [[World Rally Championship]] title, finishing third in the [[2017 Wales Rally GB]]. [http://www.bbc.com/sport/motorsport/41795914 (BBC)]
+**[[Sébastien Ogier]] clinches his [[List of World Rally Championship Drivers' champions|fifth successive]] [[World Rally Championship]] title, finishing third in the [[2017 Wales Rally GB]]. [http://www.bbc.com/sport/motorsport/41795914 (BBC)]
+*[[2017 WTA Finals]]
+**Danish tennis player [[Caroline Wozniacki]] wins the [[WTA Finals]] defeating American [[Venus Williams]] in the [[2017 WTA Finals – Singles|final match]], 6–4, 6–4. [http://www.bbc.co.uk/sport/tennis/41795680 (BBC)]
 <!-- All news items above this line -->}}
