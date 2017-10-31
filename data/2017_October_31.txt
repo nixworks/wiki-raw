@@ -1,6 +1,8 @@
 {{Current events|year=2017|month=10|day=31|content=
 
 <!-- All news items below this line -->
+;Accidents and Disasters
+* A tunnel under construction at North Korea's nuclear test site collapsed and as many as 100–200 workers could have been killed.[http://m.yna.co.kr/mob2/en/contents_en.jsp?cid=AEN20171031012000315&domain=3&ctype=A&site=0400000000]
 ;Law and Crime
-*A fast-track court in India has convicted two men of raping a 10-year-old girl who gave birth to a baby girl in August. [http://www.bbc.com/news/world-asia-india-41817519 (BBC)]
+*A fast-track{{clarify inline}} court in India has convicted two men of raping a 10-year-old girl who gave birth to a baby girl in August. [http://www.bbc.com/news/world-asia-india-41817519 (BBC)]
 <!-- All news items above this line -->}}
