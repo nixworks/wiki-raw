@@ -9,10 +9,10 @@
 ***[[Muammar Gaddafi]]'s forces capture the town of [[Ra's Lanuf]]. [http://www.google.com/hostednews/afp/article/ALeqM5jLp7ILl5z7A0YHkWUH_Z9MakzstQ?docId=CNG.bf43a8bfb9e123d8b6ae8eff6f21f438.01 (AFP via Google News)]
 ***After rebels retreat outside Ra's Lanuf, the coalition has begun launching air-strikes at Gaddafi's forces again. [http://blogs.aljazeera.net/live/africa/libya-live-blog-march-30 (Al Jazeera)]
 ***The British government confirms that the Libyan Foreign Minister, [[Moussa Koussa]], has resigned and defected to Britain. [http://english.aljazeera.net/news/africa/2011/03/2011330151017941970.html (Al Jazeera)] [http://www.bbc.co.uk/news/world-africa-12915959 (BBC)]
-***[[Reuters]] reports that the [[President of the United States]] [[Barack Obama]] has signed an order authorising covert help for the rebels. [http://www.reuters.com/article/2011/03/31/us-libya-idUSTRE7270JP20110331?feedType=RSS&feedName=topNews (Reuters)]
+***[[Reuters]] reports that the [[President of the United States]] [[Barack Obama]] has signed an order authorising covert help for the rebels. [https://www.reuters.com/article/2011/03/31/us-libya-idUSTRE7270JP20110331?feedType=RSS&feedName=topNews (Reuters)]
 **[[2011 Bahraini protests]]
 ***Prominent [[Bahrain]]i blogger [[Mahmood Al-Yousif]] is arrested as the [[2011 Bahraini protests]] continue. [http://globalvoicesonline.org/2011/03/30/bahrain-prominent-blogger-mahmood-al-yousif-arrested/ (Global Voices Online)]
-***[[Human Rights Watch|UN Human Rights Watch]] announces that Bahrain authorities are harassing and isolating hospital patients wounded in anti-government protests. [http://www.independent.co.uk/news/world/middle-east/bahrain-targets-wounded-protesters-2257497.html (''The Independent'')] [http://www.hrw.org/en/news/2011/03/30/bahrain-wounded-protesters-beaten-detained (UN Human Rights Watch)]
+***[[Human Rights Watch|UN Human Rights Watch]] announces that Bahrain authorities are harassing and isolating hospital patients wounded in anti-government protests. [https://www.independent.co.uk/news/world/middle-east/bahrain-targets-wounded-protesters-2257497.html (''The Independent'')] [https://www.hrw.org/en/news/2011/03/30/bahrain-wounded-protesters-beaten-detained (UN Human Rights Watch)]
 *[[2010–2011 Ivorian crisis]]
 **Forces loyal to [[Alassane Ouattara]] enter [[Yamoussoukro]], the capital of the [[Ivory Coast]]. [http://english.aljazeera.net/news/africa/2011/03/201133010262614616.html (Al Jazeera)] [http://www.chron.com/disp/story.mpl/ap/top/all/7497614.html (AP via ''Houston Chronicle'')]
 
@@ -32,7 +32,7 @@
 ;Disasters
 *[[Fukushima I Nuclear Power Plant]]
 **The [[Tokyo Electric Power Co.]] says that it will scrap at least four units at the Fukushima I Power Plant and warns that fixing the problem will be a drawn out process. [http://english.kyodonews.jp/news/2011/03/82098.html (Kyodo)]
-**The [[United States]] and [[France]] announce plans to help [[Japan]] as [[Fukushima I nuclear accidents]] continue. [http://www.reuters.com/article/2011/03/30/us-japan-quake-idUSTRE72A0SS20110330?feedType=RSS&feedName=topNews (Reuters)]
+**The [[United States]] and [[France]] announce plans to help [[Japan]] as [[Fukushima I nuclear accidents]] continue. [https://www.reuters.com/article/2011/03/30/us-japan-quake-idUSTRE72A0SS20110330?feedType=RSS&feedName=topNews (Reuters)]
 *[[Flood]]ing across [[southern Thailand]] results in eleven deaths with thousands of people stranded. [http://www.channelnewsasia.com/stories/afp_asiapacific/view/1119619/1/.html (AFP via Channel News Asia)]
 *The [[U.S. state]] of [[Washington (state)|Washington]] issues flood warnings. [http://www.komonews.com/news/local/118931929.html (Komo News)]
 *19 people are trapped after a tunnel under construction collapses in southwest [[People's Republic of China|China]]. [http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_651107.html (''The Straits Times'')]
@@ -41,7 +41,7 @@
 *Former U.S. President [[Jimmy Carter]] ends a three-day visit to [[Cuba]], saying that the American trade embargo and travel ban has damaged the people and disrupted progress. [http://www.bbc.co.uk/news/world-latin-america-12913267 (BBC)]
 *[[Kuwait]] recalls its ambassador to [[Iran]] after it convicted three people on charges of spying for Iran. [http://www.alarabiya.net/articles/2011/03/30/143606.html (Al Arabiya)]
 *The [[South Korea]]n military holds a live-fire drill on [[Yeonpyeong Island]] which was shelled by [[North Korea]] last year. [http://english.yonhapnews.co.kr/news/2011/03/30/8/0200000000AEN20110330001600315F.HTML (Yonhap)]
-*The [[Yonhap]] news agency in [[South Korea]] reports that the [[People's Republic of China]] has reinforced fences and increased patrols along its border with [[North Korea]] in order to stop a flow of [[refugee]]s. [http://news.yahoo.com/s/afp/20110330/wl_asia_afp/nkoreachinamilitaryrefugees (AFP via Yahoo! News)]
+*The [[Yonhap]] news agency in [[South Korea]] reports that the [[People's Republic of China]] has reinforced fences and increased patrols along its border with [[North Korea]] in order to stop a flow of [[refugee]]s. [https://news.yahoo.com/s/afp/20110330/wl_asia_afp/nkoreachinamilitaryrefugees (AFP via Yahoo! News)]
 
 ;Law and crime
 *Three [[Filipino people|Filipinos]] are executed on drug charges in the [[People's Republic of China]]. [http://ph.news.yahoo.com/binay-confirms-3-filipinos-were-executed-in-china.html (Yahoo! News Philippines)]

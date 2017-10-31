@@ -11,16 +11,16 @@
 **At least six people were killed in demonstrations yesterday, as the government promises to hold national dialogue. [http://www.turkishweekly.net/news/115138/six-killed-in-syria%E2%80%99s-anti-government-protests.html (Journal of Turkish Weekly)]
 *[[2011 Yemeni protests]]:
 **Pro-government republican guard forces attack a defected military unit near the capital [[Sana'a]]. Three soldiers are killed. [http://news.xinhuanet.com/english2010/world/2011-05/14/c_13874334.htm (Xinhua)]
-**Gunmen open fire on protesters in the city of [[Ta'izz]] with 35 people being injured. [http://www.reuters.com/article/2011/05/14/us-yemen-idUSTRE73L1PP20110514 (Reuters)]
+**Gunmen open fire on protesters in the city of [[Ta'izz]] with 35 people being injured. [https://www.reuters.com/article/2011/05/14/us-yemen-idUSTRE73L1PP20110514 (Reuters)]
 *[[2011 Egyptian revolution]]:
-**Two protesters are shot and 60 injured in clashes in [[Cairo]] in opposing [[Copts|Coptic]] and [[Islam|Muslim]] demonstrations, while a large explosion is reported near the tomb of a [[Muslim]] [[sheikh]] on the [[Sinai Peninsula]]. [http://www.cnn.com/2011/WORLD/africa/05/14/egypt.clashes/index.html (CNN)] [http://www.reuters.com/article/2011/05/14/us-egypt-protesters-shooting-idUSTRE74D22F20110514 (Reuters)]
+**Two protesters are shot and 60 injured in clashes in [[Cairo]] in opposing [[Copts|Coptic]] and [[Islam|Muslim]] demonstrations, while a large explosion is reported near the tomb of a [[Muslim]] [[sheikh]] on the [[Sinai Peninsula]]. [http://www.cnn.com/2011/WORLD/africa/05/14/egypt.clashes/index.html (CNN)] [https://www.reuters.com/article/2011/05/14/us-egypt-protesters-shooting-idUSTRE74D22F20110514 (Reuters)]
 *Suspected [[Islamic Jihad of Yemen|al-Qaeda militants]] kill six soldiers and injure five others in the town of Rada in [[Yemen]] while security forces in other cities injure three dozen anti-government protesters demanding the departure of [[President of Yemen|President]] [[Ali Abdullah Saleh]]. [http://www.cnn.com/2011/WORLD/meast/05/14/yemen.unrest/index.html (CNN)]
 *Six people are killed and at least 19 injured in a blast on a passenger bus in the  [[Punjab, Pakistan|Punjab province]], [[Pakistan]]. [http://www.cnn.com/2011/WORLD/asiapcf/05/14/pakistan.bus.blast/index.html (CNN)]
 *Street preachers clash with gays and lesbians during a peaceful rally to mark [[International Day Against Homophobia and Transphobia]] in [[Adelaide]], [[Australia]]. [http://www.abc.net.au/news/stories/2011/05/14/3216987.htm (ABC News)]
 *There are clashes in east [[Jerusalem]] ahead of "Nakba Day" commemorations, with Palestinians being arrested by [[Israel]]i police. [http://english.aljazeera.net/news/middleeast/2011/05/2011514142534749136.html (Al Jazeera)]
 *[[Turkey]] requests that [[Israel]] pass on the names and addresses of the soldiers who [[Gaza flotilla raid|raided a Gaza-bound flotilla]], killing nine Turks last May. [http://www.google.com/hostednews/afp/article/ALeqM5gejqppDxAAEcdNV683fBj0nHTt2g?docId=CNG.d14d12517d91613ff8dfed44bb4dd26a.581 (AFP via Google News)]
 
-*Gunmen kill a [[United Nations]] driver in [[Ethiopia]]'s [[Ogaden]] region. [http://news.yahoo.com/s/nm/20110514/wl_nm/us_ethiopia_un_attack (Reuters via Yahoo! News)]
+*Gunmen kill a [[United Nations]] driver in [[Ethiopia]]'s [[Ogaden]] region. [https://news.yahoo.com/s/nm/20110514/wl_nm/us_ethiopia_un_attack (Reuters via Yahoo! News)]
 *An [[Indian Army]] soldier is killed in an exchange of fire with the [[Pakistan Army]] over the [[Kashmir]] border. [http://news.asiaone.com/News/Latest%2BNews/Asia/Story/A1Story20110515-278951.html (AFP via AsiaOne)]
 
 ;Arts and culture
@@ -53,7 +53,7 @@
 ;Politics and elections
 *[[Belarus]]ian opposition leader [[Andrei Sannikov]] is sentenced to five years' imprisonment for "organizing mass disturbances" following his role in protests disputing the results of the [[Belarusian presidential election, 2010|2010 presidential election]]. [http://www.bbc.co.uk/news/world-europe-13400666 (BBC)]
 *[[Singapore]]'s founding father [[Lee Kuan Yew]] resigns from the cabinet after 52 years. [http://www.bbc.co.uk/news/world-asia-pacific-13400296 (BBC)] [http://www.salon.com/wires/allwires/2011/05/14/D9N76V280_as_singapore_politics/index.html (AP via ''Salon'')] [http://www.chinadaily.com.cn/world/2011-05/14/content_12511975.htm (''China Daily'')]
-*Former [[List of Governors of Arkansas|Governor of Arkansas]] [[Mike Huckabee]] announces he will not seek the [[Republican Party (United States) presidential primaries, 2012|Republican nomination]] for the [[United States presidential election, 2012|2012 United States presidential election]]. [http://www.washingtonpost.com/blogs/the-fix/post/mike-huckabee-wont-run-for-president-in-2012/2011/05/14/AFGcpk3G_blog.html (''The Washington Post'')]
+*Former [[List of Governors of Arkansas|Governor of Arkansas]] [[Mike Huckabee]] announces he will not seek the [[Republican Party (United States) presidential primaries, 2012|Republican nomination]] for the [[United States presidential election, 2012|2012 United States presidential election]]. [https://www.washingtonpost.com/blogs/the-fix/post/mike-huckabee-wont-run-for-president-in-2012/2011/05/14/AFGcpk3G_blog.html (''The Washington Post'')]
 
 ;Sports
 *[[Badr Hari]] defeats [[Gregory Tony]] via first round [[technical knockout]] in his return to [[kickboxing]] after a year away from the sport, at ''[[It's Showtime 2011 Lyon]]'' in [[Lyon]], [[France]]. [http://liverkick.com/ (Liver Kick)]

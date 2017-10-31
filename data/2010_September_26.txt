@@ -17,7 +17,7 @@
 *The [[Peter Mullan]] film ''Neds'' wins two major honours at the [[San Sebastián International Film Festival]]. [http://www.bbc.co.uk/news/entertainment-arts-11413830 (BBC)]
 
 ;Business and economy
-*[[Australia]]n [[climate change]] activists close down the world's largest [[coal]] port in [[Newcastle, New South Wales]]. [http://news.yahoo.com/s/nm/20100926/wl_nm/us_australia_coal (Reuters via Yahoo! News)]
+*[[Australia]]n [[climate change]] activists close down the world's largest [[coal]] port in [[Newcastle, New South Wales]]. [https://news.yahoo.com/s/nm/20100926/wl_nm/us_australia_coal (Reuters via Yahoo! News)]
 
 ;Disasters
 *Brandenburg bus crash:
@@ -48,6 +48,6 @@
 **Thousands of [[slum]] dwellers are handed [[eviction]] notices in the [[India]]n capital [[Delhi]], a week before the [[2010 Commonwealth Games]] is due to open. [http://tvnz.co.nz/commonwealth-games/delhi-slum-dwellers-handed-eviction-notices-3801503 (TV New Zealand)]
 **[[Akhil Kumar]] escapes injury after his bed collapses beneath him. [http://www.indianexpress.com/news/akhils-woes-a-fourhour-wait-a-broken-bed/688148/ (''The Indian Express'')] [http://www.deccanchronicle.com/sports/akhil%E2%80%99s-bed-village-collapses-413 (''The Deccan Chronicle'')]
 *[[Fernando Alonso]] wins the [[2010 Singapore Grand Prix]]. [http://www.guardian.co.uk/sport/2010/sep/26/fernando-alonso-singapore-gp-hamilton-webber (''The Guardian'')]
-*The corpse of 31-year-old former Great Britain [[rugby league]] [[Hooker (rugby league)|hooker]] [[Terry Newton]] is located hanging dead at a house in [[England]]. [http://www.guardian.co.uk/sport/2010/sep/26/terry-newton-found-hanged-rugby (''The Guardian'')] [http://www.bbc.co.uk/news/uk-england-11414736 (BBC News)] [http://www.independent.co.uk/sport/general/rugby-league/exgreat-britain-star-newton-found-dead-2090480.html (''The Independent'')] [http://www.telegraph.co.uk/sport/rugbyleague/8026313/Terry-Newton-found-dead-at-home-aged-31.html (''The Daily Telegraph'')]
+*The corpse of 31-year-old former Great Britain [[rugby league]] [[Hooker (rugby league)|hooker]] [[Terry Newton]] is located hanging dead at a house in [[England]]. [http://www.guardian.co.uk/sport/2010/sep/26/terry-newton-found-hanged-rugby (''The Guardian'')] [http://www.bbc.co.uk/news/uk-england-11414736 (BBC News)] [https://www.independent.co.uk/sport/general/rugby-league/exgreat-britain-star-newton-found-dead-2090480.html (''The Independent'')] [http://www.telegraph.co.uk/sport/rugbyleague/8026313/Terry-Newton-found-dead-at-home-aged-31.html (''The Daily Telegraph'')]
 
 <!-- All news items above this line -->{{Current events footer}}

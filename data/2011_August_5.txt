@@ -4,13 +4,13 @@
 *[[2011 Syrian uprising]]:
 **[[Turkey]] confirms it has seized an [[Iran]]ian arms shipment to Syria. [http://www.todayszaman.com/news-252774-turkey-confirms-seizure-of-iranian-arms-shipment-to-syria.html (''Today's Zaman'')]
 **Tens of thousands of people again protest across the country, amid a government crackdown. [http://www.bbc.co.uk/news/world-middle-east-14417720 (BBC)]
-*[[2011 Libyan civil war]]: Rebels claim that a [[NATO]] airstrike has killed [[Muammar Gaddafi]]'s youngest son [[Khamis Gaddafi|Khamis]] but this is later denied. [http://english.aljazeera.net/news/africa/2011/08/20118575531382740.html (Al Jazeera)] [http://www.msnbc.msn.com/id/44031003/ns/world_news-mideast_n_africa/ (MSNBC)] [http://www.reuters.com/article/2011/08/05/libya-son-denial-idUSLDE7740GV20110805 (Reuters)]
-*[[Meng Jianzhu]], the [[Ministry of Public Security of the People's Republic of China|Minister for Public Security]] in the [[People's Republic of China]], orders a clampdown in [[Xinjiang]] following [[2011 Kashgar attacks|recent unrest]]. [http://www.washingtonpost.com/world/asia-pacific/china-security-chief-orders-new-crackdown-in-restive-xinjiang-following-attacks/2011/08/04/gIQAzvxNvI_story.html (AP via ''Washington Post'')]
+*[[2011 Libyan civil war]]: Rebels claim that a [[NATO]] airstrike has killed [[Muammar Gaddafi]]'s youngest son [[Khamis Gaddafi|Khamis]] but this is later denied. [http://english.aljazeera.net/news/africa/2011/08/20118575531382740.html (Al Jazeera)] [http://www.msnbc.msn.com/id/44031003/ns/world_news-mideast_n_africa/ (MSNBC)] [https://www.reuters.com/article/2011/08/05/libya-son-denial-idUSLDE7740GV20110805 (Reuters)]
+*[[Meng Jianzhu]], the [[Ministry of Public Security of the People's Republic of China|Minister for Public Security]] in the [[People's Republic of China]], orders a clampdown in [[Xinjiang]] following [[2011 Kashgar attacks|recent unrest]]. [https://www.washingtonpost.com/world/asia-pacific/china-security-chief-orders-new-crackdown-in-restive-xinjiang-following-attacks/2011/08/04/gIQAzvxNvI_story.html (AP via ''Washington Post'')]
 *[[Burma|Burmese]] [[state media]] say rebels in the northeast of the country killed seven workers from a [[People's Republic of China|Chinese]]-backed hydroelectric power project. [http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_698915.html (''Straits Times'')]
 
 ;Business and economy
 *[[Stock market]]s in [[Asia]] and [[Australia]] [[August 2011 stock markets fall|continue falls]] from [[Europe]] and the [[United States]]. [http://www.sbs.com.au/news/article/1575610/Global-markets-plunge-on-recession-fears (SBS)] [http://www.bbc.co.uk/news/business-14414669 (BBC)]
-*The [[Standard & Poor's]] [[credit rating]] agency downgrades the [[credit rating]] of the [[United States]] from AAA to AA+ with a negative outlook. [http://www.reuters.com/article/2011/08/06/us-usa-debt-downgrade-idUSTRE7746VF20110806 (Reuters)] [http://www.ajc.com/business/s-p-downgrades-us-1080498.html (AP via ''Atlanta Journal-Constitution'')]
+*The [[Standard & Poor's]] [[credit rating]] agency downgrades the [[credit rating]] of the [[United States]] from AAA to AA+ with a negative outlook. [https://www.reuters.com/article/2011/08/06/us-usa-debt-downgrade-idUSTRE7746VF20110806 (Reuters)] [http://www.ajc.com/business/s-p-downgrades-us-1080498.html (AP via ''Atlanta Journal-Constitution'')]
 
 ;Disasters and accidents
 *A bus in [[Ivory Coast]] plunges into the capital [[Abidjan]]'s [[lagoon]], killing 12 people. [http://af.reuters.com/article/topNews/idAFJOE77409520110805 (Reuters)]
@@ -24,7 +24,7 @@
 ;Politics
 *Former Prime Minister of [[Ukraine]], and leader of the most numerous [[Yulia Tymoshenko Bloc|opposition party]] [[Yulia Tymoshenko]] is arrested in [[Kiev]]. [http://www.kyivpost.com/news/nation/detail/110237/ (''Kyiv Post'')]
 *[[Philippine]] [[President of the Philippines|President]] [[Benigno Aquino III]] meets with rebel [[Moro Islamic Liberation Front]] leader Al Haj Murad Ibrahim in [[Tokyo]]. [http://newsinfo.inquirer.net/36817/aquino-meets-with-moro-rebel-leader-in-tokyo (''Philippine Inquirer'')] [http://www.radioaustralianews.net.au/stories/201108/3286942.htm?desktop (Radio Australia)]
-*[[Yingluck Shinawatra]] is officially elected as the [[Prime Minister of Thailand]] by the [[Parliament of Thailand|parliament]]. [http://www.reuters.com/article/2011/08/05/thailand-politics-idUSL3E7J508T20110805 (Reuters)]
+*[[Yingluck Shinawatra]] is officially elected as the [[Prime Minister of Thailand]] by the [[Parliament of Thailand|parliament]]. [https://www.reuters.com/article/2011/08/05/thailand-politics-idUSL3E7J508T20110805 (Reuters)]
 *Former [[Deputy Prime Minister of the Republic of Poland|Deputy Prime Minister of Poland]] [[Andrzej Lepper]] is found dead in what police suspect is a suicide by hanging. [http://www.wbj.pl/article-55568-andrzej-lepper-found-dead-in-his-warsaw-office.html?typ=wbj (WBJ)] [http://www.telegraph.co.uk/news/worldnews/europe/poland/8685015/Polish-former-deputy-prime-minister-commits-suicide.html (''The Telegraph'')]
 
 <!-- All news items above this line -->{{Current events footer}}

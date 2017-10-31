@@ -2,7 +2,7 @@
 
 ;Armed conflicts and attacks
 *[[2011 Syrian uprising]]: Gunfire and arrests take place in [[Syria]]'s third largest city of [[Homs]] against anti-government protests. [http://english.aljazeera.net/news/middleeast/2011/07/201172110946880289.html (Al Jazeera)]
-*[[2011 Libyan civil war]]: Rebels report "fierce" counter-attacks on the eastern front. [http://www.reuters.com/article/2011/07/21/us-libya-idUSTRE76H06X20110721 (Reuters)]
+*[[2011 Libyan civil war]]: Rebels report "fierce" counter-attacks on the eastern front. [https://www.reuters.com/article/2011/07/21/us-libya-idUSTRE76H06X20110721 (Reuters)]
 *[[2011 Malawian protests]]:
 **At least eighteen people are killed during mass protests in [[Malawi]]. [http://www.trust.org/alertnet/news/malawi-protest-death-toll-rises-to-18-official/ (AP)]
 **The [[Military of Malawi|army]] has reportedly been deployed in the capital, [[Lilongwe]]. [http://www.bbc.co.uk/news/world-africa-14231251 (BBC)]
@@ -12,11 +12,11 @@
 *Author [[Lee Child]] &ndash; creator of the [[Jack Reacher]] series &ndash; wins the novel of the year award at the [[Harrogate Crime Writing Festival]] for his book ''[[61 Hours]]''. [http://www.bbc.co.uk/news/entertainment-arts-14246226 (BBC)]
 
 ;Business and economy
-*[[Euro zone]] leaders secure a €109 billion bailout for [[Greece]] with the country going into default for a short period, but with increased powers for the main European rescue fund to assist countries that have not been bailed out, such as [[Spain]] and [[Italy]]. [http://www.nytimes.com/2011/07/22/business/global/European-Union-Summit-Meeting-on-Greek-Debt.html?_r=1&hp (''New York Times'')]
+*[[Euro zone]] leaders secure a €109 billion bailout for [[Greece]] with the country going into default for a short period, but with increased powers for the main European rescue fund to assist countries that have not been bailed out, such as [[Spain]] and [[Italy]]. [https://www.nytimes.com/2011/07/22/business/global/European-Union-Summit-Meeting-on-Greek-Debt.html?_r=1&hp (''New York Times'')]
 
 ;Disasters
 *The [[Government of Japan]] publishes a reconstruction plan for areas devastated by the [[2011 Tōhoku earthquake and tsunami]]. [http://www3.nhk.or.jp/daily/english/21_08.html (NHK World)]
-*Two dozen people have died this week in a [[heat wave]] in the [[United States]]. [http://www.nytimes.com/2011/07/22/us/22heat.html (''New York Times'')]
+*Two dozen people have died this week in a [[heat wave]] in the [[United States]]. [https://www.nytimes.com/2011/07/22/us/22heat.html (''New York Times'')]
 
 ;Law and crime
 *[[Australian people|Australian]] radio host [[Derryn Hinch]] is sentenced to five months [[home detention]] for broadcasting the names of two sex offenders. [http://www.news.com.au/national/derryn-hinch-to-be-sentenced-for-contempt-of-court-today/story-e6frfkvr-1226098924136 (News.com.au)]
@@ -31,10 +31,10 @@
 *The [[Central Bank of Iran]] launches a [http://reform.cbi.ir/ website], intending to poll the [[Iran]]ian public about [[Iranian targeted subsidy plan|planned economic reforms]] and a change of [[Iranian rial|national currency]]. [http://www.tabnak.ir (Tabnak)]
 
 ;Science
-*[[Space Shuttle Atlantis]] lands at the [[Kennedy Space Center]], concluding its [[STS-135|final mission]] and marking the end of the 30-year [[Space Shuttle program]]. [http://www.usatoday.com/tech/science/space/2011-07-21-shuttle-atlantis-landing_n.htm (USA TODAY)], [http://www.cnn.com/2011/US/07/21/shuttle.landing/ (''CNN'')]
+*[[Space Shuttle Atlantis]] lands at the [[Kennedy Space Center]], concluding its [[STS-135|final mission]] and marking the end of the 30-year [[Space Shuttle program]]. [https://www.usatoday.com/tech/science/space/2011-07-21-shuttle-atlantis-landing_n.htm (USA TODAY)], [http://www.cnn.com/2011/US/07/21/shuttle.landing/ (''CNN'')]
 
 ;Sport
-*Team owners in the [[National Football League]] have voted to approve a 10-year deal with the [[National Football League Players Association]] and to end a [[2011 NFL season|lockout]] if players approve. [http://www.ajc.com/sports/atlanta-falcons/ap-source-nfl-owners-1033816.html (AP via ''Atlamta Journal Constitution'')], [http://www.washingtonpost.com/sports/nfl-lockout-owners-poised-to-approve-new-labor-deal-but-new-differences-emerge/2011/07/21/gIQA9IB2RI_story.html (''Washington Post'')]
+*Team owners in the [[National Football League]] have voted to approve a 10-year deal with the [[National Football League Players Association]] and to end a [[2011 NFL season|lockout]] if players approve. [http://www.ajc.com/sports/atlanta-falcons/ap-source-nfl-owners-1033816.html (AP via ''Atlamta Journal Constitution'')], [https://www.washingtonpost.com/sports/nfl-lockout-owners-poised-to-approve-new-labor-deal-but-new-differences-emerge/2011/07/21/gIQA9IB2RI_story.html (''Washington Post'')]
 *The 2000th match in the history of [[Test Cricket]] starts at [[Lord's Cricket Ground]] in [[London]] between [[England national cricket team|England]] and [[India national cricket team|India]]. [http://www.dailymail.co.uk/sport/cricket/article-2017485/Nasser-Hussain-Dhoni-hands-Strauss-advantage.html (''Daily Mail'')], [http://www.espnstar.com/cricket/international-cricket/news/detail/item644823/A-celebration-of-2000-glorious-Tests/ (ESPN Star)]
 
 <!-- All news items above this line -->{{Current events footer}}

@@ -8,7 +8,7 @@
 *[[Philippine Army]] soldiers capture five suspected members of the [[terrorism|terrorist]] group [[Abu Sayyaf]] in a raid on [[Basilan Island]]. [http://www.guardian.co.uk/world/feedarticle/9706654 (AP via ''The Guardian'')]
 *A photographer is shot during violence in east [[Belfast]] in [[Northern Ireland]]. [http://www.bbc.co.uk/news/uk-northern-ireland-13873307 (BBC)]
 *[[War in Afghanistan (2001–present)]]:
-*The [[President of the United States]] [[Barack Obama]] announces that 33,000 US troops will be withdrawn from the [[War in Afghanistan (2001–present)|War in Afghanistan]] by the [[Northern Hemisphere|northern]] summer of 2012. [http://www.smh.com.au/world/obama-announces-afghan-drawdown-20110623-1gg8h.html (''Sydney Morning Herald'')] [http://www.nytimes.com/2011/06/23/world/asia/23prexy.html (''The New York Times'')] [http://www.france24.com/en/20110622-obama-us-troop-drawdown-afghanistan (AFP via France 24)] [http://www.cnn.com/2011/POLITICS/06/22/afghanistan.troops.drawdown/index.html (CNN)]
+*The [[President of the United States]] [[Barack Obama]] announces that 33,000 US troops will be withdrawn from the [[War in Afghanistan (2001–present)|War in Afghanistan]] by the [[Northern Hemisphere|northern]] summer of 2012. [http://www.smh.com.au/world/obama-announces-afghan-drawdown-20110623-1gg8h.html (''Sydney Morning Herald'')] [https://www.nytimes.com/2011/06/23/world/asia/23prexy.html (''The New York Times'')] [http://www.france24.com/en/20110622-obama-us-troop-drawdown-afghanistan (AFP via France 24)] [http://www.cnn.com/2011/POLITICS/06/22/afghanistan.troops.drawdown/index.html (CNN)]
 
 ;Arts and culture
 *U.S. country music singer [[Glen Campbell]] is diagnosed with [[Alzheimer's disease]]. [http://www.bbc.co.uk/news/world-us-canada-13882993 (BBC)]
@@ -17,7 +17,7 @@
 
 ;Business and economics
 *[[2010–2011 Greek protests]]: Nationwide protests continue as [[Prime Minister of Greece]] [[George Papandreou]] attempts to pass new cuts in public spending. [http://www.bbc.co.uk/news/world-13877932 (BBC)]
-*[[Rolls-Royce plc|Rolls-Royce]] and [[Qantas]] announce an out-of-court settlement of their dispute over an [[Airbus]] engine explosion over [[Indonesia]] in November 2010. [http://www.reuters.com/article/2011/06/22/uk-qantas-rolls-royce-idUSLNE75L02C20110622 (Reuters)]
+*[[Rolls-Royce plc|Rolls-Royce]] and [[Qantas]] announce an out-of-court settlement of their dispute over an [[Airbus]] engine explosion over [[Indonesia]] in November 2010. [https://www.reuters.com/article/2011/06/22/uk-qantas-rolls-royce-idUSLNE75L02C20110622 (Reuters)]
 
 ;Disasters
 *Flights resume in southeast [[Australia]] as the volcanic ash cloud from the [[2011 Puyehue-Cordón Caulle eruption]] clears although flights to [[Tasmania]] and [[New Zealand]] are still affected.  [http://www.smh.com.au/travel/travel-news/ash-cloud-chaos-flights-set-to-resume-20110622-1gdzn.html (''The Sydney Morning Herald'')]

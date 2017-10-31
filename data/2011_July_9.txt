@@ -5,7 +5,7 @@
 *Argentine singer-songwriter [[Facundo Cabral]] is assassinated in an apparent ambush in [[Guatemala City]]. [http://www.bbc.co.uk/news/world-latin-america-14093876 (BBC)]
 
 ;Business and economy
-*[[Inflation]] in [[People's Republic of China|China]] rises to its highest level in three years. [http://www.reuters.com/article/2011/07/09/china-economy-inflation-idUSL3E7I901B20110709 (Reuters)] [http://news.xinhuanet.com/english2010/china/2011-07/09/c_13974827.htm (Xinhua)]
+*[[Inflation]] in [[People's Republic of China|China]] rises to its highest level in three years. [https://www.reuters.com/article/2011/07/09/china-economy-inflation-idUSL3E7I901B20110709 (Reuters)] [http://news.xinhuanet.com/english2010/china/2011-07/09/c_13974827.htm (Xinhua)]
 *A [[Milan]] court orders [[Fininvest]], [[Prime Minister of Italy]] [[Silvio Berlusconi]]'s family company, to pay 560 million [[euro]]s in damages to [[CIR Group|Compagnie Industriali Riunite]] in a long running legal dispute. [http://online.wsj.com/article/SB10001424052702303365804576435290994415536.html?mod=googlenews_wsj (Dow Jones via ''Wall Street Journal'')]
 
 ;International relations
@@ -16,6 +16,6 @@
 
 ;Sport 
 *The [[Queensland Reds]] of [[Australia]] defeats the [[Canterbury Region|Canterbury]] [[Crusaders (rugby)|Crusaders]] of [[New Zealand]] 18-13 to win the [[2011 Super Rugby season|Super Rugby]] championship. [http://www.theroar.com.au/2011/07/09/reds-win-super-rugby-final/ (The Roar)]
-*[[Derek Jeter]], shortstop for the [[New York Yankees]], becomes the 28th member of the [[3,000 hit club]] in [[Major League Baseball]] history by means of a [[home run]] off [[David Price (baseball)|David Price]] of the [[Tampa Bay Rays]]. [http://www.nytimes.com/2011/07/10/sports/baseball/jeter-reaches-3000-hits-with-home-run.html (''The New York Times'')]
+*[[Derek Jeter]], shortstop for the [[New York Yankees]], becomes the 28th member of the [[3,000 hit club]] in [[Major League Baseball]] history by means of a [[home run]] off [[David Price (baseball)|David Price]] of the [[Tampa Bay Rays]]. [https://www.nytimes.com/2011/07/10/sports/baseball/jeter-reaches-3000-hits-with-home-run.html (''The New York Times'')]
 
 <!-- All news items above this line -->{{Current events footer}}

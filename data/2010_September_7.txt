@@ -13,7 +13,7 @@
 
 ;Disasters
 *Some 3,500 people are [[Emergency evacuation|evacuated]] in [[Boulder County, Colorado|Boulder County]], [[Colorado]] due to [[wildfires]] concerns. [http://www.google.com/hostednews/afp/article/ALeqM5hsaJqY8fXaOjAtYz8a68BYJBqW1A (AFP via Google News)]
-*[[Japan]] experiences its record-hottest summer. [http://www.mercurynews.com/nation-world/ci_15971316?nclick_check=1 (Mercury News)] [http://www.washingtonpost.com/wp-dyn/content/article/2010/09/02/AR2010090200859.html (Washington Post)] 
+*[[Japan]] experiences its record-hottest summer. [http://www.mercurynews.com/nation-world/ci_15971316?nclick_check=1 (Mercury News)] [https://www.washingtonpost.com/wp-dyn/content/article/2010/09/02/AR2010090200859.html (Washington Post)] 
 *Around 85 fires break out in the [[United States|U.S.]] city of [[Detroit, Michigan|Detroit]], [[Michigan]], with at least 20 homes destroyed. Winds of 40 to 50 mph cause 113,000 customers to lose electricity. [http://abcnews.go.com/US/fires-engulf-detroit-neighborhoods/story?id=11579438 (ABC News America)] [http://www.wisn.com/r/24918109/detail.html (WISN)]
 
 ;Law and crime
@@ -21,7 +21,7 @@
 *A curfew is imposed in parts of [[Srinagar]] following clashes. [http://english.samaylive.com/nation/676473014.html (samaylive)]
 
 ;Politics and elections
-*At least 50 people are arrested during pro-[[democracy]] protests in [[Swaziland]]. [http://www.bloomberg.com/news/2010-09-07/swaziland-pro-democracy-protesters-rally-in-manzini-amid-police-arrests.html (Bloomberg)] [http://www.bbc.co.uk/news/world-africa-11210849 (BBC)]
+*At least 50 people are arrested during pro-[[democracy]] protests in [[Swaziland]]. [https://www.bloomberg.com/news/2010-09-07/swaziland-pro-democracy-protesters-rally-in-manzini-amid-police-arrests.html (Bloomberg)] [http://www.bbc.co.uk/news/world-africa-11210849 (BBC)]
 *[[United States Army]] [[General]] [[David Petraeus]], the Commander of the [[International Security Assistance Force]] in [[Afghanistan]], condemns plans by a small [[Florida]] church to burn copies of the [[Koran]] on the anniversary of the [[September 11 attacks]] as inflammatory. [http://atwar.blogs.nytimes.com/2010/09/08/a-bonfire-in-danger-of-spreading/?scp=2&sq=koran%20burning%20petraus&st=cse (''New York Times'')]
 *[[Australian federal election, 2010|2010 Australian federal election]]
 **Independent members of parliament [[Tony Windsor]] and [[Rob Oakeshott]] agree to support a [[Julia Gillard]] [[Australian Labor Party]] Government ensuring that Labor will be able to form a Government. [http://www.smh.com.au/federal-election/windsor-and-oakeshott-hand-power-to-gillard-20100907-14you.html?from=smh_sb (''Sydney Morning Herald'')]

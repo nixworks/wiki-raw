@@ -22,7 +22,7 @@
 *Floods in 18 [[Thailand|Thai]] provinces kill 59 people. [http://www.bangkokpost.com/breakingnews/203422/flood-death-toll-rises-to-59 (''Bangkok Post'')] [http://www.upi.com/Top_News/World-News/2010/10/27/Flood-deaths-climb-in-Thailand/UPI-45821288184863/ (UPI)]
 *[[2010 eruption of Mount Merapi|Fatalities caused by the eruption]] of [[Mount Merapi]] in [[Indonesia]]'s [[Yogyakarta]] province rises, with 28 people known to have been killed by hot ash. [http://news.xinhuanet.com/english2010/world/2010-10/27/c_13578139.htm (Xinhua)]
 *Indonesian tsunami
-**The death toll from the [[tsunami]] following the [[October 2010 Sumatra earthquake]] reaches at least 282 with hundreds of people still missing. [http://news.yahoo.com/s/afp/20101027/wl_afp/indonesiaquaketsunami (AFP via Yahoo! News)], [http://www.foxnews.com/world/2010/10/27/indonesia-tsunami-kills-help-way/ (Fox News)] [http://www.bbc.co.uk/news/world-asia-pacific-11632982 (BBC)]
+**The death toll from the [[tsunami]] following the [[October 2010 Sumatra earthquake]] reaches at least 282 with hundreds of people still missing. [https://news.yahoo.com/s/afp/20101027/wl_afp/indonesiaquaketsunami (AFP via Yahoo! News)], [http://www.foxnews.com/world/2010/10/27/indonesia-tsunami-kills-help-way/ (Fox News)] [http://www.bbc.co.uk/news/world-asia-pacific-11632982 (BBC)]
 **Concerns are raised about the effectiveness of the [[Indian Ocean Tsunami Warning System]]. [http://www.bbc.co.uk/news/world-asia-pacific-11632982 (BBC)]
 *[[Factory fishing ship]] {{ship|FV|Athena||2}} catches fire off the [[Isles of Scilly]], with 111 crew onboard. [http://www.bbc.co.uk/news/uk-england-cornwall-11633974 (BBC)], [http://edition.cnn.com/2010/WORLD/europe/10/27/uk.ship.rescue/index.html?eref=edition (CNN)]
 
@@ -34,8 +34,8 @@
 
 ;Law and crime
 *Judge [[Kimba Wood]] of the [[United States District Court for the Southern District of New York]] shuts down filesharing service [[LimeWire]]. [http://www.theage.com.au/technology/technology-news/popular-filesharing-service-limewire-shut-down-20101027-172x3.html (AFP via ''Melbourne Age'')]
-*[[Farooque Ahmed]] of [[Ashburn, Virginia|Ashburn]], [[Virginia]], is arrested for allegedly plotting an attack on the [[Washington, D.C.]] [[Washington Metro|Metro]]rail system. [http://www.reuters.com/article/idUSTRE69Q4O920101027 (Reuters)]
-*15 people are killed in a [[Mexican drug war]] related shootout at a [[car wash]] in [[Tepic, Nayarit]], the country's third such mass shooting in under a week. [http://www.nytimes.com/2010/10/28/world/americas/28mexico.html?src=twrhp (''New York Times'')] [http://edition.cnn.com/2010/WORLD/americas/10/27/mexico.carwash.massacre/index.html?eref=edition (CNN)]
+*[[Farooque Ahmed]] of [[Ashburn, Virginia|Ashburn]], [[Virginia]], is arrested for allegedly plotting an attack on the [[Washington, D.C.]] [[Washington Metro|Metro]]rail system. [https://www.reuters.com/article/idUSTRE69Q4O920101027 (Reuters)]
+*15 people are killed in a [[Mexican drug war]] related shootout at a [[car wash]] in [[Tepic, Nayarit]], the country's third such mass shooting in under a week. [https://www.nytimes.com/2010/10/28/world/americas/28mexico.html?src=twrhp (''New York Times'')] [http://edition.cnn.com/2010/WORLD/americas/10/27/mexico.carwash.massacre/index.html?eref=edition (CNN)]
 
 ;Politics
 *Former [[Soviet Union|Soviet]] leader [[Mikhail Gorbachev]] says it was “impossible” for coalition forces to secure victory in [[Afghanistan]] in a BBC interview. [http://www.tehrantimes.com/index_View.asp?code=229414 (Tehran Times)]

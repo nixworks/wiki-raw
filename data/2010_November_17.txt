@@ -13,10 +13,10 @@
 ;Business and economy
 *[[Russia]] to give 6 [[Helicopter|choppers]], 31 [[tank]]s and 500,000 munitions to [[Lebanon]]. [http://english.pravda.ru/news/world/17-11-2010/115821-military-0/ (Pravda)]
 *[[European Union|EU]] finance ministers downplay the importance of talks on a potential bailout for [[Ireland]], claiming that no detailed discussions were held on the issue [http://www.bbc.co.uk/news/business-11771574 (BBC News)]
-*A [[United States]] bankruptcy judge orders [[Bank of America]] to return [[United States Dollar|$]]500 million it seized from the bank accounts of the defunct [[Lehman Brothers]] trading firm a few weeks before Lehman declared bankruptcy in 2008. [http://www.bloomberg.com/news/2010-10-21/lehman-bankruptcy-judge-says-he-never-approved-final-barclays-sale-papers.html (Bloomberg)]
+*A [[United States]] bankruptcy judge orders [[Bank of America]] to return [[United States Dollar|$]]500 million it seized from the bank accounts of the defunct [[Lehman Brothers]] trading firm a few weeks before Lehman declared bankruptcy in 2008. [https://www.bloomberg.com/news/2010-10-21/lehman-bankruptcy-judge-says-he-never-approved-final-barclays-sale-papers.html (Bloomberg)]
 *[[Economy of the United States]]
 **New home construction fell to its lowest level since [[April 2009]]. [http://money.cnn.com/2010/11/17/news/economy/housing_starts/index.htm?hpt=T2 (CNN Money)]
-**Mortgage applications declined by 14% in the week ending 12 November, the biggest drop this year. [http://www.bloomberg.com/news/2010-11-17/mortgage-applications-in-u-s-post-biggest-drop-of-2010-on-borrowing-costs.html (Bloomberg)]
+**Mortgage applications declined by 14% in the week ending 12 November, the biggest drop this year. [https://www.bloomberg.com/news/2010-11-17/mortgage-applications-in-u-s-post-biggest-drop-of-2010-on-borrowing-costs.html (Bloomberg)]
 **Core [[Consumer price index|Consumer Price Index (CPI)]] recorded a 0.6% rise for the year, marking the slowest increase in prices since records began in [[1957]]. [http://money.cnn.com/2010/11/17/news/economy/cpi_inflation/index.htm (CNN Money)]
 **The [[Chicago Climate Exchange]] announces that it will close its [[cap-and-trade]] market, given the death of supportive legislation in the [[U.S. Senate]]. [http://money.cnn.com/2010/11/17/news/economy/climate_exchange/ (CNN Money)]
 
@@ -28,7 +28,7 @@
 
 ;Law and crime
 *[[Law enforcement in Italy|Italian]] police arrest fugitive [[Camorra]] crime boss [[Antonio Iovine]]. [http://www.bbc.co.uk/news/world-europe-11777486 (BBC)]
-*[[Ahmed Khalfan Ghailani]] is convicted on one count of [[conspiracy (crime)|conspiracy]] in the [[United States District Court for the Southern District of New York]] for his role in the [[1998 United States embassy bombings]] in [[Tanzania]] and [[Kenya]]. [http://www.nytimes.com/2010/11/18/nyregion/18ghailani.html (''New York Times'')]
+*[[Ahmed Khalfan Ghailani]] is convicted on one count of [[conspiracy (crime)|conspiracy]] in the [[United States District Court for the Southern District of New York]] for his role in the [[1998 United States embassy bombings]] in [[Tanzania]] and [[Kenya]]. [https://www.nytimes.com/2010/11/18/nyregion/18ghailani.html (''New York Times'')]
 *Major South African health-care provider pleads guilty to using Israeli-linked [[organ trafficking]] syndicate.[http://www.presstv.com/detail/150640.html (Press TV)]
 
 ;Politics and elections

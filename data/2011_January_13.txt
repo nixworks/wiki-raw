@@ -13,9 +13,9 @@
 ;Business and economy
 *Executives of the troubled U.S. book retailer [[Borders Group|Borders]] meet with publishers to appeal for financing. [http://www.thestreet.com/story/10973470/1/borders-stock-surges-on-potential-financing.html?cm_ven=GOOGLEN (TheStreet.com)] 
 *[[United States]] banks [[foreclosure|foreclose]] on a record one million mortgages in 2010. [http://www.abc.net.au/news/stories/2011/01/14/3112623.htm (ABC News Australia)]
-*[[Wind power in China|China]] is reported to have the highest [[wind power]] capacity after adding 16GW in 2010, bringing its total to 41.8[[Gigawatt#Multiples|GW]], with the [[Wind power in the United States|U.S.]] in second with 40.2GW installed.[http://www.reuters.com/article/idUSTRE70C1FA20110113?loomia_ow=t0:s0:a49:g43:r2:c0.089888:b40954982:z0 (Reuters)]
-*The [[U.S. Environmental Protection Agency]] revokes a permit for a proposed [[coal mine]] in [[West Virginia]] which would have been one of America's largest citing "destructive and unsustainable mining practices that jeopardize the health of Appalachian communities and clean water". [http://www.reuters.com/article/idUSTRE70C4HI20110113 (Reuters)]
-*Major credit rating agencies [[Standard & Poor’s]] and [[Moody’s]] warn the [[U.S.]] that its increasing national debt may lead to a lowering of the nation's [[credit rating]].[http://www.nytimes.com/2011/01/14/business/economy/14place.html (''New York Times'')]
+*[[Wind power in China|China]] is reported to have the highest [[wind power]] capacity after adding 16GW in 2010, bringing its total to 41.8[[Gigawatt#Multiples|GW]], with the [[Wind power in the United States|U.S.]] in second with 40.2GW installed.[https://www.reuters.com/article/idUSTRE70C1FA20110113?loomia_ow=t0:s0:a49:g43:r2:c0.089888:b40954982:z0 (Reuters)]
+*The [[U.S. Environmental Protection Agency]] revokes a permit for a proposed [[coal mine]] in [[West Virginia]] which would have been one of America's largest citing "destructive and unsustainable mining practices that jeopardize the health of Appalachian communities and clean water". [https://www.reuters.com/article/idUSTRE70C4HI20110113 (Reuters)]
+*Major credit rating agencies [[Standard & Poor’s]] and [[Moody’s]] warn the [[U.S.]] that its increasing national debt may lead to a lowering of the nation's [[credit rating]].[https://www.nytimes.com/2011/01/14/business/economy/14place.html (''New York Times'')]
 
 ;Disasters
 *[[January 2011 Rio de Janeiro floods and mudslides|Floods in Rio de Janeiro, Brazil]]:
@@ -46,7 +46,7 @@
 
 ;Science and medicine
 *[[South Korea]] buries 1.4 million [[domestic pig]]s alive after [[2010–2011 South Korea foot-and-mouth outbreak|an outbreak of foot-and-mouth disease]]. [http://www.huffingtonpost.com/2011/01/12/south-korea-buries-pigs-alive_n_808119.html?ir=Food (''Huffington Post'')] [http://www.dailymail.co.uk/news/article-1346775/South-Korea-buries-1-4m-pigs-ALIVE-bid-eradicate-foot-mouth-disease.html?ito=feeds-newsxml (''Daily Mail'')]
-*Researchers discover [[prion]]s spreading through airborne transmission on [[aerosol]] particles, in an [[animal testing]] experiment focusing on [[scrapie]] infection in [[laboratory mice]]. [http://www.newscientist.com/article/dn19971-prion-disease-can-spread-through-air.html (''New Scientist'')]
+*Researchers discover [[prion]]s spreading through airborne transmission on [[aerosol]] particles, in an [[animal testing]] experiment focusing on [[scrapie]] infection in [[laboratory mice]]. [https://www.newscientist.com/article/dn19971-prion-disease-can-spread-through-air.html (''New Scientist'')]
 
 ;Sport
 *[[2011 AFC Asian Cup]]:

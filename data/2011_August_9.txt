@@ -5,11 +5,11 @@
 
 ;Business and economy
 *[[August 2011 stock markets fall]]
-**The [[Australian people|Australian]] [[Commonwealth Bank of Australia|Commonwealth]] and [[Westpac]] banks cut fixed home loan rates. [http://www.news.com.au/business/australia-faces-market-test-of-nerves/story-e6frfm1i-1226111305525 (News Limited)] [http://www.smh.com.au/business/markets/shares-in-free-fall-amid-global-panic-20110809-1ijzf.html (''Sydney Morning Herald'')] [http://www.marketwatch.com/story/hong-kong-shares-plunge-to-enter-bear-territory-2011-08-08 (''Market Watch'')] [http://www.reuters.com/article/2011/08/09/australia-cba-idUSL3E7J83MT20110809 (Reuters)]
+**The [[Australian people|Australian]] [[Commonwealth Bank of Australia|Commonwealth]] and [[Westpac]] banks cut fixed home loan rates. [http://www.news.com.au/business/australia-faces-market-test-of-nerves/story-e6frfm1i-1226111305525 (News Limited)] [http://www.smh.com.au/business/markets/shares-in-free-fall-amid-global-panic-20110809-1ijzf.html (''Sydney Morning Herald'')] [http://www.marketwatch.com/story/hong-kong-shares-plunge-to-enter-bear-territory-2011-08-08 (''Market Watch'')] [https://www.reuters.com/article/2011/08/09/australia-cba-idUSL3E7J83MT20110809 (Reuters)]
 **[[South Korea]]'s financial authorities promise to take action to stabilise markets as stocks on the [[Korea Exchange]] continue to fall. [http://english.yonhapnews.co.kr/business/2011/08/09/42/0503000000AEN20110809003400320F.HTML (Yonhap)]
-**The [[Australian dollar|Australian]] and [[New Zealand dollar]]s continue to fall as investors seek security with the Aussie dollar falling below parity. [http://www.bloomberg.com/news/2011-08-09/australia-dollar-drops-below-1-01-first-time-since-march-as-stocks-slide.html (Bloomberg)]
+**The [[Australian dollar|Australian]] and [[New Zealand dollar]]s continue to fall as investors seek security with the Aussie dollar falling below parity. [https://www.bloomberg.com/news/2011-08-09/australia-dollar-drops-below-1-01-first-time-since-march-as-stocks-slide.html (Bloomberg)]
 **The [[Dow Jones Industrial Average]] on the [[New York Stock Exchange]] as world stock markets recover after recent falls. [http://online.wsj.com/article/BT-CO-20110809-721856.html (''Wall Street Journal'')]
-*The U.S. [[Federal Reserve]] announces it will keep interest rates at "exceptionally low levels" at least through mid 2013, though it makes no commitment for further [[quantitative easing]]. [http://www.reuters.com/article/2011/08/09/us-usa-fed-idUSTRE7775G120110809 (Reuters)]
+*The U.S. [[Federal Reserve]] announces it will keep interest rates at "exceptionally low levels" at least through mid 2013, though it makes no commitment for further [[quantitative easing]]. [https://www.reuters.com/article/2011/08/09/us-usa-fed-idUSTRE7775G120110809 (Reuters)]
 
 ;Disasters
 *Tropical Storm Mufia
@@ -26,7 +26,7 @@
 *[[Warren Jeffs]], former leader of the [[Fundamentalist Church of Jesus Christ of Latter-Day Saints|FLDS Church]] and formerly on the [[FBI Ten Most Wanted Fugitives]] list, is sentenced to [[life imprisonment|life in prison]] plus 20 years for a [[conviction]] on child [[sexual assault]] charges. [http://www.cnn.com/2011/CRIME/08/09/texas.polygamist.jeffs/index.html?hpt=hp_t2 (CNN)]
 
 ;Politics and elections
-*Voters in some parts of the US state of [[Wisconsin]] go to the polls for [[Wisconsin Senate recall elections, 2011|recall elections]] for six [[Republican Party (United States)|Republican Party]] [[Wisconsin State Senate|State Senators]] with Republicans retaining four of the six seats and their majority in the chamber. [http://www.nytimes.com/2011/08/09/us/09wisconsin.html (''The New York Times'')], [http://www.bloomberg.com/news/2011-08-10/wisconsin-republicans-keep-senate-control-after-recalls-in-win-for-walker.html (Bloomberg)]
+*Voters in some parts of the US state of [[Wisconsin]] go to the polls for [[Wisconsin Senate recall elections, 2011|recall elections]] for six [[Republican Party (United States)|Republican Party]] [[Wisconsin State Senate|State Senators]] with Republicans retaining four of the six seats and their majority in the chamber. [https://www.nytimes.com/2011/08/09/us/09wisconsin.html (''The New York Times'')], [https://www.bloomberg.com/news/2011-08-10/wisconsin-republicans-keep-senate-control-after-recalls-in-win-for-walker.html (Bloomberg)]
 *[[Penny Wong]], the first openly gay member of the [[Australian Cabinet]], announces that her partner will be having a baby. [http://www.adelaidenow.com.au/baby-for-wong-and-partner/story-e6frea6u-1226111503642 (''Adelaide Advertiser'')]
 
 <!-- All news items above this line -->{{Current events footer}}

@@ -2,7 +2,7 @@
 
 ;Armed conflict and attacks
 *[[2011 Syrian protests]]
-**[[Syria]]n forces kill at least four people at the Omari Mosque in the southern [[Syria]]n city of [[Deraa]] following days of protest against the [[Ba'ath Party]]. [http://www.reuters.com/article/2011/03/23/us-syria-gunfire-idUSTRE72M04T20110323?feedType=RSS&feedName=topNews (Reuters)] [http://www.bbc.co.uk/news/world-middle-east-12827542 (BBC)]
+**[[Syria]]n forces kill at least four people at the Omari Mosque in the southern [[Syria]]n city of [[Deraa]] following days of protest against the [[Ba'ath Party]]. [https://www.reuters.com/article/2011/03/23/us-syria-gunfire-idUSTRE72M04T20110323?feedType=RSS&feedName=topNews (Reuters)] [http://www.bbc.co.uk/news/world-middle-east-12827542 (BBC)]
 **The government fires the governor of Daraa province. [http://www.cnn.com/2011/WORLD/meast/03/23/syria.protests/index.html?hpt=T2 (CNN)]
 *[[2011 Libyan civil war]]
 **[[Kuwait]] and [[Jordan]] provide logistics, and [[Turkey]] adds five ships and a submarine to the [[2011 military intervention in Libya|military intervention in Libya]]. [http://www.hurriyetdailynews.com/n.php?n=urgent--turkey-offers-warships-for-libya-arms-embargo-nato-2011-03-23 (hurrieyet))] [http://www.dawn.com/2011/03/23/kuwait-jordan-to-give-logistic-help-to-libya-action-uk.html (DAWN)][http://www.france24.com/en/20110323-gaddafi-keeps-assault-attacks-airstrikes-rain-down (France24)]
@@ -19,7 +19,7 @@
 
 ;Business and economy
 *The [[Chinese yuan]] reaches a record level against the [[US dollar]]. [http://www.bbc.co.uk/news/business-12816447 (BBC)]
-*A [[U.S.]] federal court judge dismisses part of a lawsuit brought by [[Lions Gate Entertainment]] against its shareholder, [[Carl Icahn]], holding that Icahn had met certain statutory disclosure requirements. [http://www.reuters.com/article/2011/03/23/us-lionsgate-icahn-idUSTRE72M9IU20110323 (Reuters)]
+*A [[U.S.]] federal court judge dismisses part of a lawsuit brought by [[Lions Gate Entertainment]] against its shareholder, [[Carl Icahn]], holding that Icahn had met certain statutory disclosure requirements. [https://www.reuters.com/article/2011/03/23/us-lionsgate-icahn-idUSTRE72M9IU20110323 (Reuters)]
 
 ;Disasters
 *The [[Prime Minister of Japan]] [[Naoto Kan]] instructs the [[Governor of Japan|Governor]] of [[Fukushima Prefecture]] [[Yūhei Satō]] to advise residents to avoid eating [[leafy vegetables]], due to the [[Fukushima I nuclear accidents]]. [http://english.kyodonews.jp/news/2011/03/80354.html (Kyodo News)]
@@ -41,7 +41,7 @@
 *The [[Chancellor of the Exchequer]] [[George Osborne]] delivers the [[2011 United Kingdom budget]]. [http://www.telegraph.co.uk/finance/budget/8395079/Budget-2011-live.html (''The Daily Telegraph'')]
 *The [[Israel]]i [[Knesset]] passes a new law which requires the state to fine [[Local government in Israel|local authorities]] and other state-funded bodies for denying Israel as [[A Jewish and Democratic State|Jewish, democratic state]] or supporting racism, armed resistance against Israel, or desecrating the [[Flag of Israel|state flag]] or [[National symbols of Israel|national symbols]], including holding events marking [[Nakba Day]].[http://www.bbc.co.uk/news/world-middle-east-12837953 (BBC)][http://www.ynetnews.com/articles/0,7340,L-4046440,00.html (Ynet)][http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=213396 (''The Jerusalem Post'')]
 *The [[Liberal Party of Canada]] announces it will introduce a motion to the [[Canadian House of Commons]] that calls on [[Member of Parliament|MPs]] to support a committee report finding the [[Conservative Party of Canada|Conservative]] government in [[contempt of Parliament]]. The finding was in response to the government allegedly not supplying sufficient information on costs of crime bills, purchasing [[F-35]] fighter jets for the [[Canadian Forces]], and corporate tax cuts. [http://www.cbc.ca/news/politics/story/2011/03/23/pol-leaders-politics.html (CBC)]
-*The [[Prime Minister of Portugal]] [[José Sócrates]] resigns after the [[Parliament of Portugal|parliament]] rejects austerity measures. [http://www.thestar.com/business/article/959736--opposition-parties-defeat-portugal-s-austerity-measures (AP via ''The Star'')], [http://in.reuters.com/article/2011/03/24/idINIndia-55834020110324?feedType=RSS&feedName=businessNews (Reuters)]
+*The [[Prime Minister of Portugal]] [[José Sócrates]] resigns after the [[Parliament of Portugal|parliament]] rejects austerity measures. [https://www.thestar.com/business/article/959736--opposition-parties-defeat-portugal-s-austerity-measures (AP via ''The Star'')], [http://in.reuters.com/article/2011/03/24/idINIndia-55834020110324?feedType=RSS&feedName=businessNews (Reuters)]
 *[[Spain]] bans the new [[Basque nationalism|Basque nationalist]] political party [[Sortu]].[http://online.wsj.com/article/BT-CO-20110323-714658.html (Wall Street Journal)]
 
 <!-- All news items above this line -->{{Current events footer}}

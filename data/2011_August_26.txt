@@ -8,8 +8,8 @@
 *The [[Ministry of Culture of the People's Republic of China]] bars 100 songs from music download sites including [[Lady Gaga]]'s "[[Judas (Lady Gaga song)|Judas]]" and [[Katy Perry]]'s "[[Last Friday Night (T.G.I.F.)]]". [http://www.google.com/hostednews/ap/article/ALeqM5gA81Ku3jipEffwsPe2eO9ZrJg3OA?docId=348a28dfd806445ea67929eedc8fcbcd (AP via Google News)]
 
 ;Business and economy
-*[[Ben Bernanke]], the [[Chairman of the Federal Reserve|Chairman]] of the [[United States Federal Reserve]], gives a keynote address at a [[central bank]]s conference at the US resort of [[Jackson Hole, Wyoming|Jackson Hole]], [[Wyoming]] as statistics show that the [[economy of the United States|US economy]] grew by 1%. [http://www.cnbc.com/id/44285105 (Reuters via CNBC)]
-*The Federal Reserve announces that it will hold hearings on the proposed acquisition, by [[Capital One]], of [[ING Direct]], a potential $9 billion deal. [http://www.reuters.com/article/2011/08/26/us-financial-regulation-capitolone-idUSTRE77P6NF20110826 (Reuters)] 
+*[[Ben Bernanke]], the [[Chairman of the Federal Reserve|Chairman]] of the [[United States Federal Reserve]], gives a keynote address at a [[central bank]]s conference at the US resort of [[Jackson Hole, Wyoming|Jackson Hole]], [[Wyoming]] as statistics show that the [[economy of the United States|US economy]] grew by 1%. [https://www.cnbc.com/id/44285105 (Reuters via CNBC)]
+*The Federal Reserve announces that it will hold hearings on the proposed acquisition, by [[Capital One]], of [[ING Direct]], a potential $9 billion deal. [https://www.reuters.com/article/2011/08/26/us-financial-regulation-capitolone-idUSTRE77P6NF20110826 (Reuters)] 
 
 ;Disasters
 *[[Hurricane Irene (2011)|Hurricane Irene]]:
@@ -18,7 +18,7 @@
 **A [[state of emergency]] is declared in a number of states including [[North Carolina]], [[Maryland]], [[Virginia]], [[Delaware]], [[New Jersey]], [[New York (state)|New York]], [[Pennsylvania]] and [[Connecticut]] as well as the city of [[Baltimore, Maryland|Baltimore]] in the state of [[Maryland]]. [http://www.bbc.co.uk/news/world-us-canada-14669374 (BBC)] [http://www.sanluisobispo.com/2011/08/26/1731223/baltimore-mayor-declares-state.html (AP via ''San Luis Obispo Tribune'')] [http://www.foxnews.com/weather/2011/08/25/connecticut-governor-declares-state-emergency-ahead-irene/ (Fox News)]
 **The unveiling of the [[Martin Luther King, Jr. National Memorial]] in [[Washington D.C.]] is postponed indefinitely. [http://www.dailymail.co.uk/news/article-2030153/Hurricane-Irene-cancels-Martin-Luther-King-Jr-celebration.html?ito=feeds-newsxml (''Daily Mail'')]
 **The [[casino]]s in [[Atlantic City, New Jersey|Atlantic City]] close as gamblers and residents evacuate from the New Jersey coast. [http://www.nj.com/news/index.ssf/2011/08/atlantic_city_casinos_are_clos.html (AP via NJ.com)]
-**The [[Mayor of New York City]] [[Michael Bloomberg]] orders the mandatory evacuation of some low-lying parts of the [[New York City|city]], and the shutdown of [[New York City Subway|the subway]]. [http://www.ibtimes.com/articles/204559/20110826/hurricane-irene-nyc.htm (''International Business Times'')]  [http://www.youtube.com/watch?v=eJDVJuOBf4g&feature=uploademail (AP via YouTube)]
+**The [[Mayor of New York City]] [[Michael Bloomberg]] orders the mandatory evacuation of some low-lying parts of the [[New York City|city]], and the shutdown of [[New York City Subway|the subway]]. [http://www.ibtimes.com/articles/204559/20110826/hurricane-irene-nyc.htm (''International Business Times'')]  [https://www.youtube.com/watch?v=eJDVJuOBf4g&feature=uploademail (AP via YouTube)]
 **The [[President of the United States]] [[Barack Obama]] urges [[American people|Americans]] in the path of the hurricane to take appropriate precautions for a "historic storm". [http://www.cbsnews.com/8301-503544_162-20097834-503544.html (CBS News)]
 
 ;Law and Crime

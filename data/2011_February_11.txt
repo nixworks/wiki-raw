@@ -10,13 +10,13 @@
 **At least 5 people are killed by police in [[Arish]] in the [[North Sinai Governorate]]. [http://www.guardian.co.uk/world/blog/2011/feb/11/egypt-hosni-mubarak-left-cairo#block-5 (''The Guardian'')]
 **[[Prime Minister of Denmark]] [[Lars Løkke Rasmussen]], speaking in [[Copenhagen]], becomes the first [[European Union]] leader to tell Mubarak to resign, saying Mubarak is "history" and that he "made a huge blunder yesterday" by giving his non-resignation speech. [http://www.google.com/hostednews/canadianpress/article/ALeqM5jfxszj9wlBGrS1-dCx83NF6El6Bw?docId=5917466 (CP via Google News)]
 **[[Vice President of Egypt|Vice President]] [[Omar Suleiman]] announces on state television the resignation of [[Hosni Mubarak]] as [[President of Egypt]] after 30 years in power. [http://www.bbc.co.uk/news/world-middle-east-12307698 (BBC)] [http://english.aljazeera.net/news/middleeast/2011/02/201121125158705862.html (Al Jazeera)]
-**[[Hosni Mubarak]] resigns as [[President of Egypt]] and hands power to [[Mohamed Hussein Tantawi]], head of the [[Supreme Council of the Armed Forces]]. [http://www.washingtonpost.com/wp-dyn/content/article/2011/02/11/AR2011021102386.html (''Washington Post'')] [http://af.reuters.com/article/egyptNews/idAFLDE7192I62011021 (Reuters)]
+**[[Hosni Mubarak]] resigns as [[President of Egypt]] and hands power to [[Mohamed Hussein Tantawi]], head of the [[Supreme Council of the Armed Forces]]. [https://www.washingtonpost.com/wp-dyn/content/article/2011/02/11/AR2011021102386.html (''Washington Post'')] [http://af.reuters.com/article/egyptNews/idAFLDE7192I62011021 (Reuters)]
 *The death toll from clashes between rebels loyal to [[George Athor]] and the army in [[Southern Sudan]] rises to 100. [http://www.bbc.co.uk/news/world-africa-12430115 (BBC)]
 *[[Bolivia]]n [[President of Bolivia|President]] [[Evo Morales]] abandons an event in the south of the country after crowds booed him and threw [[dynamite]] in a protest over rising food prices. [http://www.bbc.co.uk/news/world-latin-america-12427057 (BBC)] [http://www.google.com/hostednews/ap/article/ALeqM5hKQxQLMRfW7GXBWbjCny9tN73FXQ?docId=b5764ed4c5df40f9a335b37f54808d01 (AP via Google News)] [http://www.upi.com/Top_News/World-News/2011/02/11/Dynamite-causes-Morales-to-cancel-speech/UPI-91971297432460/ (UPI)]
 *[[Israel]]i forces fire gas agents and rubber-coated bullets against [[Palestinian people|Palestinian]] protesters in [[Silwan]], injuring dozens.[http://www.muslimnews.co.uk/news/news.php?article=19638 (Muslim News)][http://www.paltelegraph.com/palestine/west-bank/8455-clashes-erupted-after-friday-prayer-in-silwan.html (The Palestine Telegraph)]
 
 ;Business and economy
-*The U.S. [[Department of Agriculture]] says it has deregulated a genetically engineered corn. See [[genetically modified food]].  The corn in question is designed for the manufacture of [[ethanol]]. [http://www.reuters.com/article/2011/02/11/us-agriculture-usda-corn-idUSTRE71A71L20110211 (Reuters)] 
+*The U.S. [[Department of Agriculture]] says it has deregulated a genetically engineered corn. See [[genetically modified food]].  The corn in question is designed for the manufacture of [[ethanol]]. [https://www.reuters.com/article/2011/02/11/us-agriculture-usda-corn-idUSTRE71A71L20110211 (Reuters)] 
 
 ;Culture
 *A road in [[Copenhagen]], [[Denmark]] has been proposed a new name after former US president [[Ronald Reagan]]. [http://jp.dk/uknews/article2336716.ece (Jyllandsposten)]
@@ -27,7 +27,7 @@
 ;International relations
 *An American man is held responsible for the "cold-blooded murder" of two men in [[Lahore]], Pakistan, by city police chief Aslam Tareen. [http://www.bbc.co.uk/news/world-south-asia-12427518 (BBC)]
 *China's foreign minister [[Yang Jiechi]] visits [[Zimbabwe]] as the countries agree a $10 billion trade deal. [http://www.bbc.co.uk/news/world-asia-pacific-12427423 (BBC)]
-*[[North Korea]] asks its embassies worldwide to appeal for aid to feed its population. [http://www.independent.co.uk/news/world/asia/north-korea-sends-sos-to-world-to-feed-its-starving-people-2211240.html (''The Independent'')]
+*[[North Korea]] asks its embassies worldwide to appeal for aid to feed its population. [https://www.independent.co.uk/news/world/asia/north-korea-sends-sos-to-world-to-feed-its-starving-people-2211240.html (''The Independent'')]
 
 ;Law and crime
 *Computer security company [[McAfee]] says [[Hacker (computer security)|hackers]] based in the [[People's Republic of China]] have targeted computer networks of global [[Petroleum industry|oil companies]] and individuals in [[Kazakhstan]], [[Republic of China|Taiwan]], [[Greece]], and the [[United States]], to [[Computer insecurity|steal information]] starting in 2009. [http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_633712.html (''The Straits Times'')] [http://world.globaltimes.cn/americas/2011-02/621760.html (''Global Times'')]
@@ -41,6 +41,6 @@
 **[[Iran]] marks the 32nd anniversary of its [[Iranian Revolution|Revolution]]. [http://www.irinn.ir (IRINN)]
 **[[President of Iran|President]] [[Mahmoud Ahmadinejad]] insists that the [[Iranian people|nation]] remains determined to continue its [[Iranian nuclear programme|nuclear path]]. [http://www.presstv.ir/detail/164669.html (Press TV)]
 **Ahmadinejad said that the new [[Middle East]] will be formed soon where there will be no room for the [[United States]] and [[Israel]]. [http://www.irna.ir (IRNA)]
-**Iranian opposition leader [[Mehdi Karroubi]] is placed under house arrest after calling for demonstrations in support of [[Arab Spring|the uprisings]] in [[Egypt]] and [[Tunisia]]. [http://www.independent.co.uk/news/world/middle-east/iranian-opposition-leader-under-house-arrest-2210951.html (''The Independent'')]
+**Iranian opposition leader [[Mehdi Karroubi]] is placed under house arrest after calling for demonstrations in support of [[Arab Spring|the uprisings]] in [[Egypt]] and [[Tunisia]]. [https://www.independent.co.uk/news/world/middle-east/iranian-opposition-leader-under-house-arrest-2210951.html (''The Independent'')]
 
 <!-- All news items above this line -->{{Current events footer}}

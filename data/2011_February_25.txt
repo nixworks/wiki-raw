@@ -2,9 +2,9 @@
 
 ;Armed conflicts and attacks
 *[[2011 Iraqi protests]]
-**At least twenty-nine are killed in a "Day of Rage" protesting against economic problems and corruption in the country. [http://english.aljazeera.net/news/middleeast/2011/02/2011224192028229471.html (Al Jazeera)] [http://www.google.com/hostednews/canadianpress/article/ALeqM5ia4CeZt15R4Uc6tl1lH0nL1e-rNQ?docId=6063765 (CP via Google News)][http://www.washingtonpost.com/wp-dyn/content/article/2011/02/26/AR2011022601854.html (Washington Post)]
+**At least twenty-nine are killed in a "Day of Rage" protesting against economic problems and corruption in the country. [http://english.aljazeera.net/news/middleeast/2011/02/2011224192028229471.html (Al Jazeera)] [http://www.google.com/hostednews/canadianpress/article/ALeqM5ia4CeZt15R4Uc6tl1lH0nL1e-rNQ?docId=6063765 (CP via Google News)][https://www.washingtonpost.com/wp-dyn/content/article/2011/02/26/AR2011022601854.html (Washington Post)]
 *[[2011 Bahraini protests]]
-**Thousands of people stage an anti-government protest in the capital [[Manama]], on a day of mourning declared by the government following the deaths of protesters. [http://www.reuters.com/article/2011/02/25/us-bahrain-protests-idUSTRE71O4VS20110225 (Reuters)]
+**Thousands of people stage an anti-government protest in the capital [[Manama]], on a day of mourning declared by the government following the deaths of protesters. [https://www.reuters.com/article/2011/02/25/us-bahrain-protests-idUSTRE71O4VS20110225 (Reuters)]
 *[[2011 Libyan civil war]]
 **Leader [[Muammar Gaddafi]] addresses a crowd of supporters in the capital [[Tripoli]]. [http://english.aljazeera.net/news/africa/2011/02/2011225165641323716.html (Al Jazeera)] [http://www.alarabiya.net/articles/2011/02/25/139234.html (Al Arabiya)], [http://content.usatoday.com/communities/ondeadline/post/2011/02/gadhafi-makes-surprise-appearance-in-tripolis-green-square/1 (USA Today)]
 **More defections take place with a [[Libya]]n envoy to the [[United Nations]] changing sides during a meeting at the [[U.N. Human Rights Council]] in [[Geneva]].  [http://www.alarabiya.net/articles/2011/02/25/139145.html (Al Arabiya)], [http://www.msnbc.msn.com/id/41779850 (MSNBC)], [http://www.heraldsun.com.au/news/breaking-news/libyas-un-ambassador-mohammed-shalgham-defects/story-e6frf7jx-1226012395580 (AFP via ''Melbourne Herald-Sun'')]
@@ -31,7 +31,7 @@
 *At least twenty-two people die in [[Peru]] after a bus plunges into a [[ravine]]. [http://www.msnbc.msn.com/id/41788734/ns/world_news-americas/ (AP via MSNBC)]
 
 ;International relations
-*The [[Government of Iran]] advises the [[International Atomic Energy Agency]] of serious problems with its [[Bushehr Nuclear Power Plant]]. [http://www.nytimes.com/2011/02/26/world/middleeast/26nuke.html (''New York Times'')]
+*The [[Government of Iran]] advises the [[International Atomic Energy Agency]] of serious problems with its [[Bushehr Nuclear Power Plant]]. [https://www.nytimes.com/2011/02/26/world/middleeast/26nuke.html (''New York Times'')]
 
 ;Law and crime
 *[[Burma]] jails five more dissidents on charges including associating with dissident groups abroad. [http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_638807.html (''Straits Times'')]

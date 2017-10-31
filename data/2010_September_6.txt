@@ -2,15 +2,15 @@
 
 ;Armed conflicts and incidents
 *At least seventeen people are killed and forty others injured after a [[suicide bomber]] attacks a [[Law enforcement in Pakistan|Pakistan police]] station in the town of [[Lakki Marwat]] in [[Khyber Pakhtunkhwa]] province. [http://www.alarabiya.net/articles/2010/09/06/118594.html (Al Arabiya)]
-*The number of deaths for members of the [[International Security Assistance Force]] in the [[War in Afghanistan (2001–present)|War in Afghanistan]] reaches 500 for the first 9 months of 2010 as opposed to 521 for all of 2009. [http://www.reuters.com/article/idUSTRE6850LL20100906 (Reuters)]
+*The number of deaths for members of the [[International Security Assistance Force]] in the [[War in Afghanistan (2001–present)|War in Afghanistan]] reaches 500 for the first 9 months of 2010 as opposed to 521 for all of 2009. [https://www.reuters.com/article/idUSTRE6850LL20100906 (Reuters)]
 *[[Alfredo Pérez Rubalcaba]], [[Spain]]'s Interior Minister, dismisses [[ETA (separatist group)|ETA]]'s [[ceasefire]] offer as insufficient for a peace process. [http://edition.cnn.com/2010/WORLD/europe/09/06/spain.eta.ceasefire.reaction/?hpt=T1#fbid=Zi63FEAlScD&wom=false (CNN)]
 
 ;Disasters
-*[[New Zealand Army]] soldiers begin providing security at the centre of [[Christchurch]] following the [[2010 Canterbury earthquake]] as a [[state of emergency]] is extended until Wednesday. [http://news.yahoo.com/s/ap/20100906/ap_on_re_as/as_new_zealand_earthquake (AP via Yahoo! News)] [http://news.yahoo.com/s/afp/20100906/wl_asia_afp/nzealandquake (AFP via Yahoo! News)]
+*[[New Zealand Army]] soldiers begin providing security at the centre of [[Christchurch]] following the [[2010 Canterbury earthquake]] as a [[state of emergency]] is extended until Wednesday. [https://news.yahoo.com/s/ap/20100906/ap_on_re_as/as_new_zealand_earthquake (AP via Yahoo! News)] [https://news.yahoo.com/s/afp/20100906/wl_asia_afp/nzealandquake (AFP via Yahoo! News)]
 *Over fifty-thousand Australians have been placed on [[emergency evacuation|evacuation]] alert in the [[Australia]]n state of [[Victoria (Australia)|Victoria]] in eleven towns since Saturday due to the [[2010 Victorian floods]]. [http://au.news.yahoo.com/thewest/a/-/world/7891741/53-000-on-flood-alert-in-australia-officials/ (AFP via ''The West Australian'')]
 *Emergency teams in [[Guatemala]] resume rescue efforts after [[mudslides]] bury dozens of people. [http://www.bbc.co.uk/news/world-latin-america-11208807 (BBC)]
 *[[2010 Atlantic hurricane season]]: Tropical Storm Hermine slams into northern [[Mexico]] near the border with [[Texas]]. [http://www.swissinfo.ch/eng/news/international/Storm_Hermine_slams_into_far_northeastern_Mexico.html?cid=28282360 (Reuters via Swiss Info)]
-*A wind-driven [[wildfire]] in the [[United States]] state of [[Colorado]] leads to the evacuation of 1,000 houses. [http://news.yahoo.com/s/ap/20100907/ap_on_re_us/us_colorado_wildfires (AP via Yahoo! News)]
+*A wind-driven [[wildfire]] in the [[United States]] state of [[Colorado]] leads to the evacuation of 1,000 houses. [https://news.yahoo.com/s/ap/20100907/ap_on_re_us/us_colorado_wildfires (AP via Yahoo! News)]
 
 ;International relations
 *[[North Korea]] announces it will release seven detained [[People's Republic of China|Chinese]] and [[South Korea]]n fishermen. [http://english.yonhapnews.co.kr/northkorea/2010/09/06/10/0401000000AEN20100906007000315F.HTML (Yonhap)] [http://news.xinhuanet.com/english2010/world/2010-09/06/c_13480958.htm (Xinhua)] [http://english.aljazeera.net/news/asia-pacific/2010/2010/2010/09/20109693422413913.html (Al Jazeera)]
@@ -19,8 +19,8 @@
 
 ;Law and crime
 *[[People's Republic of China|China]] investigates the qualifications of all its commercial pilots after 200 of them had falsified their [[résumé]]s. [http://www.bbc.co.uk/news/business-11200188 (BBC)] [http://www.google.com/hostednews/afp/article/ALeqM5h-hza9H6_RDo0OuPcs9rhUOaRCPg (AFP)] [http://www.chinadaily.com.cn/china/2010-09/06/content_11264286.htm (''China Daily'')]
-*Two [[Greenpeace]] activists are given suspended sentences in [[Japan]] for stealing [[whale meat]]. [http://search.japantimes.co.jp/cgi-bin/nn20100906x2.html (''The Japan Times'')] [http://www.reuters.com/article/idUSTRE68512920100906 (Reuters)] [http://www.google.com/hostednews/ap/article/ALeqM5jMSHVlx1X9yF0eKxbBz_2omUdx4wD9I2AHSO0 (AP)]
-*[[Bahrain]] charges 23 [[Shia]] Muslim activists with [[terrorism]] and attempting to overthrow the government. [http://english.aljazeera.net/news/middleeast/2010/09/201095201748804676.html (Al Jazeera)] [http://www.bloomberg.com/news/2010-09-06/bahrain-charges-23-activists-with-terrorism-tied-to-anti-monarchy-group.html (Bloomberg)] [http://english.bna.bh/?ID=89484 (Bahrain News Agency)]
+*Two [[Greenpeace]] activists are given suspended sentences in [[Japan]] for stealing [[whale meat]]. [http://search.japantimes.co.jp/cgi-bin/nn20100906x2.html (''The Japan Times'')] [https://www.reuters.com/article/idUSTRE68512920100906 (Reuters)] [http://www.google.com/hostednews/ap/article/ALeqM5jMSHVlx1X9yF0eKxbBz_2omUdx4wD9I2AHSO0 (AP)]
+*[[Bahrain]] charges 23 [[Shia]] Muslim activists with [[terrorism]] and attempting to overthrow the government. [http://english.aljazeera.net/news/middleeast/2010/09/201095201748804676.html (Al Jazeera)] [https://www.bloomberg.com/news/2010-09-06/bahrain-charges-23-activists-with-terrorism-tied-to-anti-monarchy-group.html (Bloomberg)] [http://english.bna.bh/?ID=89484 (Bahrain News Agency)]
 
 ;Politics and elections
 *[[Vlad Filat]], the [[Prime Minister of Moldova]], concedes defeat on a [[Moldovan constitutional referendum, 2010|referendum]] proposal for [[direct election]] of the [[President of Moldova]]. [http://www.bbc.co.uk/news/world-europe-11195922 (BBC)]

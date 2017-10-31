@@ -12,7 +12,7 @@
 *A piece of [[stone axe]] found at the [[Gabarnmung]] [[rock art]] gallery on the lands of the [[Jawoyn]] people in [[Australia]]'s [[Northern Territory]] is dated at 35,500 years old making the oldest of its type in the world. [http://www.abc.net.au/news/stories/2010/11/05/3057775.htm?WT.mc_id=newsmail (ABC News Australia)]
 
 ;Business and economy
-*[[Toyota]] recalls around 135,000 vehicles in [[Japan]] and [[Europe]] over a steering fault. [http://www.ft.com/cms/s/0/284e7598-e802-11df-b158-00144feab49a.html (''Financial Times'')] [http://www.bloomberg.com/news/2010-11-04/toyota-recalls-71-000-cars-in-europe-for-steering-wheel-defect.html (Bloomberg)]
+*[[Toyota]] recalls around 135,000 vehicles in [[Japan]] and [[Europe]] over a steering fault. [http://www.ft.com/cms/s/0/284e7598-e802-11df-b158-00144feab49a.html (''Financial Times'')] [https://www.bloomberg.com/news/2010-11-04/toyota-recalls-71-000-cars-in-europe-for-steering-wheel-defect.html (Bloomberg)]
 *A [[United States]] [[jury]] rules that [[Citigroup]] did not mislead [[Terra Firma Capital Partners]] in its bid for music group [[EMI]]. [http://www.bbc.co.uk/news/business-11699413 (BBC)]
 *United Kingdom - Business Secretary [[Vince Cable]] orders [[Ofcom]] to investigate [[News Corporation]]'s plan to take full control of [[BSkyB]]. [http://www.bbc.co.uk/news/business-11691728 (BBC)]
 
@@ -22,7 +22,7 @@
 *At least sixteen people are dead and fifteen missing following [[mudslide]]s in [[Costa Rica]] caused by heavy rains. [http://edition.cnn.com/2010/WORLD/americas/11/04/costa.rica.fatal.mudslides/index.html?eref=edition (CNN)]
 *Ongoing flooding in northern [[Colombia]] kills at least 102 people. [http://www.skynews.com.au/eco/article.aspx?id=535251&vId=1904767 (Sky News Australia)] [http://colombiareports.com/colombia-news/news/12700-cartagena-underwater.html (Colombia Reports)] [http://www.theweathernetwork.com/news/storm_watch_stories3&stormfile=some_102_people_killed_by_ri_041110 (''The Weather Network'')] [http://www.reliefweb.int/rw/rwb.nsf/db900sid/JDUN-8AN4NG?OpenDocument (ReliefWeb)]
 *[[Qantas Flight 32]]:
-**[[Qantas]] Flight 32 from [[Singapore]] to [[Sydney]] makes an emergency landing at [[Changi Airport]] after debris suspected to be from the aircraft is found on [[Batam|Batam Island]] in [[Indonesia]]. [http://news.ph.msn.com/business/article.aspx?cp-documentid=4437791 (MSN)], [http://news.yahoo.com/s/afp/20101104/wl_afp/singaporeaustraliaairlineincidentland (AFP via Yahoo! News)], [http://www.bbc.co.uk/news/world-asia-pacific-11691197 (BBC)]
+**[[Qantas]] Flight 32 from [[Singapore]] to [[Sydney]] makes an emergency landing at [[Changi Airport]] after debris suspected to be from the aircraft is found on [[Batam|Batam Island]] in [[Indonesia]]. [http://news.ph.msn.com/business/article.aspx?cp-documentid=4437791 (MSN)], [https://news.yahoo.com/s/afp/20101104/wl_afp/singaporeaustraliaairlineincidentland (AFP via Yahoo! News)], [http://www.bbc.co.uk/news/world-asia-pacific-11691197 (BBC)]
 **Qantas suspends all A380 flights while the explosion is investigated. [http://news.brisbanetimes.com.au/breaking-news-world/qantas-grounds-a380s-after-explosion-20101104-17f4k.html (AAP via ''Brisbane Times'')]
 *[[Aero Caribbean Flight 883]] crashes in central [[Cuba]], killing all 68 people on board.
 

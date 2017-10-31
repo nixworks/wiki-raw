@@ -16,7 +16,7 @@
 ;Business and economy
 *Following the [[PlayStation Network outage]], the [[Sony]] website [[Sony Pictures Entertainment|SonyPictures.com]] has been hacked, with [[Encryption|unencrypted]] passwords and [[personal information]] of Sony customers within the website's database being discovered by the hackers. [http://www.bbc.co.uk/news/business-13636704 (BBC)]
 *[[Canada Post]] workers prepare to start a mail strike as last minute talks fail. [http://www.cbc.ca/news/canada/story/2011/06/01/canada-post.html (CBC)]
-*The 2011 [[Large Cities Climate Leadership Group]] "C40" summit concludes in [[São Paulo]]. [http://www.nytimes.com/2011/06/02/science/earth/02climate.html?_r=1&scp=1&sq=C40&st=cse (New York Times)]
+*The 2011 [[Large Cities Climate Leadership Group]] "C40" summit concludes in [[São Paulo]]. [https://www.nytimes.com/2011/06/02/science/earth/02climate.html?_r=1&scp=1&sq=C40&st=cse (New York Times)]
 
 ;Disasters
 *Four people die after an explosion and fire at a [[Chevron Corporation|Chevron]] [[oil refinery]] in [[Pembroke Dock]], [[Wales]]. [http://news.sky.com/skynews/Article/201009116004572 (Sky News)], [http://www.guardian.co.uk/uk/feedarticle/9677308 (Press Association via ''The Guardian'')]
@@ -35,11 +35,11 @@
 *[[Latvian presidential election, 2011|Presidential elections]] in [[Latvia]]. [[Andris Bērziņš (Latvian President-elect)|Andris Bērziņš]] won the election. [http://www.google.com/hostednews/canadianpress/article/ALeqM5h7Fn4phdTPXHp45GeSmGMx6DhTiA?docId=7021348]
 *Japanese politics
 **[[Prime Minister of Japan]] [[Naoto Kan]] survives a [[no-confidence motion]] in the [[Diet of Japan|Diet]] [http://www.businessweek.com/news/2011-06-01/yen-declines-before-prime-minister-kan-faces-no-confidence-vote.html (Bloomberg via ''Business Week'')], [http://www.seattlepi.com/news/article/Japan-s-PM-survives-no-confidence-motion-1405988.php (AP via ''Seattle PI'')]
-**Kan states that he will step down when the country has achieved some recovery from the [[2011 Tōhoku earthquake and tsunami]]. [http://www.reuters.com/article/2011/06/02/japan-politics-kan-idUST9E7FH00F20110602 (Reuters)], [http://english.kyodonews.jp/news/2011/06/94787.html (Kyodo News)]
-*[[Mitt Romney]] announces [[Mitt Romney presidential campaign, 2012|plans]] to seek the [[Republican Party (United States) presidential primaries, 2012|Republican Party]] [[nomination]] as [[President of the United States]]. [http://swampland.time.com/2011/06/02/the-frontrunner-makes-it-official-mitt-romney-targets-obama-acts-like-himself/ (''Time'')], [http://www.washingtonpost.com/politics/mitt-romney-announces-2012-presidential-bid/2011/06/02/AG05iJHH_story.html?wpisrc=al_national (''Washington Post'')]
+**Kan states that he will step down when the country has achieved some recovery from the [[2011 Tōhoku earthquake and tsunami]]. [https://www.reuters.com/article/2011/06/02/japan-politics-kan-idUST9E7FH00F20110602 (Reuters)], [http://english.kyodonews.jp/news/2011/06/94787.html (Kyodo News)]
+*[[Mitt Romney]] announces [[Mitt Romney presidential campaign, 2012|plans]] to seek the [[Republican Party (United States) presidential primaries, 2012|Republican Party]] [[nomination]] as [[President of the United States]]. [http://swampland.time.com/2011/06/02/the-frontrunner-makes-it-official-mitt-romney-targets-obama-acts-like-himself/ (''Time'')], [https://www.washingtonpost.com/politics/mitt-romney-announces-2012-presidential-bid/2011/06/02/AG05iJHH_story.html?wpisrc=al_national (''Washington Post'')]
 
 ;Science
-*The [[World Health Organization]] states that the strain of [[Escherichia coli|E. coli]] responsible for the [[2011 E. coli O104:H4 outbreak]] had never "been isolated from patients before." [http://www.reuters.com/article/2011/06/02/us-ecoli-strain-idUSTRE7517MT20110602 (Reuters)]
+*The [[World Health Organization]] states that the strain of [[Escherichia coli|E. coli]] responsible for the [[2011 E. coli O104:H4 outbreak]] had never "been isolated from patients before." [https://www.reuters.com/article/2011/06/02/us-ecoli-strain-idUSTRE7517MT20110602 (Reuters)]
 
 ;Sport
 *The [[Dallas Mavericks]] beat the [[Miami Heat]] 95-93 in the second game of the [[2011 NBA Finals]] to tie the series. [http://www.nbcdfw.com/news/sports/The-Mavs-Comeback-Kings-Again-123071958.html (NBC Dallas)]

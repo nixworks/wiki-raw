@@ -8,8 +8,8 @@
 
 ;Disasters
 *[[Fukushima I nuclear accidents]] 
-**The [[Government of Japan]] raises the crisis level of the accidents to level 7, the highest level on the international scale and equivalent to the [[Chernobyl disaster]]. [http://www3.nhk.or.jp/daily/english/12_05.html (NHK)], [http://www.reuters.com/article/2011/04/12/us-japan-idUSTRE72A0SS20110412?feedType=RSS&feedName=topNews (Reuters)]
-**Workers at the [[Fukushima I Nuclear Power Plant]] fight a fire following another [[aftershock]]. [http://news.yahoo.com/s/nm/20110412/ts_nm/us_japan (Reuters via Yahoo! News)]
+**The [[Government of Japan]] raises the crisis level of the accidents to level 7, the highest level on the international scale and equivalent to the [[Chernobyl disaster]]. [http://www3.nhk.or.jp/daily/english/12_05.html (NHK)], [https://www.reuters.com/article/2011/04/12/us-japan-idUSTRE72A0SS20110412?feedType=RSS&feedName=topNews (Reuters)]
+**Workers at the [[Fukushima I Nuclear Power Plant]] fight a fire following another [[aftershock]]. [https://news.yahoo.com/s/nm/20110412/ts_nm/us_japan (Reuters via Yahoo! News)]
 *The [[state of emergency]] in [[New Zealand]] following the [[2011 Canterbury earthquake]] is extended for another week. [http://tvnz.co.nz/national-news/state-emergency-extended-further-4116864 (TV New Zealand)]
 
 ;International relations
@@ -25,7 +25,7 @@
 *Former [[President of Egypt]] [[Hosni Mubarak]] is taken to hospital after suffering heart problems while being interrogated about alleged corruption and violence against [[2011 Egyptian revolution|protestors]]. [http://www.bbc.co.uk/news/world-africa-13053376 (BBC)], [http://www.foxnews.com/world/2011/04/12/egypts-mubarak-hospitalized-heart-problems/ (AP via Fox News)]
 *Former [[Governor of Minnesota]] [[Tim Pawlenty]] announces that he will be seeking the [[Republican Party (United States) presidential primaries, 2012|2012 Republican nomination for President of the United States]]. [http://politicalticker.blogs.cnn.com/2011/04/12/pawlenty-‘i’m-running-for-president’/ (CNN)]
 *Leaders of [[Canada]]'s major political parties hold an English language debate for the [[Canadian federal election, 2011|Canadian federal election]]. [http://www.bbc.co.uk/news/world-us-canada-13057442 (BBC)]
-*The [[North Carolina Senate|Senate]] of the US state of [[North Carolina]] pardons former [[Governor of North Carolina|Governor]] [[William Woods Holden]] who was impeached in 1871 because of his suspension of [[habeas corpus]] in the process of battling the  [[Ku Klux Klan]] terror campaign. [http://news.yahoo.com/s/nm/20110412/us_nm/us_northcarolina_pardon (Reuters via Yahoo! News)]
+*The [[North Carolina Senate|Senate]] of the US state of [[North Carolina]] pardons former [[Governor of North Carolina|Governor]] [[William Woods Holden]] who was impeached in 1871 because of his suspension of [[habeas corpus]] in the process of battling the  [[Ku Klux Klan]] terror campaign. [https://news.yahoo.com/s/nm/20110412/us_nm/us_northcarolina_pardon (Reuters via Yahoo! News)]
 
 ;Sport
 *Australian rugby league coach [[Wayne Bennett (rugby league)|Wayne Bennett]] agrees to coach the [[Newcastle Knights]] in the [[National Rugby League]] in the next four seasons starting in 2012. [http://www.nrl.com/bennett-to-coach-knights-for-4-years/tabid/10874/newsid/62226/default.aspx (NRL)]

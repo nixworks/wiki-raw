@@ -26,12 +26,12 @@
 ;Business and economy
 *[[Eurozone]] interest rates are raised to 1.25 per cent from the record low of 1 per cent by the [[European Central Bank]] (ECB) amid concerns this could cause problems for countries such as [[Portugal]] and the [[Republic of Ireland]]. [http://www.bbc.co.uk/news/business-12997333 (BBC)] [http://english.aljazeera.net/business/2011/04/201147121149491983.html (Al Jazeera)]
 *The [[Australian dollar]] reaches a 28-year high against the [[United States dollar]] due to strong employment figures for March. [http://www.theaustralian.com.au/business/markets/australian-unemployment-rate-falls-to-49pc-in-march/story-e6frg926-1226035325345?referrer=email&source=AusBus_Lunch_email_nl&emcmp=AusBusLunch&emchn=Newsletter&emlist=Member (''The Australian'')]
-*[[General Electric Co.]] announces that it is investing $600 million to construct a facility for the manufacture of [[Thin film solar cell|thin-film solar]] panels, and says it hopes and expects to drive the price of solar energy down. [http://www.reuters.com/article/2011/04/07/us-ge-solarpower-idUSTRE7360RV20110407 (Reuters)] 
+*[[General Electric Co.]] announces that it is investing $600 million to construct a facility for the manufacture of [[Thin film solar cell|thin-film solar]] panels, and says it hopes and expects to drive the price of solar energy down. [https://www.reuters.com/article/2011/04/07/us-ge-solarpower-idUSTRE7360RV20110407 (Reuters)] 
 
 ;Disasters
 *Officials give no hope for the missing migrants of [[2011 Mediterranean Sea migrant shipwreck|yesterday's fatal boat disaster]] off [[Lampedusa]] in the [[Mediterranean Sea]]. [http://www.bbc.co.uk/news/world-europe-12997688 (BBC)]
-*A [[2011 Miyagi earthquake|7.1 magnitude earthquake]] strikes off the coast of northern [[Honshu]] resulting in two deaths and 100 injuries. [http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0002ksa.php (USGS)], [http://news.smh.com.au/breaking-news-world/two-killed-100-hurt-in-japan-aftershock-20110408-1d6yj.html (''Sydney Morning Herald'')]
-*A 6.5 magnitude earthquake strikes in the [[Mexico|Mexican]] state of [[Veracruz]]. [http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0002kru.php (USGS)]
+*A [[2011 Miyagi earthquake|7.1 magnitude earthquake]] strikes off the coast of northern [[Honshu]] resulting in two deaths and 100 injuries. [https://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0002ksa.php (USGS)], [http://news.smh.com.au/breaking-news-world/two-killed-100-hurt-in-japan-aftershock-20110408-1d6yj.html (''Sydney Morning Herald'')]
+*A 6.5 magnitude earthquake strikes in the [[Mexico|Mexican]] state of [[Veracruz]]. [https://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0002kru.php (USGS)]
 *Injections of [[nitrogen]] into one of the reactors at [[Japan]]'s stricken Fukushima Daiichi nuclear plant begins in an effort to stop further hydrogen blasts. [http://www.bbc.co.uk/news/world-asia-pacific-12992284 (BBC)]
 *[[Power outage|Blackouts]] hit most [[Venezuela]]n states including the capital [[Caracas]]. [http://www.msnbc.msn.com/id/42481500/ns/world_news-americas/ (Reuters via MSNBC)]
 

@@ -8,8 +8,8 @@
 *The [[Lebanese Armed Forces]] exchanged fire with the [[Israeli Defense Forces]] patrolling the border, with one Lebanese soldier being injured. [http://www.jpost.com/Defense/Article.aspx?ID=231879&R=R1 (''Jerusalem Post'')]
 
 ;Business and economy
-*The [[HSBC]] bank announces plans to cut 5,000 jobs now and 25,000 by 2013. [http://www.reuters.com/article/2011/08/01/us-hsbc-idUSTRE7701HH20110801?feedType=RSS&feedName=businessNews&dlvrit=56943 (Reuters)]
-*[[Foxconn]] Technology, a computer assembler headquartered in [[Taiwan]], plans to add one million robots to its plants over the next three years, according to a Reuters report. [http://www.reuters.com/article/2011/08/01/us-foxconn-robots-idUSTRE77016B20110801 (Reuters)] 
+*The [[HSBC]] bank announces plans to cut 5,000 jobs now and 25,000 by 2013. [https://www.reuters.com/article/2011/08/01/us-hsbc-idUSTRE7701HH20110801?feedType=RSS&feedName=businessNews&dlvrit=56943 (Reuters)]
+*[[Foxconn]] Technology, a computer assembler headquartered in [[Taiwan]], plans to add one million robots to its plants over the next three years, according to a Reuters report. [https://www.reuters.com/article/2011/08/01/us-foxconn-robots-idUSTRE77016B20110801 (Reuters)] 
 *[[BBC]] journalists stage another 24-hour strike in protest at planned redundancies. [http://www.dailymail.co.uk/news/article-2021012/BBC-journalists-strike-redundancy-plans-Newsnight-axed-BBC-news-disrupted.html (''Mail Online'')] [http://www.guardian.co.uk/media/2011/aug/01/trade-unions-clash-bbc-management (''The Guardian'')]
 
 ;Disasters
@@ -25,8 +25,8 @@
 *[[Kevin Rudd]], the [[Minister for Foreign Affairs (Australia)|Minister for Foreign Affairs]] and former [[Prime Minister of Australia|Prime Minister]] of Australia, goes into hospital to have the [[aortic valve]] in his heart replaced. [http://www.couriermail.com.au/news/queensland/kevin-rudd-enters-hospital-to-have-heart-surgery/story-e6freoof-1226105812945 (''Courier Mail'')]
 *[[2011 U.S. debt ceiling crisis]]
 **The [[United States House of Representatives]] passes legislation to raise the debt ceiling and avert the  [[2011 U.S. debt ceiling crisis]]. [http://www.smh.com.au/business/world-business/us-debt-deal-wins-approval-20110802-1i8um.html (Reuters and AFP via ''Sydney Morning Herald'')]
-**More than twenty protesters are arrested after disrupting debate in the House. [http://www.washingtonpost.com/blogs/2chambers/post/protesters-disrupt-house-during-debate-on-debt-deal-22-arrested/2011/08/01/gIQAjLC1nI_blog.html (''Washington Post'')]
-**Congresswoman [[Gabrielle Giffords]] makes her first appearance on [[Capitol Hill]] since the [[2011 Tucson shootings]] to cast her vote amongst applause. [http://www.bbc.co.uk/news/world-us-canada-14367987 (BBC)] [http://www.washingtonpost.com/politics/giffords-returns-to-congress-to-vote-on-debt-deal/2011/08/01/gIQALojfoI_story.html (''Washington Post'')]
+**More than twenty protesters are arrested after disrupting debate in the House. [https://www.washingtonpost.com/blogs/2chambers/post/protesters-disrupt-house-during-debate-on-debt-deal-22-arrested/2011/08/01/gIQAjLC1nI_blog.html (''Washington Post'')]
+**Congresswoman [[Gabrielle Giffords]] makes her first appearance on [[Capitol Hill]] since the [[2011 Tucson shootings]] to cast her vote amongst applause. [http://www.bbc.co.uk/news/world-us-canada-14367987 (BBC)] [https://www.washingtonpost.com/politics/giffords-returns-to-congress-to-vote-on-debt-deal/2011/08/01/gIQALojfoI_story.html (''Washington Post'')]
 *The [[United States Senate]] fails to pass a bill ending the partial shutdown of the [[Federal Aviation Administration]]. [http://hosted.ap.org/dynamic/stories/U/US_AVIATION_SHUTDOWN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-08-01-19-29-58 (AP)]
 
 <!-- All news items above this line -->{{Current events footer}}

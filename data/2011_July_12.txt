@@ -28,7 +28,7 @@
 
 ;Business and economics
 *[[Republic of Ireland|Ireland]]'s debt rating is reduced to "junk" status by [[Moody's]]. [http://www.rte.ie/news/2011/0712/economy1.html (RTÉ)] [http://www.bbc.co.uk/news/business-14131959 (BBC)]
-*[[Apple Inc.|Apple]]'s chief [[patent]] lawyer is leaving the company, Reuters reports, amidst a slew of patent-related conflicts with [[Google]], [[Samsung]], [[Nokia]], others.  [http://www.reuters.com/article/2011/07/12/us-apple-hp-patent-idUSTRE76B0SF20110712 (Reuters)]
+*[[Apple Inc.|Apple]]'s chief [[patent]] lawyer is leaving the company, Reuters reports, amidst a slew of patent-related conflicts with [[Google]], [[Samsung]], [[Nokia]], others.  [https://www.reuters.com/article/2011/07/12/us-apple-hp-patent-idUSTRE76B0SF20110712 (Reuters)]
 *[[Japan]]ese officials announce their intention to send the country's [[whaling]] fleet back to [[Antarctica]] later in the year; the [[Sea Shepherd Conservation Society]] (SSCS) is also to return. [http://www.bbc.co.uk/news/science-environment-14132320 (BBC)]
 
 ;Disasters

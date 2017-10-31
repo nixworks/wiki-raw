@@ -3,7 +3,7 @@
 ;Armed conflicts and attacks
 *Three troops were killed when a roadside blast struck a military vehicle in [[Bara, FATA|Bara]] area of [[Khyber Agency|Khyber]], one of the seven tribal agencies in [[Pakistan]]'s restive northwest bordering [[Afghanistan]]. [http://news.xinhuanet.com/english2010/world/2010-09/22/c_13525295.htm (Xinhua)]
 *At least one person is killed and 10 injured in a shootout in [[Quetta]], [[Pakistan]]. [http://news.xinhuanet.com/english2010/photo/2010-09/23/c_13525554.htm (Xinhua)]
-*Three [[France|French]] crewman are kidnapped off the coast of [[Nigeria]]. [http://www.reuters.com/article/idUSWEA921620100922 (Reuters)] [http://news.xinhuanet.com/english2010/world/2010-09/22/c_13525378.htm (Xinhua)] [http://www.thehimalayantimes.com/fullNews.php?headline=Three+French+oil+workers+%27kidnapped+off+Niger+Delta%27&NewsID=258781 (''The Himalayan Times'')]
+*Three [[France|French]] crewman are kidnapped off the coast of [[Nigeria]]. [https://www.reuters.com/article/idUSWEA921620100922 (Reuters)] [http://news.xinhuanet.com/english2010/world/2010-09/22/c_13525378.htm (Xinhua)] [http://www.thehimalayantimes.com/fullNews.php?headline=Three+French+oil+workers+%27kidnapped+off+Niger+Delta%27&NewsID=258781 (''The Himalayan Times'')]
 *A [[State of Palestine|Palestinian]] man is shot dead by an Israeli security guard in the [[East Jerusalem]] area of [[Silwan]], during a clash between [[Israeli settlers]] and [[Palestinians]]. [http://www.bbc.co.uk/news/world-11387964 (BBC)]
 *At least a dozen Iranians are killed and 81 are wounded in a bomb attack on a military parade in the [[Kurdish people|Kurdish]] town of [[Mahabad]] according to reports from [[Iran]]ian Arabic language television [[Al-Alam]]. [http://www.dnaindia.com/world/report_blast-in-iranian-city-kills-9-report_1441527 (DNA India)] [http://in.reuters.com/article/idINIndia-51660520100922 (Reuters)] [http://www.rferl.org/content/Report_Blast_In_Iranian_City_Kills_At_Least_9/2164890.html (RFERL)] [http://classic.cnbc.com/id/39302077 (cnbc)], [http://news.smh.com.au/breaking-news-world/bomb-kills-12-at-iran-military-parade-20100922-15n3q.html (AFP via ''Sydney Morning Herald'')]
 *A militant is killed in an ongoing operation by security forces in militancy-hit [[Sopore]] township of [[Jammu and Kashmir|north Kashmir]] in the [[Baramulla]] district. [http://www.ptinews.com/news/973225_Militant-killed-in-encounter-in-Sopore (PTI)]
@@ -14,7 +14,7 @@
 
 ;Entertainment
 *[[United States|U.S.]] [[celebrity]] [[Paris Hilton]] is barred from entering [[Japan]] after pleading guilty to [[cocaine]] possession in [[Las Vegas, Nevada|Las Vegas]], [[Nevada]] earlier in the week. [http://timesofindia.indiatimes.com/entertainment/hollywood/news-interviews/Hilton-blocked-from-entering-Japan/articleshow/6605444.cms (''Times of India'')]
-*[[United States]] singer [[Eddie Fisher (singer)|Eddie Fisher]] dies in [[Berkeley, California|Berkeley]], [[California]]. [http://news.yahoo.com/s/ap/20100924/ap_on_en_mu/us_obit_eddie_fisher (AP via Yahoo! News)]
+*[[United States]] singer [[Eddie Fisher (singer)|Eddie Fisher]] dies in [[Berkeley, California|Berkeley]], [[California]]. [https://news.yahoo.com/s/ap/20100924/ap_on_en_mu/us_obit_eddie_fisher (AP via Yahoo! News)]
 
 ;International relations
 *[[Russia]] bans arms sales to [[Iran]], in accordance with [[United Nations Security Council Resolution 1929]]. [http://en.rian.ru/mlitary_news/20100922/160688354.html (RIA Novosti)] [http://news.xinhuanet.com/english2010/world/2010-09/23/c_13525451.htm (Xinhua)]

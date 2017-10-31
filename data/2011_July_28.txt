@@ -3,13 +3,13 @@
 ;Armed conflict and attacks
 *At least seven [[Philippine Army]] soldiers are killed and 21 injured in a confrontation with [[Abu Sayyaf]] militants on [[Jolo Island]]. [http://www.monstersandcritics.com/news/asiapacific/news/article_1653620.php/Seven-soldiers-killed-in-fighting-in-southern-Philippines (DPA via Monsters and Critics)]
 *The [[United Nations]] accuses [[Eritrea]] of attempting to bomb an [[African Union]] summit in [[Ethiopia]]. [http://www.bbc.co.uk/news/world-africa-14335752 (BBC)]
-*[[Assassination|Assassins]] kill the military commander of [[Libya]]'s [[National Transitional Council]]  General [[Abdul Fatah Younis]] and two other officers. [http://www.nytimes.com/2011/07/29/world/africa/29libya.html?_r=1 (''New York Times'')]
+*[[Assassination|Assassins]] kill the military commander of [[Libya]]'s [[National Transitional Council]]  General [[Abdul Fatah Younis]] and two other officers. [https://www.nytimes.com/2011/07/29/world/africa/29libya.html?_r=1 (''New York Times'')]
 *[[War in Afghanistan (2001–present)]]:
 **A [[Taliban]] attack in [[Afghanistan]]'s [[Uruzgan]] province kills 21 people including a [[BBC]] reporter [[Ahmed Omed Khpulwak]]. [http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/8669677/BBC-reporter-among-21-killed-in-Afghanistan-attacks.html (''The Telegraph'')]
 
 ;Business and economy
-*[[Switzerland|Swiss]] bank [[Credit Suisse]] announces plans to cut 2,000 jobs due to poor profit results. [http://www.reuters.com/article/2011/07/28/us-creditsuisse-idUSTRE76R0MI20110728?feedType=RSS&feedName=topNews (Reuters)]
-*[[Japan]]ese electronics company [[Sony]] reduces sales and profit forecasts due to the [[2011 Tōhoku earthquake and tsunami]], a [[hacker (computer security)|computer hacking]] attack and slowing demand in the US and Europe. [http://www.bloomberg.com/news/2011-07-28/sony-trims-full-year-net-income-forecast-by-25-lowers-outlook-for-sales.html  (Bloomberg)]
+*[[Switzerland|Swiss]] bank [[Credit Suisse]] announces plans to cut 2,000 jobs due to poor profit results. [https://www.reuters.com/article/2011/07/28/us-creditsuisse-idUSTRE76R0MI20110728?feedType=RSS&feedName=topNews (Reuters)]
+*[[Japan]]ese electronics company [[Sony]] reduces sales and profit forecasts due to the [[2011 Tōhoku earthquake and tsunami]], a [[hacker (computer security)|computer hacking]] attack and slowing demand in the US and Europe. [https://www.bloomberg.com/news/2011-07-28/sony-trims-full-year-net-income-forecast-by-25-lowers-outlook-for-sales.html  (Bloomberg)]
 
 ;Disasters
 *[[Asiana Airlines Flight 991]] crashes in the [[Pacific Ocean]], near [[Jeju Island]], [[South Korea]], killing 2 onboard. [http://www.france24.com/en/20110728-asiana-airlines-cargo-plane-crashes-off-skorea (France24)]
@@ -30,7 +30,7 @@
 *Former [[President of Tunisia]] [[Zine El Abidine Ben Ali]] is sentenced to 16 years in absentia for corruption and property fraud. [http://timesofindia.indiatimes.com/world/middle-east/Ex-Tunisian-President-Ben-Ali-given-16-years-for-corruption/articleshow/9402875.cms (''Times of India'')]
 
 ;Politics
-*[[John Boehner]] delays a vote on the [[United States House of Representatives]] [[2011 U.S. debt ceiling crisis|debt ceiling legislation]] with the issue deferred until at least Friday. [http://thecaucus.blogs.nytimes.com/2011/07/28/house-delays-budget-vote/?emc=na (''New York Times'')], [http://www.washingtonpost.com/politics/house-gop-leader-no-vote-tonight-on-debt-limit-bill/2011/07/28/gIQA1Gt5fI_story.html (AP via ''Washington Post'')]
+*[[John Boehner]] delays a vote on the [[United States House of Representatives]] [[2011 U.S. debt ceiling crisis|debt ceiling legislation]] with the issue deferred until at least Friday. [http://thecaucus.blogs.nytimes.com/2011/07/28/house-delays-budget-vote/?emc=na (''New York Times'')], [https://www.washingtonpost.com/politics/house-gop-leader-no-vote-tonight-on-debt-limit-bill/2011/07/28/gIQA1Gt5fI_story.html (AP via ''Washington Post'')]
 
 ;Science
 *Astronomers using the [[Wide-field Infrared Survey Explorer]] telescope identify a [[Trojan asteroid]], calling it ''[[2010 TK7|2010 TK<sub>7</sub>]]'', orbiting on the same path as the [[Earth (planet)|Earth]] around the [[Sun]].  The rock poses no danger to the Earth since it sits in a what is termed a gravitational "sweet spot". [http://www.bbc.co.uk/news/science-environment-14307987 (BBC)] [http://www.nature.com/nature/journal/v475/n7357/full/nature10233.html (Nature)]

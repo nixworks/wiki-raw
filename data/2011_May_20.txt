@@ -3,7 +3,7 @@
 ;Armed conflicts and attacks
 *[[2011 Syrian protests]]:
 **[[Syria]]n security forces fire into crowds of demonstrators, as thousands [[2011 Syrian protests|protest]] across the country after Friday prayers. [http://www.euronews.net/newswires/930849-syrian-forces-fire-into-crowds-as-thousands-protest/ (euronews)] [http://www.theaustralian.com.au/news/breaking-news/new-protests-sweep-syria-as-pressure-mounts-on-government/story-fn3dxity-1226059936548 (''The Australian'')]
-**At least 30 people are killed in the protests, according to human rights activists. [http://www.canada.com/news/canada-at-war/least+killed+protests+across+Syria/4815684/story.html (AFP via Canada.com)], [http://www.nytimes.com/2011/05/21/world/middleeast/21syria.html?partner=rss&emc=rss (''New York Times'')], [http://www.voanews.com/english/news/middle-east/in-transition/Shots-Fired-At-Anti-Government-Protests-in-Syria-122314889.html (''Voice of America'')]
+**At least 30 people are killed in the protests, according to human rights activists. [http://www.canada.com/news/canada-at-war/least+killed+protests+across+Syria/4815684/story.html (AFP via Canada.com)], [https://www.nytimes.com/2011/05/21/world/middleeast/21syria.html?partner=rss&emc=rss (''New York Times'')], [http://www.voanews.com/english/news/middle-east/in-transition/Shots-Fired-At-Anti-Government-Protests-in-Syria-122314889.html (''Voice of America'')]
 **[[Human Rights Watch]] calls on the [[Government of Lebanon|Lebanese government]] to grant asylum to people fleeing from [[Syria]]. [http://blogs.aljazeera.net/liveblog/syria (Al-Jazeera)]
 *[[2011 Libyan civil war]]:
 **The family of [[Anton Hammerl]], a [[South Africa]]n journalist missing in [[Libya]] since 5 April 2011, claim that he was shot by forces loyal to [[Muammar Gaddafi]]. [http://www.iol.co.za/news/africa/anton-hammerl-is-dead-family-1.1071364 (IOL News)]
@@ -12,12 +12,12 @@
 
 ;Arts and culture
 *[[Claude Choules]], the last person alive to have fought in [[World War I]], is buried in the [[West Australia]]n port of [[Fremantle, Western Australia|Fremantle]], having died aged 110 on 5 May. [http://www.theage.com.au/wa-news/worlds-last-wwi-combat-veteran-farewelled-20110520-1ew29.html (''Melbourne Age'')]
-*The [[New York City Opera]] announces plans to leave the [[Lincoln Center]]. [http://www.nytimes.com/2011/05/21/arts/music/new-york-city-opera-plans-to-leave-lincoln-center.html?_r=1&hp (''New York Times'')]
+*The [[New York City Opera]] announces plans to leave the [[Lincoln Center]]. [https://www.nytimes.com/2011/05/21/arts/music/new-york-city-opera-plans-to-leave-lincoln-center.html?_r=1&hp (''New York Times'')]
 
 ;Business and economy
-*The [[Tokyo Electric Power Company]] (TEPCO) announces its financial results, with a 1 trillion [[Japanese yen]] loss predicted due to the [[Fukushima I nuclear accidents]] and the resignation of [[Masataka Shimizu]] as president of the utility following [[Japan]]'s highest ever annual loss. [http://www.reuters.com/article/2011/05/19/tepco-idUSTKV00646420110519 (Reuters)], [http://news.yahoo.com/s/ap/20110520/ap_on_bi_ge/as_japan_earthquake_tepco (AP via Yahoo News)]
-*The [[International Monetary Fund]] approves a 26 billion [[euro]] loan to [[Portugal]] as part of a joint bailout package with the [[European Union]] to try to resolve the [[European sovereign debt crisis (2010–present)|European sovereign debt crisis]]. [http://www.bloomberg.com/news/2011-05-20/imf-board-approves-36-8-billion-loan-to-portugal.html (Bloomberg)], [http://www.google.com/hostednews/afp/article/ALeqM5hP-WlJ7roHt-z9N4JCSwvUfpiTfw?docId=CNG.48cb2236e9ad27d507b57e0cc138ac70.591 (AFP via Google News)]
-*The [[TMX Group]], parent corporation of the Toronto Stock Exchange, rejects an acquisition offer from a consortium of Canadian banks, opening the way to an expected deal with the [[London Stock Exchange]]. [http://www.reuters.com/article/2011/05/21/us-tmx-maple-idUSTRE74J6WV20110521 (Reuters)] 
+*The [[Tokyo Electric Power Company]] (TEPCO) announces its financial results, with a 1 trillion [[Japanese yen]] loss predicted due to the [[Fukushima I nuclear accidents]] and the resignation of [[Masataka Shimizu]] as president of the utility following [[Japan]]'s highest ever annual loss. [https://www.reuters.com/article/2011/05/19/tepco-idUSTKV00646420110519 (Reuters)], [https://news.yahoo.com/s/ap/20110520/ap_on_bi_ge/as_japan_earthquake_tepco (AP via Yahoo News)]
+*The [[International Monetary Fund]] approves a 26 billion [[euro]] loan to [[Portugal]] as part of a joint bailout package with the [[European Union]] to try to resolve the [[European sovereign debt crisis (2010–present)|European sovereign debt crisis]]. [https://www.bloomberg.com/news/2011-05-20/imf-board-approves-36-8-billion-loan-to-portugal.html (Bloomberg)], [http://www.google.com/hostednews/afp/article/ALeqM5hP-WlJ7roHt-z9N4JCSwvUfpiTfw?docId=CNG.48cb2236e9ad27d507b57e0cc138ac70.591 (AFP via Google News)]
+*The [[TMX Group]], parent corporation of the Toronto Stock Exchange, rejects an acquisition offer from a consortium of Canadian banks, opening the way to an expected deal with the [[London Stock Exchange]]. [https://www.reuters.com/article/2011/05/21/us-tmx-maple-idUSTRE74J6WV20110521 (Reuters)] 
 
 ;Disasters
 *More than 850 people are injured after a train collision in [[Soweto]], [[South Africa]]. [http://www.rte.ie/news/2011/0520/southafrica.html (RTE)]
@@ -48,6 +48,6 @@
 *The [[Government of the People's Republic of China]] acknowledges that there are "urgent problems" associated with the country's [[Three Gorges Dam]] project, as it is linked to [[soil erosion]], earthquakes, [[drought]] and social upheaval. [http://www.guardian.co.uk/world/2011/may/20/three-gorges-dam-china-warning (''The Guardian'')]
 
 ;Sport
-*Former US [[professional wrestling|professional wrestler]] [[Randy Savage]] dies in a car accident in [[Largo, Florida]]. [http://sports.yahoo.com/top/news?slug=ycn-8508663 (Yahoo! Sports)]
+*Former US [[professional wrestling|professional wrestler]] [[Randy Savage]] dies in a car accident in [[Largo, Florida]]. [https://sports.yahoo.com/top/news?slug=ycn-8508663 (Yahoo! Sports)]
 
 <!-- All news items above this line -->{{Current events footer}}
