@@ -1,6 +1,10 @@
 {{Current events|year=2017|month=11|day=1|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Saudi Arabian-led intervention in Yemen]]
+**A [[Saudi Arabia|Saudi]]-led coalition airstrike on a market in [[Sahar District]] in [[Yemen]]'s northern [[Saada Governorate]], which is under [[Houthis|Houthi]] control, kills at least 26 people, according to medics and local officials. [http://www.reuters.com/article/us-yemen-security-air-strike/saudi-led-air-strike-kills-26-people-in-yemen-medics-idUSKBN1D13Y7 (Reuters)]
+
 ;Arts and culture
 *[[Rock climbing in Australia]]
 **The [[Uluṟu-Kata Tjuṯa National Park]]'s board votes unanimously to ban climbing on [[Uluru]] in Australia's [[Northern Territory]], from October 2019, due to [[Indigenous Australians|Indigenous]] concerns over tourist behavior. [http://www.bbc.co.uk/news/world-australia-41827203 (BBC)]
@@ -18,4 +22,5 @@
 **[[President of the Senate (Australia)|President of the Australian Senate]], [[Stephen Parry (politician)|Stephen Parry]], announces he will resign, effective 2 November 2017, after confirming he holds dual British-Australian citizenship. [http://www.bbc.co.uk/news/world-australia-41827970 (BBC)]
 *[[States of emergency in France]]
 **[[France]] declares the end of the country's state of emergency which was enforced as a reaction to the [[November 2015 Paris attacks]]. The state of emergency gets replaced with a new counterterrorism law signed by [[President of France|President]] [[Emmanuel Macron]]. [http://www.independent.co.uk/news/world/europe/france-state-of-emergency-end-terror-attacks-paris-isis-terrorism-alerts-warning-risk-reduced-a8029311.html (The Independent)]
+*[[Michael Fallon]] resigns as the [[United Kingdom]]'s [[Secretary of State for Defence]] amid controversy over reports he touched a female journalist inappropriately in [[2002 in the United Kingdom|2002]]. [http://www.bbc.co.uk/news/uk-politics-41838682 (BBC)]
 <!-- All news items above this line -->}}
