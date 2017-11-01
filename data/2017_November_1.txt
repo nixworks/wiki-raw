@@ -1,5 +1,7 @@
 {{Current events|year=2017|month=11|day=1|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[Japanese general election, 2017]]
+**[[Shinzo Abe]] has been officially re-elected as [[Prime Minister of Japan]] following the election on 22 October 2017. [http://www.reuters.com/article/us-japan-politics/japans-abe-re-elected-prime-minister-after-big-election-win-idUSKBN1D13LP?il=0 (Reuters)]
 <!-- All news items above this line -->}}
