@@ -2,7 +2,7 @@
 
 ;Armed conflicts and attacks
 *[[Arab Spring]]:
-**[[2011 Libyan civil war]]: In the pro-[[Muammar Gaddafi]] stronghold of [[Sirte]], [[National Transitional Council]] forces are massing in a square about a kilometer (0.6 miles) from the city center, as they weather heavy fire from pro-Gaddafi snipers. [http://www.reuters.com/article/2011/09/24/us-libya-idUSTRE7810I820110924 (Reuters)]
+**[[2011 Libyan civil war]]: In the pro-[[Muammar Gaddafi]] stronghold of [[Sirte]], [[National Transitional Council]] forces are massing in a square about a kilometer (0.6 miles) from the city center, as they weather heavy fire from pro-Gaddafi snipers. [https://www.reuters.com/article/2011/09/24/us-libya-idUSTRE7810I820110924 (Reuters)]
 
 ;International relations
 *[[Turkey]] seizes a [[Syria]]n ship possibly carrying weapons to the [[Syrian Army]], as the [[2011 Syrian uprising]] continues. [http://blogs.voanews.com/breaking-news/2011/09/24/turkey-seizes-syrian-ship-2/ (Voice of America)]
@@ -19,10 +19,10 @@
 ;Politics
 *At the [[United Russia]] Congress, [[Prime Minister of Russia|Prime Minister]] [[Vladimir Putin]] accepts [[President of the Russian Federation|President]] [[Dmitry Medvedev]]'s proposal to run in the [[Russian presidential election, 2012|2012 Russian presidential election]]. [http://www.bbc.co.uk/news/world-europe-15045816 (BBC)] [http://en.rian.ru/russia/ (RIA Novosti)]
 *[[Herman Cain]] wins a [[Florida]] straw poll for the [[Republican Party (United States) presidential primaries, 2012|2012 Republican presidential primaries]]. [http://politicalticker.blogs.cnn.com/2011/09/24/cain-upsets-perry-as-winner-of-florida-straw-poll/?hpt=hp_t2 (CNN)]
-*Voters in [[Bahrain]] go to the polls for [[byelection]]s caused by the resignation of [[Shiite]] members during the [[2011 Bahraini uprising]]; many Shiite voters are expected to boycott the election. [http://www.reuters.com/article/2011/09/24/us-bahrain-vote-idUSTRE78N1C620110924 (Reuters)]
+*Voters in [[Bahrain]] go to the polls for [[byelection]]s caused by the resignation of [[Shiite]] members during the [[2011 Bahraini uprising]]; many Shiite voters are expected to boycott the election. [https://www.reuters.com/article/2011/09/24/us-bahrain-vote-idUSTRE78N1C620110924 (Reuters)]
 *Voters in the [[United Arab Emirates]] go to the polls for [[United Arab Emirates parliamentary election, 2011|parliamentary elections]]. [http://www.bbc.co.uk/news/world-middle-east-15036704 (BBC)]
 
 ;Science
-*The decommissioned [[NASA]] [[Upper Atmosphere Research Satellite]] re-enters Earth's atmosphere without incident, after more than 20 years in orbit. [http://www.washingtonpost.com/national/health-science/nasa-satellite-debris-might-hit-us/2011/09/23/gIQA5VmiqK_story.html?hpid=z2&wpisrc=al_national (''Washington Post'')]
+*The decommissioned [[NASA]] [[Upper Atmosphere Research Satellite]] re-enters Earth's atmosphere without incident, after more than 20 years in orbit. [https://www.washingtonpost.com/national/health-science/nasa-satellite-debris-might-hit-us/2011/09/23/gIQA5VmiqK_story.html?hpid=z2&wpisrc=al_national (''Washington Post'')]
 
 <!-- All news items above this line -->{{Current events footer}}

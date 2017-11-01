@@ -2,7 +2,7 @@
 
 ;Armed conflict and attacks
 *[[Syria]]:
-**The [[Syrian Army]] continues its [[February 2012 bombardment of Homs|bombardment]] of [[Homs]]. [http://www.reuters.com/article/2012/02/13/us-syria-idUSL5E8DB0BH20120213 (Reuters)]
+**The [[Syrian Army]] continues its [[February 2012 bombardment of Homs|bombardment]] of [[Homs]]. [https://www.reuters.com/article/2012/02/13/us-syria-idUSL5E8DB0BH20120213 (Reuters)]
 **[[Navanethem Pillay]], the [[United Nations High Commissioner for Human Rights]], accuses the [[Government of Syria|Syrian government]] of launching an "indiscriminate attack" on civilians. [http://www.abc.net.au/news/2012-02-14/un-accuses-syria-of-human-rights-abuses/3828268 (ABC News Australia)]
 **The [[Free Syrian Army]] claims to have repelled a push by the [[Syrian Army]] into the town of [[Al-Rastan|Rastan]]. [http://www.heraldtribune.com/article/20120213/API/1202130568 (AP via ''Herald-Tribune'')]
 *[[13 February 2012 attacks on Israeli diplomats]]:
@@ -21,7 +21,7 @@
 *[[Japan]] suffers negative [[economic growth]] for the fourth quarter of 2011 making it three out of four quarters that the [[Economy of Japan|Japanese economy]] shrinks. [http://edition.cnn.com/2012/02/12/business/japan-gdp/index.html?eref=edition (CNN)]
 *[[Rangers F.C.]] announces an intent to enter [[Administration (British football)|administration]]. [http://www.bbc.co.uk/news/uk-scotland-glasgow-west-17015966 (BBC)]
 *The [[European Union]] and [[United States]] approve [[Google]]'s $12.5 billion acquisition of [[smartphone]] maker [[Motorola Mobility|Motorola]]. [http://online.wsj.com/article/SB10001424052970204883304577221270332567162.html?KEYWORDS=Google (''Wall Street Journal'')] [http://www.seattlepi.com/business/article/US-approves-Google-s-Motorola-bid-after-EU-OKs-3311808.php (AP via ''Seattle-PI'')]
-*[[Moody's Investors Service]] downgrades the [[credit rating]]s of several [[European Union]] members including [[Italy]], [[Malta]], [[Portugal]], [[Slovakia]], [[Slovenia]] and [[Spain]] and issues a negative outlook for the ratings of [[Austria]], [[France]] and the [[United Kingdom]]. [http://www.reuters.com/article/2012/02/13/idUSL2E8DDHER20120213 (Reuters)]
+*[[Moody's Investors Service]] downgrades the [[credit rating]]s of several [[European Union]] members including [[Italy]], [[Malta]], [[Portugal]], [[Slovakia]], [[Slovenia]] and [[Spain]] and issues a negative outlook for the ratings of [[Austria]], [[France]] and the [[United Kingdom]]. [https://www.reuters.com/article/2012/02/13/idUSL2E8DDHER20120213 (Reuters)]
 
 ;Disasters
 *A 5.5-[[Richter magnitude scale|magnitude]] earthquake hits [[Northern California]], near [[Weitchpec, California|Weitchpec]], according to the [[United States Geological Survey]]. [http://www.cnn.com/2012/02/13/us/california-earthquake/index.html?hpt=hp_t3 (CNN)]
@@ -35,7 +35,7 @@
 
 ;Politics
 *The president of [[Turkmenistan]], [[Gurbanguli Berdymukhamedov]], [[Turkmenistani presidential election, 2012|wins a new five-year term]] with 97% of the vote, according to election officials. [http://www.guardian.co.uk/world/2012/feb/13/turkmenistan-president-wins-election?newsfeed=true (''The Guardian'')]
-*[[Washington (state)|Washington]] governor [[Christine Gregoire]] signs a [[Bill (proposed law)|bill into law]] that [[Same-sex marriage in the United States|legalizes same-sex marriage]] in the state. [http://www.reuters.com/article/2012/02/13/us-gaymarriage-washington-idUSTRE81C15L20120213 (Reuters)]
+*[[Washington (state)|Washington]] governor [[Christine Gregoire]] signs a [[Bill (proposed law)|bill into law]] that [[Same-sex marriage in the United States|legalizes same-sex marriage]] in the state. [https://www.reuters.com/article/2012/02/13/us-gaymarriage-washington-idUSTRE81C15L20120213 (Reuters)]
 *The [[New Jersey]] state Senate passes a bill to legalize marriage for [[Same-sex marriage in New Jersey|same-sex couples]] by a vote of 24-16. [http://njtoday.net/2012/02/13/nj-senate-passes-marriage-equality-bill/#ixzz1mJoAsyq5 (NJ Today)]
 
 ;Science

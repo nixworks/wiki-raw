@@ -2,7 +2,7 @@
 
 ;Armed conflicts and attacks
 *The [[Syrian military]] continues to pound [[Aleppo]] with artillery. Opposition forces claim that they have driven the [[Syrian army]] out of the city. [http://in.reuters.com/article/2012/07/31/syria-crisis-idINL6E8IUL2320120731 (Reuters)]
-*Police in [[Norway]] evacuate the area surrounding the [[U.S. embassy#Europe|U.S. embassy]] in the capital [[Oslo]] after a suspicious package was discovered. It is later confirmed as a false alarm. [http://www.reuters.com/article/2012/07/31/us-norway-usebassy-idUSBRE86U0F620120731 (Reuters)] 
+*Police in [[Norway]] evacuate the area surrounding the [[U.S. embassy#Europe|U.S. embassy]] in the capital [[Oslo]] after a suspicious package was discovered. It is later confirmed as a false alarm. [https://www.reuters.com/article/2012/07/31/us-norway-usebassy-idUSBRE86U0F620120731 (Reuters)] 
 *At least 21 people are killed in two car bomb blasts in [[Baghdad]], [[Iraq]]. [http://www.bbc.co.uk/news/world-middle-east-19066002 (BBC)]
 
 ;Arts and culture
@@ -11,11 +11,11 @@
 ;Business and economy
 *Advertiser accuses [[Facebook]] of fraud after discovering that 80% of the clicks they're paying for are from [[Internet bot|bots]], and not actual potential customers. [http://www.businessinsider.com/facebook-accused-of-click-fraud-by-advertiser-2012-7 (Business Insider)]
 *Following the @ reply and # [[hashtag]], social media service [[Twitter]] introduces the $ symbol, a way for users to click on stock symbols and see related tweets. [http://money.cnn.com/2012/07/31/technology/twitter-cashtag/index.htm?source=googleplus (CNN Money)]
-*German global financial services company [[Deutsche Bank]] announces plans to cut 1,900 jobs. [http://www.reuters.com/article/2012/07/31/us-deutschebank-savings-jobs-idUSBRE86U0KL20120731 (Reuters)]
+*German global financial services company [[Deutsche Bank]] announces plans to cut 1,900 jobs. [https://www.reuters.com/article/2012/07/31/us-deutschebank-savings-jobs-idUSBRE86U0KL20120731 (Reuters)]
 
 ;Disasters and accidents
 *[[2012 northern India power grid failure]]: 
-**A second power cut hits northern [[India]] and leaves 670 million people without electricity. [http://www.bbc.co.uk/news/world-asia-india-19060279 (BBC)] [http://edition.cnn.com/2012/07/31/world/asia/india-blackout/index.html?hpt=hp_t1 (CNN)] [http://www.reuters.com/article/2012/07/31/us-india-blackout-idUSBRE86U0C520120731 (Reuters)]
+**A second power cut hits northern [[India]] and leaves 670 million people without electricity. [http://www.bbc.co.uk/news/world-asia-india-19060279 (BBC)] [http://edition.cnn.com/2012/07/31/world/asia/india-blackout/index.html?hpt=hp_t1 (CNN)] [https://www.reuters.com/article/2012/07/31/us-india-blackout-idUSBRE86U0C520120731 (Reuters)]
 **The northeastern power grid also fails becoming the third after the north and eastern grids. [http://news.ninemsn.com.au/article.aspx?id=8508550 (AFP via NineMSN)]
 
 ;International relations
@@ -25,8 +25,8 @@
 *Russian anti-corruption campaigner [[Alexei Navalny]] is charged with [[fraudulent conversion]]. [http://www.bbc.co.uk/news/world-europe-19060444 (BBC)]
 
 ;Politics and elections
-*[[Mercosur]] grants full membership for [[Venezuela]]. [http://www.reuters.com/article/2012/06/30/us-mercosur-idUSBRE85S1JT20120630 (Reuters)] [http://internacional.elpais.com/internacional/2012/07/31/actualidad/1343729834_339776.html (El País)]
-*Voters in the US state of [[Texas]] go to the polls for a [[runoff election]] in the [[Republican Party (United States)|Republican]] [[United States Senate election in Texas, 2012|Senate primary]] with [[Ted Cruz]] defeating [[David Dewhurst]]. [http://www.washingtonpost.com/blogs/the-fix/post/ted-cruz-wins-republican-runoff-for-texas-senate-seat/2012/07/31/gJQADsLtNX_blog.html (''Washington Post'')]
+*[[Mercosur]] grants full membership for [[Venezuela]]. [https://www.reuters.com/article/2012/06/30/us-mercosur-idUSBRE85S1JT20120630 (Reuters)] [http://internacional.elpais.com/internacional/2012/07/31/actualidad/1343729834_339776.html (El País)]
+*Voters in the US state of [[Texas]] go to the polls for a [[runoff election]] in the [[Republican Party (United States)|Republican]] [[United States Senate election in Texas, 2012|Senate primary]] with [[Ted Cruz]] defeating [[David Dewhurst]]. [https://www.washingtonpost.com/blogs/the-fix/post/ted-cruz-wins-republican-runoff-for-texas-senate-seat/2012/07/31/gJQADsLtNX_blog.html (''Washington Post'')]
 
 ;Sport
 *[[2012 Summer Olympics]]:

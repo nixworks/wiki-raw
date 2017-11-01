@@ -5,8 +5,8 @@
 *At least 130 people are killed in a [[car bombing]] in the [[Somalia|Somali]] capital [[Mogadishu]]. [http://www.hindustantimes.com/65-dead-in-Somali-car-bombing/Article1-753497.aspx (Indo-Asian News Service via ''Hindustan Times'')]
 
 ;Business and economy
-*Regulators in the [[European Union]] are close to making a formal announcement that they object to a proposed merger of [[NYSE Euronext]] with [[Deutsche Boerse AG]], according to an anonymous source cited by Reuters. [http://www.reuters.com/article/2011/10/04/eu-deutscheboerse-nyse-idUSB5E7KS06120111004 (Reuters)].
-*Technology company [[Apple Inc.]] announces its much-anticipated [[iPhone 4S]] at Apple's [[Cupertino, California|Cupertino]] campus. [http://www.usatoday.com/tech/news/story/2011-10-04/apple-announces-iphone-4S/50658682/1 (USA Today)]
+*Regulators in the [[European Union]] are close to making a formal announcement that they object to a proposed merger of [[NYSE Euronext]] with [[Deutsche Boerse AG]], according to an anonymous source cited by Reuters. [https://www.reuters.com/article/2011/10/04/eu-deutscheboerse-nyse-idUSB5E7KS06120111004 (Reuters)].
+*Technology company [[Apple Inc.]] announces its much-anticipated [[iPhone 4S]] at Apple's [[Cupertino, California|Cupertino]] campus. [https://www.usatoday.com/tech/news/story/2011-10-04/apple-announces-iphone-4S/50658682/1 (USA Today)]
 
 ;Disasters
 *The death toll from the flooding of [[Cambodia]]'s [[Mekong River]] and attendant [[flash flood]]s reaches 164. [http://www.philstar.com/Article.aspx?articleId=733860&publicationSubCategoryId=200 (Xinhua via ''Philippines Star'')]
@@ -24,13 +24,13 @@
 *Voters in the [[US state]] of [[West Virginia]] go to the polls for a [[West Virginia gubernatorial special election, 2011|gubernatorial special election]] with acting Governor, [[Democratic Party (United States)|Democrat]] [[Earl Ray Tomblin]], being elected as [[Governor of West Virginia]]. [http://politicalticker.blogs.cnn.com/2011/10/03/west-virginia-gubernatorial-election-in-national-spotlight/ (CNN)] [http://www.wvgazette.com/News/201110042458 (''Charleston Gazette'')]
 *Voters in the [[Canadian people|Canadian]] province of [[Manitoba]] go to the polls for a [[Manitoba general election, 2011|general election]], with the [[New Democratic Party of Manitoba|NDP]] led by [[Greg Selinger]] being elected to a fourth term. [http://www.cbc.ca/news/canada/manitoba/story/2011/10/03/mbvotes-polls-111004.html (CBC)] [http://www.montrealgazette.com/sports/fourth+majority+Manitoba/5502604/story.html (''Montreal Gazette'')]
 *The [[Haiti]]an [[Senate of Haiti|Senate]] finally approves the appointment of [[Garry Conille]] as the [[List of Prime Ministers of Haiti|Prime Minister]]. [http://hosted.ap.org/dynamic/stories/C/CB_HAITI_PRIME_MINISTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-10-04-23-34-30 (AP)]
-*The [[Italian Wikipedia]] shuts down in protest against a privacy law drafted by Silvio Berlusconi's government which would impose restrictions on newspapers and Internet pages. [http://www.reuters.com/article/2011/10/05/us-italy-privacy-idUSTRE79443S20111005 (Reuters)] [[:it:Pagina principale|(Italian Wikipedia)]]
+*The [[Italian Wikipedia]] shuts down in protest against a privacy law drafted by Silvio Berlusconi's government which would impose restrictions on newspapers and Internet pages. [https://www.reuters.com/article/2011/10/05/us-italy-privacy-idUSTRE79443S20111005 (Reuters)] [[:it:Pagina principale|(Italian Wikipedia)]]
 
 ;Science
 *[[Saul Perlmutter]], [[Brian Schmidt|Brian P. Schmidt]] and  [[Adam Riess]] share the [[Nobel Prize for Physics]] for work on the [[Accelerating universe|accelerating expansion]] of the [[universe]]. [http://www.nobelprize.org/nobel_prizes/physics/laureates/ (Nobel Prize)] [http://www.guardian.co.uk/science/blog/2011/oct/04/nobel-prize-physics?newsfeed=true (''The Guardian'')]
 
 ;Sport
 *In [[basketball]], the [[North America]]n [[National Basketball Association]] cancels the remainder of the preseason due to the [[2011 NBA lockout]], with cancellation of games in the [[2011–12 NBA season|regular season]] occurring if the lockout continues for another week. [http://probasketballtalk.nbcsports.com/2011/10/04/nba-season-start-threatened-after-key-day-of-talks-see-little-progress/related (NBC Sports)]
-*In [[soccer]], [[Seattle Sounders F.C.]] defeat [[Chicago Fire Soccer Club|Chicago Fire]] 2-0 to [[2011 Lamar Hunt U.S. Open Cup Final|win]] the [[Lamar Hunt U.S. Open Cup]] for the third year in a row, the first time a team has done this in over 40 years. [http://www.usatoday.com/sports/soccer/tourneys/story/2011-10-05/sounders-win-us-open-cup/50663408/1 (''USA Today'')]
+*In [[soccer]], [[Seattle Sounders F.C.]] defeat [[Chicago Fire Soccer Club|Chicago Fire]] 2-0 to [[2011 Lamar Hunt U.S. Open Cup Final|win]] the [[Lamar Hunt U.S. Open Cup]] for the third year in a row, the first time a team has done this in over 40 years. [https://www.usatoday.com/sports/soccer/tourneys/story/2011-10-05/sounders-win-us-open-cup/50663408/1 (''USA Today'')]
 
 <!-- All news items above this line -->{{Current events footer}}

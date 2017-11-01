@@ -7,7 +7,7 @@
 *[[Electronic Arts]] has reportedly shipped 10 million copies of ''[[Battlefield 3]]'' since October 25, according to Electronic Arts [[CEO]] [[John Riccitiello]]. [http://www.gamespot.com/news/6342616/battlefield-3-ships-10-million (GameSpot)]
 *The [[United States]] commemorates the 125th anniversary of the dedication of the [[Statue of Liberty]] in [[New York City]]. [http://www.csmonitor.com/USA/Latest-News-Wires/2011/1028/Statue-of-Liberty-birthday-celebrations-include-Sigourney-Weaver-La-Marseillaise-and-125-new-Americans (''Christian Science Monitor'')]
 ;Business and economy
-*[[South Korea]] manufacturer [[Samsung]] supersedes [[Apple Inc.|Apple]] to become the largest maker of [[smartphones]] in the world. [http://www.reuters.com/article/2011/10/28/us-samsung-idUSTRE79R0B620111028 (Reuters)]
+*[[South Korea]] manufacturer [[Samsung]] supersedes [[Apple Inc.|Apple]] to become the largest maker of [[smartphones]] in the world. [https://www.reuters.com/article/2011/10/28/us-samsung-idUSTRE79R0B620111028 (Reuters)]
 ;Disasters
 *A 6.9 magnitude [[earthquake]] strikes 51 kilometres south-west of the city of [[Ica, Peru|Ica]] in [[Peru]] at a depth of 35 km. No reports of casualties are issued. [http://www.news.com.au/breaking-news/locals-flee-as-major-quake-hits-coast-of-peru/story-e6frfku0-1226180114803 News.com.au]
 ;International relations
@@ -32,5 +32,5 @@
 *[[NASA]] launches its [[NPOESS|NPOESS Preparatory Project (NPP)]] satellite to send back data on weather and climate conditions. [http://www.google.com/hostednews/afp/article/ALeqM5gbOTD9_GOhb6fWa4mWyWpCOHhDZQ?docId=CNG.96d95c3fd42ca7857401bd927260fa13.1f1 (AFP via Google News)]
 ;Sport
 *In [[basketball]], the [[North America]]n [[National Basketball Association]] cancels all games scheduled up until November 30, 2011 after failing to achieve a resolution of the [[2011 NBA lockout]] with the [[National Basketball Players Association]]. [http://www.npr.org/templates/story/story.php?storyId=141811514 (AP via NPR)]
-*The [[St. Louis Cardinals]] win the [[2011 World Series]], defeating the [[Texas Rangers (baseball)|Texas Rangers]] 6–2 in Game 7. [http://sports.yahoo.com/mlb/news?slug=sh-henson_world_series_cardinals_game_seven_102811 (Yahoo! Sports)] [http://nbcsports.msnbc.com/id/45083193/ns/sports-baseball/ (NBC Sports)]
+*The [[St. Louis Cardinals]] win the [[2011 World Series]], defeating the [[Texas Rangers (baseball)|Texas Rangers]] 6–2 in Game 7. [https://sports.yahoo.com/mlb/news?slug=sh-henson_world_series_cardinals_game_seven_102811 (Yahoo! Sports)] [http://nbcsports.msnbc.com/id/45083193/ns/sports-baseball/ (NBC Sports)]
 <!-- All news items above this line -->{{Current events footer}}

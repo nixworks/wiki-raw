@@ -16,7 +16,7 @@
 
 ;Business and economy
 *[[Moody's Investor Services]] downgrades [[Italy]]'s government rating from A3 to Baa2. [http://www.theaustralian.com.au/business/in-depth/moodys-cuts-italys-debt-rating-warns-on-market-funding/story-fnawdwo8-1226425161199 (Dow Jones via ''The Australian'')]
-*The [[Federal Reserve Bank of New York]] is set to release documents outlining what it knew about the [[Libor scandal]] and what action it took. [http://www.washingtonpost.com/business/economy/geithner-drawn-into-libor-scandal/2012/07/12/gJQArDhbgW_story.html?wpisrc=al_comboNE (''The Washington Post'')]
+*The [[Federal Reserve Bank of New York]] is set to release documents outlining what it knew about the [[Libor scandal]] and what action it took. [https://www.washingtonpost.com/business/economy/geithner-drawn-into-libor-scandal/2012/07/12/gJQArDhbgW_story.html?wpisrc=al_comboNE (''The Washington Post'')]
 *The [[economic growth]] rate for the [[People's Republic of China]] falls to 7.6 per cent, its lowest level in three years. [http://www.smh.com.au/business/china/chinas-economy-sparks-relief-rally-20120713-2207r.html (Bloomberg via ''Sydney Morning Herald'')] [http://news.xinhuanet.com/english/china/2012-07/13/c_131713073.htm (Xinhua)]
 *The [[Federal Aviation Administration]] fines [[Boeing]] $13.5 million for failing to provide fuel tank flammability instructions by designated deadline. [http://www.komonews.com/news/boeing/FAA-fines-Boeing-135-million-for-missed-deadline-162382366.html (Komo News)]
 
@@ -29,7 +29,7 @@
 
 ;International relations
 *[[Canada]] announces it will establish an embassy in [[Myanmar]] after the country's widespread democratic reform, says Foreign Affairs Minister [[John Baird (Canadian politician)|John Baird]]. [http://www.cbc.ca/news/politics/story/2012/07/13/pol-baird-burma-democracy-aid.html (CBC)]
-*Former British Prime Minister [[Gordon Brown]] is appointed [[United Nations]] special envoy for education. [http://www.guardian.co.uk/politics/2012/jul/13/gordon-brown-un-envoy-children?newsfeed=true (''The Guardian'')] [http://www.independent.co.uk/news/uk/politics/gordon-brown-becomes-education-envoy-for-un-7942488.html (''The Independent'')]
+*Former British Prime Minister [[Gordon Brown]] is appointed [[United Nations]] special envoy for education. [http://www.guardian.co.uk/politics/2012/jul/13/gordon-brown-un-envoy-children?newsfeed=true (''The Guardian'')] [https://www.independent.co.uk/news/uk/politics/gordon-brown-becomes-education-envoy-for-un-7942488.html (''The Independent'')]
 
 ;Law and crime
 *[[Tetra Pak]] heir [[Hans Kristian Rausing]] is arrested on suspicion of involvement in the death of his wife, [[Eva Rausing]]. [http://www.smh.com.au/world/the-odd-couple-20120711-21us5.html (''The Sydney Morning Herald'')]

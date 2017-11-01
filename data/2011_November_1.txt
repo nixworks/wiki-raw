@@ -1,11 +1,11 @@
 <!-- All news items below this line -->{{Current events header|2011|11|01}}
 
 ;Arts and culture
-*The [[President of the United States]], [[Barack Obama]], makes [[Fort Monroe]] in [[Hampton, Virginia]], a [[National Monument (United States)|National Monument]]. [http://www.reuters.com/article/2011/11/01/us-obama-slavery-monument-idUSTRE7A07G920111101?feedType=RSS&feedName=topNews&rpc=71 (Reuters)]
+*The [[President of the United States]], [[Barack Obama]], makes [[Fort Monroe]] in [[Hampton, Virginia]], a [[National Monument (United States)|National Monument]]. [https://www.reuters.com/article/2011/11/01/us-obama-slavery-monument-idUSTRE7A07G920111101?feedType=RSS&feedName=topNews&rpc=71 (Reuters)]
 
 ;Business and economy
 *The [[FBI]] and [[U.S. Securities and Exchange Commission]] launch an investigation into [[MF Global]] after $600 million of customers' money went missing. [http://money.cnn.com/2011/11/01/news/economy/mf_global_fbi_investigation/index.htm?hpt=hp_t1 (CNN)]
-*The [[Palestinian Authority]] is hit by hackers disrupting Palestinian internet and mobile phone services.  A link has been suggested to Palestine's [[UNESCO]] bid. [http://www.reuters.com/article/2011/11/01/palestinians-internet-idUSL5E7M139720111101 (Reuters)] [http://www.jpost.com/LandedPages/SearchResults.aspx?q=paltel (''Jerusalem Post'')]
+*The [[Palestinian Authority]] is hit by hackers disrupting Palestinian internet and mobile phone services.  A link has been suggested to Palestine's [[UNESCO]] bid. [https://www.reuters.com/article/2011/11/01/palestinians-internet-idUSL5E7M139720111101 (Reuters)] [http://www.jpost.com/LandedPages/SearchResults.aspx?q=paltel (''Jerusalem Post'')]
 *The United Kingdom [[Office for National Statistics]] releases GDP figures indicating growth of 0.5% compared to a 0.1% figure in the previous quarter. [http://www.bbc.co.uk/news/business-15535518 (BBC)]
 
 ;Disasters
@@ -15,7 +15,7 @@
 *A boat carrying 70 [[asylum seeker]]s en route to [[Australia]] sinks off the coast of [[Java]] in [[Indonesia]] with eight confirmed deaths and fifteen people missing. [http://news.theage.com.au/breaking-news-world/grave-fears-for-missing-asylum-seekers-20111102-1muvj.html (AAP via ''The Melbourne Age'')]
 
 ;International relations
-*[[Almazbek Atambayev]], the newly elected [[President of Kyrgyzstan]], states that a lease for a [[United States]] air base in [[Transit Center at Manas|Manas]] will not be renewed when it expires in 2014. [http://www.washingtonpost.com/world/asia-pacific/kyrgyzstans-election-winner-says-us-air-base-poses-risk-must-shut-by-2014-after-lease-ends/2011/11/01/gIQApDEibM_story.html (AP via ''Washington Post'')]
+*[[Almazbek Atambayev]], the newly elected [[President of Kyrgyzstan]], states that a lease for a [[United States]] air base in [[Transit Center at Manas|Manas]] will not be renewed when it expires in 2014. [https://www.washingtonpost.com/world/asia-pacific/kyrgyzstans-election-winner-says-us-air-base-poses-risk-must-shut-by-2014-after-lease-ends/2011/11/01/gIQApDEibM_story.html (AP via ''Washington Post'')]
 
 ;Politics 
 *At least twelve people are arrested in [[London]] outside the [[Parliament of the United Kingdom]] after a protest against anti-[[squatting]] legislation turns violent. [http://www.bbc.co.uk/news/uk-england-london-15533065 (BBC)]

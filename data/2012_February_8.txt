@@ -1,7 +1,7 @@
 <!-- All news items below this line -->{{Current events header|2012|02|08}}
 
 ;Armed conflict and attacks
-*[[Pakistan]]i officials claim that US [[Drone attacks in Pakistan|drone missiles]] have killed ten people in [[Spalga]] village in [[North Waziristan]]. [http://www.google.com/hostednews/ap/article/ALeqM5j-PTHdhSrx_8TVq5e9EX21NBt3aA?docId=5da2d36c7ba046508ba87edb18c8dc6d (AP via Google News)] [http://www.reuters.com/article/2012/02/08/us-pakistan-drone-idUSTRE81708520120208?feedType=RSS&feedName=worldNews (Reuters)]
+*[[Pakistan]]i officials claim that US [[Drone attacks in Pakistan|drone missiles]] have killed ten people in [[Spalga]] village in [[North Waziristan]]. [http://www.google.com/hostednews/ap/article/ALeqM5j-PTHdhSrx_8TVq5e9EX21NBt3aA?docId=5da2d36c7ba046508ba87edb18c8dc6d (AP via Google News)] [https://www.reuters.com/article/2012/02/08/us-pakistan-drone-idUSTRE81708520120208?feedType=RSS&feedName=worldNews (Reuters)]
 *The [[Government of Syria|Syrian government]] launches an [[February 2012 bombardment of Homs|offensive]] in [[Homs]], with tanks reported in neighbourhoods and dozens of people reported as dying over the past few hours. [http://blogs.aljazeera.com/liveblog/syria-feb-8-2012-0347 (Al-Jazeera)] [http://www.abc.net.au/news/2012-02-09/syrian-army-tightens-noose-on-homs/3819478 (BBC/AFP via ABC Online)]
 *The [[Islamist]] group [[Al-Shabaab (militant group)|Al-Shabab]] claims responsibility for a car bombing in the [[Somalia]]n capital [[Mogadishu]] which claims at least ten people and injures at least 20. [http://www.bbc.co.uk/news/world-africa-16947804 (BBC)]
 
@@ -13,7 +13,7 @@
 
 ;Culture
 *[[Vincent Van Gogh]], [[Edgar Degas]] and [[Camille Pissarro]] artworks, from the personal collection of [[Elizabeth Taylor]], sell for £13.7 million at [[Christie's]] in London. [http://www.bbc.co.uk/news/entertainment-arts-16941525 (BBC)]
-*[[Zsa Zsa Gabor]], suffering from life-threatening health problems, has a party for her 95th birthday. [http://www.dailymail.co.uk/tvshowbiz/article-2097948/Zsa-Zsa-Gabors-husband-Prince-Frederic-throws-95th-birthday-party-her.html?ito=feeds-newsxml (''Daily Mail'')] [http://www.reuters.com/video/2012/02/08/zsa-zsa-gabor-celebrates-her-95th-birthd?videoId=229794797 (Reuters)]
+*[[Zsa Zsa Gabor]], suffering from life-threatening health problems, has a party for her 95th birthday. [http://www.dailymail.co.uk/tvshowbiz/article-2097948/Zsa-Zsa-Gabors-husband-Prince-Frederic-throws-95th-birthday-party-her.html?ito=feeds-newsxml (''Daily Mail'')] [https://www.reuters.com/video/2012/02/08/zsa-zsa-gabor-celebrates-her-95th-birthd?videoId=229794797 (Reuters)]
 
 ;Disasters
 *The death toll from a factory collapse in [[Lahore]], [[Pakistan]], rises to 21. [http://www.msnbc.msn.com/id/46305727 (AP via MSNBC)]

@@ -1,7 +1,7 @@
 <!-- All news items below this line -->{{Current events header|2012|06|04}}
 
 ;Armed conflict and attacks
-*[[Mexican Drug War]]: gunmen kill 11 people at a rehabilitation clinic in the city of [[Torreón, Coahuila]]. [http://www.reuters.com/article/2012/06/04/us-mexico-drugs-idUSBRE85307820120604 (Reuters)]
+*[[Mexican Drug War]]: gunmen kill 11 people at a rehabilitation clinic in the city of [[Torreón, Coahuila]]. [https://www.reuters.com/article/2012/06/04/us-mexico-drugs-idUSBRE85307820120604 (Reuters)]
 *A US [[drone attacks in Pakistan|drone attack]] kills at least 15 suspected militants in [[Pakistan]]'s [[North Waziristan]] region. High ranked [[al-Qaeda]] official [[Abu Yahya al-Libi]] is killed in the attack. [http://news.ninemsn.com.au/world/8478135/us-drone-kills-15-militants-in-pakistan-o (AFP via NineMSN)] [http://www.guardian.co.uk/world/2012/jun/05/al-qaida-abu-yahya-libi-pakistan (''The Guardian'')]
 *A [[car bomb]] explodes near [[Government of Iraq|Iraqi government]] offices in central [[Baghdad]], killing at least 26 and injuring 190. Eight others are killed in additional attacks across the country. [http://news.brisbanetimes.com.au/breaking-news-world/car-bomb-kills-13-in-baghdad-20120604-1zryg.html (AP via ''The Brisbane Times'')] [http://original.antiwar.com/updates/2012/06/04/blast-at-baghdad-shiite-office-kills-wounds-over-200/ (Antiwar)]
 *Buddhist vigilantes attack a bus in western [[Myanmar]], killing nine Muslim passengers. [http://in.reuters.com/article/2012/06/04/myanmar-violence-idINDEE85307820120604 (Reuters)]
@@ -26,8 +26,8 @@
 
 ;Politics
 *The [[Parliament of Albania]] fails without a vote in the second round to [[Albanian presidential election, 2012|elect]] the [[President of Albania|President]] of the [[Republic of Albania]]. [http://ansamed.ansa.it/ansamed/en/news/nations/albania/2012/06/04/Albania-candidates-running-election-presidency_6979703.html (Ansa)]
-*The [[Prime Minister of Japan]] [[Yoshihiko Noda]] announces a Cabinet reshuffle following a split in the ruling [[Democratic Party of Japan]]. [http://www.bloomberg.com/news/2012-06-03/japan-s-noda-to-reshuffle-cabinet-in-bid-for-opposition-backing.html (Bloomberg)] [http://www.washingtonpost.com/world/asia_pacific/japans-prime-minister-reshuffles-his-cabinet-again-to-gain-support-for-tax-hike-bill/2012/06/04/gJQAjbPqCV_story.html (''Washington Post'')]
+*The [[Prime Minister of Japan]] [[Yoshihiko Noda]] announces a Cabinet reshuffle following a split in the ruling [[Democratic Party of Japan]]. [https://www.bloomberg.com/news/2012-06-03/japan-s-noda-to-reshuffle-cabinet-in-bid-for-opposition-backing.html (Bloomberg)] [https://www.washingtonpost.com/world/asia_pacific/japans-prime-minister-reshuffles-his-cabinet-again-to-gain-support-for-tax-hike-bill/2012/06/04/gJQAjbPqCV_story.html (''Washington Post'')]
 *[[Indian people|Indian]] cricketer [[Sachin Tendulkar]] is sworn in as a member of Parliament's upper house the [[Rajya Sabha]]. [http://www.theaustralian.com.au/sport/cricket/cricketer-sachintendulkar-takes-seat-as-indian-mp/story-e6frg7rx-1226383462256 (AFP via ''The Australian'')]
-*[[China]] blocks Internet access to terms related to the [[Tiananmen Square protests of 1989]] on the 23rd anniversary of the protests. [http://www.reuters.com/article/2012/06/04/us-china-tiananmen-idUSBRE85305320120604 (Reuters)]
+*[[China]] blocks Internet access to terms related to the [[Tiananmen Square protests of 1989]] on the 23rd anniversary of the protests. [https://www.reuters.com/article/2012/06/04/us-china-tiananmen-idUSBRE85305320120604 (Reuters)]
 
 <!-- All news items above this line -->{{Current events footer}}

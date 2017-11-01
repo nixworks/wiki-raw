@@ -1,7 +1,7 @@
 <!-- All news items below this line -->{{Current events header|2011|10|06}}
 
 ;Arts and culture
-*Swedish poet [[Tomas Tranströmer]] is awarded the 2011 [[Nobel Prize in Literature]]. [http://www.nobelprize.org/nobel_prizes/literature/laureates/2011/press.html (Nobel Foundation)] [http://www.guardian.co.uk/books/booksblog/2011/oct/06/nobel-prize-literature-live-coverage?newsfeed=true (''The Guardian'')] [http://www.washingtonpost.com/entertainment/books/swedish-poet-tomas-transtromer-wins-nobel-literature-prize/2011/10/06/gIQAJ9YiPL_story.html (''The Washington Post'')]
+*Swedish poet [[Tomas Tranströmer]] is awarded the 2011 [[Nobel Prize in Literature]]. [http://www.nobelprize.org/nobel_prizes/literature/laureates/2011/press.html (Nobel Foundation)] [http://www.guardian.co.uk/books/booksblog/2011/oct/06/nobel-prize-literature-live-coverage?newsfeed=true (''The Guardian'')] [https://www.washingtonpost.com/entertainment/books/swedish-poet-tomas-transtromer-wins-nobel-literature-prize/2011/10/06/gIQAJ9YiPL_story.html (''The Washington Post'')]
 
 ;Business and economy
 *Production at  the [[Japan]]ese  plants of carmaker [[Toyota]] returns to normal following the [[2011 Tōhoku earthquake and tsunami]]. [http://english.kyodonews.jp/news/2011/10/118810.html (Kyodo)]
@@ -17,6 +17,6 @@
 *The trial of [[Ichirō Ozawa]], a powerful faction leader in the ruling [[Democratic Party of Japan]], over a political funding scandal begins today in [[Japan]]. [http://www.google.com/hostednews/afp/article/ALeqM5hFZtS-_YMT4GJUz2-iv7YTDCoSdg?docId=CNG.8286e34e8a18e3f61ca4ad30f2f98370.1b1 (AFP via Google News)]
 
 ;Politics and elections
-*Voters in [[Canada]]'s most populous province [[Ontario]] go to the polls for a [[Ontario general election, 2011|general election]] with the [[Ontario Liberal Party]], led by [[Dalton McGuinty]], winning another term under a slight minority government.[http://www.theglobeandmail.com/news/politics/ontario-election/how-to-vote-in-the-ontario-election/article2192532/?from=sec431 (''The Globe and Mail'')] [http://toronto.ctv.ca/servlet/an/local/CTVNews/20111006/ontario-election-results-mcguinty-hudak-horwath-111006/20111006/?hub=TorontoNewHome (CTV)]
+*Voters in [[Canada]]'s most populous province [[Ontario]] go to the polls for a [[Ontario general election, 2011|general election]] with the [[Ontario Liberal Party]], led by [[Dalton McGuinty]], winning another term under a slight minority government.[https://www.theglobeandmail.com/news/politics/ontario-election/how-to-vote-in-the-ontario-election/article2192532/?from=sec431 (''The Globe and Mail'')] [http://toronto.ctv.ca/servlet/an/local/CTVNews/20111006/ontario-election-results-mcguinty-hudak-horwath-111006/20111006/?hub=TorontoNewHome (CTV)]
 
 <!-- All news items above this line -->{{Current events footer}}

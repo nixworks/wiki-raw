@@ -2,7 +2,7 @@
 
 ;Armed conflicts and attacks
 *At least two people are killed and hundreds of others injured in clashes between police and protestors during a nationwide strike in [[Bangladesh]], which was triggered by the unexplained disappearance of opposition politician [[Ilyas Ali]].  [http://www.aljazeera.com/news/asia/2012/04/201242353626180893.html (Al Jazeera)]
-*[[Ministry of Petroleum (Iran)|Iran's oil ministry]] and its [[National Iranian Oil Company]] suffers a [[malware]] attack by a computer virus. [http://www.bbc.com/news/technology-17811565 (BBC)][http://www.nytimes.com/2012/04/24/world/middleeast/iranian-oil-sites-go-offline-amid-cyberattack.html?_r=1 (''New York Times'')]
+*[[Ministry of Petroleum (Iran)|Iran's oil ministry]] and its [[National Iranian Oil Company]] suffers a [[malware]] attack by a computer virus. [http://www.bbc.com/news/technology-17811565 (BBC)][https://www.nytimes.com/2012/04/24/world/middleeast/iranian-oil-sites-go-offline-amid-cyberattack.html?_r=1 (''New York Times'')]
 *[[Arab Spring]]:
 **[[2011–2012 Bahraini uprising|Bahraini uprising]]: Bahrain's highest appeals court postpones for a week the final verdict in the case of imprisoned hunger striker [[Abdulhadi al-Khawaja]] and 20 other democracy activists. [http://www.bbc.co.uk/news/world-middle-east-17812716 (BBC)]
 **[[Syrian uprising (2011–present)|Syrian uprising]]: Syrian regime forces kill at least 33 people with shells and gunfire in the city of Hama. [http://www.bbc.co.uk/news/world-middle-east-17812919 (BBC)]
@@ -16,7 +16,7 @@
 *[[White House]] lawyers launch an internal investigation into the role its advance staff may have played in the U.S. Secret Service sex scandal in Colombia, though no evidence has been found to implicate anyone in the scandal. [http://www.bbc.co.uk/news/world-us-canada-17820804 (BBC)]
 *[[Kazakhstan]] issues an official ‘thank you’ to [[Sacha Baron Cohen]] for his comedy character [[Borat Sagdiyev]] despite an initial ban. [http://www.dailymail.co.uk/news/article-2134025/Glorious-nation-Kazakhstan-salute-Borat-After-banning-film-country-ridiculed-comic-THANK-tourist-boom.html (''Daily Mail'')]
 *The [[European Union]] suspends most trade sanctions against [[Myanmar]] for a year but leaves an arms embargo in place. [http://www.google.com/hostednews/afp/article/ALeqM5jBzlWh_8DIW29p8VH2IIqN1kvdGQ?docId=CNG.0227de4c9ac8d7394844c529301ea2a8.d1 (AFP via Google News)]
-*[[North Korea]] threatens to reduce [[South Korea]] to "ashes" after the [[Kwangmyŏngsŏng-3|failed North Korean rocket launch]]. [http://www.thestar.com/news/world/article/1166217--north-korea-threatens-to-reduce-south-korea-s-leadership-to-ashes (''Toronto Star'')]
+*[[North Korea]] threatens to reduce [[South Korea]] to "ashes" after the [[Kwangmyŏngsŏng-3|failed North Korean rocket launch]]. [https://www.thestar.com/news/world/article/1166217--north-korea-threatens-to-reduce-south-korea-s-leadership-to-ashes (''Toronto Star'')]
 *In accordance with a request from the South Korean government, [[China]] stops the deportation of [[North Korean defectors]] who escape to China. [http://www.yomiuri.co.jp/dy/world/T120418005439.htm (''Daily Yomiuri'')]
 
 ;Law and crime
@@ -26,7 +26,7 @@
 **The British broadcasting regulator [[Ofcom]] launches an investigation into the hacking of private email accounts by Sky News. [http://www.bbc.co.uk/news/uk-17810479 (BBC)] 
 **The Ofcom announcement comes on the same day that the news channel's boss [[John Ryley]] appears before the [[Leveson Inquiry]] where he says the company broke the law by hacking emails. [http://www.bbc.co.uk/news/uk-17808644 (BBC)]
 *Officials in [[Florida]] refuse to allow Bill Lee, the police chief who did not arrest George Zimmerman after he shot and killed unarmed [[African American|black]] teenager [[Shooting of Trayvon Martin|Trayvon Martin]], to resign. George Zimmerman, now facing a murder charge, is released on bail and taken to a secret location. [http://www.bbc.co.uk/news/world-us-canada-17820959 (BBC)]
-*The [[North Carolina]] trial of former [[United States Senate|U.S. Senator]] and presidential hopeful [[John Edwards]], concerning the use of illegal campaign donations to cover up [[John Edwards extramarital affair|an affair]] with a mistress, begins. [http://www.reuters.com/article/2012/04/23/us-usa-court-edwards-idUSBRE83L06K20120423?feedType=RSS&feedName=topNews (Reuters)]
+*The [[North Carolina]] trial of former [[United States Senate|U.S. Senator]] and presidential hopeful [[John Edwards]], concerning the use of illegal campaign donations to cover up [[John Edwards extramarital affair|an affair]] with a mistress, begins. [https://www.reuters.com/article/2012/04/23/us-usa-court-edwards-idUSBRE83L06K20120423?feedType=RSS&feedName=topNews (Reuters)]
 *Around 45 people are detained across [[China]] in a tainted capsule medicine scandal. [http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_791750.html (''Straits Times'')]
 *Three men appear in court in the town of [[Newry]] in [[Northern Ireland]] to face charges of threatening to kill, [[Irish National Liberation Army|INLA]] membership and blackmail. [http://www.bbc.co.uk/news/uk-northern-ireland-17810412 (BBC)]
 

@@ -6,9 +6,9 @@
 ;Disasters
 *[[Hurricane Maria (2011)|Hurricane Maria]] hits  the Canadian province of [[Newfoundland and Labrador]] as a Category&nbsp;1 hurricane. [http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/160245.shtml (National Hurricane Centre)] 
 *Areas in [[Delhi]], [[India]], are flooded by heavy rain, with record rainfall recorded at [[Indira Gandhi International Airport]]. [http://ibnlive.in.com/news/rains-continue-to-lash-delhi-roads-waterlogged/184578-3.html (IBN Live)] 
-*The [[Prime Minister of Pakistan]], [[Yusuf Raza Gilani]], cancels a visit to the United States to address the [[United Nations General Assembly]] as a result of the [[2011 Sindh floods]]. [http://www.reuters.com/article/2011/09/16/us-pakistan-floods-gilani-idUSTRE78F0S620110916 (Reuters)]
+*The [[Prime Minister of Pakistan]], [[Yusuf Raza Gilani]], cancels a visit to the United States to address the [[United Nations General Assembly]] as a result of the [[2011 Sindh floods]]. [https://www.reuters.com/article/2011/09/16/us-pakistan-floods-gilani-idUSTRE78F0S620110916 (Reuters)]
 *Four trapped coal miners are confirmed dead following a [[Gleision Colliery mining accident|mining accident]] at the [[Tarenni Colliery#Gleision Colliery|Gleision Colliery]] in [[South Wales]]. [http://www.bbc.co.uk/news/uk-wales-14955526 (BBC)]
-*[[2011 Reno Air Races crash]]: At least 5 people are killed and at least 50 injured when a [[P-51D Mustang]] airplane crashes into the crowd at the annual [[Reno Air Races]] in [[Reno, Nevada]], in the [[United States]]. [http://www.msnbc.msn.com/id/44556695/ns/us_news-life/ (MSNBC)], [http://www.washingtonpost.com/national/plane-crashes-near-grandstand-at-national-championship-air-races-in-nevada-unknown-injuries/2011/09/16/gIQAj7rZYK_story.html?wpisrc=al_national (AP via ''Washington Post'')] [http://www.rgj.com/article/20110917/EVENTS05/110917006/Renown-reports-two-air-race-crash-victims-died-overnight?odyssey=mod|defcon|text|FRONTPAGE (Reno Gazette-Journal)]
+*[[2011 Reno Air Races crash]]: At least 5 people are killed and at least 50 injured when a [[P-51D Mustang]] airplane crashes into the crowd at the annual [[Reno Air Races]] in [[Reno, Nevada]], in the [[United States]]. [http://www.msnbc.msn.com/id/44556695/ns/us_news-life/ (MSNBC)], [https://www.washingtonpost.com/national/plane-crashes-near-grandstand-at-national-championship-air-races-in-nevada-unknown-injuries/2011/09/16/gIQAj7rZYK_story.html?wpisrc=al_national (AP via ''Washington Post'')] [http://www.rgj.com/article/20110917/EVENTS05/110917006/Renown-reports-two-air-race-crash-victims-died-overnight?odyssey=mod|defcon|text|FRONTPAGE (Reno Gazette-Journal)]
 
 ;International relations
 *[[Kosovo Serbs]] block off two border crossings with [[Serbia]] as the [[Kosovo]] government seeks to take them over. [http://www.google.com/hostednews/afp/article/ALeqM5iKEDVm4F5UDYzms7Pt1dVEWsV6bw?docId=CNG.0530edcec7e29105ec261a904d0b8c5c.21 (AFP via Google)]
@@ -16,7 +16,7 @@
 
 ;Law and crime
 *The first [[security camera]] pictures are released of [[Anders Behring Breivik]], the perpetrator of the [[2011 Norway attacks]]. [http://www.msnbc.msn.com/id/44540320/ns/world_news-europe/#.TnK7cL-aOKw (MSNBC)]
-*The [[Ministry of Public Security of the People's Republic of China]] arrests more than 2,000 people in a crackdown on gang-related crime. [http://www.washingtonpost.com/world/asia-pacific/china-arrests-more-than-2000-in-sweeping-crackdown-on-gang-related-crime/2011/09/15/gIQAx6Z7VK_story.html (AP via ''Washington Post'')]
+*The [[Ministry of Public Security of the People's Republic of China]] arrests more than 2,000 people in a crackdown on gang-related crime. [https://www.washingtonpost.com/world/asia-pacific/china-arrests-more-than-2000-in-sweeping-crackdown-on-gang-related-crime/2011/09/15/gIQAx6Z7VK_story.html (AP via ''Washington Post'')]
 *[[UBS]] trader [[Kweku Adoboli]] is charged with fraud and false accounting. [http://www.bbc.co.uk/news/business-14950873 (BBC)]
 
 ;Politics

@@ -1,7 +1,7 @@
 <!-- All news items below this line -->{{Current events header|2011|10|18}}
 
 ;Armed conflicts and attacks
-*[[2011 Syrian uprising]]: At least 25 people are killed in the [[Syria]]n city of [[Homs]] after tanks and security troops open fire on anti-regime protesters. [http://www.reuters.com/article/2011/10/17/us-syria-idUSTRE79G3MT20111017 (Reuters)]
+*[[2011 Syrian uprising]]: At least 25 people are killed in the [[Syria]]n city of [[Homs]] after tanks and security troops open fire on anti-regime protesters. [https://www.reuters.com/article/2011/10/17/us-syria-idUSTRE79G3MT20111017 (Reuters)]
 *[[Kenyan Army]] soldiers, supported by aerial forces, continue their advance into [[Somalia]], approaching an [[Al-Shabaab (militant group)|al-Shabab]]-controlled town {{convert|120|km|mi}} from the [[Kenya]]n border. [http://www.bbc.co.uk/news/world-africa-15349597 (BBC)]
 
 ;Business and economy
@@ -9,7 +9,7 @@
 *Year-over-year [[Gross domestic product|GDP]] growth in the [[People's Republic of China]] slows to 9.1% for the third quarter of 2011, following government efforts to curb [[inflation]]. [http://www.news.com.au/business/chinas-growth-slows-to-91-per-cent/story-e6frfm1i-1226169730690 (News Limited)]
 *[[Motorola]] introduces the [[Motorola Droid RAZR|Droid RAZR]], the world's thinnest smartphone. [http://gadgetbox.msnbc.msn.com/_news/2011/10/18/8382232-motorola-reveals-droid-razr-worlds-thinnest-smartphone (MSNBC)]
 *[[Taiwan]]ese [[smartphone]] manufacturer [[HTC]] loses a [[patent infringement]] case in the [[United States]], with the [[United States International Trade Commission]] ruling that [[Apple Inc.]]'s [[iPhone]] technology does not violate HTC's [[patent]]s. [http://www.bbc.co.uk/news/business-15345892 (BBC)]
-*A bill to takeover the capital city of [[Harrisburg]], rather than have it file for [[Chapter 9]], clears the [[Pennsylvania State Legislature]]. The [[Governor of Pennsylvania]], [[Tom Corbett]], is expected to sign it. [http://www.reuters.com/article/2011/10/18/us-harrisburg-takeover-idUSTRE79H5VD20111018 (Reuters)] 
+*A bill to takeover the capital city of [[Harrisburg]], rather than have it file for [[Chapter 9]], clears the [[Pennsylvania State Legislature]]. The [[Governor of Pennsylvania]], [[Tom Corbett]], is expected to sign it. [https://www.reuters.com/article/2011/10/18/us-harrisburg-takeover-idUSTRE79H5VD20111018 (Reuters)] 
 *[[Spaceport America]] officially opens in [[New Mexico]] as the world's first purpose-built [[Private spaceflight|commercial]] [[spaceport]]. [http://www.smh.com.au/travel/travel-news/branson-opens-worlds-first-spaceport-20111020-1m96n.html (''Sydney Morning Herald'')] [http://www.bbc.co.uk/news/world-us-canada-15344836 (BBC)]
 
 ;Disasters

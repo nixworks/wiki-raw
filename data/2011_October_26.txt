@@ -2,7 +2,7 @@
 
 ;Armed conflicts and attacks
 *[[2011 Syrian uprising]]: At least 17 people are reported dead in [[Syria]], as [[2011 Syrian uprising|fighting]] continues between the government and opposition groups. [http://edition.cnn.com/2011/10/26/world/meast/syria-unrest/index.html?eref=edition (CNN)]
-*A bomb hidden in a fuel truck kills at least 5 people and injures 45 in [[Afghanistan]]'s [[Parwan province]]. [http://www.washingtonpost.com/world/asia-pacific/afghan-officials-say-bomb-hidden-in-fuel-truck-kills-at-least-5-wounds-45/2011/10/26/gIQAFypgHM_story.html (AP via ''Washington Post'')]
+*A bomb hidden in a fuel truck kills at least 5 people and injures 45 in [[Afghanistan]]'s [[Parwan province]]. [https://www.washingtonpost.com/world/asia-pacific/afghan-officials-say-bomb-hidden-in-fuel-truck-kills-at-least-5-wounds-45/2011/10/26/gIQAFypgHM_story.html (AP via ''Washington Post'')]
 
 ;Arts and culture
 *[[India]]n superhero film ''[[Ra.One]]'', the most expensive [[Bollywood]] film to date, is released to coincide with the [[Hindu]] festival of [[Diwali]]. [http://www.bbc.co.uk/news/world-south-asia-15442697 (BBC)]
@@ -15,7 +15,7 @@
 ;Disasters
 *Residents in the [[Mexico|Mexican]] city of [[Cancún]] brace for [[Hurricane Rina]], which is expected to make landfall on Thursday. [http://www.cnn.com/2011/10/25/world/americas/tropical-weather/index.html?hpt=wo_c2 (CNN)]
 *[[2011 Van earthquake|Turkish earthquake]]:
-**The search for survivors of the Van earthquake in eastern [[Turkey]] enters its third day, with 459 confirmed deaths and over 1,300 injured. [http://www.reuters.com/article/2011/10/26/us-turkey-quake-idUSTRE79M10Z20111026?feedType=RSS&feedName=topNews (Reuters)] [http://www.dailymail.co.uk/news/article-2052493/Turkey-earthquake-2011-death-toll-rises-270-killed-1-300-injured.html (''Daily Mail'')]
+**The search for survivors of the Van earthquake in eastern [[Turkey]] enters its third day, with 459 confirmed deaths and over 1,300 injured. [https://www.reuters.com/article/2011/10/26/us-turkey-quake-idUSTRE79M10Z20111026?feedType=RSS&feedName=topNews (Reuters)] [http://www.dailymail.co.uk/news/article-2052493/Turkey-earthquake-2011-death-toll-rises-270-killed-1-300-injured.html (''Daily Mail'')]
 **Turkey announces it will accept offers of aid from foreign countries to cope with the aftermath of the earthquake. [http://www.bbc.co.uk/news/world-europe-15457897 (BBC)]
 **The [[Prime Minister of Turkey]], [[Recep Tayyip Erdoğan]], blames the high death toll on shoddy construction. [http://www.google.com/hostednews/ap/article/ALeqM5hos7mAqkawuhfrLsRn8-hu6eg2YA?docId=a2a878ee756c4d618d0dc58251222378 (AP via Google News)]
 
@@ -29,8 +29,8 @@
 
 ;Politics and elections
 *[[Occupy Wall Street]] movement:
-**In [[California]], [[Oakland]] police disperse [[Occupy Oakland]] protesters, using [[tear gas]] and rubber bullets and making numerous arrests. [http://www.dailykos.com/story/2011/10/26/1030222/-BREAKING-PHOTOS:-Images-CONTRADICT-Oakland-PD-Press-Release-on-Rubber-Bullets (DailyKos)] [http://www.reuters.com/article/2011/10/26/us-usa-wallstreet-protests-eviction-idUSTRE79P7XL20111026 (Reuters)]
-**A [[U.S. Marine Corps]] veteran is reportedly left in serious but stable condition after the Oakland clashes. [http://www.reuters.com/article/2011/10/26/us-usa-wallstreet-protests-oakland-idUSTRE79P7KS20111026 (Reuters)] [http://www.cnn.com/2011/10/26/us/occupy-wall-steet/index.html?hpt=hp_t1 (CNN)]
+**In [[California]], [[Oakland]] police disperse [[Occupy Oakland]] protesters, using [[tear gas]] and rubber bullets and making numerous arrests. [http://www.dailykos.com/story/2011/10/26/1030222/-BREAKING-PHOTOS:-Images-CONTRADICT-Oakland-PD-Press-Release-on-Rubber-Bullets (DailyKos)] [https://www.reuters.com/article/2011/10/26/us-usa-wallstreet-protests-eviction-idUSTRE79P7XL20111026 (Reuters)]
+**A [[U.S. Marine Corps]] veteran is reportedly left in serious but stable condition after the Oakland clashes. [https://www.reuters.com/article/2011/10/26/us-usa-wallstreet-protests-oakland-idUSTRE79P7KS20111026 (Reuters)] [http://www.cnn.com/2011/10/26/us/occupy-wall-steet/index.html?hpt=hp_t1 (CNN)]
 *[[Brazil]]ian [[Cabinet of Brazil|Sports Minister]] [[Orlando Silva]] resigns following corruption allegations, but insists he is innocent. [http://espn.go.com/sports/soccer/news/_/id/7153243/brazil-sports-minister-orlando-silva-resigns-scandal (ESPN)]
 
 ;Science
