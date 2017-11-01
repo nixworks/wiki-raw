@@ -12,8 +12,10 @@
 **A tunnel under construction at [[North Korea]]'s [[Punggye-ri Nuclear Test Site|nuclear test site]] collapses, killing as many as 200 workers. [http://m.yna.co.kr/mob2/en/contents_en.jsp?cid=AEN20171031012000315 (''Yonhap News Agency'')]
 
 ;Law and crime
-*A shooting on the campus of the [[University of Utah]] leaves one student dead. A suspect is taken into custody. [http://www.cnn.com/2017/10/31/us/university-utah-student-killed-suspect-wanted-colorado/index.html (CNN)]
-*At an elementary school in [[Riverside, California]], police shoot a parent who reportedly took a teacher hostage. [http://www.latimes.com/local/lanow/la-me-ln-riverside-classroom-barricade-20171031-story.html (''Los Angeles Times'')]
+*[[Crime in Utah]]
+**A shooting on the campus of the [[University of Utah]] leaves one student dead. A suspect is taken into custody. [http://www.cnn.com/2017/10/31/us/university-utah-student-killed-suspect-wanted-colorado/index.html (CNN)]
+*[[Crime in California]]
+**At an elementary school in [[Riverside, California]], police shoot a parent who reportedly took a teacher hostage. [http://www.latimes.com/local/lanow/la-me-ln-riverside-classroom-barricade-20171031-story.html (''Los Angeles Times'')]
 
 ;Politics and elections
 *[[Russian interference in the 2016 United States elections]]
@@ -22,5 +24,6 @@
 **The Latino Victory Fund withdraws an anti–[[Ed Gillespie]] political advertisement because of scenes which loosely resemble a [[2017 New York City attack|recent terror attack in New York City]]. The ad was originally meant to improve [[Ralph Northam]]'s standing with minority voters. [http://www.nydailynews.com/news/politics/controversial-political-ad-pulled-new-york-terror-attack-article-1.3603015 (''New York Daily News'')], [https://www.washingtonpost.com/local/virginia-politics/new-anti-gillespie-ad-sparked-by-worries-about-northams-appeal-to-minorities/2017/10/31/94867870-be59-11e7-8444-a0d4f04b89eb_story.html (''The Washington Post'')]
 
 ;Science and technology
-*A [[Minotaur-C]] rocket launches from  [[Vandenberg Air Force Base]], [[California]] and deploys 10 commercial Earth-imaging satellites for [[Planet Labs]]. It is the first successful mission for the Minotaur-C, formerly known as Taurus, since 2004. [http://spaceflight101.com/minotaur-c-launches-ten-satellites-for-planet (''Spaceflight 101'')]
+*[[2017 in spaceflight]]
+**A [[Minotaur-C]] rocket launches from [[Vandenberg Air Force Base]], [[California]], and deploys 10 commercial Earth-imaging satellites for [[Planet Labs]]. It is the first successful mission for the Minotaur-C, formerly known as Taurus, since 2004. [http://spaceflight101.com/minotaur-c-launches-ten-satellites-for-planet (''Spaceflight 101'')]
 <!-- All news items above this line -->}}
