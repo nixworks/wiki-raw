@@ -25,5 +25,5 @@
 
 ;Science and technology
 *[[2017 in spaceflight]]
-**A [[Minotaur-C]] rocket launches from [[Vandenberg Air Force Base]], [[California]], and deploys 10 commercial Earth-imaging satellites for [[Planet Labs]]. It is the first successful mission for the Minotaur-C, formerly known as Taurus, since 2004. [http://spaceflight101.com/minotaur-c-launches-ten-satellites-for-planet (''Spaceflight 101'')]
+**A [[Minotaur-C]] rocket launches from [[Vandenberg Air Force Base]], [[California]], and deploys 10 commercial Earth-imaging satellites for [[Planet Labs]]. It is the first [[Minotaur-C#List of launches|successful mission]] for the Minotaur-C, formerly known as Taurus, [[Formosat-2|since 2004]]. [http://spaceflight101.com/minotaur-c-launches-ten-satellites-for-planet (''Spaceflight 101'')]
 <!-- All news items above this line -->}}
