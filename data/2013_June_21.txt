@@ -3,7 +3,7 @@
 ;Armed conflict and attacks
 *A [[suicide bomber]] [[Peshawar mosque attack|kills 15 and injures 20]] in a [[Shi'ite]] mosque in the northwestern [[Pakistan|Pakistani]] city of [[Peshawar]]. [http://www.bangkokpost.com/news/world/356300/suicide-attack-kills-15-at-pakistan-shiite-mosque (''Bangkok Post'')]
 *A [[Jewish people|Jewish]] [[Israel]]i man is shot dead near [[Jerusalem]]'s [[Western Wall]] after a guard mistakes him for a [[Palestinian people|Palestinian]] militant after hearing him shout "[[Allahu Akbar]]". [http://www.bbc.co.uk/news/world-middle-east-22998915# (BBC)]
-*A gunman opens fire at a [[law firm]] and a [[Walmart]] in [[Greenville, North Carolina|Greenville]], [[North Carolina]], U.S., injuring four people. The gunman is later shot by the police and brought into custody after being wounded. [http://www.usatoday.com/story/news/nation/2013/06/21/north-carolina-walmart-shooting-greenville/2446961/ ''(USA Today)''] [http://www.cbsnews.com/8301-504083_162-57590482-504083/north-carolina-shooting-4-injured-near-greenville-n.c-wal-mart-suspect-in-custody-report-says/ (CBS News)]
+*A gunman opens fire at a [[law firm]] and a [[Walmart]] in [[Greenville, North Carolina|Greenville]], [[North Carolina]], U.S., injuring four people. The gunman is later shot by the police and brought into custody after being wounded. [https://www.usatoday.com/story/news/nation/2013/06/21/north-carolina-walmart-shooting-greenville/2446961/ ''(USA Today)''] [http://www.cbsnews.com/8301-504083_162-57590482-504083/north-carolina-shooting-4-injured-near-greenville-n.c-wal-mart-suspect-in-custody-report-says/ (CBS News)]
 ;Business and economy 
 *The [[People's Bank of China]] intervenes to alleviate a [[2013 Chinese Cash Crunch|cash crunch]] as it continues to act to reduce over-leveraging in the [[China|People's Republic of China]]. [http://www.ft.com/intl/cms/s/0/3f468d04-da2a-11e2-98fa-00144feab7de.html#axzz2WpEUu4iv (''Financial Times'')]
 ;Disasters and accidents
@@ -16,6 +16,6 @@
 ;Health
 *[[Taiwan]] reports the first human case of the [[H6N1]] virus. [http://focustaiwan.tw/news/aall/201306210025.aspx (''Focus Taiwan'')]
 ;Law and crime
-*[[Edward Snowden]] is charged by the [[United States]] with [[espionage]]. [http://www.washingtonpost.com/world/national-security/us-charges-snowden-with-espionage/2013/06/21/507497d8-dab1-11e2-a016-92547bf094cc_story.html (''The Washington Post'')]
+*[[Edward Snowden]] is charged by the [[United States]] with [[espionage]]. [https://www.washingtonpost.com/world/national-security/us-charges-snowden-with-espionage/2013/06/21/507497d8-dab1-11e2-a016-92547bf094cc_story.html (''The Washington Post'')]
 
 <!-- All news items above this line -->{{Current events footer}}

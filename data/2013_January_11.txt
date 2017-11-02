@@ -2,9 +2,9 @@
 
 ;Armed conflicts and attacks
 *[[Syrian civil war]]: 
-**Rebel forces take over the strategic [[Taftanaz]] airbase in northern [[Syria]]. [http://www.usatoday.com/story/news/world/2013/01/11/syrian-rebels-seize-key-air-base-activists-say/1826117/ (AP via USA Today)]
+**Rebel forces take over the strategic [[Taftanaz]] airbase in northern [[Syria]]. [https://www.usatoday.com/story/news/world/2013/01/11/syrian-rebels-seize-key-air-base-activists-say/1826117/ (AP via USA Today)]
 *[[Northern Mali conflict (2012–present)]]:
-**[[France]] commits troops to aid government forces in the [[Northern Mali conflict]]. [http://www.reuters.com/article/2013/01/11/us-mali-rebels-idUSBRE90912Q20130111 (Reuters)] [http://www.guardian.co.uk/world/2013/jan/11/france-intervene-mali-conflict (''The Guardian'')] [http://www.nytimes.com/2013/01/12/world/africa/mali-islamist-rebels-france.html (''The New York Times'')] [http://www.washingtonpost.com/world/africa/frances-hollande-sends-troops-to-mali/2013/01/11/21be77ae-5c0f-11e2-9fa9-5fbdc9530eb9_story.html (''The Washington Post'')]
+**[[France]] commits troops to aid government forces in the [[Northern Mali conflict]]. [https://www.reuters.com/article/2013/01/11/us-mali-rebels-idUSBRE90912Q20130111 (Reuters)] [http://www.guardian.co.uk/world/2013/jan/11/france-intervene-mali-conflict (''The Guardian'')] [https://www.nytimes.com/2013/01/12/world/africa/mali-islamist-rebels-france.html (''The New York Times'')] [https://www.washingtonpost.com/world/africa/frances-hollande-sends-troops-to-mali/2013/01/11/21be77ae-5c0f-11e2-9fa9-5fbdc9530eb9_story.html (''The Washington Post'')]
 *[[2012–2013 Central African Republic conflict]]:
 **In the [[Central African Republic]], the government signs a [[2012–2013 Central African Republic conflict#Ceasefire agreement|ceasefire agreement]] with rebels, ending a month of conflict and establishing a new [[coalition government]]. [http://www.bbc.co.uk/news/world-africa-20990671 (BBC)]
 
@@ -25,6 +25,6 @@
 *The [[Parliament of Sri Lanka]] passes an [[Impeachment of Shirani Bandaranayake|impeachment]] motion against [[Chief Justice of Sri Lanka|Chief Justice]] [[Shirani Bandaranayake]]. [http://www.bbc.co.uk/news/world-asia-20982990 (BBC)]
 
 ;Science and technology
-*[[Huge-LQG]], a [[large quasar group]], the largest known structure in the [[Universe]], is discovered by a team of [[astronomer]]s using data from the [[Sloan Digital Sky Survey]]. [http://www.space.com/19220-universe-largest-structure-discovered.html (Space.com)] [http://www.foxnews.com/science/2013/01/11/largest-structure-in-universe-discovered/ (FoxNews)] [http://news.cnet.com/8301-17938_105-57563937-1/the-biggest-thing-in-the-universe-is-really-really-big/ (CNET)] [http://www.newscientist.com/article/dn23074-largest-structure-challenges-einsteins-smooth-cosmos.html (New Scientist)]
+*[[Huge-LQG]], a [[large quasar group]], the largest known structure in the [[Universe]], is discovered by a team of [[astronomer]]s using data from the [[Sloan Digital Sky Survey]]. [http://www.space.com/19220-universe-largest-structure-discovered.html (Space.com)] [http://www.foxnews.com/science/2013/01/11/largest-structure-in-universe-discovered/ (FoxNews)] [http://news.cnet.com/8301-17938_105-57563937-1/the-biggest-thing-in-the-universe-is-really-really-big/ (CNET)] [https://www.newscientist.com/article/dn23074-largest-structure-challenges-einsteins-smooth-cosmos.html (New Scientist)]
 
 <!-- All news items above this line -->{{Current events footer}}

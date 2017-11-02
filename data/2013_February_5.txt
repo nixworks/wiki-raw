@@ -5,9 +5,9 @@
 **[[Japan|Japanese]] [[Minister of Defense (Japan)|Defense Minister]] [[Itsunori Onodera]] states that the country has lodged a protest with [[People's Republic of China|China]] after a [[People's Liberation Army Navy]] [[frigate]] directed weapon-targeting [[radar]] at a [[Japanese Maritime Self-Defense Force]] [[destroyer]] near the disputed [[Senkaku Islands]]. [http://www.bbc.co.uk/news/world-asia-21337444 (BBC)] 
 
 ;Business and economy
-*[[Dell]] announces it will go [[Privately held company|private]] after a [[United States dollar|$]]24 billion [[leveraged buyout]] deal with a consortium led by founder [[Michael Dell]]. [http://dealbook.nytimes.com/2013/02/05/dell-sets-23-8-billion-deal-to-go-private/ (''The New York Times'')] [http://www.reuters.com/article/2013/02/05/us-dell-buyout-idUSBRE9140NF20130205 (Reuters)]
+*[[Dell]] announces it will go [[Privately held company|private]] after a [[United States dollar|$]]24 billion [[leveraged buyout]] deal with a consortium led by founder [[Michael Dell]]. [http://dealbook.nytimes.com/2013/02/05/dell-sets-23-8-billion-deal-to-go-private/ (''The New York Times'')] [https://www.reuters.com/article/2013/02/05/us-dell-buyout-idUSBRE9140NF20130205 (Reuters)]
 *[[Standard & Poor's]] says it expects a lawsuit by the [[Federal government of the United States|US government]] over its assessment of [[mortgage]] bonds prior to the [[subprime mortgage crisis]]. [http://www.bbc.co.uk/news/21331018 (BBC)]
-*[[IBM]] issues a $1 billion two year [[corporate bond]] deal at a [[negative spread]] to Libor (the [[London Interbank Offered Rate]]). [http://www.reuters.com/article/2013/02/05/ibm-bonds-idUSL1N0B5LF520130205 (Reuters)] 
+*[[IBM]] issues a $1 billion two year [[corporate bond]] deal at a [[negative spread]] to Libor (the [[London Interbank Offered Rate]]). [https://www.reuters.com/article/2013/02/05/ibm-bonds-idUSL1N0B5LF520130205 (Reuters)] 
 
 ;International relations
 *[[Iran|Iranian]] [[President of Iran|President]] [[Mahmoud Ahmadinejad]] travels to [[Egypt]]. It is the first time since [[Iranian Revolution|1979 revolution]] that an Iranian head of state visits that country. [http://www.guardian.co.uk/world/video/2013/feb/05/ahmadinejad-iranian-egypt-video (''The Guardian'')]
@@ -26,7 +26,7 @@
 *The [[University of Düsseldorf]] strips [[German people|German]] [[Federal Ministry of Education and Research (Germany)|Minister of Education and Research]] [[Annette Schavan]] of a doctorate and degree following allegations of [[plagiarism]]. [http://www.bbc.co.uk/news/world-europe-21347510 (BBC)]
 
 ;Science and technology
-*[[Curtis Cooper (mathematician)|Curtis Cooper]], a mathematician and computer science professor at the [[University of Central Missouri]], discovers the largest known 17.4 million-digit [[prime number]]. [http://www.newscientist.com/article/dn23138-new-17milliondigit-monster-is-largest-known-prime.html (New Scientist)] [http://mersenne.org/various/57885161.htm (GIMPS)]
+*[[Curtis Cooper (mathematician)|Curtis Cooper]], a mathematician and computer science professor at the [[University of Central Missouri]], discovers the largest known 17.4 million-digit [[prime number]]. [https://www.newscientist.com/article/dn23138-new-17milliondigit-monster-is-largest-known-prime.html (New Scientist)] [http://mersenne.org/various/57885161.htm (GIMPS)]
 
 ;Sport
 *The [[Australian Football League]] announces an [[Australian Sports Anti-Doping Authority]] investigation into whether players from the [[Essendon Football Club]] were given performance enhancing [[doping in sport|drugs]]. [http://www.couriermail.com.au/sport/afl/tight-security-at-essendon-training-this-morning-after-yesterdays-day-of-drama/story-e6frepf6-1226570861343 (''Courier-Mail'')]

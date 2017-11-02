@@ -2,7 +2,7 @@
 
 ;Armed conflicts and attacks
 *One trainee member of the [[Philippine National Police]] is killed and six injured in an ambush in [[Mountain Province]]. [http://www.abs-cbnnews.com/nation/06/28/13/1-pnp-trainee-killed-6-wounded-ambush (ABS-CBN News)]
-*One person is killed and four injured in an attack on a provincial party office in the [[Egypt]]ian city of [[Zagazig]]. [http://www.reuters.com/article/2013/06/28/us-egypt-protests-idUSBRE95Q0NO20130628 (Reuters)]
+*One person is killed and four injured in an attack on a provincial party office in the [[Egypt]]ian city of [[Zagazig]]. [https://www.reuters.com/article/2013/06/28/us-egypt-protests-idUSBRE95Q0NO20130628 (Reuters)]
 *Thirty-three are killed in an attack in [[Nigeria|Nigeria's]] [[Plateau State]]. [http://news.xinhuanet.com/english/africa/2013-06/28/c_132495623.htm (Xinhua)]
 *Two people are killed and seven injured in a bomb attack in [[Songkhla]], [[Thailand]]. [http://www.nationmultimedia.com/breakingnews/Two-killed-and-others-injured-in-bomb-attack-in-So-30209290.html (The Nation)]
 *Three people are killed and seven injured in an attack in [[Karachi, Pakistan]] [http://gulfnews.com/news/world/pakistan/woman-killed-in-attack-in-downtown-karachi-1.1203118 (Gulf News)]
@@ -13,7 +13,7 @@
 
 ;Business and economics
 *[[Gold]] falls below $1200 per ounce for the first time since 2010. [http://www.bbc.co.uk/news/business-23093548 (BBC)]
-*The [[USDA]] approves a plant to slaughter [[horse meat|horses for meat]] in [[New Mexico]]. [http://www.reuters.com/article/2013/06/29/us-usa-agriculture-horse-idUSBRE95S00820130629 (Reuters)]
+*The [[USDA]] approves a plant to slaughter [[horse meat|horses for meat]] in [[New Mexico]]. [https://www.reuters.com/article/2013/06/29/us-usa-agriculture-horse-idUSBRE95S00820130629 (Reuters)]
 *[[News Corp.]] completes a planned split into two companies, creating [[21st Century Fox]]. [http://www.latimes.com/entertainment/envelope/cotown/la-et-ct-news-corp-21st-century-fox-20130628,0,2975128.story (''LA Times'')]
 
 ;Law and crime

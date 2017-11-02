@@ -2,7 +2,7 @@
 
 ;Disasters and accidents
 *[[Cyclone Evan]] is expected to hit northern parts of [[Tonga]] before turning south towards [[Fiji]]. [http://www.skynews.com.au/topstories/article.aspx?id=826793 (Sky News Australia)]
-*At least 18 [[asylum seeker]]s drown in the [[Aegean Sea]] while trying to reach [[Greece]] from [[Turkey]]. [http://www.nytimes.com/2012/12/16/world/europe/18-men-drown-trying-to-reach-greece.html (''The New York Times'')]
+*At least 18 [[asylum seeker]]s drown in the [[Aegean Sea]] while trying to reach [[Greece]] from [[Turkey]]. [https://www.nytimes.com/2012/12/16/world/europe/18-men-drown-trying-to-reach-greece.html (''The New York Times'')]
 *[[Patrick Ibrahim Yakowa]], the Governor of [[Nigeria]]'s [[Kaduna]] state dies in a helicopter crash in [[Bayelsa]] state, together with former national security adviser General [[Owoye Andrew Azazi]] and other senior officials. [http://www.bbc.co.uk/news/world-africa-20743019 (BBC)]
 
 ;Law and crime
@@ -15,7 +15,7 @@
 **The polls close four hours later than planned due to heavy turnout. [http://en.rian.ru/politics/20121216/178189366.html (RIA Novosti)]
 *A census of population and housing begins today in [[Turkmenistan]]. [http://en.trend.az/regions/casia/turkmenistan/2090202.html (Trend)]
 *[[Nelson Mandela]], former [[President of South Africa]], successfully undergoes surgery to remove [[gallstone]]s from his [[gallbladder]]. [http://www.bbc.co.uk/news/world-africa-20739780 (BBC)] [http://www.telegraph.co.uk/news/worldnews/nelson-mandela/9747134/Nelson-Mandela-has-successful-procedure-to-remove-gallstones.html (''The Telegraph'')]
-*[[United States Secretary of State]] [[Hillary Clinton]] sustained a concussion after fainting from [[dehydration]] at her home. [http://www.cnn.com/2012/12/15/us/us-hillary-clinton-concussion/index.html (CNN)] [http://www.washingtonpost.com/world/national-security/hillary-clinton-gets-concussion-after-fainting/2012/12/15/bf33f62c-46f1-11e2-9648-a2c323a991d6_story.html (''The Washington Post'')]
+*[[United States Secretary of State]] [[Hillary Clinton]] sustained a concussion after fainting from [[dehydration]] at her home. [http://www.cnn.com/2012/12/15/us/us-hillary-clinton-concussion/index.html (CNN)] [https://www.washingtonpost.com/world/national-security/hillary-clinton-gets-concussion-after-fainting/2012/12/15/bf33f62c-46f1-11e2-9648-a2c323a991d6_story.html (''The Washington Post'')]
 *[[Russia]]n [[Police of Russia|police]] arrest prominent opposition leaders at a [[2011–2012 Russian protests|rally]] against [[President of Russia|President]] [[Vladimir Putin]] in [[Moscow]]. [http://www.bbc.co.uk/news/world-europe-20739006 (BBC)]
 
 ;Science and technology

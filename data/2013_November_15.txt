@@ -12,7 +12,7 @@
 **The official death toll is now at 3,631. [http://www.huffingtonpost.com/2013/11/15/typhoon-haiyan-philippines-death-toll_n_4279342.html (''The Huffington Post'')]
 *At least five people are killed and 10 injured after four coaches of the [[Mangala Lakshadweep Express]] derail near the [[India]]n city of [[Nashik]] in [[Maharashtra]] state. [http://www.ndtv.com/article/india/train-derails-near-nashik-in-maharashtra-4-feared-dead-446314 (NDTV)] [http://timesofindia.indiatimes.com/india/At-least-5-killed-10-injured-as-Mangala-Express-derails-near-Nasik/articleshow/25796726.cms (''Times of India'')]
 *Two people die after a light aircraft crashes near the runway at [[Airbus]] Facilities in [[Broughton, Flintshire]]. [http://www.itv.com/news/wales/update/2013-11-15/man-and-woman-confirmed-dead-in-broughton-air-crash/ (ITV News)]
-*12 migrants drown off the coast of [[Greece]]. [http://www.reuters.com/article/2013/11/15/us-greece-immigrants-idUSBRE9AE06Z20131115 (Reuters)]
+*12 migrants drown off the coast of [[Greece]]. [https://www.reuters.com/article/2013/11/15/us-greece-immigrants-idUSBRE9AE06Z20131115 (Reuters)]
 
 ;International relations
 *[[Gambia]] cuts [[The Gambia–Taiwan relations|diplomatic relations]] with [[Taiwan]]. [http://www.bbc.co.uk/news/world-africa-24951115 (BBC)]
@@ -20,12 +20,12 @@
 
 ;Law and crime
 *Prosecutors in the [[Australia]]n state of [[Queensland]] drop [[manslaughter]] charges against [[American people|American]] surgeon [[Jayant Patel]], who pleads guilty to charges of fraud. [http://bigstory.ap.org/article/us-surgeon-cleared-australian-death-charges (AP)]
-*The [[U.S. Supreme Court]] says that it will hear a [[securities fraud]] case this term that arises out of the [[asbestos]] liabilities of [[Halliburton]], an [[oilfield services]] company. [http://www.reuters.com/article/2013/11/15/us-usa-court-halliburton-idUSBRE9AE10V20131115 (Reuters)] 
+*The [[U.S. Supreme Court]] says that it will hear a [[securities fraud]] case this term that arises out of the [[asbestos]] liabilities of [[Halliburton]], an [[oilfield services]] company. [https://www.reuters.com/article/2013/11/15/us-usa-court-halliburton-idUSBRE9AE10V20131115 (Reuters)] 
 
 ;Politics and elections
 *[[China]] is to relax some elements of its [[one-child policy]] and announces it will end its "[[Re-education through labor|re-education through labour]]" camps. [http://www.bbc.co.uk/news/world-asia-china-24957303 (BBC)] [http://news.xinhuanet.com/english/china/2013-11/15/c_132891921.htm (Xinhua)]
 *[[Burma]] announces the release of 69 political prisoners in ongoing reform. [http://www.bbc.co.uk/news/world-asia-24955227 (BBC)]
 *The [[Australian Electoral Commission]] petitions the [[High Court of Australia]] for a new [[Australian federal election, 2013|Senate election]] in the state of [[Western Australia]] due to the loss of 1,370 ballot papers and the closeness of the result. [http://www.theaustralian.com.au/national-affairs/new-senate-election-looms-in-wa-after-aec-seeks-an-order-that-last-poll-be-declared-void/story-fn59niix-1226761152290 (''The Australian'')]
-*The [[Brazil]]ian [[Supreme Federal Court]] issues a long-time awaited order to arrest for bribery 12 former top officials who had served under ex-president [[Luiz Inácio Lula da Silva|Lula]], in one of the nation's biggest corruption cases. [http://www.bloomberg.com/news/2013-11-15/brazil-court-orders-arrests-in-2005-cash-for-votes-probe.html (''Bloomberg'')]
+*The [[Brazil]]ian [[Supreme Federal Court]] issues a long-time awaited order to arrest for bribery 12 former top officials who had served under ex-president [[Luiz Inácio Lula da Silva|Lula]], in one of the nation's biggest corruption cases. [https://www.bloomberg.com/news/2013-11-15/brazil-court-orders-arrests-in-2005-cash-for-votes-probe.html (''Bloomberg'')]
 
 <!-- All news items above this line -->{{Current events footer}}

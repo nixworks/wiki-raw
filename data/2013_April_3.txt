@@ -19,7 +19,7 @@
 *[[Disney]] announces that it is ceasing all internal development at its [[LucasArts]] game division. [http://www.sfgate.com/technology/article/Disney-ends-LucasArts-game-development-4407769.php (''San Francisco Chronicle'')]
 
 ;Disasters and accidents
-*[[2013 Argentina floods]]: More than 50 people are killed in major [[floods]] in [[Buenos Aires]] and [[La Plata]], [[Argentina]], due to heavy [[rain]]. [http://online.wsj.com/article/SB10001424127887324600704578400592340888724.html (''The Wall Street Journal'')] [http://www.nytimes.com/2013/04/04/world/americas/record-flooding-kills-dozens-in-Argentina.html (''The New York Times'')]
+*[[2013 Argentina floods]]: More than 50 people are killed in major [[floods]] in [[Buenos Aires]] and [[La Plata]], [[Argentina]], due to heavy [[rain]]. [http://online.wsj.com/article/SB10001424127887324600704578400592340888724.html (''The Wall Street Journal'')] [https://www.nytimes.com/2013/04/04/world/americas/record-flooding-kills-dozens-in-Argentina.html (''The New York Times'')]
 *A third man dies in [[China]] from the [[Influenza A virus subtype H7N9|H7N9 strain]] of [[Avian influenza virus|bird flu]]. [http://www.bbc.co.uk/news/world-asia-china-22013097 (BBC)]
 *Construction work near [[Berlin]]'s main train station reveals a 100-kilogram [[Soviet Union|Soviet]] bomb from [[World War II]]. It was successfully removed several hours after it was found. [http://www.channelnewsasia.com/news/world/afp_world/wwii-bomb-defused-near-berlin-s-main-tra/626466.html (AFP via Channel NewsAsia)]
 *At least 24 people are killed and two are critically injured after a [[bus]] carrying [[tribesmen]] plunges off a cliff near [[Mount Hagen]], [[Papua New Guinea]]. [http://www.bbc.co.uk/news/world-asia-22023465 (BBC)]
@@ -27,8 +27,8 @@
 ;International relations
 *[[2013 Korean crisis]]:
 **[[South Korea]]'s [[Ministry of Unification]] says that [[North Korea]] is denying workers entry to joint-Korean [[Kaesŏng Industrial Region|Kaesong complex]] amid tensions on the [[Korean peninsula|peninsula]]. The [[Ministry of National Defense (Republic of Korea)|Ministry of Defence]] will consider a military action if the workers' security is threatened. The [[U.S. Navy]] sends [[USS John S. McCain (DDG-56)|USS ''John McCain'']] and [[USS Decatur (DDG-73)|USS ''Decatur'']] into the area. [http://www.aljazeera.com/news/asia-pacific/2013/04/20134304954907439.html (Al Jazeera)] [http://www.bbc.co.uk/news/world-asia-22011207 (BBC)]
-**The [[Korean People's Army|North Korean army]] says it has final approval to launch "merciless" military strikes on the [[United States]], involving the possible use of "cutting-edge" nuclear weapons. [http://www.theglobeandmail.com/news/world/north-korea-approves-nuclear-strike-on-us/article10735512/ (AP via ''The Globe and Mail'')]
-**The [[United States]] plans to set up a missile defence system in [[Guam]]. [[United States Secretary of Defense|U.S. Defence Secretary]] [[Chuck Hagel]] describes [[North Korea]] as a "real and clear danger". [http://www.reuters.com/article/2013/04/03/us-korea-north-guam-idUSBRE9320YQ20130403 (Reuters)]
+**The [[Korean People's Army|North Korean army]] says it has final approval to launch "merciless" military strikes on the [[United States]], involving the possible use of "cutting-edge" nuclear weapons. [https://www.theglobeandmail.com/news/world/north-korea-approves-nuclear-strike-on-us/article10735512/ (AP via ''The Globe and Mail'')]
+**The [[United States]] plans to set up a missile defence system in [[Guam]]. [[United States Secretary of Defense|U.S. Defence Secretary]] [[Chuck Hagel]] describes [[North Korea]] as a "real and clear danger". [https://www.reuters.com/article/2013/04/03/us-korea-north-guam-idUSBRE9320YQ20130403 (Reuters)]
 
 ;Health and environment
 *According to a new study, more than one million people per year die prematurely due to the [[Pollution in China|air pollution]] in [[China]]. [http://www.npr.org/blogs/health/2013/04/02/176017887/chinas-air-pollution-linked-to-millions-of-early-deaths (NPR)]
@@ -38,7 +38,7 @@
 ;Law and crime
 *[[Australia]] opens a national probe into [[child sex abuse]], with [[Prime Minister of Australia|Prime Minister]] [[Julia Gillard]] warning of "uncomfortable truths" as institutions including schools and churches come under scrutiny. [http://www.channelnewsasia.com/news/asiapacific/afp_asiapacific/australia-launches-national-child-sex-abuse-inquiry/625320.html (AFP via Channel NewsAsia)]
 *Four sisters are burned by [[motorcyclist]]s throwing [[acid]] in [[India]]'s [[Uttar Pradesh]] province. [http://www.ptinews.com/news/3520239_Acid-thrown-on-4-sisters-in-UP (Press Trust of India)]
-*Thirty-five [[United States|American]] teachers from [[Atlanta]] are [[Atlanta Public Schools cheating scandal|indicted]] on [[fraud]] charges for allegedly facilitating cheating on [[standardized test]]s dating back to 2001. [http://www.usatoday.com/story/news/nation/2013/04/03/atlanta-cheating-scandal/2049051/ (''USA Today'')]
+*Thirty-five [[United States|American]] teachers from [[Atlanta]] are [[Atlanta Public Schools cheating scandal|indicted]] on [[fraud]] charges for allegedly facilitating cheating on [[standardized test]]s dating back to 2001. [https://www.usatoday.com/story/news/nation/2013/04/03/atlanta-cheating-scandal/2049051/ (''USA Today'')]
 *In the [[U.S. state]] of [[West Virginia]], a [[sheriff]] is shot and killed in [[Mingo County, West Virginia|Mingo County]]. [http://www.wvgazette.com/News/201304030091 ''(The Charleston Gazette)'']
 
 ;Politics and elections

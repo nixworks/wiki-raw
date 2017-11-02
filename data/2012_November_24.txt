@@ -13,7 +13,7 @@
 
 ;Disasters and accidents
 *A [[natural gas]] [[explosion]] in [[Springfield, Massachusetts]] levels two buildings and damages others, injuring at least 18 people.  [http://news.sky.com/story/1015801/gas-leak-blast-levels-massachusetts-strip-club (Sky News)]
-*A [[coal mine]] accident in [[Guizhou province]], [[China]]'s southwest, kills eighteen workers and traps five more. [http://news.yahoo.com/18-chinese-miners-die-coal-gas-explosion-103952692.html (AP via Yahoo)]
+*A [[coal mine]] accident in [[Guizhou province]], [[China]]'s southwest, kills eighteen workers and traps five more. [https://news.yahoo.com/18-chinese-miners-die-coal-gas-explosion-103952692.html (AP via Yahoo)]
 
 ;Law and crime
 *[[Egypt]]'s top judges accuse [[President of Egypt]] [[Mohamed Morsi]] of staging an "unprecedented attack" on the judiciary, after he passes a decree granting himself extensive new powers. Critics and supporters have staged rallies. Crowds gathered in [[Cairo]]'s [[Tahrir Square]], vowing to stage a sit-in protest. [http://www.bbc.co.uk/news/world-middle-east-20476693 (BBC)]
@@ -29,7 +29,7 @@
 
 ;Sport
 *[[Puerto Rican people|Puerto Rican]] professional [[boxing|boxer]] and former world champion [[Héctor Camacho]] dies four days after being shot in his hometown of [[Bayamón, Puerto Rico|Bayamón]], [[Puerto Rico]]. [http://hosted.ap.org/dynamic/stories/A/AP_CB_PUERTO_RICO_OBIT_CAMACHO (AP via WVEC)]
-*In [[Athletics (sport)|athletics]], [[Jamaican people|Jamaican]] sprinter [[Usain Bolt]] and [[American people|American]] sprinter [[Allyson Felix]] are named 2012 [[IAAF]] [[IAAF World Athlete of the Year|World Athletes of the Year]]. [http://www.washingtonpost.com/sports/usain-bolt-and-allyson-felix-named-iaaf-world-athletes-of-the-year/2012/11/24/727e05a4-3637-11e2-92f0-496af208bf23_story.html (AP via ''Washington Post'')]
+*In [[Athletics (sport)|athletics]], [[Jamaican people|Jamaican]] sprinter [[Usain Bolt]] and [[American people|American]] sprinter [[Allyson Felix]] are named 2012 [[IAAF]] [[IAAF World Athlete of the Year|World Athletes of the Year]]. [https://www.washingtonpost.com/sports/usain-bolt-and-allyson-felix-named-iaaf-world-athletes-of-the-year/2012/11/24/727e05a4-3637-11e2-92f0-496af208bf23_story.html (AP via ''Washington Post'')]
 *The [[NHL]] cancels all games through 14 December, plus the [[2013 NHL All-Star Game]] scheduled for 27 January in [[Columbus, Ohio]], due to the [[2012 NHL lockout]]. [http://www.guardian.co.uk/sport/2012/nov/23/nhl-lockout-all-star-game-14-december (''The Guardian'')]
 
 <!-- All news items above this line -->{{Current events footer}}

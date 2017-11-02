@@ -1,7 +1,7 @@
 <!-- All news items below this line -->{{Current events header|2013|06|20}}
 
 ;Armed conflicts and attacks
-*[[Israeli–Palestinian conflict]]: The [[Committee on the Rights of the Child]] accuses [[Israel|Israeli soldiers]] of torturing [[State of Palestine|Palestinian]] children and using them as [[human shield]]s. [http://www.reuters.com/article/2013/06/20/us-palestinian-israel-children-idUSBRE95J0FR20130620 (Reuters)] <!-- Since this regards the UN, please do not remove the reference to the State of Palestine since it's an observer of the organization -->
+*[[Israeli–Palestinian conflict]]: The [[Committee on the Rights of the Child]] accuses [[Israel|Israeli soldiers]] of torturing [[State of Palestine|Palestinian]] children and using them as [[human shield]]s. [https://www.reuters.com/article/2013/06/20/us-palestinian-israel-children-idUSBRE95J0FR20130620 (Reuters)] <!-- Since this regards the UN, please do not remove the reference to the State of Palestine since it's an observer of the organization -->
 
 ;Business and economics
 *[[Instagram]] announces that users will be able to upload videos to the service. [http://abcnews.go.com/m/story?id=19436098 (ABC News)]

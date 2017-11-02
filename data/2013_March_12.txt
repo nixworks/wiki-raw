@@ -2,8 +2,8 @@
 
 ;Armed conflicts and attacks
 *[[Syrian civil war]]:
-**[[Syrian Army]] forces kill 30 army [[deserter]]s in an ambush on the [[Damascus]] [[Damascus International Airport|Airport]] road. [http://www.reuters.com/article/2013/03/12/us-syria-crisis-ambush-idUSBRE92B0NT20130312 (Reuters)]
-**The [[Syrian army]] launches intensive air strikes on [[Homs]] following the rebel's capture of the Baba Amr district. [http://www.reuters.com/article/2013/03/11/us-syria-crisis-homs-idUSBRE92A08320130311 (Reuters)] [http://www.bbc.co.uk/news/world-middle-east-21760459 (BBC)]
+**[[Syrian Army]] forces kill 30 army [[deserter]]s in an ambush on the [[Damascus]] [[Damascus International Airport|Airport]] road. [https://www.reuters.com/article/2013/03/12/us-syria-crisis-ambush-idUSBRE92B0NT20130312 (Reuters)]
+**The [[Syrian army]] launches intensive air strikes on [[Homs]] following the rebel's capture of the Baba Amr district. [https://www.reuters.com/article/2013/03/11/us-syria-crisis-homs-idUSBRE92A08320130311 (Reuters)] [http://www.bbc.co.uk/news/world-middle-east-21760459 (BBC)]
 *[[Israeli–Palestinian conflict]]:
 **A [[State of Palestine|Palestinian]] protestor is killed by [[Israel]]i forces after hurling stones and [[Molotov cocktail|incendiary bottles]] in the [[West Bank]]. [http://www.foxnews.com/world/2013/03/12/israeli-troops-shoot-to-death-palestinian-protester-in-west-bank-clashes/ (Fox News)] [http://www.bbc.co.uk/news/world-middle-east-21768293 (BBC)]
 
@@ -13,17 +13,17 @@
 ;Business and economy
 *The [[Better Business Bureau]] expels the [[Los Angeles]] chapter, the nation's largest chapter, over a [[pay-to-play]] scheme. [http://www.latimes.com/business/money/la-fi-mo-better-business-bureau-expels-los-angeles-chapter-largest-in-nation-20130312,0,730305.story (''Los Angeles Times'')]
 *[[Google]] agrees to pay [[US$|$]]7 millions to settle a privacy [[lawsuit]] over the handling of [[wireless]] data. [http://www.bbc.co.uk/news/technology-21762545 (BBC)] [http://abcnews.go.com/Technology/wireStory/google-pays-7m-fine-settle-wi-fi-privacy-18711628 (AP via ABC News)]
-*[[Japan]]'s [[Japan Oil, Gas and Metals National Corporation|JOGMEC]] becomes the first to successfully extract [[Methane clathrate|methane hydrate]] from [[seabed]] deposits. [http://www.reuters.com/article/2013/03/12/us-methane-hydrates-japan-idUSBRE92B07620130312 (Reuters)] [http://www.google.com/hostednews/afp/article/ALeqM5g6akGbdJ0s6ug4MI6Mp4r8Ae0tbg (AFP via Google)]
+*[[Japan]]'s [[Japan Oil, Gas and Metals National Corporation|JOGMEC]] becomes the first to successfully extract [[Methane clathrate|methane hydrate]] from [[seabed]] deposits. [https://www.reuters.com/article/2013/03/12/us-methane-hydrates-japan-idUSBRE92B07620130312 (Reuters)] [http://www.google.com/hostednews/afp/article/ALeqM5g6akGbdJ0s6ug4MI6Mp4r8Ae0tbg (AFP via Google)]
 *Private equity firm [[Apollo Global Management]] announces that it has purchased the rights to [[Twinkie]]s and other [[Hostess Brands]] [[snack]]s and hopes to have the treats back on grocery shelves by summer. [http://www.chicagotribune.com/business/breaking/chi-new-hostess-owner-eyes-twinkies-summer-return-20130312,0,704303.story (''Chicago Tribune'')]
 
 ;Disasters and accidents
-*An [[Israel]]i military helicopter [[Bell AH-1 Cobra]] crashes near [[Palmachim Airbase]] in southern [[Israel]] and kills two [[Israeli Air Force|IAF]] pilots. [http://www.bbc.co.uk/news/world-middle-east-21751915 (BBC)] [http://www.reuters.com/article/2013/03/12/us-israel-crash-idUSBRE92B07E20130312 (Reuters)] [http://www.haaretz.com/news/diplomacy-defense/two-iaf-pilots-killed-in-helicopter-crash-in-southern-israel-1.508800 (''Haaretz'')]
+*An [[Israel]]i military helicopter [[Bell AH-1 Cobra]] crashes near [[Palmachim Airbase]] in southern [[Israel]] and kills two [[Israeli Air Force|IAF]] pilots. [http://www.bbc.co.uk/news/world-middle-east-21751915 (BBC)] [https://www.reuters.com/article/2013/03/12/us-israel-crash-idUSBRE92B07E20130312 (Reuters)] [http://www.haaretz.com/news/diplomacy-defense/two-iaf-pilots-killed-in-helicopter-crash-in-southern-israel-1.508800 (''Haaretz'')]
 *[[Frankfurt Airport]] is closed and [[Eurostar]] trains are suspended due to unseasonably heavy [[snowfall]] in [[Western Europe]]. [http://www.news24.com/news24/World/News/Snowfall-brings-Europe-to-a-standstill-20130312 (AP via News24)] [http://www.bbc.co.uk/news/world-europe-21766690 (BBC)]
 *Four teenagers die after their car skidded on an icy patch and went through a bridge guardrail into Forked Creek near [[Wilmington, Will County, Illinois|Wilmington]], [[Illinois]], [[United States]]. [http://www.pjstar.com/free/x1037521403/4-teens-die-when-car-plunges-into-northern-Illinois-creek (AP via ''Peoria Journal Star'')] 
 
 ;Health and environment
 *A study finds a [[correlation]] between insufficient [[sleep]] and [[weight gain]]. [http://www.counselheal.com/articles/4310/20130312/sleeping-less-lead-weight-gain-study-reports.htm (''Counsel & Heal'')]
-*A [[Saudi Arabia]]n man becomes the ninth person to die from the [[Novel coronavirus 2012]]. [http://www.reuters.com/article/2013/03/12/us-virus-saudi-who-idUSBRE92B15S20130312 (Reuters)]
+*A [[Saudi Arabia]]n man becomes the ninth person to die from the [[Novel coronavirus 2012]]. [https://www.reuters.com/article/2013/03/12/us-virus-saudi-who-idUSBRE92B15S20130312 (Reuters)]
 *At [[CITES]] meeting in [[Thailand]], participating nations vote in effect various restrictions on the trade of critically endangered [[hardwood]] trees. [http://www.bbc.co.uk/news/science-environment-21759988 (BBC)]
 
 ;Law and crime
@@ -36,7 +36,7 @@
 
 ;Politics and elections
 *Voters in [[Greenland]] go to the polls for a [[Greenlandic parliamentary election, 2013|parliamentary election]]. [http://www.bbc.co.uk/news/world-europe-21750668 (BBC)] [http://www.news.com.au/breaking-news/world/minerals-dominate-greenland-election/story-e6frfkui-1226595542111 (AAP via News Limited)]
-*[[Armenia]]n [[Armenian presidential election, 2013|presidential election]] runner-up [[Raffi Hovannisian]] goes on [[hunger strike]] after three weeks of [[2013 Armenian presidential election protests|mass rallies]] against the election results. [http://www.reuters.com/article/2013/03/10/us-armenia-election-idUSBRE9290EV20130310 (Reuters)] [http://www.rferl.org/content/armenia-hovannisian-hunger-strike/24924903.html (Radio Free Europe)]
+*[[Armenia]]n [[Armenian presidential election, 2013|presidential election]] runner-up [[Raffi Hovannisian]] goes on [[hunger strike]] after three weeks of [[2013 Armenian presidential election protests|mass rallies]] against the election results. [https://www.reuters.com/article/2013/03/10/us-armenia-election-idUSBRE9290EV20130310 (Reuters)] [http://www.rferl.org/content/armenia-hovannisian-hunger-strike/24924903.html (Radio Free Europe)]
 
 ;Religion
 *[[Papal conclave, 2013]]:

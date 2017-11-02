@@ -2,7 +2,7 @@
 
 ;Armed conflicts and attacks
 *[[2012 Beirut bombing]]: Lebanese security forces fire shots into the air and tear gas at crowds, as protesters attempt to breach government offices of prime minister Mikati in response to a car bomb that killed  intelligence chief [[Wissam al-Hassan]]. [http://www.jpost.com/MiddleEast/Article.aspx?id=288690 (''Jerusalem Post'')]
-*Hundreds of protesters in Libya storm the grounds of the country's parliament building to protest the [[Siege of Bani Walid (2012)|ongoing siege in Bani Walid]]. [http://www.reuters.com/article/2012/10/21/us-libya-clashes-idUSBRE89K07G20121021 (Reuters)]
+*Hundreds of protesters in Libya storm the grounds of the country's parliament building to protest the [[Siege of Bani Walid (2012)|ongoing siege in Bani Walid]]. [https://www.reuters.com/article/2012/10/21/us-libya-clashes-idUSBRE89K07G20121021 (Reuters)]
 *Police fire tear gas and stun grenades at an anti-government protest in [[Kuwait]]; protesters were demonstrating against changes to voting laws. [http://www.aljazeera.com/news/middleeast/2012/10/20121021632723537.html (Al Jazeera)]
 *A firefight in [[Guinea-Bissau]] kills six people. [http://www.bbc.com/news/world-africa-20022211 (BBC)]
 *[[Syrian civil war]]: Car bombs explode in predominately Christian neighborhoods in Damascus and Aleppo, killing at least 13, as talks between the Assad and U.N. peace envoy Lakhdar Brahimi continue. [http://online.wsj.com/article/SB10001424052970203406404578070092468845354.html (''Wall Street Journal'')]
@@ -19,6 +19,6 @@
 
 ;Politics and elections
 *[[Fidel Castro]] appears in public for the first time in many months. A photograph of the [[Cuba]]n revolutionary leader appears to show him "doing very well." [http://www.bbc.com/news/world-latin-america-20024018 (BBC)] [http://us.cnn.com/2012/10/21/world/americas/cuba-castro/index.html?hpt=hp_t2 (CNN)]
-*Former [[United States]] [[United States Senate|Senator]] and [[United States presidential election, 1972|1972]] Democratic presidential nominee [[George McGovern]] dies at the age of 90 in [[Sioux Falls, South Dakota|Sioux Falls]]. [http://www.nytimes.com/2012/10/22/us/politics/george-mcgovern-a-democratic-presidential-nominee-and-liberal-stalwart-dies-at-90.html?pagewanted=all&_r=0 (''The New York Times'')]
+*Former [[United States]] [[United States Senate|Senator]] and [[United States presidential election, 1972|1972]] Democratic presidential nominee [[George McGovern]] dies at the age of 90 in [[Sioux Falls, South Dakota|Sioux Falls]]. [https://www.nytimes.com/2012/10/22/us/politics/george-mcgovern-a-democratic-presidential-nominee-and-liberal-stalwart-dies-at-90.html?pagewanted=all&_r=0 (''The New York Times'')]
 
 <!-- All news items above this line -->{{Current events footer}}

@@ -22,6 +22,6 @@
 
 ;Politics and elections
 *The [[List of Prime Ministers of Luxembourg|Prime Minister]] of [[Luxembourg]] [[Jean-Claude Juncker]] resigns over a scandal in the Service de Renseignement de l'État (State Intelligence Service), leading to an election being called. [http://www.bbc.co.uk/news/world-europe-23264789 (BBC)]
-*The [[Mali]] government returns to the northern city of [[Kidal]]. [http://abcnews.go.com/International/wireStory/malis-government-returns-key-northern-city-19640398#.Ud7y3tL2aSo (ABC)], [http://www.washingtonpost.com/world/africa/mali-government-officials-return-to-key-northern-city-of-kidal-16-months-after-rebel-takeover/2013/07/11/9d58ed66-ea4b-11e2-818e-aa29e855f3ab_story.html (Washington Post)]
+*The [[Mali]] government returns to the northern city of [[Kidal]]. [http://abcnews.go.com/International/wireStory/malis-government-returns-key-northern-city-19640398#.Ud7y3tL2aSo (ABC)], [https://www.washingtonpost.com/world/africa/mali-government-officials-return-to-key-northern-city-of-kidal-16-months-after-rebel-takeover/2013/07/11/9d58ed66-ea4b-11e2-818e-aa29e855f3ab_story.html (Washington Post)]
 
 <!-- All news items above this line -->{{Current events footer}}
