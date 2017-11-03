@@ -3,5 +3,8 @@
 <!-- All news items below this line -->
 ;International relations
 *[[Japan-United States relations]]
-**[[United States]] president [[Donald Trump]]'s first daughter, real estate heiress [[Ivanka Trump|Ivanka]], visits [[Japan]]. [https://www.washingtonpost.com/world/asia_pacific/japan-is-all-abuzz-about-the-arrival-of-a-trump-ivanka-trump/2017/11/02/a60041ee-bf1c-11e7-9294-705f80164f6e_story.html (''The Washington Post'')]
+**[[United States]] president [[Donald Trump]]'s first daughter, real estate heiress [[Ivanka Trump|Ivanka]], visits [[Japan]]. [https://www.washingtonpost.com/world/asia_pacific/japan-is-all-abuzz-about-the-arrival-of-a-trump-ivanka-trump/2017/11/02/a60041ee-bf1c-11e7-9294-705f80164f6e_story.html (''The Washington Post'')], [https://www.nytimes.com/2017/11/03/world/asia/ivanka-trump-japan.html (''The New York Times'')]
+;Armed conflicts and attacks
+*[[Syrian Civil War]]
+**The [[Syrian Arab Army]] and allies announce complete liberation of [[Deir ez-Zor]] from [[ISIL]]. [https://sputniknews.com/middleeast/201711031058777870-syrian-army-last-daesh-remnants/ (''Sputnik International'')]
 <!-- All news items above this line -->}}
