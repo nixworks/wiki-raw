@@ -11,13 +11,13 @@
 
 ;Business and economy
 *[[General Motors]] announces that it will be closing its Australian [[Holden]] manufacturing subsidiary by the end of 2017. [http://www.news.com.au/finance/business/gm-to-name-mary-barra-ceo-as-holden-decision-nears/story-fnda1bsz-1226780247370 (News Limited)]
-*Sources indicate that [[Stanley Fischer]], former head of the central bank of [[Israel]], is the front runner to become the new Vice Chair of the U.S. [[Federal Reserve]] as [[Janet Yellen]] ascends to the Chair. [http://www.reuters.com/article/2013/12/11/usa-fed-fischer-idUSL1N0JQ1HQ20131211 (Reuters)] 
+*Sources indicate that [[Stanley Fischer]], former head of the central bank of [[Israel]], is the front runner to become the new Vice Chair of the U.S. [[Federal Reserve]] as [[Janet Yellen]] ascends to the Chair. [https://www.reuters.com/article/2013/12/11/usa-fed-fischer-idUSL1N0JQ1HQ20131211 (Reuters)] 
 
 ;Disasters and accidents
-*[[Bubonic plague]] kills 20 people in a [[Madagascar]] village. [http://www.independent.co.uk/news/world/africa/bubonic-plague-kills-20-in-madagascar-village-8997280.html (''The Independent'')]
+*[[Bubonic plague]] kills 20 people in a [[Madagascar]] village. [https://www.independent.co.uk/news/world/africa/bubonic-plague-kills-20-in-madagascar-village-8997280.html (''The Independent'')]
 
 ;International relations
-*The U.S. [[National Security Agency]] is secretly piggybacking on the tools that enable internet advertisers to track consumers, such tools are known as [[HTTP cookie|cookies]]; specifically, [[Google]] cookies are being tracked in order to determine targets for hacking. [http://www.washingtonpost.com/blogs/the-switch/wp/2013/12/10/nsa-uses-google-cookies-to-pinpoint-targets-for-hacking/ (''The Washington Post'')]
+*The U.S. [[National Security Agency]] is secretly piggybacking on the tools that enable internet advertisers to track consumers, such tools are known as [[HTTP cookie|cookies]]; specifically, [[Google]] cookies are being tracked in order to determine targets for hacking. [https://www.washingtonpost.com/blogs/the-switch/wp/2013/12/10/nsa-uses-google-cookies-to-pinpoint-targets-for-hacking/ (''The Washington Post'')]
 
 ;Law and crime
 *[[LGBT rights in India]]:
@@ -27,6 +27,6 @@
 ;Politics and elections
 *[[President of Russia]] [[Vladimir Putin]] announces a policy mandate that increases military focus in the [[Arctic]]. [http://in.reuters.com/article/2013/12/10/russia-arctic-putin-idINL6N0JP40520131210 (Reuters)]
 *[[Euromaidan]]:
-**Police in [[Kiev]] abandon their posts after a sweep of the protesters ended in violence. [http://www.nytimes.com/2013/12/12/world/europe/police-storm-kiev-square-as-crisis-grows.html (''The New York Times'')]
+**Police in [[Kiev]] abandon their posts after a sweep of the protesters ended in violence. [https://www.nytimes.com/2013/12/12/world/europe/police-storm-kiev-square-as-crisis-grows.html (''The New York Times'')]
 
 <!-- All news items above this line -->{{Current events footer}}

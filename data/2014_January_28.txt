@@ -1,7 +1,7 @@
 <!-- All news items below this line -->{{Current events header|2014|01|28}}
 
 ;Business and economy
-*[[Carl Icahn]] announces he has purchased another bloc of the stock of [[Apple Inc.]], part of a ramping up that now has him owning Apple equity in the amount of more than $4 billion. [http://www.reuters.com/article/2014/01/28/us-apple-icahn-idUSBREA0R18X20140128 (Reuters)] 
+*[[Carl Icahn]] announces he has purchased another bloc of the stock of [[Apple Inc.]], part of a ramping up that now has him owning Apple equity in the amount of more than $4 billion. [https://www.reuters.com/article/2014/01/28/us-apple-icahn-idUSBREA0R18X20140128 (Reuters)] 
 
 ;Disasters and accidents
 *Bird flu in China:
@@ -18,7 +18,7 @@
 *[[Euromaidan]]:
 **[[Prime Minister of Ukraine|Ukrainian Prime Minister]] [[Mykola Azarov]] submits his resignation to [[President of Ukraine|President]] [[Viktor Yanukovich]] "for the sake of a peaceful settlement of the conflict." [http://www.cbc.ca/news/world/ukraine-prime-minister-mykola-azarov-submits-resignation-1.2513611 (CBC)]
 **Ukrainian President Viktor Yanukovich accepts the resignation of Prime Minister Nikolay Azarov and his cabinet; the cabinet will continue to work until a new government is formed. [http://www.bbc.co.uk/news/world-europe-25932352 (BBC)]
-**Parliament repeals anti-protest laws which had led to protests. [http://worldnews.nbcnews.com/_news/2014/01/28/22478912-ukraine-anti-protest-laws-repealed-pm-offers-to-resign (NBC News)], [http://www.nytimes.com/2014/01/29/world/europe/ukraine-prime-minister-resign.html?_r=0 (''New York Times'')]
+**Parliament repeals anti-protest laws which had led to protests. [http://worldnews.nbcnews.com/_news/2014/01/28/22478912-ukraine-anti-protest-laws-repealed-pm-offers-to-resign (NBC News)], [https://www.nytimes.com/2014/01/29/world/europe/ukraine-prime-minister-resign.html?_r=0 (''New York Times'')]
 
 ;Science and technology
 *DNA analysis reveals that the [[Plague of Justinian]] responsible for killing up to half the population of [[Europe]] in 6th century AD was caused by a variant of ''[[Yersinia pestis]]'', the same bacterium believed to have caused the [[Black Death]]. [http://www.healthcanal.com/public-health-safety/46990-scientists-reveal-the-cause-of-one-of-the-most-devastating-pandemics-in-history.html (Health Canal)]

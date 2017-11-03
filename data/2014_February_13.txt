@@ -13,8 +13,8 @@
 
 ;Business and economy
 *[[Comcast]] is set to acquire [[Time Warner Cable]] in a [[United States dollars|US$]]44 billion buyout. [http://dealbook.nytimes.com/2014/02/12/comcast-set-to-acquire-time-warner-cable/ (''The New York Times'')]
-*A [[Reuters]] poll of economic forecasters finds that they are more worried about [[deflation]] across the [[Eurozone]] than is the [[European Central Bank|ECB]].  [http://www.reuters.com/article/2014/02/13/us-economy-eurozone-poll-idUSBREA1C1DT20140213 (Reuters)] 
-*[[Facebook]] users in the [[United States]] are now allowed to customize their gender. [http://www.washingtonpost.com/national/facebook-users-others-react-to-gender-options/2014/02/13/22837aec-94fb-11e3-9e13-770265cf4962_story.html (''The Washington Post'')]
+*A [[Reuters]] poll of economic forecasters finds that they are more worried about [[deflation]] across the [[Eurozone]] than is the [[European Central Bank|ECB]].  [https://www.reuters.com/article/2014/02/13/us-economy-eurozone-poll-idUSBREA1C1DT20140213 (Reuters)] 
+*[[Facebook]] users in the [[United States]] are now allowed to customize their gender. [https://www.washingtonpost.com/national/facebook-users-others-react-to-gender-options/2014/02/13/22837aec-94fb-11e3-9e13-770265cf4962_story.html (''The Washington Post'')]
 
 ;Disasters and accidents
 *Thousands of homes in England remain without power following [[Winter storms of 2013–2014 in the United Kingdom|Wednesday's storms]] as the UK's [[Met Office]] forecasts fresh heavy rain and high winds for Friday. [http://www.bbc.co.uk/news/uk-26176582 (BBC)]
@@ -24,7 +24,7 @@
 *[[Egypt–Russia relations]]:
 **During a two-day visit by an Egyptian delegation in [[Moscow]], Russian Foreign Minister [[Sergey Lavrov]] said that Moscow and [[Cairo]] have agreed to speed up work on drafting agreements on military-technological cooperation. Russian Defense Minister [[Sergey Shoigu]] added that this could include joint military exercises and training of Egyptian officers in Russian military academies.[http://english.ahram.org.eg/NewsContent/1/64/94184/Egypt/Politics-/Russia-trip-new-start-to-military-cooperation-Egyp.aspx (Al-Ahram)] [http://www.thehindu.com/news/international/world/russia-egypt-to-boost-defence-ties/article5684901.ece (The Hindu)] 
 **Russian President [[Vladimir Putin]] says he supports Egyptian Defense Minister [[Abdel Fattah el-Sisi]]'s bid for the upcoming [[Egyptian presidential election, 2014|presidential election]] in Egypt. [http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/10635530/Vladimir-Putin-backs-Egypt-army-chief-Abdulfattah-al-Sisi-for-president.html (The Telegraph)]
-*President [[Barack Obama]] is set on visiting [[Japan]], [[South Korea]], [[Malaysia]], and the [[Philippines]] after previously cancelling his trip in 2013. [http://www.reuters.com/article/2014/02/13/us-usa-obama-asia-idUSBREA1C00220140213 (Reuters)]
+*President [[Barack Obama]] is set on visiting [[Japan]], [[South Korea]], [[Malaysia]], and the [[Philippines]] after previously cancelling his trip in 2013. [https://www.reuters.com/article/2014/02/13/us-usa-obama-asia-idUSBREA1C00220140213 (Reuters)]
 
 ;Law and crime
 *The [[Government of the United Kingdom|UK Government]] says that packages sent to several [[British Armed Forces|army]] careers offices had "potentially viable devices bearing hallmarks of Northern Ireland related terrorism". [http://www.bbc.co.uk/news/uk-england-26171896 (BBC)]
@@ -32,12 +32,12 @@
 
 ;Politics and elections
 *Lawmakers riot in the lower house of [[India]]'s parliament in protest of a plan creating the state of [[Telangana]]. [http://www.bbc.co.uk/news/world-asia-india-26167129 (BBC)]
-*[[Venezuela]]n President [[Nicolás Maduro]] arrests opposition activists in reaction to an "attempted coup" against his government. [http://www.reuters.com/article/2014/02/11/us-venezuela-protests-idUSBREA1A19420140211 (Reuters)]
-*[[Italy]]'s Prime Minister [[Enrico Letta]] holds an emergency meeting after Democratic leader [[Matteo Renzi]] called for him to resign. [http://www.theguardian.com/world/2014/feb/13/italy-new-government-enrico-letta-matteo-renzi (''The Guardian'')]
-*A [[Virginia]] judge rules the state's prohibition of [[gay marriage]] unconstitutional. [http://www.usatoday.com/story/news/nation/2014/02/13/virginia-same-sex-marriage/5473687/ (USA Today)]
+*[[Venezuela]]n President [[Nicolás Maduro]] arrests opposition activists in reaction to an "attempted coup" against his government. [https://www.reuters.com/article/2014/02/11/us-venezuela-protests-idUSBREA1A19420140211 (Reuters)]
+*[[Italy]]'s Prime Minister [[Enrico Letta]] holds an emergency meeting after Democratic leader [[Matteo Renzi]] called for him to resign. [https://www.theguardian.com/world/2014/feb/13/italy-new-government-enrico-letta-matteo-renzi (''The Guardian'')]
+*A [[Virginia]] judge rules the state's prohibition of [[gay marriage]] unconstitutional. [https://www.usatoday.com/story/news/nation/2014/02/13/virginia-same-sex-marriage/5473687/ (USA Today)]
 
 ;Science and technology
-*China's [[Yutu (rover)|Yutu rover]], after being pronounced dead the day previously, leaves dormancy one day late after malfunctioning prior to the [[Moon|Lunar]] night. [http://www.wired.co.uk/news/archive/2014-02/13/jade-rabbit-lives (wired.co.uk)] [http://www.bbc.co.uk/news/science-environment-26153520 (BBC)]
+*China's [[Yutu (rover)|Yutu rover]], after being pronounced dead the day previously, leaves dormancy one day late after malfunctioning prior to the [[Moon|Lunar]] night. [https://www.wired.co.uk/news/archive/2014-02/13/jade-rabbit-lives (wired.co.uk)] [http://www.bbc.co.uk/news/science-environment-26153520 (BBC)]
 *The remains of an infant boy from the [[Clovis culture]] is determined to be [[Native Americans in the United States|Native American]]. [http://www.npr.org/2014/02/13/276021092/ancient-dna-ties-native-americans-from-two-continents-to-clovis (NPR)]
 
 <!-- All news items above this line -->{{Current events footer}}

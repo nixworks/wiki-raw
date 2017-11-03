@@ -2,7 +2,7 @@
 
 ;Armed conflict and attacks
 *[[War in Somalia (2009–present)|War in Somalia]]
-**The [[Red Cross]] says that at least 36 people may be dead following an attack in [[Mandera County]] in northeastern [[Kenya]]. [[al-Shabaab (militant group)|Al-Shabaab]] militants are believed to be responsible. [http://www.businessweek.com/news/2014-12-02/kenya-red-cross-says-36-feared-dead-after-attack-in-northeast (Bloomberg via ''Business Week'')], [http://www.nytimes.com/reuters/2014/12/02/world/africa/02reuters-kenya-attacks.html?partner=rss&emc=rss&smid=tw-nytimesworld&_r=0 (Reuters via ''New York Times'')]
+**The [[Red Cross]] says that at least 36 people may be dead following an attack in [[Mandera County]] in northeastern [[Kenya]]. [[al-Shabaab (militant group)|Al-Shabaab]] militants are believed to be responsible. [http://www.businessweek.com/news/2014-12-02/kenya-red-cross-says-36-feared-dead-after-attack-in-northeast (Bloomberg via ''Business Week'')], [https://www.nytimes.com/reuters/2014/12/02/world/africa/02reuters-kenya-attacks.html?partner=rss&emc=rss&smid=tw-nytimesworld&_r=0 (Reuters via ''New York Times'')]
 *[[Syrian Civil War spillover in Lebanon]]
 **Unidentified gunmen kill 6 [[Lebanese Armed Forces|Lebanese soldiers]] near the eastern town of [[Ras Baalbek]]. [http://www.aljazeera.com/news/middleeast/2014/12/lebanese-troops-killed-near-syrian-border-2014122193646646562.html (Al Jazeera)]
 *[[Islamic State in Iraq and the Levant]]
@@ -11,7 +11,7 @@
 **The [[FBI]] launches a probe into a massive hacking attack on [[Sony Pictures]], believing the [[Politics in North Korea|leadership of North Korea]] to be responsible. [http://www.foxnews.com/tech/2014/12/02/fbi-launches-probe-into-massive-sony-pictures-hack/ (FOX News)]
 
 ;Business and economy
-*A major Switzerland based commodities firm, [[Trafigura]], played a "pivotal" role in the ability of the semi-autonomous [[Kurd]]ish region of [[Iraq]] to export oil, exports that the central government in [[Baghdad]] has prohibited. [http://www.reuters.com/article/2014/12/04/us-mideast-crisis-kurds-trafigura-exclus-idUSKCN0JI0MC20141204 (Reuters)]
+*A major Switzerland based commodities firm, [[Trafigura]], played a "pivotal" role in the ability of the semi-autonomous [[Kurd]]ish region of [[Iraq]] to export oil, exports that the central government in [[Baghdad]] has prohibited. [https://www.reuters.com/article/2014/12/04/us-mideast-crisis-kurds-trafigura-exclus-idUSKCN0JI0MC20141204 (Reuters)]
 
 ;Health
 *[[Ebola virus epidemic in West Africa]]

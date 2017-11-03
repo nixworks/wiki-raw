@@ -5,7 +5,7 @@
 **An [[Egypt]]ian court hands down a death sentence on 638 [[Muslim Brotherhood]] supporters, among them the group's top leader [[Mohamed Badie]]. [http://uk.reuters.com/article/2014/04/28/uk-egypt-brotherhood-idUKKBN0DE0LK20140428 (Reuters)]
 *[[2014 pro-Russian unrest in Ukraine]]:
 **Pro-Russian gunmen seize the town of [[Kostyantynivka]], the latest in a string of towns in the eastern [[Ukraine]]. [http://post.us/2014/04/28/pro-russia-gunmen-seize-another-east-ukraine-town-afp/ (AFP via Post)]
-**The [[United States]] imposes a third round of sanctions against [[Russia]], reportedly in response to Russia encouraging rebellion in [[eastern Ukraine]].  [http://www.reuters.com/article/2014/04/28/us-ukraine-crisis-idUSBREA3O16720140428 (Reuters)]
+**The [[United States]] imposes a third round of sanctions against [[Russia]], reportedly in response to Russia encouraging rebellion in [[eastern Ukraine]].  [https://www.reuters.com/article/2014/04/28/us-ukraine-crisis-idUSBREA3O16720140428 (Reuters)]
 **The mayor of the [[Eastern Ukraine|eastern Ukrainian]] city of [[Kharkiv]], [[Gennady Kernes]], is shot in the back by an unknown assailant.  [http://www.cnn.com/2014/04/28/world/europe/ukraine-crisis/ (BBC)]
 **Two thousand people holding a peaceful demonstration in Donetsk for a united Ukraine are attacked with bats and teargas by pro-Russians. [http://www.nbcnews.com/storyline/ukraine-crisis/pro-ukraine-demonstration-donetsk-turns-violent-n91656 (NBC)]
 *[[Iraqi insurgency (post-U.S. withdrawal)]]:
@@ -13,7 +13,7 @@
 
 ;Arts and culture
 *More than 50 royal [[mummies]] have been discovered by Egyptian and [[Switzerland|Swiss]] archeologists in the newly opened [[KV40]] tomb in Egypt's Valley of the Kings. [http://news.nationalgeographic.com/news/2014/05/140501-mummy-royal-tut-discovery-egypt-science/ (National Geographic News)]
-*[[Scottish-American]] comedian [[Craig Ferguson]] announces his departure from the [[CBS]] late-night talk show ''[[The Late Late Show with Craig Ferguson|The Late Late Show]]'', effective December 2014. [http://www.usatoday.com/story/life/tv/2014/04/28/craig-ferguson-will-leave-cbs-late-late-show/8436401/ (''USA Today'')]
+*[[Scottish-American]] comedian [[Craig Ferguson]] announces his departure from the [[CBS]] late-night talk show ''[[The Late Late Show with Craig Ferguson|The Late Late Show]]'', effective December 2014. [https://www.usatoday.com/story/life/tv/2014/04/28/craig-ferguson-will-leave-cbs-late-late-show/8436401/ (''USA Today'')]
 
 ;Business and economics
 *[[Microsoft]] announces a major vulnerability in [[Internet Explorer]] versions 6 to 11 that could enable hackers to gain access and user rights to its customers' computers. [http://www.bbc.com/news/technology-27184188 (BBC)]

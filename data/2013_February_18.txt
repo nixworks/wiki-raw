@@ -6,7 +6,7 @@
 
 ;Disasters and accidents
 *A [[fishing vessel]] capsizes off of [[Liverpool, Nova Scotia|Liverpool]], [[Nova Scotia]], [[Canada]], leaving 5 [[fishermen]] missing in the frigid waters. [http://thechronicleherald.ca/novascotia/716400-search-underway-off-liverpool-for-capsized-boat (''The Chronicle Herald'')]
-*At least 15 people are killed in [[Indonesia]] after flooding and multiple landslides ravage the [[North Sulawesi]] province. [http://www.usatoday.com/story/news/world/2013/02/17/indonesia-landslides-floods/1927105/ (AP via USA Today)] [http://www.bbc.co.uk/news/world-asia-21495988 (BBC)]
+*At least 15 people are killed in [[Indonesia]] after flooding and multiple landslides ravage the [[North Sulawesi]] province. [https://www.usatoday.com/story/news/world/2013/02/17/indonesia-landslides-floods/1927105/ (AP via USA Today)] [http://www.bbc.co.uk/news/world-asia-21495988 (BBC)]
 
 ;Health and environment
 *Food giant [[Nestlé]] removes its [[beef]] pasta meals from [[supermarket]]s in [[France]], [[Spain]], and [[Italy]], after tests confirmed that the product [[2013 meat adulteration scandal|contained]] [[horse meat]]. [http://www.bbc.co.uk/news/world-europe-21501568 (BBC)]
@@ -17,7 +17,7 @@
 
 ;Politics and elections
 *Voters in [[Armenia]] go to the polls for a [[Armenian presidential election, 2013|presidential election]] with incumbent [[President of Armenia|President]] [[Serzh Sargsyan]] expected to win. [[Election monitoring|Independent observers]] including the [[Parliamentary Assembly of the Council of Europe|Parliamentary Assembly]] of the [[Council of Europe]] have expressed concern about the conduct of the elections. [http://www.bbc.co.uk/news/world-europe-21495377 (BBC)]
-*[[President of Venezuela|President]] of [[Venezuela]] [[Hugo Chávez]] returns home after undergoing [[cancer surgery]] in [[Cuba]]. [http://www.nytimes.com/2013/02/19/world/americas/chavez-returns-to-venezuela-after-cancer-surgery-in-cuba.html (''The New York Times'')]
+*[[President of Venezuela|President]] of [[Venezuela]] [[Hugo Chávez]] returns home after undergoing [[cancer surgery]] in [[Cuba]]. [https://www.nytimes.com/2013/02/19/world/americas/chavez-returns-to-venezuela-after-cancer-surgery-in-cuba.html (''The New York Times'')]
 *[[Prime Minister of Tunisia|Prime Minister]] of [[Tunisia]] [[Hamadi Jebali]] announces that plans for a new [[Government of Tunisia|government]] of technocrats has failed. [http://www.sbs.com.au/news/article/1738424/Tunisia-crisis-talks-fail-PM-leaves-door-open-for (AAP via SBS News)]
 
 ;Sport

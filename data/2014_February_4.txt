@@ -1,7 +1,7 @@
 <!-- All news items below this line -->{{Current events header|2014|02|04}}
 
 ;Armed conflicts and attacks
-*A police officer and seven [[Islamist]] militants are killed in a gunfight in [[Tunis]], [[Tunisia]]. [http://www.reuters.com/article/2014/02/04/us-tunisia-clash-idUSBREA130SU20140204 (Reuters)]
+*A police officer and seven [[Islamist]] militants are killed in a gunfight in [[Tunis]], [[Tunisia]]. [https://www.reuters.com/article/2014/02/04/us-tunisia-clash-idUSBREA130SU20140204 (Reuters)]
 
 ;Arts and culture
 *[[Archaeologist]]s working near the ancient settlement of [[Edfu]] in southern [[Egypt]] discover the remains of a 4,600-year-old [[step pyramid]]. [http://www.foxnews.com/science/2014/02/04/4600-year-old-step-pyramid-uncovered-in-egypt/ (LiveScience via Fox News)]
@@ -19,6 +19,6 @@
 
 ;Politics and elections
 *[[United States House of Representatives]] member [[Rob Andrews]] announces that he will retire at the end of his current term. [http://www.politico.com/story/2014/02/rob-andrews-retirement-103082.html (Politico)]
-*[[Michael McFaul]], the [[United States Ambassador to Russia]], announces that he is stepping down from the job after 2 years. [http://www.theguardian.com/world/2014/feb/04/us-ambassador-russia-steps-down-michael-mcfaul (''The Guardian'')]
+*[[Michael McFaul]], the [[United States Ambassador to Russia]], announces that he is stepping down from the job after 2 years. [https://www.theguardian.com/world/2014/feb/04/us-ambassador-russia-steps-down-michael-mcfaul (''The Guardian'')]
 
 <!-- All news items above this line -->{{Current events footer}}

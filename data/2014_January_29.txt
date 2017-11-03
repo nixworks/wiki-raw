@@ -2,7 +2,7 @@
 
 ;Armed conflicts and attacks
 *[[Civil conflict in the Philippines]]
-**More than 40 people are killed on [[Mindanao]] between the Philippine government and armed groups opposed to the peace deal between the [[Philippines]] and the [[Moro Islamic Liberation Front]]. [http://www.nytimes.com/2014/01/30/world/asia/dozens-of-rebels-killed-after-philippine-peace-deal-is-struck.html (''New York Times'')], [http://www.bbc.co.uk/news/world-asia-25943091 (BBC)]
+**More than 40 people are killed on [[Mindanao]] between the Philippine government and armed groups opposed to the peace deal between the [[Philippines]] and the [[Moro Islamic Liberation Front]]. [https://www.nytimes.com/2014/01/30/world/asia/dozens-of-rebels-killed-after-philippine-peace-deal-is-struck.html (''New York Times'')], [http://www.bbc.co.uk/news/world-asia-25943091 (BBC)]
 
 ;Arts and culture
 
@@ -15,18 +15,18 @@
 
 ;International Relations
 *[[Global surveillance disclosures (2013–present)]]
-**[[Edward Snowden]] is nominated for the [[Nobel Peace Prize]]. [http://www.bloomberg.com/news/2014-01-29/snowden-nominated-by-norwegian-lawmakers-for-nobel-peace-prize.html (Bloomberg)]
-**In the US Senate, [[James Clapper]], [[Director of National Intelligence]], calls for the return of NSA documents by "Snowden and his accomplices"; asked whether this includes journalists, Clapper's spokesperson says "Director Clapper was referring to anyone who is assisting Edward Snowden to further threaten our national security through the unauthorized disclosure of stolen documents related to lawful foreign intelligence collection programs." ([http://www.theguardian.com/world/2014/jan/29/james-clapper-condemns-snowden-senate-testimony ''The Guardian''])
+**[[Edward Snowden]] is nominated for the [[Nobel Peace Prize]]. [https://www.bloomberg.com/news/2014-01-29/snowden-nominated-by-norwegian-lawmakers-for-nobel-peace-prize.html (Bloomberg)]
+**In the US Senate, [[James Clapper]], [[Director of National Intelligence]], calls for the return of NSA documents by "Snowden and his accomplices"; asked whether this includes journalists, Clapper's spokesperson says "Director Clapper was referring to anyone who is assisting Edward Snowden to further threaten our national security through the unauthorized disclosure of stolen documents related to lawful foreign intelligence collection programs." ([https://www.theguardian.com/world/2014/jan/29/james-clapper-condemns-snowden-senate-testimony ''The Guardian''])
 
 ;Science and technology
-*Scientists find a way to convert normal cells into [[stem cells]], which can be used for any part of the body. Previously, the standard method of obtaining stem cells was to get them from an [[embryo]]. [http://www.nytimes.com/2014/01/30/business/study-says-new-method-could-be-a-quicker-source-of-stem-cells.html (The New York Times)]
+*Scientists find a way to convert normal cells into [[stem cells]], which can be used for any part of the body. Previously, the standard method of obtaining stem cells was to get them from an [[embryo]]. [https://www.nytimes.com/2014/01/30/business/study-says-new-method-could-be-a-quicker-source-of-stem-cells.html (The New York Times)]
 
 ;Law and crime
 *[[Canadian people|Canadian]] singer [[Justin Bieber]] surrenders to [[Toronto Police Service|Toronto Police]] to face assault charges. [http://entertainment.time.com/2014/01/29/justin-bieber-assault-charges-canada/ (Time)]
 
 ;Politics and elections
 *In the Czech Republic a new [[Bohuslav Sobotka's Cabinet|coalition government]] is sworn in, led by [[Bohuslav Sobotka]] and consisting of the [[Czech Social Democratic Party|Social Democrats]], the liberalist [[ANO 2011]] and the [[Christian and Democratic Union – Czechoslovak People's Party|Christian Democrats]]. [http://www.radio.cz/en/section/curraffrs/new-czech-centre-left-government-sworn-in (Radio Prague)]
-*Largest [[Television in Russia|Russian TV providers]] disconnected leading independent [[Dozhd|Dozhd TV channel]]. The previous days the channel was criticised by Vladimir Putin's press secretary and Russian parliament members. [http://www.themoscowtimes.com/news/article/cable-providers-drop-independent-dozhd-tv-amid-pressure/493576.html (The Moscow Times)] [http://www.theguardian.com/world/2014/jan/29/russia-news-channel-tv-rain-under-threat (Guardian)] [http://www.reuters.com/article/2014/01/29/us-russia-tv-dispute-idUSBREA0S1VW20140129 (Reuters)] [http://en.ria.ru/russia/20140129/187032369/Cable-Satellite-Companies-Pull-Russian-TV-Station-Over-Poll.html (RIA)]
+*Largest [[Television in Russia|Russian TV providers]] disconnected leading independent [[Dozhd|Dozhd TV channel]]. The previous days the channel was criticised by Vladimir Putin's press secretary and Russian parliament members. [http://www.themoscowtimes.com/news/article/cable-providers-drop-independent-dozhd-tv-amid-pressure/493576.html (The Moscow Times)] [https://www.theguardian.com/world/2014/jan/29/russia-news-channel-tv-rain-under-threat (Guardian)] [https://www.reuters.com/article/2014/01/29/us-russia-tv-dispute-idUSBREA0S1VW20140129 (Reuters)] [http://en.ria.ru/russia/20140129/187032369/Cable-Satellite-Companies-Pull-Russian-TV-Station-Over-Poll.html (RIA)]
 *U.S. President [[Barack Obama]] signs the [[myRA]] at a visit to [[U.S. Steel]]'s [[Mon Valley Works - Irvin Plant|Irvin Works]] in metropolitan [[Pittsburgh]]. [http://www.c-span.org/video/?317482-1/Miffl (C-SPAN 24:50)] [http://livewire.wtae.com/Event/President_Obamas_Pittsburgh_Visit/103828239 (WTAE-TV)] [http://www.whitehouse.gov/the-press-office/2014/01/29/press-gaggle-press-secretary-jay-carney-and-treasury-secretary-jack-lew- (Whitehouse.gov)]
 
 <!-- All news items above this line -->{{Current events footer}}

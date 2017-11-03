@@ -1,9 +1,9 @@
 <!-- All news items below this line -->{{Current events header|2014|04|16}}
 
 ;Attacks and conflicts
-*Gunmen ambush a bus killing nine people and wounding six others in western [[Ethiopia]] near the [[Sudan|Sudanese]] border. [http://www.reuters.com/article/2014/04/16/us-ethiopia-attacks-idUSBREA3F0FX20140416 (Reuters)]
+*Gunmen ambush a bus killing nine people and wounding six others in western [[Ethiopia]] near the [[Sudan|Sudanese]] border. [https://www.reuters.com/article/2014/04/16/us-ethiopia-attacks-idUSBREA3F0FX20140416 (Reuters)]
 *[[Syrian Civil War]]
-**More [[chemical attack]]s are reported, this time in the Damascus suburbs. [http://www.reuters.com/article/2014/04/16/us-syria-crisis-chemical-idUSBREA3F1MW20140416?feedType=RSS&feedName=topNews&dlvrit=992637 (Reuters)]
+**More [[chemical attack]]s are reported, this time in the Damascus suburbs. [https://www.reuters.com/article/2014/04/16/us-syria-crisis-chemical-idUSBREA3F1MW20140416?feedType=RSS&feedName=topNews&dlvrit=992637 (Reuters)]
 **[[Jordan|Jordanian]] warplanes strike a convoy of vehicles as they were trying to enter Jordan from Syria. [http://www.bbc.co.uk/news/world-middle-east-27047864 (BBC)]
 *[[2014 pro-Russian unrest in Ukraine]]:
 **Six [[Armoured personnel carrier|armored personnel carriers]] belonging to the [[Armed Forces of Ukraine|Ukrainian military]] are captured by pro-Russian protesters amid rising tensions between the protestors and the military.  [http://www.bbc.com/news/world-europe-27045534 (BBC)]
@@ -17,7 +17,7 @@
 ;Science and technology
 *A [[Soyuz-U]] rocket carrying a new [[Egypt|Egyptian]] communication satellite, EgyptSat-2, was launched from the [[Baikonur Cosmodrome]] in [[Kazakhstan]]. [http://en.itar-tass.com/non-political/728290 (ITAR-TASS)]
 *Scientists discover a new moon forming in the outer edge of [[Saturn]]'s [[Rings of Saturn#A_Ring|A ring]], unofficially called "Peggy". [http://science.nasa.gov/science-news/science-at-nasa/2014/14apr_newmoon/ (NASA Science)]
-*Scientists discover an [[egg cell|egg]] [[Integral membrane protein|membrane protein]], [[Juno (protein)|Juno]], that facilitates [[fertilisation]] in mammals. [http://www.independent.co.uk/news/science/the-moment-of-conception-scientists-isolate-protein-that-governs-first-contact-between-egg-and-sperm-9265346.html (The Independent)]
+*Scientists discover an [[egg cell|egg]] [[Integral membrane protein|membrane protein]], [[Juno (protein)|Juno]], that facilitates [[fertilisation]] in mammals. [https://www.independent.co.uk/news/science/the-moment-of-conception-scientists-isolate-protein-that-governs-first-contact-between-egg-and-sperm-9265346.html (The Independent)]
 
 ;Sports
 *In [[Association football|football]], [[Real Madrid C.F.]] defeats arch-rivals [[FC Barcelona]] 2-1 to secure its 19th [[Copa del Rey]] trophy. [http://sportsillustrated.cnn.com/2014/soccer/wires/04/16/2050.ap.soc.euro.rdp.0637/ (Sports Illustrated)]

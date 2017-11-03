@@ -19,6 +19,6 @@
 *The [[United States]] [[Environmental Protection Agency]] issues new regulations aiming to cut [[carbon emissions]] in the US power sector by 30 percent from 2005 levels by 2030. [http://www.smh.com.au/world/president-obama-seeks-to-make-30-per-cent-cut-in-us-carbon-dioxide-emissions-by-2030-20140603-zrvln.html (Washington Post, Reuters via ''Sydney Morning Herald'')][http://www2.epa.gov/carbon-pollution-standards/clean-power-plan-proposed-rule (US Environmental Protection Agency)]
 
 ;Science and technology
-*[[Apple Inc.]], introduced a new [[programming language]] named [[Swift (programming language)|Swift]], for developing software for their [[operating system]]s [[iOS]] and [[OS X]]. [http://www.wired.co.uk/news/archive/2014-06/02/apple-ios-8-developers-sdk-swift (Wired)]
+*[[Apple Inc.]], introduced a new [[programming language]] named [[Swift (programming language)|Swift]], for developing software for their [[operating system]]s [[iOS]] and [[OS X]]. [https://www.wired.co.uk/news/archive/2014-06/02/apple-ios-8-developers-sdk-swift (Wired)]
 
 <!-- All news items above this line -->{{Current events footer}}

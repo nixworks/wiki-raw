@@ -6,7 +6,7 @@
 **64 percent of polled Russians think that the Ukraine crisis was caused by Western "interference" and 55 percent believe that Russia should continue supporting pro-Moscow separatists even if it could lead to a full-fledged civil war or even [[World War III]], a poll shows. [http://www.themoscowtimes.com/news/article/most-russians-think-western-powers-caused-ukraine-crisis/504224.html (''Moscow Times'')]
 **Ukrainian forces recapture control of [[Stepanivka (Luhansk Oblast)|Stepanivka]] ([[Perevalsk Raion]]) in [[Luhansk oblast]] from pro-Russian insurgents. [http://www.kyivpost.com/content/ukraine/ukrainian-government-forces-liberate-stepanivka-in-luhansk-region-358369.html (''Kyiv Post'')]
 **The [[Australian Federal Police]] and [[Law enforcement in the Netherlands|Dutch police]] abandon efforts to reach the crash site of [[Malaysia Airlines Flight 17]] due to escalating tensions. [http://www.skynews.com.au/news/top-stories/2014/07/29/afp--dutch-police-abandon-mh17-site-attempt.html (Sky News Australia)]
-**The EU approves tougher sanctions on Russia. [http://www.nytimes.com/2014/07/30/world/europe/european-sanctions-russia.html?ref=europe (The New York Times)]
+**The EU approves tougher sanctions on Russia. [https://www.nytimes.com/2014/07/30/world/europe/european-sanctions-russia.html?ref=europe (The New York Times)]
 *[[2014 Israel–Gaza conflict]]:
 **Eighteen people die in airstrikes on [[Gaza City]] as the fighting intensifies. [[Israel Defense Forces|IDF]] reported performing over 200 airstrikes today. [http://edition.cnn.com/2014/07/28/world/meast/mideast-crisis/index.html (CNN)]. According to media{{weasel-inline|date=August 2014}}, up to{{weasel-inline|date=August 2014}} 128 Palestinians are dead in different military attacks today, marking the bloodiest day of Gaza war to the moment. [http://www.startribune.com/world/268985901.html (StarTribune)][http://www.timesofisrael.com/israel-hits-symbols-of-hamas-rule-as-128-killed/ (The Times of Israel)]  
 **The [[Palestinian Authority]] announces it has convinced [[Hamas]] and [[Islamic Jihad Movement in Palestine|Islamic Jihad]] to accept a humanitarian ceasefire, but [[Hamas]] denies the claim. [http://www.ynetnews.com/articles/0,7340,L-4551809,00.html (Ynet)]
@@ -20,7 +20,7 @@
 *The [[Ministry of Culture (Ukraine)|Ukrainian Culture Ministry]] decides not to issue distribution licenses for two Russian films: ''[[The White Guard (TV series)|The White Guard]]'', and a film about Ukrainan-born Soviet wrestler [[Ivan Poddubny]], as they "show contempt for the Ukrainian language, people and the state," and "some facts are distorted to benefit Russia." [http://www.themoscowtimes.com/news/article/ukraine-bans-russian-films-for-distorting-historical-facts/504219.html (''Moscow Times'')]
 
 ;Disasters and accidents
-*A [[heatwave]] in [[Japan]] has caused at least 15 deaths with more than 8000 hospitalised in the past week. [http://news.yahoo.com/japan-heatwave-kills-15-thousands-hospitalised-045258056.html;_ylt=AwrSyCPTKddTbkAA5RTQtDMD (AFP via Yahoo! News)]
+*A [[heatwave]] in [[Japan]] has caused at least 15 deaths with more than 8000 hospitalised in the past week. [https://news.yahoo.com/japan-heatwave-kills-15-thousands-hospitalised-045258056.html;_ylt=AwrSyCPTKddTbkAA5RTQtDMD (AFP via Yahoo! News)]
 *A stampede at a concert in [[Conakry]], the capital of [[Guinea]], to mark the end of [[Ramadan]] results in at least 24 deaths with dozens more injured. [http://www.bbc.com/news/world-africa-28558081 (BBC)]
 
 ;Health
@@ -29,11 +29,11 @@
 **[[Sheik Umar Khan]], the doctor who was leading the fight against the disease in Sierra Leone, dies of the Ebola virus. [http://www.abc.net.au/news/2014-07-30/ebola-fighting-doctor-sheik-umar-khan-dies-from-virus/5633914 (Reuters via ABC Australia)]
 
 ;International relations
-*Moscow describes Tokyo's decision to impose further sanctions on [[Russia]] in the wake of the downing of [[Malaysia Airlines Flight 17]] as an "unfriendly step" that may harm "the entire system of relations" between Russia and [[Japan]]. [http://www.reuters.com/article/2014/07/29/us-ukraine-crisis-russia-japan-idUSKBN0FY0GN20140729 (Reuters)]
-*The [[European Union]] and [[United States]] impose tougher sanctions against [[Russia]] over the Ukraine crisis. [http://www.nytimes.com/2014/07/30/world/europe/european-sanctions-russia.html (''New York Times'')]
+*Moscow describes Tokyo's decision to impose further sanctions on [[Russia]] in the wake of the downing of [[Malaysia Airlines Flight 17]] as an "unfriendly step" that may harm "the entire system of relations" between Russia and [[Japan]]. [https://www.reuters.com/article/2014/07/29/us-ukraine-crisis-russia-japan-idUSKBN0FY0GN20140729 (Reuters)]
+*The [[European Union]] and [[United States]] impose tougher sanctions against [[Russia]] over the Ukraine crisis. [https://www.nytimes.com/2014/07/30/world/europe/european-sanctions-russia.html (''New York Times'')]
 
 ;Politics and elections
-*Chinese state media report that former [[Politburo Standing Committee]] member and security chief [[Zhou Yongkang]] is undergoing investigation for "disciplinary violations." [http://www.nytimes.com/2014/07/30/world/asia/china-says-zhou-yongkang-former-security-chief-is-under-investigation.html?_r=0 (''New York Times'')]
+*Chinese state media report that former [[Politburo Standing Committee]] member and security chief [[Zhou Yongkang]] is undergoing investigation for "disciplinary violations." [https://www.nytimes.com/2014/07/30/world/asia/china-says-zhou-yongkang-former-security-chief-is-under-investigation.html?_r=0 (''New York Times'')]
 
 ;Sports
 *[[2014 Commonwealth Games]]
