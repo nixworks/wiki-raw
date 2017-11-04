@@ -3,5 +3,8 @@
 <!-- All news items below this line -->
 ;International relations
 *[[Temporary Protected Status]]
-**The [[United States]] will end the so-called [[temporary protected status]] program (TPS) for more than 300,000 refugees from several countries: [[El Salvador]], [[Haiti]], [[Honduras]], [[Nepal]], [[Nicaragua]], [[Somalia]], [[South Sudan]], [[Sudan]], [[Syria]] and [[Yemen]]. Many of the migrants have already left for [[Canada]], where it is easier to get [[Canadian immigration and refugee law|asylum]]. [http://www.newsweek.com/more-300000-central-americans-and-haitians-could-face-deportation-officials-701991 (''Newsweek'')], [https://in.reuters.com/article/usa-immigration-protections/us-state-dept-says-certain-immigrants-no-longer-need-protected-status-washington-post-idINKBN1D403A (Reuters)]
+**The [[United States]] will end the so-called [[temporary protected status]] program (TPS) for more than 300,000 refugees from several countries: [[El Salvador]], [[Haiti]], [[Honduras]], [[Nepal]], [[Nicaragua]], [[Somalia]], [[South Sudan]], [[Sudan]], [[Syria]] and [[Yemen]]. Many of the refugees have already left for [[Canada]], where it is easier to get [[Canadian immigration and refugee law|asylum]]. [http://www.newsweek.com/more-300000-central-americans-and-haitians-could-face-deportation-officials-701991 (''Newsweek'')], [https://in.reuters.com/article/usa-immigration-protections/us-state-dept-says-certain-immigrants-no-longer-need-protected-status-washington-post-idINKBN1D403A (Reuters)]
+
+;Politics and Elections
+*[[Lebanon|Lebanese]] [[Prime Minister of Lebanon|Prime Minister]] [[Saad al-Hariri]] resigns citing assassination threats. [http://www.bbc.com/news/world-middle-east-41870406 (BBC)]
 <!-- All news items above this line -->}}
