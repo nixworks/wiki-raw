@@ -3,11 +3,13 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Syrian Civil War]]
-**The [[Syrian Arab Army]] and allies announce complete capture of [[Deir ez-Zor]] from [[Islamic State of Iraq and the Levant|ISIL]]. [https://sputniknews.com/middleeast/201711031058777870-syrian-army-last-daesh-remnants/ (''Sputnik International'')]
+**The [[Syrian Army]] (SAA) and allies announce the complete liberation of [[Deir ez-Zor]] from [[Islamic State of Iraq and the Levant|ISIL]]. [https://sputniknews.com/middleeast/201711031058777870-syrian-army-last-daesh-remnants/ (''Sputnik International'')]
 **At least nine people are killed and another 23 are injured in [[Hader, Quneitra Governorate|Hader]], [[Quneitra Governorate]], after a [[Tahrir al-Sham]]-operated [[car bomb]] detonates inside the town. [http://www.reuters.com/article/us-mideast-crisis-nusra-blast/nine-killed-by-nusra-front-car-bomb-in-southwest-syria-state-media-idUSKBN1D30XQ?il=0 (Reuters)]
 *[[Iraqi Civil War (2014–present)]]
 **[[Western Iraq campaign (2017–present)]]
-***The [[Iraqi Armed Forces]] entered the town of [[Al-Qa'im (town)|Al-Qa'im]], close to the [[Iraq–Syria border|border with Syria]]. Al-Qa'im is one of the last towns in [[Iraq]] still held by [[Islamic State of Iraq and the Levant|ISIL]]. [http://www.reuters.com/article/us-mideast-crisis-iraq-islamicstate/iraqi-forces-enter-al-qaim-in-final-offensive-on-islamic-state-held-territory-idUSKBN1D30MW (Reuters)]
+***The [[Iraqi Armed Forces]] enter the town of [[Al-Qa'im (town)|Al-Qa'im]], close to the [[Iraq–Syria border|border with Syria]]. Al-Qa'im is one of the last towns in [[Iraq]] still held by [[Islamic State of Iraq and the Levant|ISIL]]. [http://www.reuters.com/article/us-mideast-crisis-iraq-islamicstate/iraqi-forces-enter-al-qaim-in-final-offensive-on-islamic-state-held-territory-idUSKBN1D30MW (Reuters)]
+*[[War in Somalia (2009–present)]]
+**The [[United States]] launches airstrikes against [[Islamic State in Somalia]] for the first time. The [[United States Africa Command]] says "several terrorists" were killed in the strikes, which took place in coordination with [[Somalia]]'s government. [http://www.independent.co.uk/news/world/americas/us-air-strikes-isis-somalia-puntland-first-attack-buqa-qandala-al-shabaab-a8036371.html (''The Independent'')]
 
 ;International relations
 *[[Japan–United States relations]]
@@ -15,9 +17,13 @@
 
 ;Law and crime
 *[[2017 Spanish constitutional crisis|Spanish constitutional crisis]]
-**[[Spain]] issues an arrest warrant against [[Catalan Republic (2017)|Catalan Republic]] president [[Carles Puigdemont]]. [http://www.bbc.com/news/world-europe-41865121 (BBC)]
+**[[Spain]] issues an arrest warrant against former [[Catalonia|Catalonian]] president [[Carles Puigdemont]]. [http://www.bbc.com/news/world-europe-41865121 (BBC)]
 *[[War in Afghanistan (2001–present)|War in Afghanistan]]
 **[[United States Army|United States soldier]] [[Bowe Bergdahl]] gets convicted and is [[dishonorably discharged]] but escapes imprisonment.  [https://www.nytimes.com/2017/11/03/us/bowe-bergdahl-sentence.html (''The New York Times'')]
 *[[Human rights in Zimbabwe]]
-**[[Zimbabwe]] convicts an [[United States|American]] citizen trying to overthrow the regime of [[Robert Mugabe]]. [http://www.latimes.com/world/africa/la-fg-zimbabwe-arrest-american-20171103-story.html (''The Los Angeles Times'')]
+**[[Zimbabwe]] accuses [[United States|American]] citizen Martha O'Donovan of trying to overthrow the regime of [[Robert Mugabe]]. [http://www.latimes.com/world/africa/la-fg-zimbabwe-arrest-american-20171103-story.html (''The Los Angeles Times'')]
+
+;Politics and elections
+*[[2017 Westminster sexual scandals]]
+**The [[Conservative Party (UK)|Conservative Party]] suspends [[Dover (UK Parliament constituency)|Dover]] MP [[Charlie Elphicke]] following "serious allegations" against him which have been passed on to [[Law enforcement in the United Kingdom|police]]. Elphicke denies any wrongdoing. [https://www.theguardian.com/politics/2017/nov/03/tory-mp-charlie-elphicke-has-whip-suspended-after-serious-allegations (''The Guardian)'']
 <!-- All news items above this line -->}}

@@ -3,9 +3,9 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Islamic State of Iraq and the Levant]]
-**Apparent ISIL [[computer hacker]]s attack the feeds for the [[United States Central Command]] for [[Twitter]] and [[YouTube]]. [http://www.reuters.com/article/2015/01/12/us-cybersecurity-centcom-hack-idUSKBN0KL1UZ20150112 (Reuters)]
+**Apparent ISIL [[computer hacker]]s attack the feeds for the [[United States Central Command]] for [[Twitter]] and [[YouTube]]. [https://www.reuters.com/article/2015/01/12/us-cybersecurity-centcom-hack-idUSKBN0KL1UZ20150112 (Reuters)]
 *[[Boko Haram]]
-**[[Cameroon]] [[January 2015 Kolofata raid|kills]] 143 Boko Haram fighters in clashes. [http://www.reuters.com/article/2015/01/13/us-nigeria-violence-cameroon-idUSKBN0KM0TD20150113 (Reuters)]
+**[[Cameroon]] [[January 2015 Kolofata raid|kills]] 143 Boko Haram fighters in clashes. [https://www.reuters.com/article/2015/01/13/us-nigeria-violence-cameroon-idUSKBN0KM0TD20150113 (Reuters)]
 
 ;Disasters and accidents
 *The eruption of the [[Hunga Tonga]] volcano disrupts flights to and from [[Tonga]]. [http://www.radionz.co.nz/international/pacific-news/263579/tonga-volcano-affecting-flights (Radio New Zealand)]
@@ -14,10 +14,10 @@
 *In [[Rovinari]], [[Romania]], a father and 6 siblings, aged from 6 months to 7 years, die after a gas water boiler emits carbon monoxide.[http://nation.com.pk/international/13-Jan-2015/6-children-father-killed-by-carbon-monoxide-in-romania (Nation.com)]
 
 ;Law and crime
-*[[China|Chinese]] police kill six attacking militants wearing explosive devices in [[Xinjiang]]. [http://www.reuters.com/article/2015/01/12/us-china-xinjiang-idUSKBN0KL0GQ20150112 (Reuters)],[http://www.naharnet.com/stories/en/162623-govt-police-kill-six-attackers-in-china-s-xinjiang (Naharnet)]
+*[[China|Chinese]] police kill six attacking militants wearing explosive devices in [[Xinjiang]]. [https://www.reuters.com/article/2015/01/12/us-china-xinjiang-idUSKBN0KL0GQ20150112 (Reuters)],[http://www.naharnet.com/stories/en/162623-govt-police-kill-six-attackers-in-china-s-xinjiang (Naharnet)]
 *A serviceman stationed at the [[Russian 102nd Military Base]], Valeri Permyakov, [[2015 Gyumri massacre|kills six members]] of an [[Armenia|Armenian]] family, including a two-year-old child, and, in addition, wounds a six-month-old child, in [[Gyumri|Gyumri, Armenia]], initiating a manhunt by the Armenian security services until his capture. [http://armenianow.com/news/59715/armenia_president_serzh_sargsyan_gyumri_murder (ArmeniaNow)],[http://news.am/arm/news/247459.html (News.Armenia)]
 *District Attorney Kari Brandenburg of New Mexico's Second Judicial Circuit federally charges two [[Albuquerque Police Department]] officers with murder in the March 16, 2014 shooting death of [[James Boyd shooting|James Boyd]] in [[Albuquerque, New Mexico]], U.S. [http://www.cnn.com/2015/01/12/us/albuquerque-police-murder-charges/ (CNN)]
-*The death toll from [[Mozambique funeral beer poisoning|poisoned beer]] in the [[Mozambique]] rises to at least 69 with 169 in hospital. Further, medical experts begin to question if the source of the contamination was the deliberate addition of crocodile bile or instead the often used [[Digitalis|foxglove flowers]] (which contain [[digitalis]]) for homebrewing [[Pombe (beer)|locally-derived Pombe beer]]. [http://www.abc.net.au/news/2015-01-13/mozambique-beer-poisoning-death-toll-rises-to-69/6013506 (AFP/Reuters via ABC News Australia)],[http://www.forbes.com/sites/davidkroll/2015/01/12/what-is-crocodile-bile-and-is-it-really-poisonous/ (Forbes)]
+*The death toll from [[Mozambique funeral beer poisoning|poisoned beer]] in the [[Mozambique]] rises to at least 69 with 169 in hospital. Further, medical experts begin to question if the source of the contamination was the deliberate addition of crocodile bile or instead the often used [[Digitalis|foxglove flowers]] (which contain [[digitalis]]) for homebrewing [[Pombe (beer)|locally-derived Pombe beer]]. [http://www.abc.net.au/news/2015-01-13/mozambique-beer-poisoning-death-toll-rises-to-69/6013506 (AFP/Reuters via ABC News Australia)],[https://www.forbes.com/sites/davidkroll/2015/01/12/what-is-crocodile-bile-and-is-it-really-poisonous/ (Forbes)]
 
 ;Science and technology
 *The [[SpaceX CRS-5]] supply ship arrives at the [[ISS]] with groceries and Christmas gifts. [http://bigstory.ap.org/article/73eb980762df4e25a16f3b284bf4e994/spacex-supply-ship-arrives-space-station-groceries (AP)]

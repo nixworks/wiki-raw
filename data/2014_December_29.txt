@@ -13,7 +13,7 @@
 *A fire in a [[Pakistan]] shopping mall kills at least 13 people. [http://bigstory.ap.org/article/9a185b19bc524afcb1f6099233813c62/fire-pakistan-shopping-mall-reportedly-kills-least-13 (AP)]
 
 ;Politics and elections
-*[[Greek legislative election, January 2015|Snap elections]] are to be called after the [[Hellenic Parliament]] fails to [[Greek presidential election, 2014|elect a new Greek president]]. [http://www.reuters.com/article/2014/12/29/us-greece-vote-idUSKBN0K60MA20141229 (Reuters)]
-*The Chinese government [[Internet in China|blocks]] some of [[Google]]'s [[Gmail]] services. [http://www.reuters.com/article/2014/12/29/us-google-china-idUSKBN0K70BD20141229 (Reuters)]
+*[[Greek legislative election, January 2015|Snap elections]] are to be called after the [[Hellenic Parliament]] fails to [[Greek presidential election, 2014|elect a new Greek president]]. [https://www.reuters.com/article/2014/12/29/us-greece-vote-idUSKBN0K60MA20141229 (Reuters)]
+*The Chinese government [[Internet in China|blocks]] some of [[Google]]'s [[Gmail]] services. [https://www.reuters.com/article/2014/12/29/us-google-china-idUSKBN0K70BD20141229 (Reuters)]
 
 <!-- All news items above this line -->{{Current events footer}}
