@@ -1,5 +1,7 @@
 {{Current events|year=2017|month=11|day=5|content=
 
 <!-- All news items below this line -->
-*
+;Disasters and accidents
+*[[2017 Pacific typhoon season]]
+**The death toll in [[Vietnam]] from Typhoon Damrey reaches 27. Another 22 are missing. [http://www.foxnews.com/world/2017/11/04/typhoon-kills-27-leaves-22-missing-along-vietnam-coast.html (AP via Fox News)]
 <!-- All news items above this line -->}}
