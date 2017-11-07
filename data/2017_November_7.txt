@@ -1,17 +1,19 @@
 {{Current events|year=2017|month=11|day=7|content=
 
 <!-- All news items below this line -->
-;Environment
+;Health and environment
 *[[Air quality in Delhi]]
-**A blanket of thick grey smog covers the [[India]]n capital, [[Delhi]], with some areas 30 times more polluted than the [[World Health Organization]]'s recommended limit, one year after [[Great smog of Delhi|a similar smog]]. [http://www.bbc.com/news/world-asia-india-41896676 (BBC)] 
-*A [[North Korean]] [[defector]] claims children are being born with deformities near North Korea's [[Punggye-ri Nuclear Test Site|nuclear testing site]]. [http://www.foxnews.com/world/2017/11/07/north-koreas-nuclear-test-site-causing-deformed-babies-killing-vegetation-defectors-say.html (Fox News)]
+**A blanket of thick grey smog covers the [[India]]n capital, [[Delhi]], with some areas 30 times more polluted than the [[World Health Organization]]'s recommended limit, one year after [[Great smog of Delhi|a similar smog]]. [http://www.bbc.com/news/world-asia-india-41896676 (BBC)]
+*[[North Korea and weapons of mass destruction]]
+**A [[North Korean]] [[defector]] claims children are being born with deformities near North Korea's [[Punggye-ri Nuclear Test Site|nuclear testing site]]. [http://www.foxnews.com/world/2017/11/07/north-koreas-nuclear-test-site-causing-deformed-babies-killing-vegetation-defectors-say.html (Fox News)]
 
 ;International relations
 *[[Yemeni Crisis (2011–present)]]
 **[[Saudi Arabia]]'s Crown Prince [[Mohammad bin Salman]] accuses [[Iran]] of an act of "direct military aggression" by supplying missiles to rebels in [[Yemen]]. [http://www.bbc.com/news/world-middle-east-41899643 (BBC)]
-*[[South Korea–United States relations]], [[2017 North Korea crisis]]
+*[[South Korea–United States relations]]
 **U.S. President [[Donald Trump]] visits [[South Korea]] amidst the [[2017 North Korea crisis|2017 North Korean crisis]]. [http://www.cnn.com/2017/11/06/politics/trump-asia-south-korea-latest/index.html (CNN)]
-*[[Syria]] signs the [[Paris Agreement]]. This makes the [[United States]] the only country not in the Paris Agreement, when they leave on November 4, 2020.[https://www.theguardian.com/environment/2017/nov/07/syria-signs-paris-climate-agreement-and-leaves-us-isolated (''The Guardian'')]
+*[[Paris Agreement#Parties and signatories|Paris Agreement parties and signatories]]
+**[[Syria]] signs the [[Paris Agreement]]. This makes the [[United States]] the only country not in the Paris Agreement, when they [[United States withdrawal from the Paris Agreement|plan to leave]] on November 4, 2020.[https://www.theguardian.com/environment/2017/nov/07/syria-signs-paris-climate-agreement-and-leaves-us-isolated (''The Guardian'')]
 
 ;Law and crime
 *[[Crime in Japan]]
