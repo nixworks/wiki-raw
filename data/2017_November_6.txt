@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Business and economy
 *[[2017 Saudi Arabian anti-corruption arrests]]
-**Investors react poorly to the arrest of Saudi billionaire Prince [[Al-Waleed bin Talal|Alwaleed bin Talal]], one of the world's wealthiest men. [http://www.bbc.com/news/business-41885567 (BBC)]
+**Investors react poorly to the arrest of Saudi billionaire Prince [[Al-Waleed bin Talal]], one of the world's wealthiest men. [http://www.bbc.com/news/business-41885567 (BBC)]
 
 ;International relations
 *[[Japan–United States relations]]
@@ -17,5 +17,6 @@
 **The [[United States Department of Homeland Security]] announces that it will end the so-called [[temporary protected status]] for thousands of [[Nicaragua]]n migrants while a decision awaits for thousands more from [[El Salvador]], [[Haiti]] and [[Honduras]]. [https://www.buzzfeed.com/adolfoflores/nicaraguan-immigrants-to-lose-temporary-protected-status (BuzzFeed)]
 
 ;Politics and elections
-*[[Emmerson Mnangagwa]] is fired as Vice President by [[Zimbabwe]] President [[Robert Mugabe]]. The public and the media widely perceives Mugabe's wife [[Grace Mugabe|Grace]] as his likely successor after his death with Mnangagwa having been seen as her rival. [https://www.theguardian.com/world/2017/nov/06/zimbabwe-robert-mugabe-vice-president-emmerson-mnangagwa-grace-mugabe (''The Guardian'')]
+*[[Politics of Zimbabwe]]
+**[[Emmerson Mnangagwa]] is fired as Vice President by [[Zimbabwe]] President [[Robert Mugabe]]. The public and the media widely perceives Mugabe's wife [[Grace Mugabe|Grace]] as his likely successor after his death with Mnangagwa having been seen as her rival. [https://www.theguardian.com/world/2017/nov/06/zimbabwe-robert-mugabe-vice-president-emmerson-mnangagwa-grace-mugabe (''The Guardian'')]
 <!-- All news items above this line -->}}
