@@ -2,5 +2,6 @@
 
 <!-- All news items below this line -->
 '''Business and economy'''
-*The [[United States Department of Justice]] antitrust chief has told [[AT&T]] that it must sell off either [[DirecTV]] or [[Turner Broadcasting System]] (the parent of CNN) in order to complete its acquisition of [[Time Warner]]. ([http://money.cnn.com/2017/11/08/media/att-time-warner/index.html CNN])
+*[[United States antitrust law]]
+**The [[United States Department of Justice]] antitrust chief has told [[AT&T]] that it must sell off either [[DirecTV]] or [[Turner Broadcasting System]] (the parent of CNN) in order to complete its acquisition of [[Time Warner]]. ([http://money.cnn.com/2017/11/08/media/att-time-warner/index.html CNN])
 <!-- All news items above this line -->}}
