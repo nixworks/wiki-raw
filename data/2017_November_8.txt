@@ -1,10 +1,19 @@
 {{Current events|year=2017|month=11|day=8|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Syrian Civil War]]
+**The [[Syrian army]] and its allies capture [[Albu Kamal]] from the [[Islamic State of Iraq and the Levant]]. [http://www.dw.com/en/syrian-army-ousts-is-from-albu-kamal-last-urban-stronghold-in-country/a-41307859 (Deutsche Welle)]
+
 ;Business and economy
 *[[United States antitrust law]]
 **The [[United States Department of Justice]] antitrust chief has told [[AT&T]] that it must sell off either [[DirecTV]] or [[Turner Broadcasting System]] (the parent of CNN) in order to complete its acquisition of [[Time Warner]]. ([http://money.cnn.com/2017/11/08/media/att-time-warner/index.html CNN])
 
 ;Politics and elections
-*[[Priti Patel]] resigns from her position as Secretary of State for [[International Development]] amid reports that she had had unauthorized meetings with senior [[Israel]]i officials. [https://www.theguardian.com/politics/2017/nov/08/priti-patel-forced-to-resign-over-unofficial-meetings-with-israelis (''The Guardian'')]
+*[[Politics of the United Kingdom]]
+**British politician [[Priti Patel]] resigns from her position as Secretary of State for [[International Development]] amid reports that she had had unauthorized meetings with senior [[Israel]]i officials. [https://www.theguardian.com/politics/2017/nov/08/priti-patel-forced-to-resign-over-unofficial-meetings-with-israelis (''The Guardian'')]
+
+;Arts and culture
+*[[Kevin Spacey#Sexual assault allegations|Kevin Spacey sexual assault allegations]]
+**Former TV news anchor [[Heather Unruh]] accuses [[Kevin Spacey]] of sexually assaulted her son in 2016 when he was 18 years old in [[Nantucket, Massachusetts]]. [http://www.cnn.com/2017/11/08/entertainment/kevin-spacey-heather-unruh-sexual-assault-son/index.html (CNN)] 
 <!-- All news items above this line -->}}
