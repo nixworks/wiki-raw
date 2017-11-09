@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Syrian Civil War]]
+*[[2017 Abu Kamal offensive]]
 **The [[Syrian Army]] and its allies capture [[Abu Kamal]] from the [[Islamic State of Iraq and the Levant]]. [http://www.dw.com/en/syrian-army-ousts-is-from-albu-kamal-last-urban-stronghold-in-country/a-41307859 (Deutsche Welle)]
 
 ;Arts and culture
@@ -11,7 +11,7 @@
 
 ;Business and economy
 *[[United States antitrust law]]
-**The [[United States Department of Justice]] antitrust chief has told [[AT&T]] that it must sell off either [[DirecTV]] or [[Turner Broadcasting System]] (the parent of CNN) in order to complete its acquisition of [[Time Warner]]. ([http://money.cnn.com/2017/11/08/media/att-time-warner/index.html CNN])
+**The [[United States Department of Justice]] antitrust chief has told [[AT&T]] that it must sell off either [[DirecTV]] or [[Turner Broadcasting System]] (the parent of [[CNN]]) in order to complete its acquisition of [[Time Warner]]. ([http://money.cnn.com/2017/11/08/media/att-time-warner/index.html CNN])
 
 ;Law and crime
 *[[Illegal drug trade in Colombia]]
