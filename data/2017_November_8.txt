@@ -2,8 +2,9 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[2017 Abu Kamal offensive]]
-**The [[Syrian Army]] and its allies capture [[Abu Kamal]] from the [[Islamic State of Iraq and the Levant]]. [http://www.dw.com/en/syrian-army-ousts-is-from-albu-kamal-last-urban-stronghold-in-country/a-41307859 (Deutsche Welle)]
+*[[Syrian Civil War]]
+**[[2017 Abu Kamal offensive]]
+***The [[Syrian Army]] and its allies capture [[Abu Kamal]] from the [[Islamic State of Iraq and the Levant]]. [http://www.dw.com/en/syrian-army-ousts-is-from-albu-kamal-last-urban-stronghold-in-country/a-41307859 (Deutsche Welle)]
 
 ;Arts and culture
 *[[Kevin Spacey#Sexual assault allegations|Kevin Spacey sexual assault allegations]]
@@ -20,5 +21,6 @@
 ;Politics and elections
 *[[Politics of the United Kingdom]]
 **British politician [[Priti Patel]] resigns from her position as [[Secretary of State for International Development]] amid reports that she had had unauthorized meetings with senior [[Israel]]i officials. [https://www.theguardian.com/politics/2017/nov/08/priti-patel-forced-to-resign-over-unofficial-meetings-with-israelis (''The Guardian'')]
-*U.S. federal prosecutors subpoena [[Carl Icahn]] over his role as an adviser on biofuels in the Trump administration. [https://www.cnbc.com/2017/11/08/carl-icahn-subpoenaed-over-role-advising-trump-on-biofuels.html (CNBC)]
+*[[Presidency of Donald Trump]]
+**U.S. federal prosecutors subpoena [[Carl Icahn]] over his role as an adviser on [[biofuel]]s in the [[Trump administration]]. [https://www.cnbc.com/2017/11/08/carl-icahn-subpoenaed-over-role-advising-trump-on-biofuels.html (CNBC)]
 <!-- All news items above this line -->}}
