@@ -1,5 +1,7 @@
 {{Current events|year=2017|month=11|day=11|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[2017 Australian parliamentary eligibility crisis]]
+**The [[Turnbull Government]] loses its parliamentary majority, after [[Liberal Party of Australia|Liberal Party]] MP [[John Alexander (Australian politician)|John Alexander]] resigns from the [[Australian House of Representatives]] due to likely holding British [[Section 44 of the Constitution of Australia#.28i.29 Allegiance to a foreign power|dual citizenship]]. [http://www.smh.com.au/federal-politics/political-news/citizenship-crisis-turnbull-government-mp-john-alexander-resigns-from-parliament-20171110-gzj9hx.html (''The Sydney Morning Herald'')]
 <!-- All news items above this line -->}}
