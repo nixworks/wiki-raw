@@ -2,8 +2,8 @@
 
 <!-- All news items below this line -->
 ;Business and Economy
-*[[Boeing]] announced at the [[Dubai Airshow]] that [[Emirates (airline)]] would purchase 40 [[787 Dreamliner]]s with a list value of US$15 billion. [http://www.bbc.com/news/business-41960871 (BBC)]
+*[[Boeing]] announces at the [[Dubai Airshow]] that [[Emirates (airline)]] would purchase 40 [[787 Dreamliner]]s with a list value of US$15 billion. [http://www.bbc.com/news/business-41960871 (BBC)]
 
 ;Disasters
-*An explosion ripped through an oil pipeline near the village of Buri in northern [[Bahrain]]. [http://www.bbc.com/news/av/world-middle-east-41959522/oil-pipeline-explodes-in-bahrain (BBC)]
+*An explosion rips through an oil pipeline near the village of Buri in northern [[Bahrain]]. [http://www.bbc.com/news/av/world-middle-east-41959522/oil-pipeline-explodes-in-bahrain (BBC)]
 <!-- All news items above this line -->}}
