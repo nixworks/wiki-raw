@@ -1,9 +1,13 @@
 {{Current events|year=2017|month=11|day=12|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*A grenade attack at a peace concert in [[Bangui]], [[Central Africa Republic]] kills 7 and injuries 20. [http://www.reuters.com/article/us-centralafrica-security/seven-dead-in-concert-attack-reprisals-in-central-african-republic-idUSKBN1DC0T1 (Reuters)]
+
 ;Business and economy
 *[[Boeing]] announces at the [[Dubai Airshow]] that [[Emirates (airline)]] would purchase 40 [[787 Dreamliner]]s with a list value of US$15 billion. [http://www.bbc.com/news/business-41960871 (BBC)]
 
 ;Disasters and accidents
-*An explosion rips through an [[oil pipeline]] near the village of Buri in northern [[Bahrain]]. [http://www.bbc.com/news/av/world-middle-east-41959522/oil-pipeline-explodes-in-bahrain (BBC)]
+*An explosion rips through an [[oil pipeline]] near the village of [[Buri, Bahrain|Buri]] in northern [[Bahrain]]. [http://www.bbc.com/news/av/world-middle-east-41959522/oil-pipeline-explodes-in-bahrain (BBC)]
+*A tourist boat capsizes on the [[Krishna river]] in [[Andhra Pradesh]], leaving at least 16 people dead. [http://www.reuters.com/article/us-india-accident/at-least-16-dead-after-boat-capsizes-in-south-india-officials-idUSKBN1DC0R2 (Reuters)]
 <!-- All news items above this line -->}}
