@@ -1,5 +1,8 @@
 {{Current events|year=2017|month=11|day=15|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[Zimbabwe National Army]] troops seize control of the [[Zimbabwe Broadcasting Corporation]] headquarters as explosions are heard in the capital [[Harare]] amid reports of a coup against [[List of Presidents of Zimbabwe|President]] [[Robert Mugabe]]. [http://www.reuters.com/article/us-zimbabwe-politics-broadcaster/soldiers-take-over-zimbabwe-state-broadcaster-zbc-staff-idUSKBN1DE36B?il=0 (Reuters)]
+*[[Australian Marriage Law Postal Survey]]
+**The outcome of the Australian Marriage Law Postal Survey is announced with 61.6% voting yes to allow same-sex marriage with 79.5% of Australian voters participating. [http://www.canberratimes.com.au/federal-politics/political-news/samesex-marriage-vote-results-and-live-coverage-as-postal-survey-verdict-announced-20171114-gzl182.html (''Canberra Times'')]
 <!-- All news items above this line -->}}
