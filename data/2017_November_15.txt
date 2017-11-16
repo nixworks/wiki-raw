@@ -22,5 +22,5 @@
 
 ;Science and technology
 *[[Binary black hole]] mergers
-**[[LIGO]] announced it detected the gravitational waves GW170608. [https://www.ligo.caltech.edu/news/ligo20171115 (''LIGO Caltech'')]
+**[[LIGO]] announced it detected the gravitational waves from the merger of two black holes. [https://www.ligo.caltech.edu/news/ligo20171115 (''LIGO Caltech'')]
 <!-- All news items above this line -->}}
