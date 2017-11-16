@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;Arts and culture
-*''[[Salvator Mundi (Leonardo)|Salvator Mundi]]'', a painting generally attributed to [[Leonardo da Vinci]], is sold at auction [[Christie's]] in [[New York City]] for $450.3 million setting a new record for the sale of an original work of art. [https://www.theguardian.com/artanddesign/2017/nov/15/leonardo-da-vinci-salvator-mundi-auction (''The Guardian'')]
+*''[[Salvator Mundi (Leonardo)|Salvator Mundi]]'', a painting generally attributed to [[Leonardo da Vinci]], is sold at auction [[Christie's]] in [[New York City]] for [[US$]]450.3 million; setting a new record for the sale of an original work of art. [https://www.theguardian.com/artanddesign/2017/nov/15/leonardo-da-vinci-salvator-mundi-auction (''The Guardian'')]
 
 ;Disasters and accidents
 *[[Flash flood]]s on the outskirts of the [[Greece|Greek]] capital [[Athens]] kill at least 14 people and injure dozens more after a severe thunderstorm. [http://www.abc.net.au/news/2017-11-16/flash-floods-on-athens-outskirts-leave-at-least-14-dead/9155636 (AP via ABC Australia)], [https://www.theguardian.com/world/2017/nov/15/deadly-flash-floods-cause-biblical-damage-in-athens (''The Guardian'')]
@@ -18,7 +18,7 @@
 *[[Australian Marriage Law Postal Survey]]
 **The outcome of the Australian Marriage Law Postal Survey is announced with 61.6% voting yes to allow same-sex marriage with 79.5% of Australian voters participating. [http://www.canberratimes.com.au/federal-politics/political-news/samesex-marriage-vote-results-and-live-coverage-as-postal-survey-verdict-announced-20171114-gzl182.html (''Canberra Times'')]
 *[[2017 United Nations Climate Change Conference]]
-**High level statespersons from France, Germany and other nations speak at the [[2017 United Nations Climate Change Conference]]  in Bonn / Fiji. [http://abcnews.go.com/Technology/wireStory/latest-activists-disrupt-german-coal-power-plant-51163758 ''(ABC News'')]
+**High level statespersons from France, Germany and other nations speak at the [[2017 United Nations Climate Change Conference]]  in [[Bonn]]. [http://abcnews.go.com/Technology/wireStory/latest-activists-disrupt-german-coal-power-plant-51163758 ''(ABC News'')]
 
 ;Science and technology
 *[[LIGO]] announces it has detected [[gravitational waves]] from the merger of two [[black holes]]. [https://www.ligo.caltech.edu/news/ligo20171115 (''LIGO Caltech'')]
