@@ -2,7 +2,8 @@
 
 <!-- All news items below this line -->
 ;Arts and culture
-*''[[Salvator Mundi (Leonardo)|Salvator Mundi]]'', a painting generally attributed to [[Leonardo da Vinci]], is sold at auction [[Christie's]] in [[New York City]] for [[US$]]450.3 million; setting a new record for the sale of an original work of art. [https://www.theguardian.com/artanddesign/2017/nov/15/leonardo-da-vinci-salvator-mundi-auction (''The Guardian'')]
+*[[List of most expensive paintings|Most expensive paintings]]
+**''[[Salvator Mundi (Leonardo)|Salvator Mundi]]'', a painting generally attributed to [[Leonardo da Vinci]], is sold at auction [[Christie's]] in [[New York City]] for [[US$]]450.3 million; setting a new record for the sale of an original work of art. [https://www.theguardian.com/artanddesign/2017/nov/15/leonardo-da-vinci-salvator-mundi-auction (''The Guardian'')]
 
 ;Disasters and accidents
 *[[Cyclone Numa]]
@@ -12,6 +13,7 @@
 ;Law and crime
 *[[Rancho Tehama Reserve shootings]]
 **Authorities discover the murdered wife of spree killer Kevin Janson Neal under the floorboards of their home, raising the death toll to six with ten others wounded in eight separate shootings. [http://www.latimes.com/local/lanow/la-me-ln-tehama-shooting-20171115-story.html (Los Angeles Times)]
+
 ;Politics and elections
 *[[2017 Zimbabwean coup d'état]]
 **[[Zimbabwe Defence Forces]] troops seize control of the [[Zimbabwe Broadcasting Corporation]] headquarters as explosions are heard in the capital [[Harare]] amid reports of a coup against [[List of Presidents of Zimbabwe|President]] [[Robert Mugabe]]. [http://www.reuters.com/article/us-zimbabwe-politics-broadcaster/soldiers-take-over-zimbabwe-state-broadcaster-zbc-staff-idUSKBN1DE36B?il=0 (Reuters)]
@@ -23,5 +25,6 @@
 **High level statespersons from France, Germany and other nations speak at the [[2017 United Nations Climate Change Conference]]  in [[Bonn]]. [http://abcnews.go.com/Technology/wireStory/latest-activists-disrupt-german-coal-power-plant-51163758 ''(ABC News'')]
 
 ;Science and technology
-*[[LIGO]] announces it has detected [[gravitational waves]] from the merger of two [[black holes]]. [https://www.ligo.caltech.edu/news/ligo20171115 (''LIGO Caltech'')]
+*[[GW170608]]
+**[[LIGO]] announces it has detected [[gravitational waves]] from the merger of two [[black holes]]. [https://www.ligo.caltech.edu/news/ligo20171115 (''LIGO Caltech'')]
 <!-- All news items above this line -->}}
