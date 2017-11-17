@@ -1,6 +1,10 @@
 {{Current events|year=2017|month=11|day=17|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Iraqi Civil War (2014–present)]]
+**The [[Iraqi Army]] captures the town of [[Rawa, Iraq|Rawa]] from [[Islamic State in Iraq and the Levant]] (ISIL). It was the last town held by ISIL in Iraq. [http://hosted.ap.org/dynamic/stories/M/ML_IRAQ?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
+
 ;Arts and culture
 *[[2017 in archaeology]]
 **[[Mungo Man]], the oldest human remains in [[Australia]], is returned to [[Lake Mungo]] in outback [[New South Wales]] where he was originally buried. [http://hosted.ap.org/dynamic/stories/A/AS_AUSTRALIA_ICE_AGE_ABORIGINE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
