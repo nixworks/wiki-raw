@@ -2,12 +2,17 @@
 
 <!-- All news items below this line -->
 ;Arts and culture
-*[[AC/DC]] guitarist and co-founder [[Malcolm Young]] dies of [[dementia]] at the age of 64 in [[Sydney]]. [http://www.rollingstone.com/music/news/malcolm-young-acdc-guitarist-and-co-founder-dead-at-64-w512164 (Rolling Stone)]
+*[[Music of Australia]]
+**[[AC/DC]] guitarist and co-founder [[Malcolm Young]] dies of [[dementia]] at the age of 64 in [[Sydney]]. [http://www.rollingstone.com/music/news/malcolm-young-acdc-guitarist-and-co-founder-dead-at-64-w512164 (Rolling Stone)]
+
+;Disasters and accidents
+*The search continues in the [[South Atlantic]] for [[Argentine Navy]] [[submarine]] AR San Juan that has been missing since last Wednesday with 44 people on board. [https://www.usnews.com/news/world/articles/2017-11-18/powerful-winds-and-waves-hinder-search-for-argentine-submarine (Reuters via US News and World Report)]
+
+;International relations
+*[[Franceâ€“Lebanon relations]]
+**[[Prime Minister of Lebanon]] [[Saad Hariri]] meets [[President of France]] [[Emmanuel Macron]] at the [[Ã‰lysÃ©e Palace]] in [[Paris]]. [http://www.arabnews.com/node/1195406/middle-east (''Arab News'')]
 
 ;Politics and elections
-*[[Politics of Lebanon]]
-**[[Prime Minister of Lebanon]] [[Saad Hariri]] meets [[President of France]] [[Emmanuel Macron]] at the [[Élysée Palace]] in [[Paris]]. [http://www.arabnews.com/node/1195406/middle-east (''Arab News'')]
-
-*[[2017 Zimbabwean coup d'état]]
+*[[2017 Zimbabwean coup d'Ã©tat]]
 **Thousands of people celebrate the expected downfall of [[Robert Mugabe]] in the streets of [[Harare]]. [http://www.bbc.com/news/world-africa-42035981 (BBC)] [https://www.reuters.com/article/us-zimbabwe-politics-harare/ecstatic-zimbabweans-flood-harare-to-celebrate-expected-mugabe-downfall-idUSKBN1DI08B?il=0 (Reuters)]
 <!-- All news items above this line -->}}
