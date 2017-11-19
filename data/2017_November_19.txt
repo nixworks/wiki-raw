@@ -2,7 +2,8 @@
 
 <!-- All news items below this line -->
 ;Politics and elections
+*[[Chilean general election, 2017]]
+**Voters will go to the polls to elect: a President of the Republic to serve a four-year term, 23 of 43 members of the Senate to serve an eight-year term in the National Congress, the full 155 members of the Chamber of Deputies to serve a four-year term in the National Congress, the full 278 members of the regional boards to serve a four-year term.{{cn}}
 *[[2017 Zimbabwean coup d'état]]
 **President [[Robert Mugabe]] got fired as the leader of [[ZANU–PF]] and was replaced with [[Emmerson Mnangagwa]], the former [[Vice President of Zimbabwe]]. [https://www.theguardian.com/world/2017/nov/19/zimbabwe-ruling-party-fires-robert-mugabe-as-leader (The Guardian)]
-
 <!-- All news items above this line -->}}
