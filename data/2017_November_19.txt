@@ -1,5 +1,8 @@
 {{Current events|year=2017|month=11|day=19|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[2017 Zimbabwean coup d'état]]
+**President [[Robert Mugabe]] got fired as the leader of [[ZANU–PF]] and was replaced with [[Emmerson Mnangagwa]], the former [[Vice President of Zimbabwe]]. [https://www.theguardian.com/world/2017/nov/19/zimbabwe-ruling-party-fires-robert-mugabe-as-leader (The Guardian)]
+
 <!-- All news items above this line -->}}
