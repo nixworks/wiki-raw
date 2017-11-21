@@ -1,5 +1,9 @@
 {{Current events|year=2017|month=11|day=21|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[2017 Zimbabwean coup d'état]]
+**[[Robert Mugabe]] resigns as the [[President of Zimbabwe]] shortly after [[impeachment]] proceedings are launched. It ends a period of nearly 40 years in office. [http://www.foxnews.com/world/2017/11/21/zimbabwe-president-mugabe-resigns-amid-impeachment-hearing-parliament-speaker-says.html (Fox News)]
+*[[Boko Haram insurgency]]
+**An estimated 50 people are killed when a suicide bomber attacks a mosque during morning prayers in [[Mubi]], [[Nigeria]]. [https://www.theguardian.com/world/2017/nov/21/nigeria-mosque-attack-teenage-suicide-bomber-kills-at-least-50 (The Guardian)]
 <!-- All news items above this line -->}}
