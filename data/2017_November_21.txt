@@ -1,9 +1,15 @@
 {{Current events|year=2017|month=11|day=21|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Boko Haram insurgency]]
+**An estimated 50 people are killed when a suicide bomber attacks a mosque during morning prayers in [[Mubi]], [[Nigeria]]. [https://www.theguardian.com/world/2017/nov/21/nigeria-mosque-attack-teenage-suicide-bomber-kills-at-least-50 (The Guardian)]
+
 ;Politics and elections
 *[[2017 Zimbabwean coup d'état]]
 **[[Robert Mugabe]] resigns as the [[President of Zimbabwe]] shortly after [[impeachment]] [[List of impeached presidents|proceedings]] are launched. It ends a period of nearly 40 years in office. [http://www.foxnews.com/world/2017/11/21/zimbabwe-president-mugabe-resigns-amid-impeachment-hearing-parliament-speaker-says.html (Fox News)]
-*[[Boko Haram insurgency]]
-**An estimated 50 people are killed when a suicide bomber attacks a mosque during morning prayers in [[Mubi]], [[Nigeria]]. [https://www.theguardian.com/world/2017/nov/21/nigeria-mosque-attack-teenage-suicide-bomber-kills-at-least-50 (The Guardian)]
+
+;Law and Crime
+*[[Net neutrality in the United States]]
+**[[Federal Communications Commission]] chairman [[Ajit Pai]] announced his agency will take steps to repeal the regulations put in place under the [[Presidency of Barack Obama|Obama administration]], including the classification of broadband Internet as a [[public utility]]. [https://www.nytimes.com/2017/11/21/technology/fcc-net-neutrality.html (''The New York Times'')]
 <!-- All news items above this line -->}}
