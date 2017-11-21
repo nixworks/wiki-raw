@@ -8,11 +8,14 @@
 ;Disasters and accidents
 *[[Mount Agung]] erupts for the first time in 50 years, leading to thousands of people fleeing their homes. [http://www.bbc.com/news/world-asia-42070362 (BBC)]
 
-;Politics and elections
-*[[2017 Zimbabwean coup d'état]]
-**[[Robert Mugabe]] resigns as the [[President of Zimbabwe]] shortly after [[impeachment]] [[List of impeached presidents|proceedings]] are launched. It ends a period of nearly 40 years in office. [http://www.foxnews.com/world/2017/11/21/zimbabwe-president-mugabe-resigns-amid-impeachment-hearing-parliament-speaker-says.html (Fox News)]
+;International relations
+*The [[U.S. Treasury]] imposes new sanctions on several [[North Korean companies|North Korean shipping companies]] and [[Transportation in North Korea#Water transport|vessels]], along with four [[Chinese companies]] which have engaged in trading activities with North Korea. [http://www.cbsnews.com/news/united-states-sanctions-north-korean-chinese-companies/ (CBS News)]
 
 ;Law and Crime
 *[[Net neutrality in the United States]]
 **[[Federal Communications Commission]] chairman [[Ajit Pai]] announced his agency will take steps to repeal the regulations put in place under the [[Presidency of Barack Obama|Obama administration]], including the classification of broadband Internet as a [[public utility]]. [https://www.nytimes.com/2017/11/21/technology/fcc-net-neutrality.html (''The New York Times'')]
+
+;Politics and elections
+*[[2017 Zimbabwean coup d'état]]
+**[[Robert Mugabe]] resigns as the [[President of Zimbabwe]] shortly after [[impeachment]] [[List of impeached presidents|proceedings]] are launched. It ends a period of nearly 40 years in office. [http://www.foxnews.com/world/2017/11/21/zimbabwe-president-mugabe-resigns-amid-impeachment-hearing-parliament-speaker-says.html (Fox News)]
 <!-- All news items above this line -->}}
