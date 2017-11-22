@@ -7,7 +7,7 @@
 
 ;Disasters and accidents
 * {{ship|USS|Ronald Reagan}}
-**A [[United States Navy|U.S. Navy]] [[Grumman C-2 Greyhound|C2-A Greyhound]], operating off of the USS ''Ronald Reagan'' [[aircraft carrier]], crashes in the [[Philippine Sea]]. Eight sailors are rescued, while three remain missing from the 11-man crew. [https://www.cnbc.com/amp/2017/11/22/us-navy-aircraft-crashes-into-philippine-sea.html (CNBC)] 
+**A [[United States Navy|U.S. Navy]] [[Grumman C-2 Greyhound|C2-A Greyhound]], operating off of the USS ''Ronald Reagan'' [[aircraft carrier]], crashes in the [[Philippine Sea]]. Eight sailors are rescued, while three remain missing from the 11-person crew. [https://www.cnbc.com/amp/2017/11/22/us-navy-aircraft-crashes-into-philippine-sea.html (CNBC)] 
 
 ;International relations
 *[[Palestine–United States relations]]
@@ -15,5 +15,6 @@
 
 ;Politics and elections
 *[[2017 Lebanon–Saudi Arabia dispute]]
-**Lebanon Prime Minister [[Saad Hariri]] arrives in Beirut for the first time since announcing his resignation in [[Saudi Arabia]] more than two weeks ago. Later at  [[President of Lebanon|Lebanese President]] [[Michel Aoun]]'s request, Hariri suspends his resignation so further consultations can proceed. [http://www.bbc.com/news/world-middle-east-42074789 (BBC)] [http://www.bbc.com/news/world-middle-east-42079999 (BBC²)]
+**Lebanon Prime Minister [[Saad Hariri]] arrives in Beirut for the first time since announcing his resignation in [[Saudi Arabia]] more than two weeks ago. [http://www.bbc.com/news/world-middle-east-42074789 (BBC)]
+**At [[President of Lebanon|Lebanese President]] [[Michel Aoun]]'s request, Hariri suspends his resignation so further consultations can proceed. [http://www.bbc.com/news/world-middle-east-42079999 (BBC)]
 <!-- All news items above this line -->}}
