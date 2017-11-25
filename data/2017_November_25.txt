@@ -1,5 +1,7 @@
 {{Current events|year=2017|month=11|day=25|content=
 
 <!-- All news items below this line -->
-*
+;Law and crime
+*Aftermath of [[2017 Zimbabwean coup d'état]]
+** Former Zimbabwe finance minister [[Ignatius Chombo]], who was arrested during Operation Restore Legacy,  is  charged in [[Harare]] Magistrate’s Court with three counts of fraud, abuse of power, and corruption. [https://www.reuters.com/article/us-zimbabwe-politics/ousted-zimbabwe-finance-minister-chombo-in-court-over-corruption-charges-idUSKBN1DP07N (Reuters)] [https://citizen.co.za/news/news-africa/1740487/former-zim-finance-minister-chombo-in-harare-court-on-fraud-charges/ (''The Citizen'')]
 <!-- All news items above this line -->}}
