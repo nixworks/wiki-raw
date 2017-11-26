@@ -1,10 +1,11 @@
 {{Current events|year=2017|month=11|day=26|content=
 
 <!-- All news items below this line -->
-;Disasters en accidents
+;Disasters and accidents
 *A large factory explosion in [[Ningbo]], [[China]], kills at least 2 people and injures more than 30. [http://www.bbc.com/news/world-asia-42126985 (BBC)]
+*[[Popocatépetl]] volcano errupts in [[Mexico]]. [http://edition.cnn.com/2016/11/25/americas/mexico-popocatepetl-volcano-ash/index.html (CNN)]
 
-;Law and crime
+;Politics and elections
 *[[2017 Tehreek-e-Labaik protest]]
 **Pakistan's government has called for troops to be deployed in the capital, [[Islamabad]], after violence broke out during protests by [[Islamism|Islamists]]. [http://www.bbc.com/news/world-asia-42124446 (BBC)]
 <!-- All news items above this line -->}}
