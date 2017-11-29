@@ -8,4 +8,8 @@
 ;Science and technology
 *[[2017 in spaceflight]]
 **A [[Soyuz-2.1b]]'s [[Fregat]] upper stage malfunctions during [[Meteor-M No.2-1]]'s launch from the [[Vostochny Cosmodrome]]. The status of the satellite and 18 other payloads are unknown as they are either stranded in a wrong orbit or reentered atmosphere and crashed in the ocean.  [https://spaceflightnow.com/2017/11/28/russian-weather-satellite-and-18-secondary-payloads-feared-lost/ (''Spaceflight Now'')]
+
+;Politics and elections
+*[[Tax Cuts and Jobs Act of 2017]]
+**The [[U.S. Senate Budget Committee]] votes to move the [[Trump administration]]'s tax bill to the full U.S. Senate. [http://www.businessinsider.com/gop-tax-bill-senate-budget-committee-vote-2017-11 (''Business Insider'')]
 <!-- All news items above this line -->}}
