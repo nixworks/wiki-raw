@@ -13,7 +13,7 @@
 
 ;Science and technology
 *[[2017 in spaceflight]]
-**A [[Soyuz-2.1b]]'s [[Fregat]] upper stage malfunctions during [[Meteor-M No.2-1]]'s launch from the [[Vostochny Cosmodrome]]. The status of the satellite and 18 other payloads are unknown as they are either stranded in a wrong orbit or reentered atmosphere and crashed in the ocean.  [https://spaceflightnow.com/2017/11/28/russian-weather-satellite-and-18-secondary-payloads-feared-lost/ (''Spaceflight Now'')]
+**A [[Soyuz-2.1b]]'s [[Fregat]] upper stage malfunctions during [[Meteor-M No.2-1]]'s launch from the [[Vostochny Cosmodrome]]. The status of the satellite and 18 other payloads are unknown, as they are either stranded in a wrong orbit or reentered atmosphere and crashed in the ocean.  [https://spaceflightnow.com/2017/11/28/russian-weather-satellite-and-18-secondary-payloads-feared-lost/ (''Spaceflight Now'')]
 *[[Elsagate]]
 **[[YouTube]] removes thousands of child abuse videos related to ElsaGate. [https://www.cbsnews.com/news/youtube-cracks-down-disturbing-videos-children/ (''CBS News'')]
 
