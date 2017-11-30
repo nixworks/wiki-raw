@@ -1,6 +1,10 @@
 {{Current events|year=2017|month=11|day=30|content=
 
 <!-- All news items below this line -->
+;Business and economy
+*[[Economy of South Korea]]
+**The [[Bank of Korea]] raises interest rates for the first time in more than six years by lifting borrowing costs to 1.50 percent from 1.25, citing [[economic recovery]]. [https://www.afp.com/en/news/205/s-korea-raises-interest-rate-first-time-six-years-doc-uq17z3 (AFP)], [https://www.reuters.com/article/us-southkorea-economy-rates/south-korea-raises-rates-for-first-time-in-six-years-flags-job-market-risks-idUSKBN1DT3DN (Reuters)]
+
 ;Disasters
 *The [[International Committee of the Red Cross]] is buying 750,000 liters of diesel fuel to help provide clean water for a million people living in [[Yemen]]. [http://www.bbc.com/news/world-middle-east-42170809 (BBC)]
 <!-- All news items above this line -->}}
