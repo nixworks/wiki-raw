@@ -8,4 +8,8 @@
 ;Disasters and accidents
 *The [[International Committee of the Red Cross]] is buying 750,000 liters of diesel fuel to help provide clean water for a million people living in [[Yemen]]. [http://www.bbc.com/news/world-middle-east-42170809 (BBC)]
 *A [[2017 Delaware earthquake|minor earthquake]] centered {{convert|7|mi|km|spell=in}} northeast of [[Dover, Delaware]], is felt throughout the [[Mid-Atlantic states|Mid-Atlantic]] United States. [http://abcnews.go.com/US/51-magnitude-earthquake-detected-off-east-coast/story?id=51495824 (ABC)]
+
+;Law and crime
+*[[Shooting of Kathryn Steinle]]
+**Jose Ines Garcia Zarate, a suspect in a 2015 shooting in [[San Francisco]] and an illegal immigrant, is acquitted of murder charges and found guilty of being a felon in possession of a firearm. [https://www.nbcnews.com/news/us-news/jose-ines-garcia-zarate-san-francisco-pier-killing-suspect-found-n823351 (NBC News)]
 <!-- All news items above this line -->}}
