@@ -2,10 +2,12 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*Israel launched surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. [http://www.bbc.com/news/world-middle-east-42207172 (BBC)]
+*[[Israel]] launched surface-to-surface missiles at a military installation outside the [[Syria]]n capital [[Damascus]] overnight, Syrian state TV reports. [http://www.bbc.com/news/world-middle-east-42207172 (BBC)]
 
 ;Disasters and accidents
 *Heavy rainfall causes flooding in southern [[Albania]]. At least one person has died and 3000 houses have been flooded. [http://www.foxnews.com/world/2017/12/02/albanians-evacuated-after-riverbanks-overflow-flood-areas.html (Fox News)]
+*[[2017 North Indian Ocean cyclone season]]
+**[[Cyclone Ockhi]] hits southern [[India]] causing 13 deaths in [[Tamil Nadu]] and [[Kerala]]. [https://www.ndtv.com/tamil-nadu-news/as-cyclone-ockhi-wanes-kanyakumari-remains-in-knee-deep-water-powerless-1782641 (NDTV)]
 
 ;International relations
 *[[Bangladesh–Holy See relations]], [[Rohingya refugees in Bangladesh]]
@@ -15,5 +17,8 @@
 
 ;Politics and elections
 *The [[United States Senate]] passes the Republican [[Tax Cuts and Jobs Act of 2017|tax-reform bill]]. [http://www.cnn.com/2017/12/01/politics/senate-tax-bill-vote-uncertainty/index.html (CNN)]
+
+;Science and technology
+*[[Voyager 1]] launches secondary thrusters. [https://arstechnica.com/science/2017/12/after-37-years-voyager-has-fired-up-its-trajectory-thrusters/ (''Ars Technica'')]
 
 <!-- All news items above this line -->}}
