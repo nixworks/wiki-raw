@@ -22,5 +22,5 @@
 
 ;Science and technology
 *[[Voyager program]]
-**[[Voyager 1]] launches secondary thrusters. [https://arstechnica.com/science/2017/12/after-37-years-voyager-has-fired-up-its-trajectory-thrusters/ (''Ars Technica'')]
+**[[Voyager 1]] manages successfully fires backup maneuvering thrusters, that had previously remained inactive for 37 years. Those thruster firings are to keep the spacecraft's antenna pointed at Earth, which is vital to maintain communications. [https://arstechnica.com/science/2017/12/after-37-years-voyager-has-fired-up-its-trajectory-thrusters/ (''Ars Technica'')]
 <!-- All news items above this line -->}}
