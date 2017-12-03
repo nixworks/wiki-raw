@@ -10,7 +10,7 @@
 
 ;Disasters and accidents
 *[[Germanwings Flight 9525]]
-**A [[Germanwings]] flight crashes en route from [[Barcelona]], [[Spain]], to [[Düsseldorf]], [[Germany]], in a mountainous region of the [[Alps]] near [[Digne-les-Bains]] in  [[Southern France]] leaving 150 dead. Rescue workers recover the damaged, but still usable, [[cockpit voice recorder]]. [http://rt.com/news/243525-airbus-crash-southern-france/ (RT)], [http://www.reuters.com/article/2015/03/24/us-france-crash-airbus-lufthansa-idUSKBN0MK0ZP20150324 (Reuters)][http://www.theguardian.com/world/2015/mar/24/germanwings-plane-black-box-found-as-investigators-reach-crash-site (''The Guardian'')][http://rt.com/news/243669-germanwings-flight-recorder-found (RT)]
+**A [[Germanwings]] flight crashes en route from [[Barcelona]], [[Spain]], to [[Düsseldorf]], [[Germany]], in a mountainous region of the [[Alps]] near [[Digne-les-Bains]] in  [[Southern France]] leaving 150 dead. Rescue workers recover the damaged, but still usable, [[cockpit voice recorder]]. [http://rt.com/news/243525-airbus-crash-southern-france/ (RT)], [https://www.reuters.com/article/2015/03/24/us-france-crash-airbus-lufthansa-idUSKBN0MK0ZP20150324 (Reuters)][https://www.theguardian.com/world/2015/mar/24/germanwings-plane-black-box-found-as-investigators-reach-crash-site (''The Guardian'')][http://rt.com/news/243669-germanwings-flight-recorder-found (RT)]
 
 ;Science and technology
 *The [[Opportunity rover]] completes a Martian [[marathon]], the first time any vehicle has traveled more than 26.2 miles on the surface of another world. [http://edition.cnn.com/2015/03/25/world/opportunity-rover-marathon-milestone/index.html (CNN)]

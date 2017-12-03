@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[War in Somalia (2009–present)]]
-**Nine people have been killed in [[2015 Puntland attack|a bomb attack]] on a convoy carrying food supplies to a [[United Nations]] compound in [[Garowe]] in the Somali region of [[Puntland]]. [http://www.reuters.com/article/2015/04/20/us-somalia-security-blast-idUSKBN0NB0FR20150420 (Reuters)]
+**Nine people have been killed in [[2015 Puntland attack|a bomb attack]] on a convoy carrying food supplies to a [[United Nations]] compound in [[Garowe]] in the Somali region of [[Puntland]]. [https://www.reuters.com/article/2015/04/20/us-somalia-security-blast-idUSKBN0NB0FR20150420 (Reuters)]
 *[[Sinai insurgency]]
 **A roadside bomb hits an armoured vehicle near the border town of [[Rafah]] in the northern [[Sinai Peninsula]] killing three people. [http://abcnews.go.com/International/wireStory/roadside-bomb-kills-egyptian-troops-sinai-30438974 (AP via ABC News America)]
 *[[Yemeni Civil War (2015)]]
@@ -12,7 +12,7 @@
 
 ;Arts and culture
 *[[2015 Pulitzer Prize]]
-**The [[Pulitzer Prize]] awards are presented, with the ''[[The Post and Courier]]'' of [[Charleston, South Carolina]] winning the prestigious gold medal for public service for a series on [[domestic violence]] in the US state of [[South Carolina]]. [http://www.nytimes.com/2015/04/21/business/media/pulitzer-prize-winners-2015.html (''New York Times'')]
+**The [[Pulitzer Prize]] awards are presented, with the ''[[The Post and Courier]]'' of [[Charleston, South Carolina]] winning the prestigious gold medal for public service for a series on [[domestic violence]] in the US state of [[South Carolina]]. [https://www.nytimes.com/2015/04/21/business/media/pulitzer-prize-winners-2015.html (''New York Times'')]
 **[[Anthony Doerr]]'s [[World War II]] novel ''[[All the Light We Cannot See]]'' wins the Pulitzer Prize for Fiction. [http://edition.cnn.com/2015/04/20/living/feat-pulitzer-prize-winners-arts-letters-2015/ (CNN)]
 **[[Elizabeth Kolbert]]'s ''[[The Sixth Extinction: An Unnatural History]]'' was a winner of the [[Pulitzer Prize for General Non-Fiction]]
 
@@ -31,5 +31,5 @@
 
 ;Sports
 *[[2015 Boston Marathon]]
-**Runners in the American city of [[Boston]] take part in the annual [[Boston Marathon]] for the 119th time. [[Lelisa Desisa]] of [[Ethiopia]] [[List of winners of the Boston Marathon|wins]] the men's race while [[Caroline Rotich]] of [[Kenya]] wins the women's race [http://boston.cbslocal.com/2015/04/20/119th-boston-marathon-preview-gloomy-weather-but-high-hopes-american-elites/ (CBS)][http://www.nytimes.com/2015/04/20/sports/meb-keflezighi-is-back-in-boston-this-time-as-a-superstar.html?_r=0 (New York Times)], [http://www.npr.org/blogs/thetwo-way/2015/04/20/400992863/boston-marathon-underway-race-is-second-since-deadly-2013-bombing (''Boston Marathon'')]
+**Runners in the American city of [[Boston]] take part in the annual [[Boston Marathon]] for the 119th time. [[Lelisa Desisa]] of [[Ethiopia]] [[List of winners of the Boston Marathon|wins]] the men's race while [[Caroline Rotich]] of [[Kenya]] wins the women's race [http://boston.cbslocal.com/2015/04/20/119th-boston-marathon-preview-gloomy-weather-but-high-hopes-american-elites/ (CBS)][https://www.nytimes.com/2015/04/20/sports/meb-keflezighi-is-back-in-boston-this-time-as-a-superstar.html?_r=0 (New York Times)], [http://www.npr.org/blogs/thetwo-way/2015/04/20/400992863/boston-marathon-underway-race-is-second-since-deadly-2013-bombing (''Boston Marathon'')]
 <!-- All news items above this line -->|}

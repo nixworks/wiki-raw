@@ -11,10 +11,10 @@
 ;Disasters and accidents
 *[[Germanwings Flight 9525]]
 **According to an interview with Germany's ''[[Bild]]'' newspaper, the former girlfriend of co-pilot Andreas Lubitz was told by him that "One day I'm going to do something that will change the whole system, and everyone will know my name and remember." [http://www.bbc.com/news/world-europe-32098578 (BBC)]
-**A mourning religious service is held at [[Digne-les-Bains]] in the French Alps near the site of the downed passenger jet. [http://www.theguardian.com/world/2015/mar/28/germanwings-crash-service-held-for-victims-near-impact-zone (Guardian)]
+**A mourning religious service is held at [[Digne-les-Bains]] in the French Alps near the site of the downed passenger jet. [https://www.theguardian.com/world/2015/mar/28/germanwings-crash-service-held-for-victims-near-impact-zone (Guardian)]
 
 ;Law and crime
-*The Congolese bar owner whom [[Amanda Knox]] falsely accused of [[Murder of Meredith Kercher|killing Meredith Kercher]] criticises a lack of justice in the surprise decision by [[Italy]] to quash her conviction yesterday, citing diplomatic pressure coupled with Knox's wealth and [[American citizen|status as American]], as opposed to his being African. [http://www.theguardian.com/us-news/2015/mar/28/amanda-knox-free-rich-american-patrick-lumumba-meredith-kercher-murder (Guardian)]
+*The Congolese bar owner whom [[Amanda Knox]] falsely accused of [[Murder of Meredith Kercher|killing Meredith Kercher]] criticises a lack of justice in the surprise decision by [[Italy]] to quash her conviction yesterday, citing diplomatic pressure coupled with Knox's wealth and [[American citizen|status as American]], as opposed to his being African. [https://www.theguardian.com/us-news/2015/mar/28/amanda-knox-free-rich-american-patrick-lumumba-meredith-kercher-murder (Guardian)]
 
 ;Politics and elections
 *[[Nigerian general election, 2015]]
@@ -23,5 +23,5 @@
 **Voters in the [[Australia]]n state of [[New South Wales]] go to the polls for a state election with the [[Coalition (Australia)|Liberal-National Coalition]] led by [[Mike Baird]] retaining government. [http://www.abc.net.au/news/2015-03-28/nsw-election-mike-baird-luke-foley-counting-starts/6354110 (ABC News Australia)], [http://www.couriermail.com.au/news/nsw-election-2015-live-rolling-coverage-live-stream-as-mike-baird-and-luke-foley-fight-for-power/story-e6freon6-1227280790076?from=public_rss (''The Daily Telegraph'' via ''The Courier Mail'')]
 
 ;Sports
-*In [[association football]], [[Russia national football team|Russia]], recovering after Friday's abandoned [[UEFA Euro 2016 qualifying|Euro 2016 qualifier]] in [[Montenegro]], press for [[UEFA]] to award them victory. Among the injured were goalkeeper [[Igor Akinfeev]], knocked out of the game in the first minute, concussed and nursing a neck injury after a flare struck him in the head; [[Dmitri Kombarov]], struck by another object; [[Alan Dzagoev]], struck by projectiles while being treated for another injury. [http://www.theguardian.com/football/2015/mar/28/russia-demand-victory-abandoned-match-montenegro (''The Guardian'')]
+*In [[association football]], [[Russia national football team|Russia]], recovering after Friday's abandoned [[UEFA Euro 2016 qualifying|Euro 2016 qualifier]] in [[Montenegro]], press for [[UEFA]] to award them victory. Among the injured were goalkeeper [[Igor Akinfeev]], knocked out of the game in the first minute, concussed and nursing a neck injury after a flare struck him in the head; [[Dmitri Kombarov]], struck by another object; [[Alan Dzagoev]], struck by projectiles while being treated for another injury. [https://www.theguardian.com/football/2015/mar/28/russia-demand-victory-abandoned-match-montenegro (''The Guardian'')]
 <!-- All news items above this line -->|}

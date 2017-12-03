@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;Business and economy
-*[[Alexion Pharmaceuticals]] agrees to purchase [[Synageva BioPharma]], a maker of rare disease treatments, for US$8.6 billion. [http://www.nytimes.com/2015/05/07/business/dealbook/alexion-puts-its-soaring-stock-price-to-good-use.html (''New York Times'')]
+*[[Alexion Pharmaceuticals]] agrees to purchase [[Synageva BioPharma]], a maker of rare disease treatments, for US$8.6 billion. [https://www.nytimes.com/2015/05/07/business/dealbook/alexion-puts-its-soaring-stock-price-to-good-use.html (''New York Times'')]
 
 ;Disasters and accidents
 *Japanese authorities raise alert level for the [[Mount Hakone]] volcano in the [[Lake Ashi]] tourist area. [http://www.bangkokpost.com/news/asia/552771/alert-raised-for-volcano-eruption-in-japan-tourist-area (''Bangkok Post'')]

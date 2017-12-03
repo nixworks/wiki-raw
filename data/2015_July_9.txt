@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Business and economy
 * [[2015_Chinese_stock_market_crash|Chinese stock market crash]]
-**The [[China Securities Regulatory Commission]] (CSRC) imposes a six-month ban on stockholders owning more than 5 percent of a company's stock from selling those stocks, resulting in a 6 percent rise in stock markets. [http://www.reuters.com/article/2015/07/09/us-china-markets-idUSKCN0PI2RT20150709 (Reuters)]
+**The [[China Securities Regulatory Commission]] (CSRC) imposes a six-month ban on stockholders owning more than 5 percent of a company's stock from selling those stocks, resulting in a 6 percent rise in stock markets. [https://www.reuters.com/article/2015/07/09/us-china-markets-idUSKCN0PI2RT20150709 (Reuters)]
 *[[Puerto Rican debt crisis]]
 **The [[United States Congress]] refuses to offer a [[bailout]] to [[Puerto Rico]]. [http://www.politico.com/story/2015/07/congress-balks-at-lifeline-for-puerto-rico-119876.html (Politico)]
 ;Disasters and accidents
@@ -25,5 +25,5 @@
 *The [[Thailand|Thai]] [[consulate]] in [[Istanbul]] is attacked by [[Turkish people|Turkish]] protestors after about a hundred [[Uighur people|Uighurs]] were deported by Thailand back to [[China]] despite concerns over persecution.  [http://www.bbc.co.uk/news/world-asia-33457401 (BBC)]
 ;Sports
 *[[2015 FIFA corruption case]]
-**FIFA suspends former [[FIFA Executive Committee|Executive Committee]] member [[Chuck Blazer]] for life for assorted ethical breaches including accepting bribes. [http://www.fifa.com/governance/news/y=2015/m=7/news=independent-ethics-committee-bans-chuck-blazer-from-football-related-a-2662031.html (FIFA Governance)]
+**FIFA suspends former [[FIFA Executive Committee|Executive Committee]] member [[Chuck Blazer]] for life for assorted ethical breaches including accepting bribes. [https://www.fifa.com/governance/news/y=2015/m=7/news=independent-ethics-committee-bans-chuck-blazer-from-football-related-a-2662031.html (FIFA Governance)]
 <!-- All news items above this line -->|}
