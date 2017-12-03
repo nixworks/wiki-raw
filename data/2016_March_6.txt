@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Iraqi Civil War (2014–present)]]
-**A [[Suicide attack|suicide bomber]] kills at least 60 people and wounds 70 others after ramming his explosives-laden truck into a security checkpoint at one of the entrances to the [[Iraq]]i city of [[Hillah]], south of [[Baghdad]]. The [[Islamic State of Iraq and the Levant]] claims responsibility for the attack. [http://www.reuters.com/article/us-mideast-crisis-iraq-blast-idUSKCN0W80G3 (Reuters)] [http://www.foxnews.com/world/2016/03/06/at-least-11-killed-in-baghdad-suicide-attack.html (FOX News)] [http://news.yahoo.com/iraq-suicide-attack-kills-least-11-south-baghdad-104807422.html (AP via Yahoo! News)]
+**A [[Suicide attack|suicide bomber]] kills at least 60 people and wounds 70 others after ramming his explosives-laden truck into a security checkpoint at one of the entrances to the [[Iraq]]i city of [[Hillah]], south of [[Baghdad]]. The [[Islamic State of Iraq and the Levant]] claims responsibility for the attack. [https://www.reuters.com/article/us-mideast-crisis-iraq-blast-idUSKCN0W80G3 (Reuters)] [http://www.foxnews.com/world/2016/03/06/at-least-11-killed-in-baghdad-suicide-attack.html (FOX News)] [https://news.yahoo.com/iraq-suicide-attack-kills-least-11-south-baghdad-104807422.html (AP via Yahoo! News)]
 *[[Syrian Civil War]]
 **[[Battle of Aleppo (2012–present)]]
 ***At least nine civilians are killed and dozens are injured after rockets and mortars hit the mainly [[Kurds in Syria|Kurdish]] neighborhood of [[Sheikh Maqsood]] in the city of [[Aleppo]]. The neighborhood is controlled by the [[People's Protection Units]] (YPG). [http://uk.reuters.com/article/uk-mideast-crisis-syria-aleppo-idUKKCN0W80S2 (Reuters)]
@@ -26,7 +26,7 @@
 
 ;Politics and elections
 *[[Beninese presidential election, 2016]]
-**Voters in [[Benin]] go to the polls for the first round of voting in a presidential election with 33 candidates vying to replace current [[President of Benin|President]]  [[Thomas Yayi Boni]]. [http://www.bloomberg.com/news/articles/2016-03-06/record-number-of-hopefuls-seek-benin-presidency-in-election (Bloomberg)]
+**Voters in [[Benin]] go to the polls for the first round of voting in a presidential election with 33 candidates vying to replace current [[President of Benin|President]]  [[Thomas Yayi Boni]]. [https://www.bloomberg.com/news/articles/2016-03-06/record-number-of-hopefuls-seek-benin-presidency-in-election (Bloomberg)]
 *Thousands of people gather in the [[Georgia (country)|Georgian]] capital of [[Tbilisi]] to protest against their government's negotiations with [[Russia]]n state-owned oil company [[Gazprom]]. [http://www.rferl.org/content/anti-russia-rally-georgia-gazprom/27592474.html (Radio Free Europe/Radio Liberty)]
 *[[United States presidential election, 2016]]
 **[[Marco Rubio]] wins the [[United States presidential election in Puerto Rico, 2016|Puerto Rican]] [[Republican Party (United States)|Republican Party]] primary. [http://www.bbc.com/news/election-us-2016-35741360 (BBC)]
