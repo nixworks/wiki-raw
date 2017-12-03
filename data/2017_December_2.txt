@@ -2,7 +2,8 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Israel]] launched surface-to-surface missiles at a military installation outside the [[Syria]]n capital [[Damascus]] overnight, Syrian state TV reports. [http://www.bbc.com/news/world-middle-east-42207172 (BBC)]
+*[[Israeli involvement in the Syrian Civil War]]
+**[[Israel]] launchs surface-to-surface missiles at a military installation outside the [[Syria]]n capital [[Damascus]] overnight, Syrian state TV reports. [http://www.bbc.com/news/world-middle-east-42207172 (BBC)]
 
 ;Disasters and accidents
 *Heavy rainfall causes flooding in southern [[Albania]]. At least one person has died and 3000 houses have been flooded. [http://www.foxnews.com/world/2017/12/02/albanians-evacuated-after-riverbanks-overflow-flood-areas.html (Fox News)]
@@ -12,13 +13,14 @@
 ;International relations
 *[[Bangladesh–Holy See relations]], [[Rohingya refugees in Bangladesh]]
 **[[Pope Francis]] ends his six-day trip to [[Myanmar]] and [[Bangladesh]] by visiting the [[Rohingya people|Rohingya refugees]] in [[Dhaka]]. [https://www.afp.com/en/news/205/pope-francis-wraps-asia-tour-after-meeting-rohingya-doc-ut0gw4 (AFP)]
-
-*The former president of Yemen [[Ali Abdullah Saleh]] has suggested that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. [http://www.bbc.com/news/world-middle-east-42208360 (BBC)]
+*[[Saudi Arabian-led intervention in Yemen]]
+**The former president of Yemen [[Ali Abdullah Saleh]] has suggested that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. [http://www.bbc.com/news/world-middle-east-42208360 (BBC)]
 
 ;Politics and elections
-*The [[United States Senate]] passes the Republican [[Tax Cuts and Jobs Act of 2017|tax-reform bill]]. [http://www.cnn.com/2017/12/01/politics/senate-tax-bill-vote-uncertainty/index.html (CNN)]
+*[[Tax Cuts and Jobs Act of 2017]]
+**The [[United States Senate]] passes the Republican [[tax reform]] bill with a 51–49 vote. [http://www.cnn.com/2017/12/01/politics/senate-tax-bill-vote-uncertainty/index.html (CNN)]
 
 ;Science and technology
-*[[Voyager 1]] launches secondary thrusters. [https://arstechnica.com/science/2017/12/after-37-years-voyager-has-fired-up-its-trajectory-thrusters/ (''Ars Technica'')]
-
+*[[Voyager program]]
+**[[Voyager 1]] launches secondary thrusters. [https://arstechnica.com/science/2017/12/after-37-years-voyager-has-fired-up-its-trajectory-thrusters/ (''Ars Technica'')]
 <!-- All news items above this line -->}}
