@@ -15,7 +15,7 @@
 *[[88th Academy Awards]]
 **The nominations are announced for the 88th Academy Awards at the [[Samuel Goldwyn Theater]] in [[Hollywood]]. [http://www.eonline.com/news/730249/oscars-2016-nominations-complete-list-of-nominees (E! Online)]
 *Actor [[Alan Rickman]] dies from cancer, aged 69. [http://www.bbc.co.uk/news/entertainment-arts-35313604 (BBC)]
-*Archbishops of the [[Anglican Communion]] meeting in [[England]] vote to sanction the [[Episcopal Church (United States)|U.S. branch of the Communion]] for its unilateral decision to allow same-sex marriages.[http://www.nytimes.com/2016/01/15/world/europe/anglican-archbishops-sanction-us-episcopal-church-over-gay-marriages.html (''New York Times'')]
+*Archbishops of the [[Anglican Communion]] meeting in [[England]] vote to sanction the [[Episcopal Church (United States)|U.S. branch of the Communion]] for its unilateral decision to allow same-sex marriages.[https://www.nytimes.com/2016/01/15/world/europe/anglican-archbishops-sanction-us-episcopal-church-over-gay-marriages.html (''New York Times'')]
 *[[René Angélil]], manager and husband of singer [[Celine Dion]], dies at age 73 after a long battle with throat cancer.[http://www.bbc.com/news/world-us-canada-35319898 (BBC)]
 
 ;Disasters and accidents
@@ -23,11 +23,11 @@
 **[[Hurricane Alex (2016)|Hurricane Alex]] becomes the first [[hurricane]] to form in the [[Atlantic Ocean]] in [[January]] since 1938 with warnings issued for the [[Azores]]. [http://www.weather.com/storms/hurricane/news/hurricane-alex-atlantic-ocean-azores?cm_ven=T_WX_JE_11416_3 (Weather Channel)]
 
 ;Business and economy
-*A [[Brazil]]ian court suspends the licence for the [[Belo Monte Dam]] weeks before it was due to start operating until operator Norte Energia SA and the [[government of Brazil]] reorganizes [[Fundação Nacional do Índio]], a protection agency for [[Indigenous peoples in Brazil|indigenous Brazilians]]. [http://www.cnbc.com/2016/01/14/reuters-america-brazil-court-suspends-amazon-hydrodam-license-on-native-demands.html (Reuters via CNBC)]
+*A [[Brazil]]ian court suspends the licence for the [[Belo Monte Dam]] weeks before it was due to start operating until operator Norte Energia SA and the [[government of Brazil]] reorganizes [[Fundação Nacional do Índio]], a protection agency for [[Indigenous peoples in Brazil|indigenous Brazilians]]. [https://www.cnbc.com/2016/01/14/reuters-america-brazil-court-suspends-amazon-hydrodam-license-on-native-demands.html (Reuters via CNBC)]
 
 ;Health
 *[[Ebola virus epidemic in West Africa]]
-**The [[World Health Organisation]] declares an end to the [[Ebola virus]] outbreak in [[West Africa]] with [[Liberia]] the last country to be declared free of the virus. [http://news.yahoo.com/declares-worst-ever-ebola-outbreak-over-092344314.html (AFP via Yahoo!)]
+**The [[World Health Organisation]] declares an end to the [[Ebola virus]] outbreak in [[West Africa]] with [[Liberia]] the last country to be declared free of the virus. [https://news.yahoo.com/declares-worst-ever-ebola-outbreak-over-092344314.html (AFP via Yahoo!)]
 **A person dies of the Ebola virus in [[Sierra Leone]] hours after the WHO makes its declaration. [http://www.bbc.co.uk/news/world-africa-35320363 (BBC)]
 
 ;International relations
