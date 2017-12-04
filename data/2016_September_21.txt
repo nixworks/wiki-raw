@@ -3,11 +3,11 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Syrian civil war]]
-**The [[Obama administration]] claims that [[Russian military intervention in Syria|Russia was responsible]] for the bombing of a [[United Nations]] aid convoy near [[Aleppo]] on September 19. Russia denies its involvement. In the aftermath of the attack, the United Nations suspends all aid convoys in Syria. [http://www.bbc.com/news/world-middle-east-37424871 (BBC)] [http://www.nytimes.com/2016/09/21/world/middleeast/syria-cease-fire.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0 (''The New York Times'')]
+**The [[Obama administration]] claims that [[Russian military intervention in Syria|Russia was responsible]] for the bombing of a [[United Nations]] aid convoy near [[Aleppo]] on September 19. Russia denies its involvement. In the aftermath of the attack, the United Nations suspends all aid convoys in Syria. [http://www.bbc.com/news/world-middle-east-37424871 (BBC)] [https://www.nytimes.com/2016/09/21/world/middleeast/syria-cease-fire.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0 (''The New York Times'')]
 **An airstrike yesterday on a medical facility near Aleppo kills five French medical charity workers. [http://www.bbc.com/news/world-middle-east-37429296 (BBC)]
 **The [[United States Secretary of State]] [[John Kerry]] calls for a [[No-fly zone|no-fly zone]] over northern [[Syria]], in response to the recent airstrikes on an aid convoy and medical facility in the [[Aleppo Governorate]]. [http://news.sky.com/story/john-kerry-demands-no-fly-zone-over-syria-as-well-as-ceasefire-10587079 (Sky News)]
 *[[Iraqi Civil War (2014–present)|Iraqi Civil War]]
-**The U.S. military investigates yesterday's [[Islamic State of Iraq and the Levant|Islamic State]] rocket strike near the [[Qayyarah Airfield West]] to ascertain if a [[Chemical weapon|chemical agent]] was used. [http://www.reuters.com/article/us-mideast-crisis-iraq-chemical-idUSKCN11R2RB (Reuters)]
+**The U.S. military investigates yesterday's [[Islamic State of Iraq and the Levant|Islamic State]] rocket strike near the [[Qayyarah Airfield West]] to ascertain if a [[Chemical weapon|chemical agent]] was used. [https://www.reuters.com/article/us-mideast-crisis-iraq-chemical-idUSKCN11R2RB (Reuters)]
 
 ;Business and economy
 *[[Volkswagen emissions scandal]]
@@ -26,6 +26,6 @@
 
 ;Science and technology
 *[[Tiangong program]]
-**The [[China National Space Administration]] (CNSA) confirms its [[Tiangong-1]] prototype [[Space station|space station]], launched in September 2011, is "out of control", and will re-enter and burn up in the atmosphere in late 2017. [http://www.independent.co.uk/news/world/asia/china-space-station-tiangong-1-crash-tiangong-1-out-of-control-a7319916.html (''The Independent'')]
+**The [[China National Space Administration]] (CNSA) confirms its [[Tiangong-1]] prototype [[Space station|space station]], launched in September 2011, is "out of control", and will re-enter and burn up in the atmosphere in late 2017. [https://www.independent.co.uk/news/world/asia/china-space-station-tiangong-1-crash-tiangong-1-out-of-control-a7319916.html (''The Independent'')]
 *August 2016 becomes the world's hottest on record (since records began 136 years ago) and 16th 'hottest on record' month in a row. [http://www.australiangeographic.com.au/news/2016/09/august-2016-was-worlds-hottest-on-record (Australian Geographic)]
 <!-- All news items above this line -->|}
