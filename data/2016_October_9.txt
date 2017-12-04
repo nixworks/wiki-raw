@@ -3,11 +3,11 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Kurdish–Turkish conflict (2015–present)]]
-**A suspected [[Kurdistan Workers' Party|PKK]] [[2016 Şemdinli bombing|car bomb]] kills at least 17 people, and injures 27 others in [[Turkey]]'s southeast [[Hakkâri Province]]. [http://www.independent.co.uk/news/world/europe/turkey-explosion-pkk-car-bomb-attack-kills-17-hakkari-terrorism-a7352666.html (''The Independent'')]
+**A suspected [[Kurdistan Workers' Party|PKK]] [[2016 Şemdinli bombing|car bomb]] kills at least 17 people, and injures 27 others in [[Turkey]]'s southeast [[Hakkâri Province]]. [https://www.independent.co.uk/news/world/europe/turkey-explosion-pkk-car-bomb-attack-kills-17-hakkari-terrorism-a7352666.html (''The Independent'')]
 *[[Israeli–Palestinian conflict (2015–present)]]
 **A [[2016 Jerusalem shooting attack|shooting]] takes place in [[Jerusalem]] that kills two people, including a police officer, injuring six others. The attack was carried out by a [[Palestinians|Palestinian]] gunman who opened fire from a vehicle on people waiting at a train station and then the nearby police headquarters in Jerusalem. [[Israel Police|Israeli police]] kill the gunman. [http://www.bbc.co.uk/news/world-middle-east-37600221 (BBC)]
 *[[Yemeni Crisis (2011–present)]]
-**The [[United States Navy]]'s [[Destroyer|destroyer]] [[USS Mason (DDG-87)|USS ''Mason'']] comes under missile attack in the [[Red Sea]], off the coast of [[Yemen]]. The two missiles, fired from Yemeni territory controlled by [[Iran|Iranian]]-backed [[Houthis]], impacted the water well before reaching the ship, according to Pentagon spokesman Captain Jeff Davis. [http://www.reuters.com/article/us-yemen-security-usa-ship-idUSKCN12A082 (Reuters)]
+**The [[United States Navy]]'s [[Destroyer|destroyer]] [[USS Mason (DDG-87)|USS ''Mason'']] comes under missile attack in the [[Red Sea]], off the coast of [[Yemen]]. The two missiles, fired from Yemeni territory controlled by [[Iran|Iranian]]-backed [[Houthis]], impacted the water well before reaching the ship, according to Pentagon spokesman Captain Jeff Davis. [https://www.reuters.com/article/us-yemen-security-usa-ship-idUSKCN12A082 (Reuters)]
 
 ;Arts and culture
 *[[Pope Francis]] announces the upcoming creation of 17 new Cardinals; 13 of them will be under the age of 80 and thus able to vote in a future [[papal conclave]] to select the new Pope. [http://press.vatican.va/content/salastampa/it/bollettino/pubblico/2016/10/09/0723/01609.html (The Vatican Information Service)] 
@@ -26,5 +26,5 @@
 *[[Lithuanian parliamentary election, 2016]]
 **Voters in [[Lithuania]] vote to elect representatives for the 141-seat [[Seimas|parliament]]. [http://www.chicagotribune.com/news/sns-wp-blm-lithuania-ffaf0196-8c76-11e6-8cdc-4fbb1973b506-20161007-story.html (Bloomberg via ''The Chicago Tribune'')]
 *A court sentences former [[Communist Party Secretary]] of [[Yunnan]] province, [[Bai Enpei]], to death for corruption and amassing wealth of unclear origin. [http://www.scmp.com/news/china/policies-politics/article/2026549/former-communist-party-boss-yunnan-province-spend-life (''The South China Morning Post'')]
-*[[Thailand]]'s [[Bhumibol Adulyadej|King Bhumibol Adulyadej]], 88, the world's longest reigning monarch, is in unstable condition after a [[hemodialysis]] treatment. [http://www.reuters.com/article/us-thailand-king-idUSKCN1290R8 (Reuters)], [http://www.aljazeera.com/news/2016/10/thai-king-bhumibol-adulyadej-condition-stable-treatment-161009210509941.html (Al Jazeera)]
+*[[Thailand]]'s [[Bhumibol Adulyadej|King Bhumibol Adulyadej]], 88, the world's longest reigning monarch, is in unstable condition after a [[hemodialysis]] treatment. [https://www.reuters.com/article/us-thailand-king-idUSKCN1290R8 (Reuters)], [http://www.aljazeera.com/news/2016/10/thai-king-bhumibol-adulyadej-condition-stable-treatment-161009210509941.html (Al Jazeera)]
 <!-- All news items above this line -->|}
