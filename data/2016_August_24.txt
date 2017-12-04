@@ -9,7 +9,7 @@
 
 ;Disasters and accidents
 *[[2016 Central Italy earthquake]]
-**A 6.2 magnitude [[2016 Central Italy earthquake|earthquake]] occurs in [[central Italy]] near the city of [[Perugia]]. The mayor of the town of [[Amatrice]] reports that residents are buried under rubble. [http://www.telegraph.co.uk/news/2016/08/24/italy-quake-64-magnitude-tremor-rocks-perugia/ (''The Telegraph'')] [http://earthquake.usgs.gov/earthquakes/eventpage/us10006g7d#dyfi (USGS)] [http://www.sandiegouniontribune.com/news/2016/aug/23/mayor-of-quake-hit-amatrice-in-italy-says/ (AP via ''San Diego Union Tribune'')]
+**A 6.2 magnitude [[2016 Central Italy earthquake|earthquake]] occurs in [[central Italy]] near the city of [[Perugia]]. The mayor of the town of [[Amatrice]] reports that residents are buried under rubble. [http://www.telegraph.co.uk/news/2016/08/24/italy-quake-64-magnitude-tremor-rocks-perugia/ (''The Telegraph'')] [https://earthquake.usgs.gov/earthquakes/eventpage/us10006g7d#dyfi (USGS)] [http://www.sandiegouniontribune.com/news/2016/aug/23/mayor-of-quake-hit-amatrice-in-italy-says/ (AP via ''San Diego Union Tribune'')]
 **At least 159 people have been reported dead. [http://www.bbc.com/news/world-europe-37171953 (''BBC News'')], [http://www.ansa.it/english/news/general_news/2016/08/24/at-least-21-dead-in-6.0-earthquake_63a1ac6f-acc9-4639-a8d9-718bf6415bb9.html (ANSA)]
 *[[August 2016 Myanmar earthquake]]
 **A 6.8 magnitude earthquake hits central [[Myanmar]], 25km west of the town of [[Chauk]], and was also felt in [[Thailand]], [[Bangladesh]] and [[India]], according to reports. At least three people are killed. [http://www.bbc.co.uk/news/world-asia-37172794 (BBC)]
