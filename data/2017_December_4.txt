@@ -2,10 +2,8 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Saudi Arabian-led intervention in Yemen]]
+*[[Saudi Arabian-led intervention in Yemen]]; [[Yemeni Civil War (2015–present)|Yemeni Civil War]]
 **[[Houthis|Houthi]] forces kill former president [[Ali Abdullah Saleh]] in a roadside attack outside [[Sana'a]] after having blown up his house. [http://www.bbc.com/news/world-middle-east-42225574 (BBC)] [https://www.npr.org/sections/thetwo-way/2017/12/04/568283444/yemeni-ex-president-ali-abdullah-saleh-apparently-killed-in-houthi-attack (NPR)]
-*[[Israeli involvement in the Syrian Civil War]]
-**The [[Israeli Air Force]] reportedly fired [[surface-to-surface missile]]s at a Syrian air force base near [[Damascus, Syria|Damascus]], causing damage. Israel believes the base is covertly used by Iranian forces. [http://www.bbc.com/news/world-middle-east-42207172 (BBC News)]
 
 ;International relations
 *[[Positions on Jerusalem]]
@@ -15,7 +13,7 @@
 *[[2017 North Korea crisis]]
 **[[South Korea]] and the [[United States]] launch their largest-ever annual joint aerial [[Military exercise|drill]]. [http://www.theaustralian.com.au/news/latest-news/n-korea-vows-retaliation-over-drills/news-story/ce6aa5e330c553c1e807d5f5665421db (''The Australian'')]
 *[[Tax Cuts and Jobs Act of 2017]]
-**[[France]] asks to put on the [[Council of the European Union]] [[finance minister]]s' agenda the concern that the current version of the [[United States]] fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced [[value added]]. [http://www.lefigaro.fr/flash-eco/2017/12/04/97002-20171204FILWWW00138-la-france-veut-saisir-l-ue-du-projet-de-reforme-fiscale-us.php (''Le Figaro'')]
+**[[France]] puts the concern on the [[Economic and Financial Affairs Council|E.U. Ecofin]] agenda that the current version of the [[United States]] fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced [[value added]]. [http://www.lefigaro.fr/flash-eco/2017/12/04/97002-20171204FILWWW00138-la-france-veut-saisir-l-ue-du-projet-de-reforme-fiscale-us.php (''Le Figaro'')]
 
 ;Law and crime
 *[[Syrian Civil War]]
@@ -23,7 +21,7 @@
 *Murder of [[Daphne Caruana Galizia]]
 **[[Malta]] arrests 10 people over the investigative journalist's murder on October 16. [http://edition.cnn.com/2017/12/04/europe/daphne-caruana-galizia-arrests-intl/index.html (CNN)]
 *[[2017 Spanish constitutional crisis]]
-**The [[Prosecutor#Belgium|prosecutor]] in a [[Brussels]] court repeats the demand to extradite [[Carles Puigdemont]] and four other former [[Executive Council of Catalonia|Catalan officials]] to [[Spain]]. The judge delays the decision until December 14. [https://www.politico.eu/article/catalonia-independence-carles-puigdemont-decision-extradition-scheduled-for-december-14/ (''Politico.eu'')]
+**The [[Prosecutor#Belgium|prosecutor]] in a [[Brussels]] court repeats the demand to extradite [[Carles Puigdemont]] and four other former [[Executive Council of Catalonia|Catalan officials]] to [[Spain]]. The defense says that the adduced [[cause of action|facts]] are "not punishable" under Belgian [[Criminal justice|law]]. The judge delays the decision until December 14. [https://www.politico.eu/article/catalonia-independence-carles-puigdemont-decision-extradition-scheduled-for-december-14/ (''Politico.eu'')]
 **The [[Supreme Court of Spain]] grants six former [[Executive Council of Catalonia|Catalan officials]] bail of €100,000 each. Four other people, [[Oriol Junqueras]], [[Joaquim Forn]] and two leading activists, remain in jail over the "risk of re-offending". [https://www.bloomberg.com/news/articles/2017-12-04/catalonia-s-former-vice-president-to-stay-in-jail-for-election (Bloomberg)]
 
 ;Politics and elections
