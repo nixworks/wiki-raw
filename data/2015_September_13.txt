@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Turkey–PKK conflict]]
-**A [[Kurdistan Workers' Party|PKK]] car bombing on a checkpoint kills two [[Law enforcement in Turkey|Turkish police]] officers and injures five others in south-eastern Turkey. Also, Turkish [[Turkish Armed Forces|security forces]] impose a curfew in the region's largest city, [[Diyarbakır]]. [http://www.reuters.com/article/2015/09/13/us-turkey-kurds-attack-idUSKCN0RD04N20150913 (Reuters)]
+**A [[Kurdistan Workers' Party|PKK]] car bombing on a checkpoint kills two [[Law enforcement in Turkey|Turkish police]] officers and injures five others in south-eastern Turkey. Also, Turkish [[Turkish Armed Forces|security forces]] impose a curfew in the region's largest city, [[Diyarbakır]]. [https://www.reuters.com/article/2015/09/13/us-turkey-kurds-attack-idUSKCN0RD04N20150913 (Reuters)]
 *[[Egypt]]ian security forces [[2015 Wahat convoy incident|open fire]] on a [[Mexican people|Mexican]] tourist convoy in the [[Libyan Desert|Western Desert]] while pursuing militants with at least twelve people killed and 10 injured. [http://www.abc.net.au/news/2015-09-14/egyptian-security-forces-kill-12-mexican-tourists-in-error/6773172 (AFP/Reuters via ABC News Australia)]
 
 ;Disasters and accidents
@@ -14,7 +14,7 @@
 *An [[Islam]]ic school in the [[Nigeria]]n town of [[Bukuru]] collapses with at least four students killed and 40 injured. [http://af.reuters.com/article/nigeriaNews/idAFL5N11J0WL20150913 (Reuters)]
 *Thirty-four [[Refugee|refugees]], including four babies and 11 children, drown in the [[Aegean Sea]] when their wooden boat sinks off the [[Greece|Greek]] island of [[Farmakonissi]], close to [[Turkey|Turkey's]] coast. [http://news.xinhuanet.com/english/2015-09/14/c_134620218.htm (Xinhua News Agency)],  [http://www.smh.com.au/world/migrant-crisis/thirtyfour-refugees-including-babies-children-drown-as-boat-capsizes-off-greek-island-20150913-gjlpr3.html (Sydney Morning Herald)]
 *The Valley wildfire claims at least one life in [[Lake County, California]] with thousands of people forced to evacuate. [http://abc7news.com/news/valley-fire-50000-acres-zero-percent-contained/982892/ (ABC News Bay Area)]
-*Four inmates are killed and four more injured during violence that lasted a couple of minutes at a privately-operated prison in Cushing, Oklahoma (U.S.). [http://www.nydailynews.com/news/national/oklahoma-prison-violence-leaves-4-dead-4-hurt-article-1.2359430 (N.Y. Daily News)], [http://www.nytimes.com/aponline/2015/09/14/us/ap-us-oklahoma-inmate-deaths-.html?_r=0 (''The New York Times'')]
+*Four inmates are killed and four more injured during violence that lasted a couple of minutes at a privately-operated prison in Cushing, Oklahoma (U.S.). [http://www.nydailynews.com/news/national/oklahoma-prison-violence-leaves-4-dead-4-hurt-article-1.2359430 (N.Y. Daily News)], [https://www.nytimes.com/aponline/2015/09/14/us/ap-us-oklahoma-inmate-deaths-.html?_r=0 (''The New York Times'')]
 
 ;International relations
 *[[Yemeni Crisis (2011–present)]]
@@ -33,6 +33,6 @@
 
 ;Sport
 *[[2015 US Open (tennis)]]
-**In [[tennis]],  [[Novak Djokovic]] of [[Serbia]] defeats [[Roger Federer]] of [[Switzerland]] 3 sets to 1 in the final of the [[2015 US Open – Men's Singles|men's singles]]. [http://www.ibtimes.com/us-open-mens-final-2015-start-time-tv-channel-live-stream-info-roger-federer-vs-novak-2094229 (''International Business Times'')], [http://www.theguardian.com/sport/live/2015/sep/13/us-open-2015-novak-djokovic-v-roger-federer-mens-singles-final-live (''The Guardian'')]
+**In [[tennis]],  [[Novak Djokovic]] of [[Serbia]] defeats [[Roger Federer]] of [[Switzerland]] 3 sets to 1 in the final of the [[2015 US Open – Men's Singles|men's singles]]. [http://www.ibtimes.com/us-open-mens-final-2015-start-time-tv-channel-live-stream-info-roger-federer-vs-novak-2094229 (''International Business Times'')], [https://www.theguardian.com/sport/live/2015/sep/13/us-open-2015-novak-djokovic-v-roger-federer-mens-singles-final-live (''The Guardian'')]
 *In [[golf]], [[Lydia Ko]] wins the final [[LPGA]] [[Women's major golf championships|major]] of the [[2015 LPGA Tour|year]], [[2015 Evian Championship|The Evian Championship]], by six shots after a final-round 63. The [[New Zealand]]er becomes the youngest person of either sex to win a professional major championship, at age {{age in years and days|1997|4|24|2015|9|13}}. [http://www.bbc.com/sport/0/golf/34239452 (BBC Sport)]
 <!-- All news items above this line -->|}

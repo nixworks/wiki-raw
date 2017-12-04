@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Saudi Arabian-led intervention in Yemen]]
-**An air strike from a Saudi-led coalition kills 36 civilians working in a bottling plant in the northern [[Hajjah Governorate]]. [http://www.reuters.com/article/2015/08/30/us-yemen-security-idUSKCN0QZ09P20150830 (Reuters)]
+**An air strike from a Saudi-led coalition kills 36 civilians working in a bottling plant in the northern [[Hajjah Governorate]]. [https://www.reuters.com/article/2015/08/30/us-yemen-security-idUSKCN0QZ09P20150830 (Reuters)]
 
 ;Arts and culture
 *The [[Syrian Observatory for Human Rights]] claims that [[Islamic State in Iraq and the Levant|ISIL]] has blown up the ancient [[Temple of Bel]] in [[Palmyra]]. [http://www.foxnews.com/world/2015/08/31/isis-damages-ancient-temple-in-syria-palmyra-activists-say/ (Fox News)]
@@ -26,7 +26,7 @@
 *[[Bersih 4 rally]]
 **There is a second day of rallies in [[Malaysia]] calling on [[Prime Minister of Malaysia|Prime Minister]] [[Najib Razak]] to resign over the [[1Malaysia Development Berhad scandal]]. [http://www.bbc.com/news/world-asia-34100659 (BBC)]
 *Japanese anti-militarism protests
-**Students and activists protest in [[Tokyo]] against a proposal to amend [[Japan]]'s pacifist [[Constitution of Japan|constitution]]. [http://www.usnews.com/news/world/articles/2015/08/30/tens-of-thousands-protest-defense-bills-outside-japans-diet (''U.S. News and World Report'')]
+**Students and activists protest in [[Tokyo]] against a proposal to amend [[Japan]]'s pacifist [[Constitution of Japan|constitution]]. [https://www.usnews.com/news/world/articles/2015/08/30/tens-of-thousands-protest-defense-bills-outside-japans-diet (''U.S. News and World Report'')]
 *[[Egyptian parliamentary election, 2015]]
 **Voters in [[Egypt]] will go to the polls for parliamentary elections starting in October 2015. [http://mixfargo.com/news/articles/2015/aug/30/egypt-to-hold-parliamentary-election-starting-october-18-19/ (Reuters via Mix Fargo)]
 <!-- All news items above this line -->|}
