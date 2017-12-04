@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Israeli-Palestinian conflict]]
-**[[Israel]] charges a UN administrative manager of being a [[Hamas]]-linked operative from [[Gaza Strip|Gaza]]. [http://www.nytimes.com/aponline/2016/08/09/world/middleeast/ap-ml-israel-un.html (The Associated Press via ''The New York Times'')]
+**[[Israel]] charges a UN administrative manager of being a [[Hamas]]-linked operative from [[Gaza Strip|Gaza]]. [https://www.nytimes.com/aponline/2016/08/09/world/middleeast/ap-ml-israel-un.html (The Associated Press via ''The New York Times'')]
 *[[Saudi Arabian-led intervention in Yemen]]
 **At least 14 people are killed after [[Saudi Arabia|Saudi]]-led coalition airstrikes hit a food factory in [[Yemen]]'s capital [[Sana'a]]. The airstrikes come just days after the suspension of inconclusive peace talks in [[Kuwait]]. [https://www.theguardian.com/world/2016/aug/09/saudi-led-airstrikes-yemen-food-factory-kill-people (''The Guardian'')] 
 
@@ -11,11 +11,11 @@
 *The [[Islamic State of Iraq and the Levant]] threatens to attack the [[Miss Universe 2016]] pageant if it were to be held in the [[Philippines]]. [http://www.foxnews.com/world/2016/08/08/isis-philippines-branch-calls-for-attacks-on-miss-universe-pageant.html (Fox News)]
 
 ;Business and economics
-*[[Delta Air Lines]] cancels about 530 flights worldwide on the second day of its major computer systems problem due to malfunctioning [[switchgear]]. [http://www.reuters.com/article/us-delta-air-outages-idUSKCN10K104 (Reuters)]
+*[[Delta Air Lines]] cancels about 530 flights worldwide on the second day of its major computer systems problem due to malfunctioning [[switchgear]]. [https://www.reuters.com/article/us-delta-air-outages-idUSKCN10K104 (Reuters)]
 
 ;Disasters and accidents
 *[[2016 California wildfires]]
-**The out-of-control [[Pilot Fire]] hits 7,500 acres of bone-dry tinder and brush in the [[San Bernardino Mountains]] east of [[Los Angeles]]. More than 5,000 homes are under evacuation orders. Authorities shut down [[school district]]s in the area. [http://www.reuters.com/article/us-california-fire-idUSKCN10K1ZV (Reuters)]
+**The out-of-control [[Pilot Fire]] hits 7,500 acres of bone-dry tinder and brush in the [[San Bernardino Mountains]] east of [[Los Angeles]]. More than 5,000 homes are under evacuation orders. Authorities shut down [[school district]]s in the area. [https://www.reuters.com/article/us-california-fire-idUSKCN10K1ZV (Reuters)]
 *[[2016 Portugal wildfires]]
 **A raging [[Wildfire|wildfire]] destroys dozens of homes and prompts the evacuation of more than 400 people from [[Portugal]]'s [[Madeira]] island as flames spread near the island's capital, [[Funchal]]. [[Presidents of the Regional Government of Madeira|Regional President]] [[Miguel Albuquerque]] says one person had suffered serious burns and scores of others had needed treatment for the effects of smoke. Flights have also been disrupted at [[Madeira Airport]] due to smoke. [http://www.bbc.co.uk/news/world-europe-37030217 (BBC)]
 
