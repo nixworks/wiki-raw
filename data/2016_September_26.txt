@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Colombian conflict]]
-**[[Colombia]]n President [[Juan Manuel Santos]] and [[FARC]] guerrilla leader [[Rodrigo Londoño]], also known as [[Timoleón Jiménez|Timochenko]], sign a [[Colombian peace process|peace accord]] in [[Cartagena, Colombia|Cartagena]], ending the longest running armed conflict in the Western Hemisphere. The final agreement will be submitted to popular ratification in a [[Colombian peace agreement referendum, 2016|referendum]] on October 2.[http://www.reuters.com/article/us-colombia-peace-idUSKCN11W0BR (Reuters)]
+**[[Colombia]]n President [[Juan Manuel Santos]] and [[FARC]] guerrilla leader [[Rodrigo Londoño]], also known as [[Timoleón Jiménez|Timochenko]], sign a [[Colombian peace process|peace accord]] in [[Cartagena, Colombia|Cartagena]], ending the longest running armed conflict in the Western Hemisphere. The final agreement will be submitted to popular ratification in a [[Colombian peace agreement referendum, 2016|referendum]] on October 2.[https://www.reuters.com/article/us-colombia-peace-idUSKCN11W0BR (Reuters)]
 
 ;Disasters and accidents
 *[[2016 Pacific typhoon season]]
@@ -11,7 +11,7 @@
 
 ;International relations
 *[[Canada–Iran relations]]
-**[[Iran]] releases [[Canada|Canadian]]-Iranian sociocultural [[anthropologist]] [[Homa Hoodfar]], who had been held since June, as the countries begin talks on restoration of diplomatic ties. [http://www.reuters.com/article/us-iran-canada-arrests-idUSKCN11W1L1 (Reuters)]
+**[[Iran]] releases [[Canada|Canadian]]-Iranian sociocultural [[anthropologist]] [[Homa Hoodfar]], who had been held since June, as the countries begin talks on restoration of diplomatic ties. [https://www.reuters.com/article/us-iran-canada-arrests-idUSKCN11W1L1 (Reuters)]
 
 ;Law and crime
 *A gunman opens fire at a [[Houston]] shopping center and injures nine people. Responding police kill the shooter afterwards. [http://www.foxnews.com/us/2016/09/26/as-many-as-7-may-be-wounded-in-houston-shooting-report-says.html (Fox News)]
@@ -24,6 +24,6 @@
 
 ;Science and technology
 *The [[Indian Space Research Organisation]] (ISRO) launches [[Cyclone|cyclone]] detection satellite [[SCATSAT-1]], and seven other satellites into orbit from the [[Satish Dhawan Space Centre]] in [[Sriharikota]]. The launch successfully demonstrates the [[Polar Satellite Launch Vehicle]]'s capability of placing satellites in multiple orbits in a single launch. [http://economictimes.indiatimes.com/news/science/pslvs-longest-flight-places-scatsat-1-into-orbit-in-copybook-launch/articleshow/54518176.cms (''The Economic Times'')]
-*[[SpaceX]] successfully [[Raptor (rocket engine)#Engine testing|tests]] its most powerful rocket to date. The company's goal will be to use the [[Raptor (rocket engine)]] to power their "super-heavy" [[Interplanetary Transport System]] in facilitation of the colonization of [[Mars]] and beyond. [http://www.bbc.com/news/science-environment-37473609 (BBC)][http://arstechnica.com/science/2016/09/spacexs-interplanetary-transport-system-will-go-well-beyond-mars/ (Ars Technica)]
+*[[SpaceX]] successfully [[Raptor (rocket engine)#Engine testing|tests]] its most powerful rocket to date. The company's goal will be to use the [[Raptor (rocket engine)]] to power their "super-heavy" [[Interplanetary Transport System]] in facilitation of the colonization of [[Mars]] and beyond. [http://www.bbc.com/news/science-environment-37473609 (BBC)][https://arstechnica.com/science/2016/09/spacexs-interplanetary-transport-system-will-go-well-beyond-mars/ (Ars Technica)]
 *A study published in [[Nature (journal)|Nature]] finds the Earth's surface is warmer than it has been in about 120,000 years, and is locked into eventually hitting its hottest mark in more than 2 million years. [http://phys.org/news/2016-09-earth-roughly-warmest-years.html (Phys.org)][http://www.nature.com/news/longest-historic-temperature-record-stretches-back-2-million-years-1.20673#/b1 (Nature)][http://www.nature.com/nature/journal/vaop/ncurrent/full/nature19798.html (Nature)]
 <!-- All news items above this line -->|}
