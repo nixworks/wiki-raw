@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Somali Civil War (2009-present)]]
-** Seven insurgents are killed in clashes northern [[Somalia]]. [http://www.reuters.com/article/us-somalia-security-idUSKBN13S0JD (Reuters)]
+** Seven insurgents are killed in clashes northern [[Somalia]]. [https://www.reuters.com/article/us-somalia-security-idUSKBN13S0JD (Reuters)]
 
 ;Disasters and accidents
 *An [[Law enforcement in Indonesia|Indonesian police]] plane, reportedly carrying 13 people, goes missing near [[Singapore]] on route to [[Batam]]. [http://www.foxnews.com/world/2016/12/03/police-plane-with-13-on-board-missing-in-indonesia.html (AP via Fox News)] [http://en.tempo.co/read/news/2016/12/04/055825261/SAR-Team-Sets-Up-6-Posts-for-the-Crashed-Police-Plane-Search (''Koran Tempo'')]
@@ -29,7 +29,7 @@
 *[[2016 United States presidential election recounts]]
 **[[Jill Stein]], the 2016 presidential candidate for the [[Green Party of the United States|Green Party]], withdraws her lawsuit in the [[Commonwealth Court of Pennsylvania]] for a statewide recount of votes in [[Pennsylvania]] due to the cost. [http://www.npr.org/sections/thetwo-way/2016/12/03/504285672/jill-stein-campaign-drops-her-recount-effort-in-pennsylvania (NPR)]
 *[[Dakota Access Pipeline protests]]
-**Groups of [[Veteran#Veterans' experiences around the world|U.S. military veterans]] join the protest as [[human shields]] against possible clashes between demonstrators and law enforcement when the [[United States Army Corps of Engineers]]' eviction deadline expires on Monday. They are building [[barracks]] for shelter in [[North Dakota]]'s winter weather. [http://www.reuters.com/article/us-north-dakota-pipeline-idUSKBN13R0WM (Reuters)] [http://www.nbcnews.com/storyline/dakota-pipeline-protests/brutal-winter-conditions-deepen-pipeline-protesters-resolve-n690791 (NBC News)]
+**Groups of [[Veteran#Veterans' experiences around the world|U.S. military veterans]] join the protest as [[human shields]] against possible clashes between demonstrators and law enforcement when the [[United States Army Corps of Engineers]]' eviction deadline expires on Monday. They are building [[barracks]] for shelter in [[North Dakota]]'s winter weather. [https://www.reuters.com/article/us-north-dakota-pipeline-idUSKBN13R0WM (Reuters)] [http://www.nbcnews.com/storyline/dakota-pipeline-protests/brutal-winter-conditions-deepen-pipeline-protesters-resolve-n690791 (NBC News)]
 
 ;Sports
 *[[2016 International V8 Supercars Championship]]
