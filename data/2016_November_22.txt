@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;Business and economics
-*The [[Board of directors|board]] of [[TransAsia Airways]] decides to dissolve the company after halting flights on Tuesday. [http://www.bloomberg.com/news/articles/2016-11-22/transasia-halts-flights-for-day-without-reason-as-trading-probed (Bloomberg)] [http://www.wsj.com/articles/transasia-airways-closes-down-1479799620 (''The Wall Street Journal'')] [http://www.nytimes.com/2016/11/22/business/international/transasia-crash-taiwan-shuts-down.html?_r=0 (''The New York Times'')]
+*The [[Board of directors|board]] of [[TransAsia Airways]] decides to dissolve the company after halting flights on Tuesday. [https://www.bloomberg.com/news/articles/2016-11-22/transasia-halts-flights-for-day-without-reason-as-trading-probed (Bloomberg)] [https://www.wsj.com/articles/transasia-airways-closes-down-1479799620 (''The Wall Street Journal'')] [https://www.nytimes.com/2016/11/22/business/international/transasia-crash-taiwan-shuts-down.html?_r=0 (''The New York Times'')]
 
 ;Disasters and accidents
 *[[2016 Fukushima earthquake]]
@@ -19,7 +19,7 @@
 
 ;Politics and elections
 *[[Presidency of Donald Trump]]
-**Trump's aide [[Kellyanne Conway]] announces that the president-elect will not seek new charges against [[Hillary Clinton]] for possible crimes related to her [[Hillary Clinton email controversy|email server]]. [http://www.nytimes.com/2016/11/22/us/politics/donald-trump-hillary-clinton-investigation.html (New York Times)]
+**Trump's aide [[Kellyanne Conway]] announces that the president-elect will not seek new charges against [[Hillary Clinton]] for possible crimes related to her [[Hillary Clinton email controversy|email server]]. [https://www.nytimes.com/2016/11/22/us/politics/donald-trump-hillary-clinton-investigation.html (New York Times)]
 
 ;Sports
 * In [[ice hockey]], the identity of the [[Las Vegas]] team that will become the [[National Hockey League|NHL's]] 31st franchise in the {{nhly|2017|app=season}} is unveiled as the [[Vegas Golden Knights]]. [http://www.espn.com/nhl/story/_/id/18117718/las-vegas-nhl-expansion-team-named-golden-knights (ESPN)]
