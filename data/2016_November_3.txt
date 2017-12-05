@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[War in Afghanistan (2015–present)]]
-**[[Battle of Boz Qandahari]]: Two [[United States military]] personnel, four Afghan Commandos, and 30 civilians are killed in clashes with the [[Taliban]] in [[Kunduz province]], [[Afghanistan]]. [http://www.voanews.com/a/us-soldiers-killed-in-afghan-fighting/3577341.html (VOA News)] [http://www.rs.nato.int/article/press-releases/kunduz-casualty-release-nov.-3-2016.html (NATO)] [http://www.reuters.com/article/us-usa-afghanistan-casualty-idUSKBN12Y0PM (Reuters)]
+**[[Battle of Boz Qandahari]]: Two [[United States military]] personnel, four Afghan Commandos, and 30 civilians are killed in clashes with the [[Taliban]] in [[Kunduz province]], [[Afghanistan]]. [http://www.voanews.com/a/us-soldiers-killed-in-afghan-fighting/3577341.html (VOA News)] [http://www.rs.nato.int/article/press-releases/kunduz-casualty-release-nov.-3-2016.html (NATO)] [https://www.reuters.com/article/us-usa-afghanistan-casualty-idUSKBN12Y0PM (Reuters)]
 *[[Moro conflict]]
 **Muslim rebel group [[Moro National Liberation Front]] leader [[Nur Misuari]] meets with [[Philippines]] president [[Rodrigo Duterte]] in [[Malacañang Palace]] after receiving a reprieve from previous crimes of rebellion. [http://newsinfo.inquirer.net/839619/misuari-already-in-manila-to-meet-duterte (''Philippine Daily Inquirer'')]
 *Security forces killed at least 2 insurgents and another 5 were injured in Cairo. [http://english.ahram.org.eg/NewsContent/1/64/247205/Egypt/Politics-/Two-miltants-killed-in-security-raid-in-Cairo-afte.aspx (Al-Ahram)]
@@ -12,11 +12,11 @@
 *At least 22 people have been killed and 65 injured following a collision of the [[Bahauddin Zakaria Express]]  with a [[Fareed Express|stationary train]] at Juma Goth [[Train station]], [[Karachi]], [[Pakistan]]. [https://www.geo.tv/latest/119554-At-least-21-killed-65-injured-in-Karachi-train-collision (Geo tv)] [http://hosted.ap.org/dynamic/stories/A/AS_PAKISTAN_TRAIN_ACCIDENT?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
 *[[European migration crisis]]
 **[[November 2016 Libya migrant shipwrecks]]
-***The [[United Nations]] believes that at least 239 migrants drowned in shipwrecks near the coast of [[Libya]]. [http://www.usatoday.com/story/news/world/2016/11/03/over-200-migrants-believed-drowned-mediterranean/93229370/ (USA Today)], [http://www.abc.net.au/news/2016-11-04/un-says-240-asylum-seekers-drowned-off-libyan-coast/7994674 (ABC Online)]
+***The [[United Nations]] believes that at least 239 migrants drowned in shipwrecks near the coast of [[Libya]]. [https://www.usatoday.com/story/news/world/2016/11/03/over-200-migrants-believed-drowned-mediterranean/93229370/ (USA Today)], [http://www.abc.net.au/news/2016-11-04/un-says-240-asylum-seekers-drowned-off-libyan-coast/7994674 (ABC Online)]
 
 ;International relations
 *[[India-Pakistan relations]]
-**[[Pakistan]] accuses eight [[India]]n diplomats of espionage and terrorism amid rising tensions concerning [[Kashmir]]. India says it rejects these allegations. The six Pakistani diplomats withdrawn from India last week were reported to have been accused of spying. [http://www.reuters.com/article/us-pakistan-india-diplomacy-idUSKBN12Y13L?il=0 (Reuters)] 
+**[[Pakistan]] accuses eight [[India]]n diplomats of espionage and terrorism amid rising tensions concerning [[Kashmir]]. India says it rejects these allegations. The six Pakistani diplomats withdrawn from India last week were reported to have been accused of spying. [https://www.reuters.com/article/us-pakistan-india-diplomacy-idUSKBN12Y13L?il=0 (Reuters)] 
 
 ;Politics and elections
 *[[Aftermath of the United Kingdom European Union membership referendum, 2016|Brexit aftermath]]

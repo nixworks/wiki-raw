@@ -3,8 +3,8 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Saudi Arabian-led intervention in Yemen]]; [[Yemeni Civil War (2015–present)|Yemeni Civil War]]
-**[[Houthis|Houthi]] forces kill former president [[Ali Abdullah Saleh]] in a roadside attack outside [[Sana'a]] after having blown up his house. [http://www.bbc.com/news/world-middle-east-42225574 (BBC)] [https://www.npr.org/sections/thetwo-way/2017/12/04/568283444/yemeni-ex-president-ali-abdullah-saleh-apparently-killed-in-houthi-attack (NPR)]
-*[[Syrian Civil War]]
+**Former Yemeni President [[Ali Abdullah Saleh]] is killed by [[Houthis|Houthi]] forces in a roadside attack outside [[Sana'a]] after an earlier attack on his house. [http://www.bbc.com/news/world-middle-east-42225574 (BBC)] [https://www.npr.org/sections/thetwo-way/2017/12/04/568283444/yemeni-ex-president-ali-abdullah-saleh-apparently-killed-in-houthi-attack (NPR)]
+*[[Israeli intervention in the Syrian Civil War]]
 **For the second time in three days, [[Israel]] carries out a missile strike on military facilities near [[Damascus]]. [https://www.dailystar.co.uk/news/world-news/664693/Israel-rocket-launch-Syrian-military-facility-missiles-Damascus-war-explosion (''Daily Star UK'')]
 
 ;International relations
@@ -28,7 +28,8 @@
 *[[2017 Spanish constitutional crisis]]
 **The [[Prosecutor#Belgium|prosecutor]] in a [[Brussels]] court repeats the demand to extradite [[Carles Puigdemont]] and four other former [[Executive Council of Catalonia|Catalan officials]] to [[Spain]]. The defense says that the adduced [[cause of action|facts]] are "not punishable" under Belgian [[Criminal justice|law]]. The judge delays the decision until December 14. [https://www.politico.eu/article/catalonia-independence-carles-puigdemont-decision-extradition-scheduled-for-december-14/ (''Politico.eu'')]
 **The [[Supreme Court of Spain]] grants six former [[Executive Council of Catalonia|Catalan officials]] bail of €100,000 each. Four other people, [[Oriol Junqueras]], [[Joaquim Forn]] and two leading activists, remain in jail over the "risk of re-offending". [https://www.bloomberg.com/news/articles/2017-12-04/catalonia-s-former-vice-president-to-stay-in-jail-for-election (Bloomberg)]
-
+*[[Investigation of Apple's transfer pricing arrangements with Ireland]]
+**[[Apple Inc.]] and [[Ireland]] agree on an interim deal to put €13 billion in an escrow fund for the repayment of back taxes, starting early 2018. Still, both parties refute that the alleged "[[Sweetheart deal|sweetheart]]" [[corporate tax]] deals were illegal. In 2016, the [[European Commission]] found that an unfair advantage of €13 billion is to be reimbursed. [https://www.siliconrepublic.com/companies/apple-tax-ireland-escrow (''SiliconRepublic'')]
 ;Politics and elections
 *The [[Eurogroup]] selects [[Mário Centeno]], [[Portugal]]'s [[Ministry of Finance (Portugal)|Minister of Finance]], to succeed [[Jeroen Dijsselbloem]] as their next president. [http://www.chicagotribune.com/news/nationworld/ct-eurogroup-president-mario-centeno-20171204-story.html (''Chicago Tribune'')]
 *[[List of federal lands in Utah|Federal lands in Utah]]
