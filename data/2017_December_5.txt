@@ -2,8 +2,7 @@
 <!-- All news items below this line -->
 '''Disasters and accidents'''
 *[[2017 California wildfires]]
-*[[Thomas Fire]]
-**Due to persistent high winds, a fire begins and quickly spreads near [[Santa Paula, California]], covering at least 10,000 acres within hours and cutting power to 260,000 homes. [http://www.latimes.com/local/lanow/la-me-ln-school-fire-20171204-story.html (LA Times)]
+** [[Thomas Fire]] : Due to persistent high winds, a fire begins and quickly spreads near [[Santa Paula, California]], covering at least  {{convert|10,000|acres|km2}} within hours and cutting power to 260,000 homes. [http://www.latimes.com/local/lanow/la-me-ln-school-fire-20171204-story.html (LA Times)]
 *[[Cyclone Ockhi]]
 **[[Gujrat]] and [[Maharastra]] are on high alert because of [[Cyclone Ockhi]]. [https://timesofindia.indiatimes.com/city/mumbai/cyclone-ockhi-rain-hits-mumbai/liveblog/61918257.cms (Times of India)]
 ;International relations
@@ -11,6 +10,10 @@
 **French President [[Emmanuel Macron]] has told [[Donald Trump]] he is "concerned" the US leader could unilaterally recognize [[Jerusalem]] as Israel's capital. [http://www.bbc.com/news/world-middle-east-42232158 (BBC)]
 
 ;Law and crime
-*As police arrive at the stateless [[Mikheil Saakashvili]]'s house in [[Kiev]] to detain him, Saakashvili goes up on the roof to protest. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. [[Prosecutor General of Ukraine]] [[Yuriy Lutsenko]] claims in a briefing that Saakashvili received $500,000 from the fugitive [[Serhiy Kurchenko]] for his activities in [[Ukraine]]. [https://www.theguardian.com/world/2017/dec/05/former-georgian-president-mikheil-saakashvili-is-detained-in-ukraine (''The Guardian'')] [http://en.interfax.com.ua/news/general/467130.html (Interfax Ukraine)] [https://www.usnews.com/news/world/articles/2017-12-05/former-georgian-president-saakashvili-detained-in-kiev  (''US News Report'')]
+* [[ Mikheil Saakashvili]]'s arrest:
+** As police arrive at the stateless [[Mikheil Saakashvili]]'s house in [[Kiev]] to detain him, Saakashvili goes up on the roof to protest. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. Finally the supporters free him out of the van. Speeching again, he urges Ukrainians to "be afraid of nothing". [https://www.theguardian.com/world/2017/dec/05/former-georgian-president-mikheil-saakashvili-is-detained-in-ukraine (''The Guardian'')] [https://www.usnews.com/news/world/articles/2017-12-05/former-georgian-president-saakashvili-detained-in-kiev  (''US News Report'')] [https://www.reuters.com/article/us-ukraine-saakashvili/saakashvili-supporters-free-him-from-police-van-after-detention-in-kiev-idUSKBN1DZ0VU (Reuters)] [http://en.interfax.com.ua/news/general/467179.html (Interfax Ukraine)]
+** [[Prosecutor General of Ukraine]] [[Yuriy Lutsenko]] claims in a briefing that Saakashvili received $500,000 from the fugitive [[Serhiy Kurchenko]] for his activities in [[Ukraine]]. He also says [[Severion Dangadze]], an associate from Saakashvili's [[Movement of New Forces]], is arrested. [http://en.interfax.com.ua/news/general/467130.html (Interfax Ukraine)] [http://en.interfax.com.ua/news/general/467130.html (Interfax Ukraine)]
 *[[Russia]] names [[Voice of America]], [[Radio Free Europe/Radio Liberty]] and seven affiliated news media as foreign agents. [https://www.washingtonpost.com/world/russia-names-9-media-organizations-as-foreign-agents-including-voice-of-america/2017/12/05/7aac7eb4-d98d-11e7-a841-2066faf731ef_story.html (''Washington Post'')]
+*[[2017 Spanish constitutional crisis]]
+**[[Spain]] withdraws the [[European Arrest Warrant|international arrest warrant]] for five former [[Executive Council of Catalonia|Catalan officials]] now residing in Belgium. The charges of sedition and rebellion however remain. [http://www.bbc.com/news/world-europe-42237377 (BBC)] 
 <!-- All news items above this line -->}}
