@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Syrian Civil War]]
-**The [[Syrian Observatory for Human Rights]] reports a car bomb has killed at least ten people in the city of [[Azaz]], [[Aleppo Governorate]]. [http://www.reuters.com/article/us-mideast-crisis-syria-azaz-idUSKBN13C1E5 (Reuters)]
+**The [[Syrian Observatory for Human Rights]] reports a car bomb has killed at least ten people in the city of [[Azaz]], [[Aleppo Governorate]]. [https://www.reuters.com/article/us-mideast-crisis-syria-azaz-idUSKBN13C1E5 (Reuters)]
 **At least 10 people were killed and dozens injured in air strikes and artillery shelling by government forces in Ghouta in the Damascus countryside, substantial damaging to residential areas. [http://www.aljazeera.com/news/2016/11/battle-aleppo-syria-army-intensifies-air-campaign-161118090027663.html (Aljazeera)]
 **The Syrian government targeted an international relief agency and Palestinian refugee camp in [[Khan Sheha]], which has been under siege for two months. [http://www.aljazeera.com/news/2016/11/battle-aleppo-syria-army-intensifies-air-campaign-161118090027663.html (Aljazeera)]
 **Media reports say a hospital in Aleppo neighborhood is bombed on night by the Syrian government. [http://www.aljazeera.com/news/2016/11/battle-aleppo-syria-army-intensifies-air-campaign-161118090027663.html (Aljazeera)]
@@ -15,13 +15,13 @@
 
 ;Disasters and accidents
 *[[Caphiridzange explosion]]
-**At least 73 people have been killed and hundreds injured in a fuel tanker explosion in the town of Caphiridzange in [[Mozambique]]'s [[Tete Province]]. [http://hosted.ap.org/dynamic/stories/A/AF_MOZAMBIQUE_TANKER_EXPLOSION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)] [http://www.reuters.com/article/us-mozambique-accident-idUSKBN13C2GI?il=0 (Reuters)]
+**At least 73 people have been killed and hundreds injured in a fuel tanker explosion in the town of Caphiridzange in [[Mozambique]]'s [[Tete Province]]. [http://hosted.ap.org/dynamic/stories/A/AF_MOZAMBIQUE_TANKER_EXPLOSION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)] [https://www.reuters.com/article/us-mozambique-accident-idUSKBN13C2GI?il=0 (Reuters)]
 *[[European migrant crisis]]
 **Around 100 people are feared to have drowned in the [[Mediterranean Sea]] off the coast of [[Libya]]. So far this week, 18 people are confirmed dead and 340 missing attempting to migrate to [[Europe]]. [https://au.news.yahoo.com/world/a/33248239/around-100-missing-after-migrant-boat-capsize-in-med-msf/#page1 (AFP via Yahoo!)]
 
 ;International relations
 *[[Japan–United States relations]]
-**[[Prime Minister of Japan|Japanese Prime Minister]] [[Shinzō Abe]] becomes the first foreign head of government to meet [[President-elect of the United States]] [[Donald Trump]] since his [[United States presidential election, 2016|election as President]] on November 8.  [http://www.reuters.com/article/us-usa-trump-japan-idUSKBN13C0C8 (Reuters)]
+**[[Prime Minister of Japan|Japanese Prime Minister]] [[Shinzō Abe]] becomes the first foreign head of government to meet [[President-elect of the United States]] [[Donald Trump]] since his [[United States presidential election, 2016|election as President]] on November 8.  [https://www.reuters.com/article/us-usa-trump-japan-idUSKBN13C0C8 (Reuters)]
 
 ;Law and crime
 *The [[Three UK]] [[mobile phone]] company admits that there has been a cyber-security breach involving the details of millions of customers. [http://www.telegraph.co.uk/news/2016/11/17/three-mobile-cyber-hack--six-million-customers-private-data-at-r/ (''The Telegraph'')]
