@@ -1,6 +1,15 @@
 {{Current events|year=2017|month=12|day=5|content=
 <!-- All news items below this line -->
 '''Disasters and accidents'''
-*Due to persistent high winds, a fire begins and quickly spreads near [[Santa Paula, California]], covering at least 10,000 acres within hours and cutting power to 260,000 homes. [http://www.latimes.com/local/lanow/la-me-ln-school-fire-20171204-story.html LA times]
+*[[2017 California wildfires]]
+**Due to persistent high winds, a fire begins and quickly spreads near [[Santa Paula, California]], covering at least 10,000 acres within hours and cutting power to 260,000 homes. [http://www.latimes.com/local/lanow/la-me-ln-school-fire-20171204-story.html (LA Times)]
+*[[Cyclone Ockhi]]
+**[[Gujrat]] and [[Maharastra]] are on high alert because of [[Cyclone Ockhi]]. [https://timesofindia.indiatimes.com/city/mumbai/cyclone-ockhi-rain-hits-mumbai/liveblog/61918257.cms (Times of India)]
+;International relations
+*[[Positions on Jerusalem]]
+**French President [[Emmanuel Macron]] has told [[Donald Trump]] he is "concerned" the US leader could unilaterally recognize [[Jerusalem]] as Israel's capital. [http://www.bbc.com/news/world-middle-east-42232158 (BBC)]
+
+;Law and crime
+*As police arrive at [[Mikheil Saakashvili]]'s house in [[Kiev]] to detain him, Saakashvili goes up on the roof to protest. Police then take him away while hundreds of people are on the street. A source in the judiciary says a notice of suspicion is being prepared. [https://www.theguardian.com/world/2017/dec/05/former-georgian-president-mikheil-saakashvili-is-detained-in-ukraine (''The Guardian'')] [http://en.interfax.com.ua/news/general/467050.html (Interfax Ukraine)]
 
 <!-- All news items above this line -->}}
