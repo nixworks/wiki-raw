@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 * [[Moro conflict]]
-** At least 14 are killed in clashes with suspected [[Abu Sayyaf]] militants in [[Sulu]], [[Philippines]]. [http://www.nytimes.com/aponline/2016/11/18/world/asia/ap-as-philippines-abu-sayyaf.html?_r=0 (''The New York Times'')] [http://newsinfo.inquirer.net/845662/14-killed-in-operation-vs-abu-sayyaf-in-sulu (Inquirer)]
+** At least 14 are killed in clashes with suspected [[Abu Sayyaf]] militants in [[Sulu]], [[Philippines]]. [https://www.nytimes.com/aponline/2016/11/18/world/asia/ap-as-philippines-abu-sayyaf.html?_r=0 (''The New York Times'')] [http://newsinfo.inquirer.net/845662/14-killed-in-operation-vs-abu-sayyaf-in-sulu (Inquirer)]
 
 *[[Syrian Civil War]]
 **Syrian government air raid hits a children's hospital in rebel-held east Aleppo, forcing medical staff to evacuate patients, including several newborn babies still in incubators. [http://www.aljazeera.com/news/2016/11/air-strike-hits-children-hospital-syria-aleppo-161118163200380.html (Aljazeera)]
@@ -11,7 +11,7 @@
 
 ;Health
 *[[Zika virus outbreak]]
-**The [[World Health Organization]] declares an end to its global health crisis over the spread of the [[Zika virus]] as it has been shown to be a dangerous [[mosquito-borne disease]] like [[malaria]] or [[yellow fever]]. [http://www.nytimes.com/2016/11/19/health/who-ends-zika-global-health-emergency.html?emc=edit_na_20161118&nlid=66213151&ref=cta (''New York Times'')]
+**The [[World Health Organization]] declares an end to its global health crisis over the spread of the [[Zika virus]] as it has been shown to be a dangerous [[mosquito-borne disease]] like [[malaria]] or [[yellow fever]]. [https://www.nytimes.com/2016/11/19/health/who-ends-zika-global-health-emergency.html?emc=edit_na_20161118&nlid=66213151&ref=cta (''New York Times'')]
 
 ;Law and crime
 *The [[U.S. Court of Appeals for the Seventh Circuit]] denies the release of [[Brendan Dassey]], subject of the 2015 documentary series ''[[Making a Murderer]]''. [http://www.cnn.com/2016/11/17/us/making-murderer-court-blocks-brendan-dassey-release/index.html (CNN)]
