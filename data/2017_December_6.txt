@@ -3,6 +3,7 @@
 <!-- All news items below this line -->
 ;Arts and culture
 *The [[New York City|New York]] [[Metropolitan Museum of Art]] is brought to reply to an online petition signed by thousands of people. The museum refuses to stop displaying a [[Balthus]] painting, ''Thérèse rêvant''. [http://www.telegraph.co.uk/art/what-to-see/new-york-art-museum-refuses-remove-voyeurisic-painting-girl/ (''The Telegraph'')] [https://tempsreel.nouvelobs.com/societe/20171204.OBS8337/mobilisation-a-new-york-contre-therese-revant-une-toile-de-balthus-jugee-pedophile.html (''Le Nouvel Obs'')]
+*[[Finland]] celebrates its 100 years of [[Finnish Declaration of Independence|independence]]. [https://yle.fi/uutiset/osasto/news/busy_schedule_of_festivities_to_mark_finlands_centennial/9964897 (Yle News)] 
 
 ;International Relations
 *[[Positions on Jerusalem]]
@@ -14,4 +15,7 @@
 ;Politics and elections
 *[[Politics of Lebanon]]
 **The [[Lebanese people|Lebanese]] cautiously welcome a political agreement that enables [[List of Prime Ministers of Lebanon|Prime Minister]] [[Saad Hariri]] to officially withdraw his unexpected November 4 resignation. [https://www.dailystar.com.lb/Opinion/Editorial/2017/Dec-06/429044-accord-made-in-lebanon.ashx (''The Daily Star'')]
+
+;Science and technology
+*The U.S. [[Government Accountability Office]] starts a study into the—currently unregulated—length of [[Rail freight transport|freight train]]s. [https://www.reuters.com/article/us-usa-train-safety/growing-length-of-u-s-freight-trains-in-federal-crosshairs-after-crashes-gao-idUSKBN1E01B9 (Reuters)]
 <!-- All news items above this line -->}}
