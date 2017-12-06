@@ -1,12 +1,16 @@
 {{Current events|year=2017|month=12|day=6|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Russian military intervention in the Syrian Civil War]]
+**[[President of Russia|President]] [[Vladimir Putin]] declares victory over the [[Islamic State of Iraq and the Levant|Islamic State]] terror group across both banks of the river [[Euphrates]]. [http://tass.com/politics/979442 (TASS)]
+
 ;Arts and culture
 *The [[New York City|New York]] [[Metropolitan Museum of Art]] is brought to reply to an online petition signed by thousands of people. The museum refuses to stop displaying a [[Balthus]] painting, ''Thérèse rêvant''. [http://www.telegraph.co.uk/art/what-to-see/new-york-art-museum-refuses-remove-voyeurisic-painting-girl/ (''The Telegraph'')] [https://tempsreel.nouvelobs.com/societe/20171204.OBS8337/mobilisation-a-new-york-contre-therese-revant-une-toile-de-balthus-jugee-pedophile.html (''Le Nouvel Obs'')]
 *[[Finland]] celebrates its 100 years of [[Finnish Declaration of Independence|independence]]. [https://yle.fi/uutiset/osasto/news/busy_schedule_of_festivities_to_mark_finlands_centennial/9964897 (Yle News)] 
 
 ;Health and environment
-*[[UNICEF]] reports that as many at 17 million babies face potential brain development issues due to rising pollution levels. [http://www.bbc.com/news/health-42250558 (BBC)]
+*[[UNICEF]] reports that as many as 17 million babies face potential brain development issues due to rising pollution levels worldwide. [http://www.bbc.com/news/health-42250558 (BBC)]
 
 ;International Relations
 *[[Positions on Jerusalem]]
@@ -17,6 +21,8 @@
 ***The [[United Kingdom]] says it is now time for the U.S. to present their new [[List of Middle East peace proposals|peace plan for the region]]. [http://www.chicagotribune.com/news/nationworld/ct-jerusalem-israel-capital-declaration-20171206-story.html (''Chicago Tribune'')]
 **U.S. President Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The U.S. State Department issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in [[Amman]] temporarily suspends routine public services and stops embassy travel around [[Jordan]]. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. [http://edition.cnn.com/2017/12/06/politics/president-donald-trump-jerusalem/index.html (CNN)] [https://www.reuters.com/article/us-usa-trump-israel-cable/u-s-asks-officials-to-defer-travel-to-israel-west-bank-to-december-20-idUSKBN1E02HU (Reuters)] [http://www.bbc.com/news/live/world-middle-east-42255592 (BBC)]
 ***[[President of the State of Palestine]] [[Mahmoud Abbas]] says the move undermines the two-state solution and it undermines the U.S. position as a peace mediator. [https://www.haaretz.com/middle-east-news/palestinians/1.827357 (''Haaretz'')]
+***In the E.U., [[Czech Republic|Czechia]] and the [[United Kingdom|U.K.]] recognize the move. [http://www.bbc.com/news/live/world-middle-east-42255592 (BBC)]
+***8 of the 15 current [[United Nations  Security Council]] members ([[France]], [[Bolivia]], [[Egypt]], [[Italy]], [[Senegal]], [[Sweden]], [[United Kingdom|the United Kingdom]] and [[Uruguay]]) demand an urgent—by the end of this week—Council briefing by [[Secretary-General of the United Nations]] [[António Guterres]]. [http://www.bbc.com/news/live/world-middle-east-42255592 (BBC)]
 *[[Foreign relations of Turkey]]
 **[[Stockholm Center for Freedom|Turkish journalist in exile]] Abdullah Bozkurt claims [[Recep Tayyip Erdoğan]] said at a [[Justice and Development Party (Turkey)|AK Parti]]-organized conference that the West snatches Muslim babies. Erdogan's ministers "know" of such cases in the Netherlands and Austria. [https://www.geenstijl.nl/5139760/erdogan-nederlanders-zijn-babysnatchers/ (''Geenstijl.nl'')] [https://www.hln.be/nieuws/buitenland/erdogan-houdt-absurde-tirade-op-vrouwencongres-het-westen-steelt-baby-s-van-moslimfamilies~a141c35e/ (''Het Laatste Nieuws'')]
 
@@ -27,11 +33,12 @@
 *[[Politics of Lebanon]]
 **The [[Lebanese people|Lebanese]] cautiously welcome a political agreement that enables [[List of Prime Ministers of Lebanon|Prime Minister]] [[Saad Hariri]] to officially withdraw his unexpected November 4 resignation. [https://www.dailystar.com.lb/Opinion/Editorial/2017/Dec-06/429044-accord-made-in-lebanon.ashx (''The Daily Star'')]
 *[[Ukrainian crisis]]
-**[[Ukraine]] police raid the wrong tent of an activist camp in [[Kiev]] and fail to arrest the [[Statelessness|stateless]] [[Movement of New Forces|opposition leader]] [[Mikheil Saakashvili]]. A [[National Police of Ukraine|police]] source says police are preparing a special operation and will be let off the leash "in the near future". [https://www.dailystar.com.lb/News/World/2017/Dec-06/429142-ukraine-police-fail-to-find-saakashvili-in-protest-camp-raid.ashx (''The Daily Star'')] [http://tass.com/world/979307 (TASS)]
+**Police raid the wrong tent of an activist camp in [[Kiev]] and fail to arrest the [[Statelessness|stateless]] [[Movement of New Forces|opposition leader]] [[Mikheil Saakashvili]]. A [[National Police of Ukraine|police]] source says police are preparing a special operation and will be let off the leash "in the near future". [https://www.dailystar.com.lb/News/World/2017/Dec-06/429142-ukraine-police-fail-to-find-saakashvili-in-protest-camp-raid.ashx (''The Daily Star'')] [http://tass.com/world/979307 (TASS)]
 *[[Politics of Russia]]
 **President [[Vladimir Putin]] announces his participation in the [[Russian presidential election, 2018|2018 presidential election]]. [https://www.westernjournal.com/vladimir-putin-reveals-decision-future-russias-president/ (''The Western Journal'')]
 
 ;Science and technology
 *The U.S. [[Government Accountability Office]] starts a study into the—currently unregulated—length of [[Rail freight transport|freight train]]s. [https://www.reuters.com/article/us-usa-train-safety/growing-length-of-u-s-freight-trains-in-federal-crosshairs-after-crashes-gao-idUSKBN1E01B9 (Reuters)]
 *An [[Institute for Science and International Security]] study indicates that—between March 2014 and September 2017 and to varying degrees—a total of 49 countries violated [[Sanctions against North Korea#United Nations Security Council sanctions|United Nations sanctions against North Korea]]. [http://money.cnn.com/2017/12/06/news/north-korea-sanctions-countries-violation/index.html (CNN)]
+*A study published in [[Nature (magazine)|Nature]] and the [[Astrophysical Journal Letters]] describes the discovery of the most [[supermassive black hole]] ever, around 13.1 billion light years away. [https://www.theverge.com/2017/12/6/16738652/quasar-supermassive-black-hole-early-universe-big-bang (''The Verge'')]
 <!-- All news items above this line -->}}
