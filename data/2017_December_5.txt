@@ -1,10 +1,11 @@
 {{Current events|year=2017|month=12|day=5|content=
 <!-- All news items below this line -->
 ;Arts and Culture
+*The last [[King of Romania]], [[Michael I of Romania|Michael I]], dies at the age of 96. [http://www.bbc.co.uk/news/world-europe-42234880 (BBC)], [https://www.reuters.com/article/us-romania-king/romanias-former-king-michael-dies-in-switzerland-at-age-of-96-idUSKBN1DZ1JC (Reuters)]
 *A summer 1941 [[The Saint (Simon Templar)|Simon Templar (The Saint)]] novel by [[Leslie Charteris]], titled "[[The Saint's Second Front]]", describing a military attack by Japan on America—and subsequently rejected from publication for political reasons—emerges at a private auction after the work was presumed lost. [https://www.thesun.co.uk/news/5073032/brit-book-which-predicted-the-attack-on-pearl-harbour-rediscovered-75-years-after-it-was-barred-from-publication/ (''The Sun'')]
 
 ;Business and economy
-*[[Eurofighter Typhoon]] offers [[Belgium]] a national "Cyberdefense Network"—suggesting telecommunications security on par with [[United Kingdom]] intelligence, which would save Belgium €1.6 billion per year—in exchange for buying 34 of their [[multirole combat aircraft]]. [https://www.hln.be/nieuws/binnenland/eurofighter-biedt-cyberbeveiliging-voor-telecom-in-ons-land-als-belgie-voor-zijn-straaljagers-kiest~a2decffc/ (''Het Laatste Nieuws'')]
+*[[Eurofighter GmbH]] offers [[Belgium]] a national "Cyberdefense Network"—suggesting telecommunications security on par with [[United Kingdom]] intelligence, which would save Belgium €1.6 billion per year—in exchange for buying 34 of their [[multirole combat aircraft]], the [[Eurofighter Typhoon]]. [https://www.hln.be/nieuws/binnenland/eurofighter-biedt-cyberbeveiliging-voor-telecom-in-ons-land-als-belgie-voor-zijn-straaljagers-kiest~a2decffc/ (''Het Laatste Nieuws'')]
 
 ;Disasters and accidents
 *[[2017 California wildfires]]
@@ -35,8 +36,6 @@
 ;Politics and elections
 *[[Weinstein effect]]
 **[[United States House of Representatives|U.S. Representative]] [[John Conyers]] ([[Democratic Party (United States)|D]]-[[Michigan|Mich.]]) steps down amid allegations of sexual harassment. [https://www.npr.org/2017/12/05/567160325/conyers-resigning-amid-sexual-harassment-allegations (NPR)]
-*The last [[King of Romania]], [[Michael I of Romania|Michael I]], dies at the age of 96. [http://www.bbc.co.uk/news/world-europe-42234880 (BBC)], [https://www.reuters.com/article/us-romania-king/romanias-former-king-michael-dies-in-switzerland-at-age-of-96-idUSKBN1DZ1JC (Reuters)]
-
 
 ;Sports
 *[[Sri Lankan cricket team in India in 2017–18]], [[Smog in Delhi]]
