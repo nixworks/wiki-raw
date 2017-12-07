@@ -1,6 +1,11 @@
 {{Current events|year=2017|month=12|day=7|content=
 
 <!-- All news items below this line -->
+;Law and crime
+*[[Same sex marriage in Australia]]
+**The [[Parliament of Australia]] votes to make [[same sex marriage]] legal in [[Australia]].
+[http://www.theaustralian.com.au/national-affairs/politicsnow-ssm-bill-decided-today-citizenship-saga-continues/news-story/642ba787fcb52a24f08d61be8ac650d7 (''The Australian'')]
+
 ;Politics and elections
 *[[Nepalese legislative election, 2017]]
 **Voters in [[Nepal]] go to the polls for the second round of a legislative election. [https://www.washingtonpost.com/world/asia_pacific/nepal-votes-thursday-will-china-or-india-come-out-the-winner/2017/12/05/41473934-d550-11e7-9ad9-ca0619edfa05_story.html?utm_term=.208d8706483a (''Washington Post'')]
