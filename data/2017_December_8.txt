@@ -1,11 +1,13 @@
 {{Current events|year=2017|month=12|day=8|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*Three people are killed in a rampage involving swords near [[Tomioka Hachiman Shrine|a shrine]] in Japan. [https://www.japantimes.co.jp/news/2017/12/08/national/crime-legal/man-apparently-fatally-stabs-two-women-tokyo-shrine-kills/ (''The Japan Times'')] [http://www.asahi.com/ajw/articles/AJ201712080036.html (''The Asahi Shimbun'')]
 ;International relations
 *[[Positions on Jerusalem]], [[Israel–United States relations]]
 **The [[United States]] embassy in [[Belgium]] issues a warning to its citizens to avoid a manifestation against the "[[Positions on Jerusalem#United_States|recent Presidential announcement]]" and avoid all protest locations. [https://www.hln.be/nieuws/binnenland/amerikaanse-ambassade-waarschuwt-landgenoten-voor-jeruzalem-manifestatie-in-brussel~a8c34f4e/ (''Het Laatste Nieuws'')]
 *[[Brexit]]
 **The [[European Union]] and the [[United Kingdom]] reach agreement on the first stage of Brexit including the status of the border between the UK and [[Ireland]]. [http://edition.cnn.com/2017/12/08/europe/brexit-theresa-may-britain/index.html (CNN)]
 *[[Constitution of Japan]]
-**The  Japanese [[Minister of Defense (Japan)|Minister of Defense]] says his country is to procures cruise missiles able to reach [[North Korea]]. [https://www.rt.com/newsline/412404-japan-missiles-north-korea/ (RT)]
+**The  Japanese [[Minister of Defense (Japan)|Minister of Defense]] says his country is to procure [[Naval_Strike_Missile#Joint_Strike_Missile|missiles]], able to reach [[North Korea]]. [https://www.rt.com/newsline/412404-japan-missiles-north-korea/ (RT)] [https://www.reuters.com/article/us-northkorea-missiles-japan/japan-to-acquire-air-launched-missiles-able-to-strike-north-korea-idUSKBN1E20YR (Reuters)]
 <!-- All news items above this line -->}}
