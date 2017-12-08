@@ -2,10 +2,12 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*Three people are killed in a rampage involving swords near [[Tomioka Hachiman Shrine|a shrine]] in Japan. [https://www.japantimes.co.jp/news/2017/12/08/national/crime-legal/man-apparently-fatally-stabs-two-women-tokyo-shrine-kills/ (''The Japan Times'')] [http://www.asahi.com/ajw/articles/AJ201712080036.html (''The Asahi Shimbun'')]
+*Three people are killed in a rampage involving swords near the [[Tomioka Hachiman Shrine]] in Japan. [https://www.japantimes.co.jp/news/2017/12/08/national/crime-legal/man-apparently-fatally-stabs-two-women-tokyo-shrine-kills/ (''The Japan Times'')] [http://www.asahi.com/ajw/articles/AJ201712080036.html (''The Asahi Shimbun'')]
 ;Arts and culture
 *[[Surrealism]], [[Positivism]]
 **A railway trade union announces a work strike that will not halt trains. [https://www.hln.be/nieuws/binnenland/socialistische-spoorbond-staakt-om-op-19-december-te-gaan-betogen-met-de-trein-aan-gunsttarief~ad6b39fa/ (''sources'')]
+;Business and economy
+*The [[European Union]] and [[Japan]] announce that they concluded negotiations on a trade deal. [http://uk.mobile.reuters.com/article/amp/idUKKBN1E21QH (''Reuters mobile'')]
 ;International relations
 *[[Positions on Jerusalem]], [[Israel–United States relations]]
 **The [[United States]] embassy in [[Belgium]] issues a warning to its citizens to avoid a manifestation against the "[[Positions on Jerusalem#United_States|recent Presidential announcement]]" and avoid all protest locations. [https://www.hln.be/nieuws/binnenland/amerikaanse-ambassade-waarschuwt-landgenoten-voor-jeruzalem-manifestatie-in-brussel~a8c34f4e/ (''Het Laatste Nieuws'')]
@@ -16,4 +18,6 @@
 **The [[European Union]] and the [[United Kingdom]] reach agreement on the first stage of Brexit including the status of the border between the U.K. and [[Ireland]]. [http://edition.cnn.com/2017/12/08/europe/brexit-theresa-may-britain/index.html (CNN)]
 *[[Constitution of Japan]]
 **The  Japanese [[Minister of Defense (Japan)|Minister of Defense]] says his country is to procure [[Naval_Strike_Missile#Joint_Strike_Missile|missiles]], able to reach [[North Korea]]. [https://www.rt.com/newsline/412404-japan-missiles-north-korea/ (RT)] [https://www.reuters.com/article/us-northkorea-missiles-japan/japan-to-acquire-air-launched-missiles-able-to-strike-north-korea-idUSKBN1E20YR (Reuters)]
+*[[Treaty on European Union]], [[Politics of Poland]]
+**Poland's [[Sejm]] approves [[Poland in the European Union#Poland's internal policies and the EU|controversial]] judiciary changes. [https://www.theguardian.com/world/2017/dec/08/polish-mps-pass-supreme-court-bill-criticised-as-grave-threat (''The Guardian'')]
 <!-- All news items above this line -->}}
