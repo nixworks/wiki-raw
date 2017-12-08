@@ -1,5 +1,7 @@
 {{Current events|year=2017|month=12|day=8|content=
 
 <!-- All news items below this line -->
-*
+;International relations
+*[[Brexit]]
+**The [[European Union]] and the [[United Kingdom]] reach agreement on the first stage of Brexit including the status of the border between the UK and [[Ireland]]. [http://edition.cnn.com/2017/12/08/europe/brexit-theresa-may-britain/index.html (CNN)]
 <!-- All news items above this line -->}}
