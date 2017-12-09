@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*Suspected (by the United Nations) [[Allied Democratic Forces]] militants in [[North Kivu]] kill at least 15 [[United Nations]] [[MONUSCO]] [[United Nations peacekeeping|peacekeepers]], mostly [[Tanzania]]n, and five [[Democratic Republic of the Congo|Congo]]lese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. [https://www.theguardian.com/world/2017/dec/08/peacekeepers-killed-in-attack-on-un-base-in-dr-congo (''The Guardian'')]
+**Suspected (by the United Nations) [[Allied Democratic Forces]] militants in [[North Kivu]] kill at least 15 [[United Nations]] [[MONUSCO]] [[United Nations peacekeeping|peacekeepers]], mostly [[Tanzania]]n, and five [[Democratic Republic of the Congo|Congo]]lese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. [https://www.theguardian.com/world/2017/dec/08/peacekeepers-killed-in-attack-on-un-base-in-dr-congo (''The Guardian'')]
 
 ;Business and economy
 *[[Japan–European Union relations]]
@@ -19,7 +19,8 @@
 **Demonstrators across the [[Arab world|Arab]] and [[Muslim world]]s take to the streets on [[Friday]], holy day, expressing solidarity with the [[Palestinians]] and outrage at the U.S. move. [https://www.reuters.com/article/us-usa-trump-israel/palestinians-muslims-worldwide-hold-day-of-rage-over-jerusalem-idUSKBN1E211I (Reuters)]
 *[[Brexit negotiations]]
 **The [[European Union]] and the [[United Kingdom]] reach agreement on the first stage of Brexit including the status of the border between the U.K. and [[Republic of Ireland|Ireland]]. [http://edition.cnn.com/2017/12/08/europe/brexit-theresa-may-britain/index.html (CNN)]
-*The Japanese [[Minister of Defense (Japan)|Minister of Defense]] says his country is to procure [[Naval Strike Missile#Joint Strike Missile|missiles]], able to reach [[North Korea]]. [https://www.rt.com/newsline/412404-japan-missiles-north-korea/ (RT)] [https://www.reuters.com/article/us-northkorea-missiles-japan/japan-to-acquire-air-launched-missiles-able-to-strike-north-korea-idUSKBN1E20YR (Reuters)]
+*[[2017 North Korea crisis]]
+**The Japanese [[Minister of Defense (Japan)|Minister of Defense]] says his country is to procure [[Naval Strike Missile#Joint Strike Missile|missiles]], able to reach [[North Korea]]. [https://www.rt.com/newsline/412404-japan-missiles-north-korea/ (RT)] [https://www.reuters.com/article/us-northkorea-missiles-japan/japan-to-acquire-air-launched-missiles-able-to-strike-north-korea-idUSKBN1E20YR (Reuters)]
 *[[Treaty on European Union]], [[Politics of Poland]]
 **Poland's [[Sejm]] approves [[Poland in the European Union#Poland's internal policies and the EU|controversial]] judiciary changes amid accusations of threat to democracy. [https://www.theguardian.com/world/2017/dec/08/polish-mps-pass-supreme-court-bill-criticised-as-grave-threat (''The Guardian'')]
 
@@ -32,11 +33,12 @@
 **[[Trent Franks]], a [[United States]] [[United States House of Representatives|representative]] for [[Arizona]]'s [[Arizona's 8th congressional district|8th congressional district]], announces his immediate resignation, following allegations he asked a female staffer to be a [[surrogacy|surrogate mother]] for him. Franks previously announced that he would resign from Congress in January 2018. [http://www.fox10phoenix.com/news/arizona-news/ap-rep-trent-franks-is-resigning-from-congress (''KSAZ-TV'')]
 *[[2018 United States federal budget]]
 **Trump signs a [[continuing resolution]] to prevent a [[Government shutdown in the United States|government shutdown]] for another two weeks. Congress has until December 22 to hash out differences over funding [[Deferred Action for Childhood Arrivals|DACA]], [[Children's Health Insurance Program|CHIP]], [[Tax Cuts and Jobs Act of 2017 |tax reform]], and [[National Defense Authorization Act for Fiscal Year 2018|military funding]] within the limits of the [[Budget Control Act of 2011]].  [http://www.foxnews.com/politics/2017/12/08/president-trump-signs-short-term-spending-bill-to-keep-government-running-through-dec-22.html (Fox News'')] [https://www.usnews.com/news/politics/articles/2017-12-07/house-senate-pass-continuing-resolution-to-fund-government-through-dec-22 (''U.S. News & World Report'')]
-*The [[White House]] announces that [[Deputy National Security Advisor (United States)|Deputy National Security Advisor]] [[Dina Powell]] will leave the Trump administration early 2018. [http://thehill.com/homenews/administration/363970-wapo-dina-powell-leaving-white-house (''The Hill'')]
+*[[Presidency of Donald Trump]]
+**The [[White House]] announces that [[Deputy National Security Advisor (United States)|Deputy National Security Advisor]] [[Dina Powell]] will leave the Trump administration early 2018. [http://thehill.com/homenews/administration/363970-wapo-dina-powell-leaving-white-house (''The Hill'')]
 *[[Ukrainian crisis]]
 **[[Mikheil Saakashvili]] is arrested again by the [[Security Service of Ukraine|Ukrainian security service]]. He was on the run since December 5. He has been leading anti-corruption rallies against [[Petro Poroshenko]]. [https://www.rtlnieuws.nl/buitenland/michail-saakasjvili-nu-wel-opgepakt-door-oekraiense-geheime-dienst (''RTL Nieuws'')] [http://www.bbc.com/news/world-europe-42289481 (BBC)]
 
 ;Science and technology
 *[[Airborne radioactivity increase in Europe in autumn 2017]]
-**Russia denies that the mysterious pollution originates from the [[Mayak]] plant. A probe found no trace of [[Isotopes of ruthenium#List of isotopes|Ruthenium-106]] after last September's incident, they say. [[Greenpeace]] slams the claim as a cover-up. [http://www.dailymail.co.uk/sciencetech/article-5159355/Russia-Spike-radioactivity-unrelated-nuclear-plant.html (''Daily Mail'')]
+**Russia denies that the mysterious pollution originates from the [[Mayak]] plant. A probe found no trace of [[Isotopes of ruthenium#List of isotopes|Ruthenium-106]] after last September's incident, they say. [[Greenpeace]] criticises the claim, claiming it to be a cover-up. [http://www.dailymail.co.uk/sciencetech/article-5159355/Russia-Spike-radioactivity-unrelated-nuclear-plant.html (''Daily Mail'')]
 <!-- All news items above this line -->}}
