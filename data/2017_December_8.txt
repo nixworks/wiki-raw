@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-**Suspected (by the United Nations) [[Allied Democratic Forces]] militants in [[North Kivu]] kill at least 15 [[United Nations]] [[MONUSCO]] [[United Nations peacekeeping|peacekeepers]], mostly [[Tanzania]]n, and five [[Democratic Republic of the Congo|Congo]]lese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. [https://www.theguardian.com/world/2017/dec/08/peacekeepers-killed-in-attack-on-un-base-in-dr-congo (''The Guardian'')]
+*Suspected (by the United Nations) [[Allied Democratic Forces]] militants in [[North Kivu]] kill at least 15 [[United Nations]] [[MONUSCO]] [[United Nations peacekeeping|peacekeepers]], mostly [[Tanzania]]n, and five [[Democratic Republic of the Congo|Congo]]lese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. [https://www.theguardian.com/world/2017/dec/08/peacekeepers-killed-in-attack-on-un-base-in-dr-congo (''The Guardian'')]
 
 ;Business and economy
 *[[Japan–European Union relations]]
@@ -36,7 +36,7 @@
 *[[Presidency of Donald Trump]]
 **The [[White House]] announces that [[Deputy National Security Advisor (United States)|Deputy National Security Advisor]] [[Dina Powell]] will leave the Trump administration early 2018. [http://thehill.com/homenews/administration/363970-wapo-dina-powell-leaving-white-house (''The Hill'')]
 *[[Ukrainian crisis]]
-**[[Mikheil Saakashvili]] is arrested again by the [[Security Service of Ukraine|Ukrainian security service]]. He was on the run since December 5. He has been leading anti-corruption rallies against [[Petro Poroshenko]]. [https://www.rtlnieuws.nl/buitenland/michail-saakasjvili-nu-wel-opgepakt-door-oekraiense-geheime-dienst (''RTL Nieuws'')] [http://www.bbc.com/news/world-europe-42289481 (BBC)]
+**[[Mikheil Saakashvili]] is arrested again by the [[National Police of Ukraine]]. He was on the run since December 5. He has been leading anti-corruption rallies against [[Petro Poroshenko]]. [https://www.rtlnieuws.nl/buitenland/michail-saakasjvili-nu-wel-opgepakt-door-oekraiense-geheime-dienst (''RTL Nieuws'')] [http://www.bbc.com/news/world-europe-42289481 (BBC)]
 
 ;Science and technology
 *[[Airborne radioactivity increase in Europe in autumn 2017]]
