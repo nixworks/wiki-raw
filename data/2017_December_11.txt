@@ -1,6 +1,13 @@
 {{Current events|year=2017|month=12|day=11|content=
 
 <!-- All news items below this line -->
+;Arts and culture
+*[[Cinema of Saudi Arabia]]
+**Saudi Arabia has announced it will lift a ban on commercial cinemas that has lasted more than three decades.[http://www.bbc.co.uk/news/world-middle-east-42308121 (BBC)]
+
+;International Relations
+*A £6bn deal to sell [[Eurofighter Typhoon|Eurofighter Typhoons]] to Qatar will help safeguard thousands of UK jobs.[http://www.bbc.com/news/business-42302767 (BBC)]
+
 ;Science and technology
 *[[Mount Hope (Eternity Range)|Mount Hope]] in a [[British Antarctic Territory|disputed region]] of [[Antarctica]] is found to be the highest mountain in territory claimed by the [[United Kingdom]]. [[Ben Nevis]] in [[Scotland]] is the highest mountain in [[Great Britain]]. [http://www.bbc.com/news/science-environment-42238262 (BBC)]
 <!-- All news items above this line -->}}
