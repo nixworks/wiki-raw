@@ -1,16 +1,19 @@
 {{Current events|year=2017|month=12|day=11|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[2017 New York City explosion]]
+**An explosion takes place near [[New York City]]'s [[Port Authority Bus Terminal]]. A suspect, injured by the blast, is in custody. [https://www.nytimes.com/2017/12/11/nyregion/explosion-times-square.html (''The New York Times'')]
+
 ;Arts and culture
 *[[Cinema of Saudi Arabia]]
 **Saudi Arabia has announced it will lift a ban on commercial cinemas that has lasted more than three decades. [http://www.bbc.co.uk/news/world-middle-east-42308121 (BBC)]
 
-;International Relations
-*A £6bn deal to sell 24 [[Eurofighter Typhoon]]s to Qatar was announced.  [http://www.bbc.com/news/business-42302767 (BBC)]
+;Business and economy
+*[[Economy of Qatar]]
+**A £6bn deal to sell 24 [[Eurofighter Typhoon]]s to [[Qatar]] was announced.  [http://www.bbc.com/news/business-42302767 (BBC)]
 
 ;Science and technology
-*[[Mount Hope (Eternity Range)|Mount Hope]], in a [[British Antarctic Territory|disputed region]] of [[Antarctica]], is found to be the highest mountain in territory claimed by the [[United Kingdom]]. [[Ben Nevis]] in [[Scotland]] is the highest mountain in the [[United Kingdom]]. [http://www.bbc.com/news/science-environment-42238262 (BBC)]
+*[[British Antarctic Territory]]
+**[[Mount Hope (Eternity Range)|Mount Hope]], in a [[British Antarctic Territory|disputed region]] of [[Antarctica]], is found to be the highest mountain in territory claimed by the [[United Kingdom]]. [[Ben Nevis]] in [[Scotland]] is the highest mountain in the [[United Kingdom]]. [http://www.bbc.com/news/science-environment-42238262 (BBC)]
 <!-- All news items above this line -->}}
-
-;Terrorism
-[https://en.wikipedia.org/wiki/2017_New_York_Port_Authority_Bus_Terminal_explosion]
