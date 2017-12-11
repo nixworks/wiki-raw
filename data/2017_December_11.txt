@@ -3,16 +3,17 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[2017 New York City explosion]]
-**An explosion takes place near [[New York City]]'s [[Port Authority Bus Terminal]]. A suspect, injured by the blast, is in custody. [https://www.nytimes.com/2017/12/11/nyregion/explosion-times-square.html (''The New York Times'')]
+**An attempted terrorist attack occurs when a homemade pipe bomb  worn by a man exploded near [[New York City]]'s [[Port Authority Bus Terminal]].  Three people, as well as the attacker, are injured. The suspect, identified as Akayed Ullah, is in custody. [https://www.nytimes.com/2017/12/11/nyregion/explosion-times-square.html (''The New York Times'')] [http://www.cnn.com/2017/12/11/us/new-york-possible-explosion-port-authority-subway/index.html (CNN)]
 *[[Syrian Civil War]], [[Russian intervention in the Syrian Civil War]]
-**President [[Vladimir Putin]] announced that Russian forces will withdraw from Syria now that [[Islamic State of Iraq and the Levant|ISIS]] has been defeated in the country. [https://www.rt.com/news/412690-putin-syria-comes-khmeimim/ (RT)]
+**During a visit to Syria, his first, President [[Vladimir Putin]] announced that Russian forces will withdraw from Syria now that [[Islamic State of Iraq and the Levant|ISIS]] has been defeated in the country. [https://www.rt.com/news/412690-putin-syria-comes-khmeimim/ (RT)]
 
 ;Arts and culture
 *[[Cinema of Saudi Arabia]]
 **Saudi Arabia has announced it will lift a ban on commercial cinemas that has lasted more than three decades. [http://www.bbc.co.uk/news/world-middle-east-42308121 (BBC)]
+*News breaks only today that Wu Yongning, an "unprotected high-altitude extreme challenger" from [[China]], fell to his death from a 62-story building in [[Changsha]] on November 8. [http://www.scmp.com/news/china/society/article/2123778/chinese-rooftopping-star-confirmed-dead-month-after-fatal-fall-62 (''South China Morning Post'')] <!-- relevant? -->
 
 ;Business and economy
-*[[Economy of Qatar]]
+*[[Economy of the United Kingdom]]
 **A £6bn deal to sell 24 [[Eurofighter Typhoon]]s to [[Qatar]] was announced.  [http://www.bbc.com/news/business-42302767 (BBC)]
 
 ;Science and technology
