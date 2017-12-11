@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[2017 New York City explosion]]
+*[[2017 New York City attempted bombing]]
 **An attempted terrorist attack occurs when a homemade pipe bomb  worn by a man exploded near [[New York City]]'s [[Port Authority Bus Terminal]].  Three people, as well as the attacker, are injured. The suspect, identified as Akayed Ullah, is in custody. [https://www.nytimes.com/2017/12/11/nyregion/explosion-times-square.html (''The New York Times'')] [http://www.cnn.com/2017/12/11/us/new-york-possible-explosion-port-authority-subway/index.html (CNN)]
 *[[Syrian Civil War]], [[Russian intervention in the Syrian Civil War]]
 **During a visit to Syria, his first, President [[Vladimir Putin]] announces that Russian forces will withdraw from Syria now that [[Islamic State of Iraq and the Levant|ISIS]] has been defeated in the country. [https://www.rt.com/news/412690-putin-syria-comes-khmeimim/ (RT)]
@@ -10,13 +10,14 @@
 ;Arts and culture
 *[[Cinema of Saudi Arabia]]
 **The [[Ministry of Culture and Information (Saudi Arabia)|Ministry of Culture of Saudi Arabia]] announces that it will lift a ban on commercial cinemas that has lasted more than three decades. [http://www.bbc.co.uk/news/world-middle-east-42308121 (BBC)]
-*News breaks only today that Wu Yongning, an "unprotected high-altitude extreme challenger" from [[China]], fell to his death from a 62-story building in [[Changsha]] on November 8. [http://www.scmp.com/news/china/society/article/2123778/chinese-rooftopping-star-confirmed-dead-month-after-fatal-fall-62 (''South China Morning Post'')] <!-- relevant? -->
+*News breaks only today that Wu Yongning, an "unprotected high-altitude extreme challenger" from [[China]], fell to his death from a 62-story building in [[Changsha]] on November 8. [http://www.scmp.com/news/china/society/article/2123778/chinese-rooftopping-star-confirmed-dead-month-after-fatal-fall-62 (''South China Morning Post'')]
 
 ;Business and economy
 *[[Economy of the United Kingdom]]
 **A £6 billion ($8 billion) deal to sell 24 [[Eurofighter Typhoon]]s to [[Qatar]] is announced.  [http://www.bbc.com/news/business-42302767 (BBC)]
 
 ;Disasters and accidents
+*A house fire in [[City of Salford|Salford]], [[United Kingdom]], kills three children. [http://www.bbc.com/news/uk-england-manchester-42313197 (BBC)]
 *The [[Thomas Fire]] is the fifth largest in modern [[California]]n history. [https://www.npr.org/sections/thetwo-way/2017/12/11/569801554/thomas-fire-5th-largest-in-modern-california-history-shows-few-signs-of-slowing (NPR)]
 
 ;Law and crime
@@ -24,8 +25,7 @@
 **U.S. District Judge [[Colleen Kollar-Kotelly]] denies a [[Presidency of Donald Trump|Trump administration]] request to enforce the ban on transgender troops while this case is under appeal, thereby reaffirming her order that requires the  U.S. military to accept transgender recruits effective January 1, 2018. [https://www.reuters.com/article/us-usa-military-transgender/u-s-military-must-accept-transgender-recruits-by-jan-1-judge-rules-idUSKBN1E52C9 (Reuters)]
 
 ;Politics and elections
-*[[United States recognition of Jerusalem]]
-**[[Hassan Nasrallah]], the [[Secretary-General of Hezbollah]], vows to return to [[Israel]]. Tens of thousands of people demonstrate in South [[Beirut]]. [https://www.vrt.be/vrtnws/nl/2017/12/11/hezbollah-leider-belooft-focus-terug-op-israel-te-richten/ (VRT)]
+*[[Hassan Nasrallah]], the [[Secretary-General of Hezbollah]], vows to return to [[Israel]]. Tens of thousands of people demonstrate in South [[Beirut]]. [https://www.vrt.be/vrtnws/nl/2017/12/11/hezbollah-leider-belooft-focus-terug-op-israel-te-richten/ (VRT)]
 *[[Ukrainian crisis]]
 **Ukrainian [[Movement of New Forces|opposition leader]] [[Mikheil Saakashvili]] is freed from detention following Judge Larysa Tsokol's dismissal of prosecutors’ [[house arrest]] request. [https://www.reuters.com/article/us-ukraine-saakashvili-court/ukrainian-judge-frees-saakashvili-from-detention-idUSKBN1E52BM (Reuters)]
 *[[Politics of India]]
