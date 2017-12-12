@@ -1,5 +1,9 @@
 {{Current events|year=2017|month=12|day=12|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[United States elections, 2017]]
+**Voters in [[United States Senate special election in Alabama, 2017|Alabama]] go to the polls to fill the [[United States Senate]] seat vacated by current [[United States Attorney General]] [[Jeff Sessions]].  [http://www.cnn.com/2017/12/12/politics/alabama-senate-race/index.html (CNN)]
+*[[Syrian Civil War]]
+**An influential member of the [[Opposition in Syria]] urges [[Vladimir Putin]] to put pressure on [[Bashar al-Assad]] in order to rescue the [[Geneva peace talks on Syria (2017)|Geneva peace talks]]. [https://www.theguardian.com/world/2017/dec/12/syrian-opposition-urges-russia-to-rescue-un-peace-talks (''The Guardian'')]
 <!-- All news items above this line -->}}
