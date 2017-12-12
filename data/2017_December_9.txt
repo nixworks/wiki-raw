@@ -1,4 +1,4 @@
-<noinclude>{{pp-vandalism|small=yes}}</noinclude>
+
 {{Current events|year=2017|month=12|day=9|content=
 
 <!-- All news items below this line -->
@@ -14,7 +14,7 @@
 
 
 ;Business and economy
-*The 1.6-[[hectare]] populated hamlet of [[Alwine (Uebigau-Wahrenbrück)|Alwine]] in [[Uebigau-Wahrenbrück]] district, [[Germany]], is sold for 140.000 € at a public [[auction]]. [http://www.nation.co.ke/news/world/German-village-Alwine-sold-Sh16m/1068-4221622-vknt4e/index.html (AFP via Daily Nation)] <!-- relevant? -->
+*The 1.6-[[hectare]] populated hamlet of [[Alwine (Uebigau-Wahrenbrück)|Alwine]] in [[Uebigau-Wahrenbrück]] district, [[Germany]], is sold for 140,000 € at a public [[auction]]. [http://www.nation.co.ke/news/world/German-village-Alwine-sold-Sh16m/1068-4221622-vknt4e/index.html (AFP via Daily Nation)] <!-- relevant? -->
 
 ;Sport
 *[[2017 MLS Cup]]
