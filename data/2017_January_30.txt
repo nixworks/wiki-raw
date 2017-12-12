@@ -3,9 +3,9 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[War in Donbass]]
-**The [[Armed Forces of Ukraine|Ukrainian military]] says seven soldiers have been killed  by [[Separatist forces of the war in Donbass|pro-Russian separatists]] [[Battle of Avdiivka|since Sunday]]. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. [http://www.reuters.com/article/us-ukriane-crisis-casualties-idUSKBN15E0QS (Reuters)]
+**The [[Armed Forces of Ukraine|Ukrainian military]] says seven soldiers have been killed  by [[Separatist forces of the war in Donbass|pro-Russian separatists]] [[Battle of Avdiivka|since Sunday]]. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. [https://www.reuters.com/article/us-ukriane-crisis-casualties-idUSKBN15E0QS (Reuters)]
 *[[Syrian Civil War]], [[Russian military intervention in Syria|Russian military intervention]]
-** The [[Ministry of Defence (Russia)|Russian Defence Ministry]] says six Russian bombers  hit [[Islamic State of Iraq and the Levant|ISIL]] positions in [[Syria]]'s [[Deir ez-Zor Governorate]]. [http://www.reuters.com/article/us-mideast-crisis-syria-russia-bombers-idUSKBN15E1KN (Reuters)]
+** The [[Ministry of Defence (Russia)|Russian Defence Ministry]] says six Russian bombers  hit [[Islamic State of Iraq and the Levant|ISIL]] positions in [[Syria]]'s [[Deir ez-Zor Governorate]]. [https://www.reuters.com/article/us-mideast-crisis-syria-russia-bombers-idUSKBN15E1KN (Reuters)]
 *[[Insurgency in the North Caucasus]]
 **At least two [[Police of Russia|police officers]] and three suspected militants are killed during a gunfight in [[Shali, Chechen Republic|Shali]], [[Chechnya]]. [http://www.rferl.org/a/chechnya-police-militants-killed-kadyrov-rashidov-shali/28267313.html (Radio Free Europe/Radio Liberty)]
 *[[Yemeni Civil War (2015–present)|Yemeni Civil War]]
@@ -19,7 +19,7 @@
 *[[Miss Universe 2016]]
 **[[Iris Mittenaere]], winner of [[Miss France 2016]], is crowned as the winner of Miss Universe 2016 at a ceremony in the [[Philippines]]. [http://hosted.ap.org/dynamic/stories/A/AS_MISS_UNIVERSE_PAGEANT_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT (AP)]
 ;Business and economics
-*[[Walgreens Boots Alliance]]  reduces its offer price for  [[Rite Aid]] and defers the expected closing date by six months due to concerns about regulatory approval. [https://www.nytimes.com/2017/01/30/business/dealbook/walgreens-rite-aid-merger.html (''The New York Times'')] [http://www.reuters.com/article/us-rite-aid-m-a-walgreens-boots-idUSKBN15E1HU (Reuters)]
+*[[Walgreens Boots Alliance]]  reduces its offer price for  [[Rite Aid]] and defers the expected closing date by six months due to concerns about regulatory approval. [https://www.nytimes.com/2017/01/30/business/dealbook/walgreens-rite-aid-merger.html (''The New York Times'')] [https://www.reuters.com/article/us-rite-aid-m-a-walgreens-boots-idUSKBN15E1HU (Reuters)]
 ;Disasters and accidents
 *Several avalanches in [[Gorno-Badakhshan Autonomous Region|Gorno-Badakhshan]], [[Tajikistan]], caused by heavy snowfall over the weekend, leave at least seven people dead. [http://www.rferl.org/a/tajikistan-avalanches-7-dead/28267476.html (Radio Free Europe/Radio Liberty)]
 
