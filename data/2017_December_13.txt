@@ -7,7 +7,7 @@
 
 ;Arts and culture
 *[[Quebec French]]
-**[[Le Journal de Montr�al]] mentions [[Charles Castonguay]], [[Pierre Curzi]], [[Mario Beaulieu (politician)|Mario Beaulieu]] and cites researcher ''Erich Bouchard'' claiming that solid foundations are needed for the defence of the [[French language]]. So that we continue to document the reality in the hope that one day, a [[Government of Canada|government]] lights up at last before it's too late. But who will do it? [http://www.journaldemontreal.com/2017/12/13/le-paradoxe-linguistique (''Journal de Montr�al'')]
+**[[Le Journal de Montréal]] mentions [[Charles Castonguay]], [[Pierre Curzi]], [[Mario Beaulieu (politician)|Mario Beaulieu]] and cites researcher Erich Bouchard claiming that solid foundations are needed for the defence of the [[French language]]. [http://www.journaldemontreal.com/2017/12/13/le-paradoxe-linguistique (''Journal de Montréal'')]
 
 ;Disasters and accidents
 *[[Marine Corps Air Station Futenma]]
@@ -22,4 +22,10 @@
 **Belgium's [[New Flemish Alliance|biggest]] [[Federal Government of Belgium|government]] [[Political parties in Belgium|party]] says that it will not accept the [[energy transition]] agreement in the form that was reached by the [[Energy policy of Belgium|four ministers of energy]] on December 11. They cite mainly [[Money|financial]] arguments, while the pact's negotiators say the cost is known. [[Prime Minister of Belgium|Prime Minister]] [[Charles Michel]] says "nobody will torpedo the energy pact". The process is inspired by the [[Energiewende in Germany]]. [http://m.standaard.be/cnt/dmf20171212_03239793 (''De Standaard'')] [http://www.lalibre.be/economie/conjoncture/charles-michel-ne-laissera-personne-torpiller-le-pacte-energetique-ecolo-et-cdh-l-accusent-de-s-etre-ecrase-devant-la-n-va-5a30d8f1cd7095d1cd65b542 (''La Libre Belgique'')]
 *[[Politics of the United States]]
 **[[Minnesota]] Governor [[Mark Dayton]] is scheduled to announce the appointment of Lt. Gov. [[Tina Smith]] to replace resigning Sen. [[Al Franken]] in the [[United States Senate]]. [http://www.twincities.com/2017/12/12/mark-dayton-will-name-frankens-replacement-wednesday-at-10-a-m/ (''St. Paul Pioneer Press'')]
+*[[Politics of the United Kingdom]]
+**[[Prime Minister of the United Kingdom|Prime Minister]] [[Theresa May]] suffers a 309—305 defeat, her first, in [[House of Commons of the United Kingdom|the House of Commons]] after MP's from both major parties approve an amendment to the [[Brexit]] bill limiting the Government's powers in the Brexit process by subjecting them to a preliminary parliamentary vote. [https://www.theguardian.com/politics/2017/dec/13/tory-brexit-rebels-inflict-major-defeat-on-theresa-may (''The Guardian'')]
+
+;Sports
+*[[Doping]]
+**[[SkyTeam]] [[Cycling team|professional cycler]] [[Chris Froome]] is tested positive with double results on [[Salbutamol]] on September 7, in a routine anti-doping test conducted at the [[Vuelta a España]]. He had double the allowed asthma medication in his [[Human body|body]]. [http://www.cyclingnews.com/features/will-chris-froomes-salbutamol-result-sink-team-sky/ (''Cycling News'')]
 <!-- All news items above this line -->}}
