@@ -1,6 +1,10 @@
 {{Current events|year=2017|month=12|day=13|content=
 
 <!-- All news items below this line -->
+;Law and crime
+*[[Proclamation No. 216]]
+**The [[Congress of the Philippines]] votes to extend the declaration of [[Martial law in the Philippines|martial law]] in [[Mindanao]] until December 31, 2018 upon the request of President [[Rodrigo Duterte]]. [https://www.afp.com/en/news/23/philippines-duterte-wins-extra-year-martial-law-powers-doc-v43kn3 (AFP)]
+
 ;Politics and elections
 *[[Politics in Belgium]]
 **Belgium's biggest government party says that they will not accept the energy transition agreement that was reached on December 11 by Belgium's four ministers of energy, citing mainly financial arguments to currently refuse the closure of the nuclear power stations. The agreement is inspired by [[Germany]]'s [[Energiewende]]. [http://m.standaard.be/cnt/dmf20171212_03239793 (''De Standaard'')]
