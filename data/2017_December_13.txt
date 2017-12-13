@@ -1,5 +1,9 @@
 {{Current events|year=2017|month=12|day=13|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[Politics in Belgium]]
+**Belgium's biggest government party says that they will not accept the energy transition agreement that was reached on December 11 by Belgium's four ministers of energy, citing mainly financial arguments to currently refuse the closure of the nuclear power stations. The agreement is inspired by [[Germany]]'s [[Energiewende]]. [http://m.standaard.be/cnt/dmf20171212_03239793 (''De Standaard'')]
+*[[Politics of the United States]]
+**[[Minnesota]] Governor [[Mark Dayton]] is scheduled to announce the appointment of Lt. Gov. [[Tina Smith]] to replace resigning Sen. [[Al Franken]] in the [[United States Senate]]. [http://www.twincities.com/2017/12/12/mark-dayton-will-name-frankens-replacement-wednesday-at-10-a-m/ (''St. Paul Pioneer Press'')]
 <!-- All news items above this line -->}}
