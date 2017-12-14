@@ -4,10 +4,13 @@
 <!-- All news items below this line -->
 ;Business and economy
 *[[The Walt Disney Company]] announces its intent to acquire a large portion of [[21st Century Fox]] for $52.4 billion, pending regulatory approval. [https://www.cbsnews.com/news/disney-fox-deal-combines-two-of-worlds-biggest-entertainment-giants-live-updates/ (CBS)]
-*[[Teva Pharmaceutical]], the giant [[generic drug]] manufacturer headquartered in [[Israel]], is restructuring in order to pay off debt, and will be cutting its work force by about a quarter. [https://www.reuters.com/article/us-teva-pharm-ind-restructuring/teva-pharm-to-lay-off-a-quarter-of-workforce-suspends-dividend-idUSKBN1E81ML (Reuters)] 
+*[[Teva Pharmaceutical]], the giant [[generic drug]] manufacturer headquartered in [[Israel]], is restructuring in order to pay off debt, and will be cutting its work force by about a quarter. [https://www.reuters.com/article/us-teva-pharm-ind-restructuring/teva-pharm-to-lay-off-a-quarter-of-workforce-suspends-dividend-idUSKBN1E81ML (Reuters)]
+ 
+;Disasters and accidents
+*[[Perpignan crash]]
+**A train crashes into a school bus in the [[Arrondissement of Perpignan]] in France, killing four pupils on the bus. [http://www.bbc.co.uk/news/world-europe-42358075 (BBC)]
 
-;Health and eviroment
+;Health and environment
 *[[Health education]]
-**The [[Supreme Court of Justice of Guatemala|Supreme Court of Justice]] of [[Guatemala]] chooses not to allow the implementation a manual used by the [[Procuratorate of Human Rights of Guatemala|Procuratorate of Human Rights]] for talks and workshops about [[Human sexuality|sexuality]] due to the document's views on [[abortion]], which, except risk for mother's life, is [[Abortion law|illegal]] [[Abortion in Guatemala|in the country]]. [http://www.prensalibre.com/guatemala/comunitario/manual-de-reproduccion-sexual-de-la-pdh-promovia-el-aborto (''Prensa Libre'')]
-
+**The [[Supreme Court of Justice of Guatemala|Supreme Court of Justice]] of [[Guatemala]] rules not to allow the implementation of a [[Instruction|usage manual]] from the [[Procuratorate of Human Rights of Guatemala|Procuratorate of Human Rights]] for talks and workshops about [[Human sexuality|sexuality]] due to the document's views on [[abortion]], which, except risk for mother's life, is [[Abortion law|illegal]] in the [[Abortion in Guatemala|country]]. [http://www.prensalibre.com/guatemala/comunitario/manual-de-reproduccion-sexual-de-la-pdh-promovia-el-aborto (''Prensa Libre'')]
 <!-- All news items above this line -->}}
