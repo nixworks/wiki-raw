@@ -1,4 +1,4 @@
-{{pp-vandalism|expiry=04:47, 16 December 2017|small=yes}}
+<noinclude>{{pp-vandalism|expiry=04:47, 16 December 2017|small=yes}}</noinclude>
 {{Current events|year=2017|month=12|day=14|content=
 
 <!-- All news items below this line -->
@@ -7,6 +7,7 @@
 *[[Teva Pharmaceutical]], the giant [[generic drug]] manufacturer headquartered in [[Israel]], is restructuring in order to pay off debt, and will be cutting its work force by about a quarter. [https://www.reuters.com/article/us-teva-pharm-ind-restructuring/teva-pharm-to-lay-off-a-quarter-of-workforce-suspends-dividend-idUSKBN1E81ML (Reuters)] 
 
 ;Health and eviroment
-*The [[Supreme Court of Justice of Guatemala]] leaves without effect the use of a manual used by the [[Procuratorate of Human Rights of Guatemala|Procuratorate of Human Rights]] for talks and workshops about sexuality, due to the interpretation given to the document on the promotion of [[abortion]], that, except risk to the mother's life, is unlegal in the country. [http://www.prensalibre.com/guatemala/comunitario/manual-de-reproduccion-sexual-de-la-pdh-promovia-el-aborto (''Prensa Libre'')]
+*[[Health education]]
+**The [[Supreme Court of Justice of Guatemala|Supreme Court of Justice]] of [[Guatemala]] chooses not to allow the implementation a manual used by the [[Procuratorate of Human Rights of Guatemala|Procuratorate of Human Rights]] for talks and workshops about [[Human sexuality|sexuality]] due to the document's views on [[abortion]], which, except risk for mother's life, is [[Abortion law|illegal]] [[Abortion in Guatemala|in the country]]. [http://www.prensalibre.com/guatemala/comunitario/manual-de-reproduccion-sexual-de-la-pdh-promovia-el-aborto (''Prensa Libre'')]
 
 <!-- All news items above this line -->}}
