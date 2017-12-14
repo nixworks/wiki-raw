@@ -3,5 +3,10 @@
 
 <!-- All news items below this line -->
 ;Business and economy
-*[[The Walt Disney Company]] acquires a large portion of [[21st Century Fox]] for $52.4 billion. [https://www.cbsnews.com/news/disney-fox-deal-combines-two-of-worlds-biggest-entertainment-giants-live-updates/ (CBS)]
+*[[The Walt Disney Company]] announces its intent to acquire a large portion of [[21st Century Fox]] for $52.4 billion, pending regulatory approval. [https://www.cbsnews.com/news/disney-fox-deal-combines-two-of-worlds-biggest-entertainment-giants-live-updates/ (CBS)]
+*[[Teva Pharmaceutical]], the giant [[generic drug]] manufacturer headquartered in [[Israel]], is restructuring in order to pay off debt, and will be cutting its work force by about a quarter. [https://www.reuters.com/article/us-teva-pharm-ind-restructuring/teva-pharm-to-lay-off-a-quarter-of-workforce-suspends-dividend-idUSKBN1E81ML (Reuters)] 
+
+;Health and eviroment
+*The [[Supreme Court of Justice of Guatemala]] leaves without effect the use of a manual used by the [[Procuratorate of Human Rights of Guatemala|Procuratorate of Human Rights]] for talks and workshops about sexuality, due to the interpretation given to the document on the promotion of [[abortion]], that, except risk to the mother's life, is unlegal in the country. [http://www.prensalibre.com/guatemala/comunitario/manual-de-reproduccion-sexual-de-la-pdh-promovia-el-aborto (''Prensa Libre'')]
+
 <!-- All news items above this line -->}}
