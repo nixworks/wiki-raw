@@ -9,7 +9,7 @@
 
 ;Disasters and accidents
 *A week of heavy rains and flooding in [[South China|south China]] results in at least 25 deaths, six people missing and 33,000 people displaced. [http://abcnews.go.com/International/wireStory/floods-southern-china-kill-25-displace-33000-39950447 (ABC News)]
-*Six people are killed and 10 injured when a van crashes in the [[United States|U.S.]] state of [[Virginia]]. [http://www.reuters.com/article/us-virginia-crash-idUSKCN0Z40O2?feedType=RSS&feedName=topNews (Reuters)]
+*Six people are killed and 10 injured when a van crashes in the [[United States|U.S.]] state of [[Virginia]]. [https://www.reuters.com/article/us-virginia-crash-idUSKCN0Z40O2?feedType=RSS&feedName=topNews (Reuters)]
 
 ;Law and crime
 *[[Killing of Jo Cox]]
