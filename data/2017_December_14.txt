@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Colombian conflict]]
-**Colombia's biggest [[Illegal drug trade|narcotics]] [[Right-wing paramilitarism in Colombia|gang]], [[Clan del Golfo]] ([[Autodefensas Gaitanistas de Colombia|AGC]]), declares a cease-fire in effect since December 13. They say the gesture is  meant "to contribute to a full, total and lasting peace." [http://www.gmanetwork.com/news/news/world/636617/colombia-s-biggest-drug-gang-announces-ceasefire/story/ (''GMA Network'')]
+**Colombia's biggest [[Illegal drug trade|narcotics]] [[Right-wing paramilitarism in Colombia|gang]], [[Clan del Golfo]] ([[Autodefensas Gaitanistas de Colombia|AGC]]), declares a cease-fire in effect since December 13. They say the gesture is  meant "to contribute to a full, total and [[Colombian peace process|lasting peace]]." The [[Government of Colombia|government]] says that it welcomes the move but also that it will continue their pressure on the organization. [http://www.gmanetwork.com/news/news/world/636617/colombia-s-biggest-drug-gang-announces-ceasefire/story/ (''GMA Network'')]
 
 ;Business and economy
 *[[Acquisition of 21st Century Fox by Disney]]
@@ -27,12 +27,15 @@
 **[[Nikki Haley]], the [[U.S. Ambassador to the United Nations]], accuses [[Iran]] of violating the [[Joint Comprehensive Plan of Action|2015 nuclear deal]] by allegedly supplying the missile fired last month on [[Saudi Arabia]] from [[Yemen]]. Iran denies this claim. [[Ministry of Foreign Affairs (Iran)|Foreign Minister]] [[Mohammad Javad Zarif]] juxtaposes the presentation with the intelligence that led to the [[2003 Iraq War]]. That evidence was later discredited. [https://www.bloomberg.com/news/articles/2017-12-14/haley-says-missile-parts-prove-iran-is-violating-un-resolutions-jb6u2ik9 (Bloomberg News)]
 *[[Somalia–United States relations]], [[Somali Civil War (2009–present)]]
 **The U.S. government cuts aid to some Somali military units for allegedly [[Corruption in Somalia|misusing funds]]. [http://www.cnn.com/2017/12/14/politics/us-aid-somalia/index.html (CNN)]
+*[[Military intervention against ISIL]]
+**[[United Kingdom|British]] researchers document twelve cases where arms purchased by the [[United States]] and [[Saudi Arabia]] for [[Syrian opposition]] groups ended up in the hands of terror group [[Islamic State of Iraq and the Levant|Islamic State]]. [https://www.reuters.com/article/us-mideast-crisis-iraq-arms/arms-supplied-by-u-s-saudi-ended-up-with-islamic-state-researchers-say-idUSKBN1E82EQ (Reuters)]
 
 ;Law and crime
 *Attorneys general for [[California]], [[New York (state)|New York]], [[Illinois]] and [[Massachusetts]] sue the Trump Administration's [[United States Department of Education|Department of Education]] for not granting loan relief to students defrauded by [[For-profit education|for-profit schools]]. [https://www.reuters.com/article/us-usa-education-loans/u-s-states-sue-trump-administration-for-not-granting-student-loan-relief-idUSKBN1E831A (Reuters)]
+
 ;Politics and elections
 *[[Operation Car Wash]]
-**The main opposition party of [[Peru]], [[Popular Force]], which has the absolute majority in [[National Congress of Peru|Congress]], gives the [[President of Peru|President]] [[Pedro Pablo Kuczynski]] less than 24 hours to present his resignation. The demand comes after the [[Odebrecht]] construction company revealed payments of $4.8 million to a company Kuczynski controlled while he held public office. [https://www.reuters.com/article/us-peru-odebrecht-kuczynski/peru-opposition-demands-presidents-immediate-resignation-idUSKBN1E82RL (Reuters)]
+**The main opposition party of Peru, Popular Force, which has the absolute majority in Congress, through a press conference, gives the president Pedro Pablo Kuczynski less than 24 hours to present his resignation. However, this political group did not mention what it would do if the president does not do it. This, after it revealed a corruption scandal involving the head of state, which would show that he received large sums of money from the Odebrecht construction company, through a financial advisory firm of his property, in exchange of the concession of important infrastructures for the country. Previously, Kuczynski confirmed that he would attend a commission of the Congress which investigates the Odebrecht's links in Peru. [https://www.reuters.com/article/us-peru-odebrecht-kuczynski/peru-opposition-demands-presidents-immediate-resignation-idUSKBN1E82RL (Reuters)]
 *[[Political appointments by Donald Trump|Donald Trump's political appointments]]
 **[[Michael Dourson]], [[University of Cincinnati College of Medicine]] professor, withdraws his nomination for an assistant administrator position with the [[United States Environmental Protection Agency|Environmental Protection Agency]]. [https://www.nbcnews.com/politics/white-house/trump-s-controversial-pick-epa-post-withdraws-nomination-n829596 (NBC News)] 
 <!-- All news items above this line -->}}
