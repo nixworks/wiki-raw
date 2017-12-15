@@ -3,14 +3,14 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Colombian conflict|Internal armed conflict in Colombia]], [[Right-wing paramilitarism in Colombia|Paramilitarism in Colombia]], [[Illegal drug trade in Colombia]]
-**The biggest narcotics gang in the country, the far-right paramilitary [[Clan del Golfo]] ([[Autodefensas Gaitanistas de Colombia|AGC]]), declares a cease-fire in effect since December 13. They say the gesture is  meant "to contribute to a full, total and lasting peace." The [[Government of Colombia|government]] does not consider the gang as a political actor in the [[Colombian peace process]]. The peace process foresees [[leniency]] measures for the [[Repentance|repentant]]. [http://www.gmanetwork.com/news/news/world/636617/colombia-s-biggest-drug-gang-announces-ceasefire/story/ (''GMA Network'')]
+*[[Colombian conflict]]
+**Colombia's biggest narcotics gang, [[Clan del Golfo]] ([[Autodefensas Gaitanistas de Colombia|AGC]]), declares a cease-fire in effect since December 13. They say the gesture is  meant "to contribute to a full, total and lasting peace." [http://www.gmanetwork.com/news/news/world/636617/colombia-s-biggest-drug-gang-announces-ceasefire/story/ (''GMA Network'')]
 
 ;Business and economy
 *[[The Walt Disney Company]] announces its intent to acquire a large portion of [[21st Century Fox]] for $52.4 billion, pending regulatory approval. [https://www.cbsnews.com/news/disney-fox-deal-combines-two-of-worlds-biggest-entertainment-giants-live-updates/ (CBS)]
-*[[Teva Pharmaceutical]], the giant [[generic drug]] manufacturer headquartered in [[Israel]], is restructuring in order to pay off debt, and will be cutting its work force by about a quarter. [https://www.reuters.com/article/us-teva-pharm-ind-restructuring/teva-pharm-to-lay-off-a-quarter-of-workforce-suspends-dividend-idUSKBN1E81ML (Reuters)]
+*[[Israeli]] company [[Teva Pharmaceutical]], the world's largest [[generic drug]] manufacturer, is restructuring in order to pay off debt, and will be cutting its work force by about a quarter. [https://www.reuters.com/article/us-teva-pharm-ind-restructuring/teva-pharm-to-lay-off-a-quarter-of-workforce-suspends-dividend-idUSKBN1E81ML (Reuters)]
 *[[Net neutrality in the United States]]
-**The [[Federal Communications Commission]] votes 3-to-2 to dismantle its [[net neutrality]] regulations. The dissenting commissioners are outraged. [https://www.wired.com/story/after-fcc-vote-net-neutrality-fight-moves-to-courts-congress (''Wired'')] [https://www.wired.com/story/read-fcc-net-neutrality-dissent/ (''Wired'')]
+**The [[Federal Communications Commission]] votes 3-to-2 to dismantle its [[net neutrality]] regulations. [https://www.wired.com/story/after-fcc-vote-net-neutrality-fight-moves-to-courts-congress (''Wired'')] [https://www.wired.com/story/read-fcc-net-neutrality-dissent/ (''Wired'')]
  
 ;Disasters and accidents
 *[[Perpignan crash]]
@@ -22,13 +22,13 @@
 
 ;International relations
 *[[Iran–United States relations]]
-**Iran dismisses the United States' allegation of having supplied the missile fired last month on [[Saudi Arabia]] from [[Yemen]] as an "unfounded" claim based on purported evidence. The United States declare that the displayed missile parts are undeniable, "irrefutable" evidence of Iran having violated its international obligations. [https://en.mehrnews.com/news/130253/Iran-reacts-to-US-allegations (Mehr News)] [https://www.huffingtonpost.com/entry/nikki-haley-iran-role-yemen_us_5a32b7cbe4b0e41f9e043302 (''Huffington Post'')]
-*[[Military intervention against ISIL]]
-**[[United Kingdom|British]] researchers document 12 cases where arms purchased by the [[United States]] and [[Saudi Arabia]] for [[Syrian opposition]] groups ended up in the hands of terror group [[Islamic State of Iraq and the Levant|Islamic State]]. [https://www.reuters.com/article/us-mideast-crisis-iraq-arms/arms-supplied-by-u-s-saudi-ended-up-with-islamic-state-researchers-say-idUSKBN1E82EQ (Reuters)]
+**[[Nikki Haley]], the [[U.S. Ambassador to the United Nations]], accuses [[Iran]] of violating [[Joint Comprehensive Plan of Action|its 2015 nuclear deal]] by allegedly supplying the missile fired last month on [[Saudi Arabia]] from [[Yemen]]. Iran denies these claims, and the [[United Nations]] has reported that it is still analyzing the missile strike. [https://www.bloomberg.com/news/articles/2017-12-14/haley-says-missile-parts-prove-iran-is-violating-un-resolutions-jb6u2ik9 (Bloomberg News)]
+*[[Somalia–United States relations]], [[Somali Civil War (2009–present)]]
+**The U.S. government cuts aid to some Somali military units for allegedly [[Corruption in Somalia|misusing funds]]. [http://www.cnn.com/2017/12/14/politics/us-aid-somalia/index.html (CNN)]
 
 ;Politics and elections
 *[[Operation Car Wash]]
-**The main opposition party of [[Peru]], [[Popular Force]], which has the absolute majority in [[National Congress of Peru|Congress]], through a press conference, gives the [[president of Peru|president]] [[Pedro Pablo Kuczynski]] less than 24 hours to present his resignation. However, this political group did not mention what it would do if the president does not do it. This, after it revealed a corruption scandal involving the head of state, which would show that he received large sums of money from the Odebrecht construction company, through a financial advisory firm of his property, in exchange of the concession of important infrastructures for the country. Previously, Kuczynski confirmed that he would attend a commission of the Congress which investigates the Odebrecht's links in Peru. [https://www.reuters.com/article/us-peru-odebrecht-kuczynski/peru-opposition-demands-presidents-immediate-resignation-idUSKBN1E82RL (Reuters)]
+**The main opposition party of [[Peru]], [[Popular Force]], which has the absolute majority in [[National Congress of Peru|Congress]], gives the [[President of Peru|President]] [[Pedro Pablo Kuczynski]] less than 24 hours to present his resignation. The demand comes after the [[Odebrecht]] construction company revealed payments of $4.8 million to a company Kuczynski controlled while he held public office. [https://www.reuters.com/article/us-peru-odebrecht-kuczynski/peru-opposition-demands-presidents-immediate-resignation-idUSKBN1E82RL (Reuters)]
 *[[Political appointments by Donald Trump|Donald Trump's political appointments]]
-**[[Michael Dourson]], [[University of Cincinnati College of Medicine]] professor,  withdraws his nomination for an assistant administrator position with the [[United States Environmental Protection Agency|Environmental Protection Agency]]. [https://www.nbcnews.com/politics/white-house/trump-s-controversial-pick-epa-post-withdraws-nomination-n829596 (NBC News)] 
+**[[Michael Dourson]], [[University of Cincinnati College of Medicine]] professor, withdraws his nomination for an assistant administrator position with the [[United States Environmental Protection Agency|Environmental Protection Agency]]. [https://www.nbcnews.com/politics/white-house/trump-s-controversial-pick-epa-post-withdraws-nomination-n829596 (NBC News)] 
 <!-- All news items above this line -->}}
