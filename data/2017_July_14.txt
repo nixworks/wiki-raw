@@ -11,7 +11,7 @@
 
 ;Disasters and accidents
 *[[Marco Polo condo fire]]
-**At least three people are killed and two hospitalized, one in serious condition, from a fire in a  condominium tower in the [[United States|U.S.]] city of [[Honolulu]], [[Hawaii]]. An unknown number of residents are reportedly still trapped in their apartments. [http://www.foxnews.com/us/2017/07/15/honolulu-fire-at-least-3-dead-in-high-rise-fears-that-residents-are-trapped.html (AP via Fox News)] [http://www.reuters.com/article/us-hawaii-fire-idUSKBN1A0025?il=0 (Reuters)]
+**At least three people are killed and two hospitalized, one in serious condition, from a fire in a  condominium tower in the [[United States|U.S.]] city of [[Honolulu]], [[Hawaii]]. An unknown number of residents are reportedly still trapped in their apartments. [http://www.foxnews.com/us/2017/07/15/honolulu-fire-at-least-3-dead-in-high-rise-fears-that-residents-are-trapped.html (AP via Fox News)] [https://www.reuters.com/article/us-hawaii-fire-idUSKBN1A0025?il=0 (Reuters)]
 
 ;Law and crime
 *[[Presidency of Donald Trump]]
@@ -23,7 +23,7 @@
 **A court of [[Lima]] orders 18 months of pre-trial imprisonment for former president [[Ollanta Humala]] and his wife [[Nadine Heredia]] for alleged [[money laundering]]. Both have turned themselves in. [http://www.bbc.co.uk/news/world-latin-america-40605823 (BBC)]
 
 *[[Executive Order 13780]], ''[[Hawaii v. Trump]]''
-**The [[Presidency of Donald Trump|Trump Administration]] asks the [[Supreme Court of the United States|U.S. Supreme Court]] to stop implementation of yesterday's ruling by [[United States District Court for the District of Hawaii|Hawaii District Judge]] [[Derrick Watson]] that expanded the [[United States Department of State|State Department's]] definition of "close family" used to implement the Supreme Court's June  order that permits admission to the U.S. of  those with a bona fide relationship.  [http://www.reuters.com/article/us-usa-immigration-idUSKBN19Z1R7?il=0 (Reuters)] [http://live.reuters.com/Event/Live_US_Politics/989297085 (U.S. State Department via Reuters)]
+**The [[Presidency of Donald Trump|Trump Administration]] asks the [[Supreme Court of the United States|U.S. Supreme Court]] to stop implementation of yesterday's ruling by [[United States District Court for the District of Hawaii|Hawaii District Judge]] [[Derrick Watson]] that expanded the [[United States Department of State|State Department's]] definition of "close family" used to implement the Supreme Court's June  order that permits admission to the U.S. of  those with a bona fide relationship.  [https://www.reuters.com/article/us-usa-immigration-idUSKBN19Z1R7?il=0 (Reuters)] [http://live.reuters.com/Event/Live_US_Politics/989297085 (U.S. State Department via Reuters)]
 
 ;Politics and elections
 *[[Politics of Australia]]
