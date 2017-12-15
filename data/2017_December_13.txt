@@ -1,5 +1,4 @@
-<noinclude>{{pp-sock|expiry=23:33, 15 December 2017|small=yes}}</noinclude>
-{{Current events|year=2017|month=12|day=13|content=
+<noinclude>{{pp-sock|expiry=23:33, 15 December 2017|small=yes}}</noinclude>{{Current events|year=2017|month=12|day=13|content=
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
