@@ -53,6 +53,6 @@
 
 ;Science and technology
 *Mathematician [[John Milnor]] wins the 2011 [[Abel Prize]] for his contributions to [[topology]], [[geometry]] and [[algebra]]. [http://www.thehindu.com/sci-tech/science/article1565424.ece (''The Hindu'')]
-*The first [[Electric vehicle battery|battery-swapping station]] in Israel for [[Electric vehicle|electric cars]] is inaugurated by [[Better Place]]; over 1,000 [[charging station]]s for the cars are already in place. [http://www.jpost.com/Sci-Tech/Article.aspx?id=213562 (''The Jerusalem Post'')]
+*The first [[Electric vehicle battery|battery-swapping station]] in Israel for [[Electric vehicle|electric cars]] is inaugurated by [[Better Place (company)|Better Place]]; over 1,000 [[charging station]]s for the cars are already in place. [http://www.jpost.com/Sci-Tech/Article.aspx?id=213562 (''The Jerusalem Post'')]
 
 <!-- All news items above this line -->{{Current events footer}}
