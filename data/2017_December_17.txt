@@ -2,9 +2,19 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*A suicide bomb and gun attack on a [[Methodism|Methodist]] church in Pakistan has killed at least five people, reports say. [http://www.bbc.com/news/world-asia-42383436 (BBC)]
+*A suicide bomb and gun attack on a [[Methodism|Methodist]] church in Pakistan kills 9 people. [http://www.bbc.com/news/world-asia-42383436 (BBC)] [https://www.dawn.com/news/1377184 (''Dawn'')]
+
+;International relations
+*[[Positions on Jerusalem]]
+**[[Recep Tayyip Erdoğan]], the [[President of Turkey]] says "the day is close when officially," his nation will open an embassy in [[East Jerusalem]]. [http://thehill.com/policy/international/middle-east-north-africa/365302-turkey-will-open-embassy-in-east-jerusalem (''The Hill'')]
+*[[Sino-Russian relations since 1991|China-Russia relations]]
+**The [[Ministry of Defence (Russia)|Russian Ministry of Defense]] says that Russia and China concluded a five-day computer-generated air defense drill in [[Beijing]]. [http://www.newsweek.com/russia-and-china-join-forces-anti-missile-defense-drill-beijing-750711 (''Newsweek'')]
 
 ;Law and crime
 *[[Australia–North Korea relations]]
 **[[Australian Federal Police]] arrest [[Naturalization|naturalized]] North Korean Chan Han Choi for  violating [[Sanctions against North Korea|UN and Australian sanctions]] by acting as an [[Agent (economics)|economic agent]] for [[North Korea]]. [http://www.bbc.com/news/world-australia-42382399 (BBC)]
+
+;Politics and elections
+*[[Chilean general election, 2017]]
+**Voters are to decide on their [[Elections in Chile#Presidential elections|next president]]. Today, in the second round, they have the choice between two candidates: [[Sebastián Piñera]] and [[Alejandro Guillier]]. [http://www.dw.com/en/chile-votes-in-tightly-contested-presidential-race/a-41827339 (''Deutsche Welle'')]
 <!-- All news items above this line -->}}
