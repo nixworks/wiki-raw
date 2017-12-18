@@ -1,9 +1,15 @@
 {{Current events|year=2017|month=12|day=18|content=
 
 <!-- All news items below this line -->
+;Disasters and accidents
+*[[DuPont train derailment]]
+**At least three people are killed and many others injured when an [[Amtrak]] passenger train derails on an [[Interstate 5]] overpass in [[Pierce County, Washington]]. This train is part of a new [[High-speed rail|high-speed]] [[Amtrak Cascades|''Cascades'']] service from [[Tacoma, Washington|Tacoma]] that launched this morning. [http://www.cnn.com/2017/12/18/us/amtrak-derailment-washington/index.html (CNN)] [https://www.cbsnews.com/news/amtrak-train-derailment-tacoma-washington-traffic-today-live-updates/ (CBS News)] [http://www.theolympian.com/news/local/article190312924.html (''The Olympian'')]
+
 ;Politics and elections
 * [[Austrian legislative election, 2017]]
 **[[Sebastian Kurz]] becomes the new [[Chancellor of Austria|Chancellor]] of [[Austria]] and a [[Kurz government|new government]] is inaugurated. [https://www.bloomberg.com/news/articles/2017-12-17/kurz-set-to-become-austrian-chancellor-backed-by-nationalists (Bloomberg)]
+*[[Politics of South Africa]]
+**[[Cyril Ramaphosa]] becomes president of the [[African National Congress]] (ANC), defeating [[Nkosazana Dlamini-Zuma]] by 2,440 votes to 2,261. [https://www.news24.com/SouthAfrica/News/live-anc-voting-results-expected-20171218 (News24)]
 *[[Politics of the United States]]
 **[[President of the United States]] [[Donald Trump]] is to present a new [[National Security Strategy (United States)|National Security Strategy]] document today. He is expected to declare [[China]] a "strategic competitor". [http://edition.cnn.com/2017/12/18/politics/trump-security-strategy/index.html (CNN)] [https://www.bloomberg.com/news/articles/2017-12-18/trump-to-declare-china-strategic-competitor-in-security-speech (Bloomberg)]
 <!-- All news items above this line -->}}
