@@ -2,5 +2,8 @@
 
 <!-- All news items below this line -->
 ;Politics and elections
-*[[Sebastian Kurz]] becomes the new [[Chancellor of Austria|Chancellor]] of [[Austria]] and a [[Kurz government|new government]] is inaugurated. [https://www.bloomberg.com/news/articles/2017-12-17/kurz-set-to-become-austrian-chancellor-backed-by-nationalists (Bloomberg)]
+* [[Austrian legislative election, 2017]]
+**[[Sebastian Kurz]] becomes the new [[Chancellor of Austria|Chancellor]] of [[Austria]] and a [[Kurz government|new government]] is inaugurated. [https://www.bloomberg.com/news/articles/2017-12-17/kurz-set-to-become-austrian-chancellor-backed-by-nationalists (Bloomberg)]
+*[[Politics of the United States]]
+**[[President of the United States]] [[Donald Trump]] is to present a new [[National Security Strategy (United States)|National Security Strategy]] document today. He is expected to declare [[China]] a "strategic competitor". [http://edition.cnn.com/2017/12/18/politics/trump-security-strategy/index.html (CNN)] [https://www.bloomberg.com/news/articles/2017-12-18/trump-to-declare-china-strategic-competitor-in-security-speech (Bloomberg)]
 <!-- All news items above this line -->}}
