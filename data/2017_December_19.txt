@@ -1,7 +1,15 @@
 {{Current events|year=2017|month=12|day=19|content=
 
 <!-- All news items below this line -->
-;Armed conflicts
-* [[Saudi Arabian-led intervention in Yemen]]
-**Saudi Arabia says that Houthi rebels launch a missile targeting at the Al-Yamamah Palace in the Saudi capital city of [[Riyadh]]. The missile was allegedly intercepted by the Saudi Arabian Air Force. [https://www.wsj.com/articles/saudi-arabia-intercepts-missile-fired-by-yemen-houthi-rebels-1513686517 (Wall Street Journal)]
+;Armed conflicts and attacks
+*[[Saudi Arabian-led intervention in Yemen]]
+**[[Houthis]] say that they launched a [[Volcano H-2]] missile targeting at the Al-Yamamah Palace in the Saudi capital city of [[Riyadh]]. According to the Saudis, the missile was intercepted south of Riyadh and caused no casualties. [https://www.wsj.com/articles/saudi-arabia-intercepts-missile-fired-by-yemen-houthi-rebels-1513686517 (''Wall Street Journal'')]
+
+;Disasters and accidents
+*[[2017 Washington train derailment]]
+**An [[National Transportation Safety Board|NTSB]] spokesperson says preliminary indications are that the train was travelling at 80mph on a 30mph track. The [[Positive train control]] (PTC) safety system was not installed on the train, says [[Amtrak]]. [http://www.bbc.com/news/world-us-canada-42408624 (BBC)]
+
+;Law and crime
+*[[Tax Cuts and Jobs Act of 2017]]
+**The [[United States]] [[United States House of Representatives|House of Representatives]] passes the [[Tax Cuts and Jobs Act of 2017]] by 227 votes to 203. It is now to be sent to the [[United States Senate]] for a vote, possibly even tonight. [https://www.nbcnews.com/politics/congress/republican-tax-bill-house-senate-trump-n831161 (NBC News)]
 <!-- All news items above this line -->}}
