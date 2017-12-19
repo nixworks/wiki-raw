@@ -8,7 +8,7 @@
 
 ;Business and economy
 *[[Antivirus software]]
-**[[United States Department of Homeland Security|United States Homeland Security]] bans [[Kaspersky Lab]] products from government computers due to fears they could be coerced into sharing information with the [[Russian government]].  [http://gizmodo.com/citing-russian-ties-homeland-security-boots-kaspersky-1807474114 (''Gizmodo'')]
+**[[United States Department of Homeland Security|United States Homeland Security]] bans [[Kaspersky Lab]] products from government computers due to fears they could be coerced into sharing information with the [[Russian government]].  [https://gizmodo.com/citing-russian-ties-homeland-security-boots-kaspersky-1807474114 (''Gizmodo'')]
 
 ;International relations
 *[[Immigration to the United States]]
