@@ -1,7 +1,5 @@
 {{Current events|year=2017|month=12|day=19|content=
 
 <!-- All news items below this line -->
-;International relations
-*[[United States–North Korea relations]]
-**The [[United States]] claims [[North Korea]] is directly responsible for the [[WannaCry ransomware attack]] which occurred earlier this year. [http://www.bbc.com/news/world-us-canada-42407488 (BBC)]
+*
 <!-- All news items above this line -->}}

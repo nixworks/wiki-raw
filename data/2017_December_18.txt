@@ -1,6 +1,8 @@
 {{Current events|year=2017|month=12|day=18|content=
 
 <!-- All news items below this line -->
+;Arts and culture
+*[[Twitter]] suspends the accounts of well-known [[White nationalism|white nationalists]] per recently implemented [[Censorship of Twitter|new offensive content rules]].  [http://time.com/5069621/twitter-white-nationalist-new-rules/ (AP via ''Time'')]
 ;Disasters and accidents
 *[[2017 Washington train derailment]]
 **At least three people are killed and 77 injured when an [[Amtrak]] passenger train derails on an [[Interstate 5]] overpass in [[Pierce County, Washington|Pierce County]], [[Washington (state)|Washington]]. This train is part of a new [[Amtrak Cascades|''Cascades'']] service from [[Tacoma, Washington|Tacoma]] that launched this morning. [http://www.cnn.com/2017/12/18/us/amtrak-derailment-washington/index.html (CNN)] [https://www.cbsnews.com/news/amtrak-train-derailment-tacoma-washington-traffic-today-live-updates/ (CBS News)] [http://www.theolympian.com/news/local/article190312924.html (''The Olympian'')]
@@ -8,6 +10,8 @@
 ;International relations
 *[[United States recognition of Jerusalem as Israeli capital]]
 **The Unites States vetoes an [[United Nations Security Council resolution]] calling for it to withdraw its declaration of a capital in [[Jerusalem]], which was approved by the other 14 members. [https://www.reuters.com/article/us-usa-trump-israel-un/u-s-vetoes-u-n-call-for-withdrawal-of-trump-jerusalem-decision-idUSKBN1EC25N (Reuters)]
+*[[United States–North Korea relations]]
+**The [[United States]] claims [[North Korea]] is directly responsible for the [[WannaCry ransomware attack]] which occurred earlier this year. [http://www.bbc.com/news/world-us-canada-42407488 (BBC)] [https://www.washingtonpost.com/world/national-security/us-set-to-declare-north-korea-carried-out-massive-wannacry-cyber-attack/2017/12/18/509deb1c-e446-11e7-a65d-1ac0fd7f097e_story.html?utm_term=.5ce963e77fc6 (''The Washington Post'')]
 
 ;Law and crime
 *[[Weinstein effect]]
@@ -22,4 +26,7 @@
 **[[Cyril Ramaphosa]] becomes president of the [[African National Congress]] (ANC), defeating [[Nkosazana Dlamini-Zuma]] by 2,440 votes to 2,261. [https://www.news24.com/SouthAfrica/News/live-anc-voting-results-expected-20171218 (News24)]
 *[[Politics of the United States]]
 **[[President of the United States]] [[Donald Trump]] presents a new [[National Security Strategy (United States)|National Security Strategy]] document that labels China and Russia as the primary threats to U.S. economic dominance. [http://www.bbc.com/news/world-us-canada-42401170 (BBC)]
+
+;Science and technology
+*[[University of California, Los Angeles]], and  [[University of Wisconsin–Madison]] researchers  report, in the ''[[Proceedings of the National Academy of Sciences of the United States of America|Proceedings of the National Academy of Sciences]]'',  that microscopic fossils discovered in a nearly 3.5 billion-year-old piece of rock in [[Western Australia]] are the oldest fossils ever found and the earliest direct evidence of [[Evolutionary history of life|life on Earth]]. [https://phys.org/news/2017-12-oldest-fossils-life-earth-began.html (Phys.org)] [https://www.timeslive.co.za/news/2017-12-19-scientists-confirm-35-billion-year-old-fossil-life-in-rock/ (''The Times'')]
 <!-- All news items above this line -->}}
