@@ -1,7 +1,12 @@
 {{Current events|year=2017|month=12|day=20|content=
 
 <!-- All news items below this line -->
+;Business and economy
+*[[Uber protests and legal actions]]
+**The [[European Court of Justice]] (ECJ) rules that [[Uber (company)|Uber]] is officially a transport company and not a digital service, thus requiring it to accept stricter regulation and licensing within the [[European Union]]. The case arose after Uber was told to obey local [[Taxicab|taxi]] rules in [[Barcelona]]. [https://www.theguardian.com/technology/2017/dec/20/uber-european-court-of-justice-ruling-barcelona-taxi-drivers-ecj-eu (''The Guardian'')]
+
 ;Law and crime
+* The [[European Commission]] invokes the [[article 7]] of the [[European Treaty]] against EU's member [[Poland]], denouncing recent judiciary reforms putting it under control of the leading political force.[http://www.lemonde.fr/europe/article/2017/12/20/l-europe-declenche-une-procedure-sans-precedent-contre-le-gouvernement-polonais_5232406_3214.html (LeMonde.fr)]
 *[[Medical cannabis]] is legalized in [[New Zealand]]. [http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11963230 (''New Zealand Herald'')] [http://www.newshub.co.nz/home/politics/2017/12/government-rules-terminally-ill-people-allowed-to-smoke-cannabis.amp.html (Newshub)]
 
 ;Science and technology
