@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Syrian Civil War]]
-**Three suicide bombers attack a police command center in [[Damascus]], killing two people and injuring six others. [http://www.reuters.com/article/us-mideast-crisis-syria-attack/suicide-bombers-attack-damascus-police-center-syrian-state-media-idUSKBN1CG1QI (Reuters)]
+**Three suicide bombers attack a police command center in [[Damascus]], killing two people and injuring six others. [https://www.reuters.com/article/us-mideast-crisis-syria-attack/suicide-bombers-attack-damascus-police-center-syrian-state-media-idUSKBN1CG1QI (Reuters)]
 **''[[The Sun (United Kingdom)|The Sun]]'' reports that the [[Central Intelligence Agency|CIA]] informed UK intelligence agencies that [[British people|British]]-born [[Islamic State of Iraq and the Levant|ISIL]] activist and recruiter [[Sally Jones]] was killed in a [[United States|U.S.]] drone strike in June along with her 12-year-old son while they were fleeing [[Raqqa]] in [[Syria]]. [https://www.theguardian.com/world/2017/oct/12/british-isis-member-sally-jones-white-widow-killed-airstrike-son-islamic-state-syria (''The Guardian'')]
 
 ;Arts and culture
@@ -13,13 +13,13 @@
 ;Disasters and accidents
 *[[October 2017 Northern California wildfires]]
 **The death toll grows to 23 people with 285 people still missing. [http://www.bbc.com/news/world-us-canada-41587590 (BBC)], [http://www.latimes.com/local/lanow/la-me-ln-fires-northern-california-20171011-story.html (''Los Angeles Times'')]
-**The property destruction now includes more than 3500 homes and businesses. [http://www.reuters.com/article/us-california-fire/at-least-23-dead-hundreds-missing-as-winds-fan-california-wildfires-idUSKBN1CG124 (Reuters)]
+**The property destruction now includes more than 3500 homes and businesses. [https://www.reuters.com/article/us-california-fire/at-least-23-dead-hundreds-missing-as-winds-fan-california-wildfires-idUSKBN1CG124 (Reuters)]
 *[[Mount Kirishima]]
 **[[Shinmoedake]] volcano erupts for the first time in six years. [https://www.japantimes.co.jp/news/2017/10/11/national/kyushus-shinmoedake-volcano-blows-stack-first-time-six-years/#.Wd4thVuPJaQ (''The Japan Times'')]
 
 ;Law and crime
 *[[Cybercrime]]
-**Last year a hacker stole non-classified information about [[Australia]]’s [[Lockheed Martin F-35 Lightning II procurement#Australia|Joint Strike Fighter program]] and other military hardware after breaching the network of a defense contractor. [http://www.reuters.com/article/us-australia-defence-cyber/joint-strike-fighter-plans-stolen-in-australia-cyber-attack-idUSKBN1CH00F (Reuters)]
+**Last year a hacker stole non-classified information about [[Australia]]’s [[Lockheed Martin F-35 Lightning II procurement#Australia|Joint Strike Fighter program]] and other military hardware after breaching the network of a defense contractor. [https://www.reuters.com/article/us-australia-defence-cyber/joint-strike-fighter-plans-stolen-in-australia-cyber-attack-idUSKBN1CH00F (Reuters)]
 *[[Kidnapping of Joshua Boyle and Caitlan Coleman]]
 **[[Pakistani Army|Pakistani troops]] rescue Joshua Boyle and Caitlan Coleman, who have been held captive since 2012, and their three children from the [[Taliban]]. [https://www.theguardian.com/world/2017/oct/12/pakistan-rescues-canadian-american-family-hostages-haqqani (''The Guardian'')]
 
