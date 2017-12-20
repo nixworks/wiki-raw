@@ -3,4 +3,7 @@
 <!-- All news items below this line -->
 ;Law and crime
 *[[Medical cannabis]] is legalized in [[New Zealand]]. [http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11963230 (''New Zealand Herald'')] [http://www.newshub.co.nz/home/politics/2017/12/government-rules-terminally-ill-people-allowed-to-smoke-cannabis.amp.html (Newshub)]
+
+;Science and technology
+*The [[National Institutes of Health]] lifts a three-year ban on scientists experimenting with lethal viruses in the [[United States]], saying the potential benefits of disease preparedness outweigh the risks. [http://www.bbc.co.uk/news/world-us-canada-42426548 (BBC)]
 <!-- All news items above this line -->}}
