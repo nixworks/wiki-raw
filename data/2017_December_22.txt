@@ -1,8 +1,11 @@
 {{Current events|year=2017|month=12|day=22|content=
 
 <!-- All news items below this line -->
+;Disasters and accidents
+*The [[Philippine Coast Guard]] reports that 252 passengers and crew have been rescued while five people were killed when a ferry capsized Thursday east of  [[Manila]]. [https://www.reuters.com/article/us-philippines-ferry/philippines-coast-guard-rescues-252-passengers-from-capsized-ferry-idUSKBN1EG08F?il=0 (Reuters)]
 ;Politics and elections
 * [[Catalan regional election, 2017]]
-** Voters in [[Catalonia]] confirm and lightly strengthen the pro-independance parties' majority within the [[Parliament of Catalonia|regional parliament]], with 70 out of 135 seats won.[https://www.theguardian.com/world/2017/dec/21/catalonia-election-set-to-give-victory-to-pro-independence-parties (The Guardian)]
-** [[Carles Puigdemont]] and analysts declare the vote a victory for the [[Catalan declaration of independence|pro-independance movement]], and a revert for the [[Spanish government]].[https://www.theguardian.com/world/2017/dec/21/catalonia-election-set-to-give-victory-to-pro-independence-parties (The Guardian)]
+** Voters in [[Catalonia]] confirm and lightly strengthen the pro-independance parties' majority within the [[Parliament of Catalonia|regional parliament]], with 70 out of 135 seats won, and a record [[Voter turnout|turnout]] of more than 80%.[https://www.theguardian.com/world/2017/dec/21/catalonia-election-set-to-give-victory-to-pro-independence-parties (''The Guardian'')]
+** [[Carles Puigdemont]] and analysts declare the vote a victory for the [[Catalan declaration of independence|pro-independence movement]], and a setback for the [[Government of Spain|Spanish government]].[https://www.theguardian.com/world/2017/dec/21/catalonia-election-set-to-give-victory-to-pro-independence-parties (''The Guardian'')]
+** [[Prime Minister of Spain|Prime Minister of Spain]] [[Mariano Rajoy]] and Spanish goverment's party, the [[People's Party of Catalonia]], falls from 11 to 4 seats. The unionist [[Ciutadans]] become the biggest party. [https://www.theguardian.com/world/live/2017/dec/21/catalonia-voters-results-regional-election-spain-live (''The Guardian'')]
 <!-- All news items above this line -->}}
