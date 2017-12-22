@@ -1,5 +1,8 @@
 {{Current events|year=2017|month=12|day=22|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+* [[Catalan regional election, 2017]]
+** Voters in [[Catalonia]] confirm and lightly strengthen the pro-independance parties' majority within the [[Parliament of Catalonia|regional parliament]], with 70 out of 135 seats won.[https://www.theguardian.com/world/2017/dec/21/catalonia-election-set-to-give-victory-to-pro-independence-parties (The Guardian)]
+** [[Carles Puigdemont]] and analysts declare the vote a victory for the [[Catalan declaration of independence|pro-independance movement]], and a revert for the [[Spanish government]].[https://www.theguardian.com/world/2017/dec/21/catalonia-election-set-to-give-victory-to-pro-independence-parties (The Guardian)]
 <!-- All news items above this line -->}}
