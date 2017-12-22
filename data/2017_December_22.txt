@@ -6,7 +6,7 @@
 **After 1,000 days of civil war in [[Yemen]], eight million people are at risk of starvation. [http://www.bbc.com/news/av/world-middle-east-42442463/starvation-in-sanaa-1000-days-of-yemen-s-civil-war (BBC)]
 
 ;Business and economy
-*[[Bitcoin]]
+*[[Economics of bitcoin]]
 **The digital cryptocurrency [[Bitcoin]] loses a third of its value within 24 hours. [http://money.cnn.com/2017/12/22/investing/bitcoin-plunges-below-14k/index.html (CNN)]
 *[[CSX Corporation]] names chief operating officer Jim Foote its new chief executive officer, succeeding [[Hunter Harrison]] who died last week. Harrison had started a restructuring campaign less than a year ago. [https://www.reuters.com/article/us-csx-ceo/csx-names-foote-as-ceo-following-death-of-harrison-idUSKBN1EG22Y?il=0 (Reuters)]
 
@@ -27,7 +27,8 @@
 **The voter turnout reaches a record high for a Catalan regional election of over 83%. [https://www.reuters.com/article/us-spain-politics-catalonia/catalan-separatists-win-election-in-rebuke-to-spain-and-eu-idUSKBN1EE2WW (Reuters)]
 *[[Brexit]]
 **The [[United Kingdom]]'s [[Home Office]] confirms the return of the blue [[British passport]] after the UK leaves the [[European Union]]. The new passports will be issued from October 2019. [http://www.bbc.co.uk/news/uk-42443253 (BBC)]
-*[[President of the United States|President]] [[Donald Trump]] signs the [[Tax Cuts and Jobs Act of 2017]] into law. [http://www.cnn.com/2017/12/22/politics/trump-sign-tax-bill-mar-a-lago/index.html (CNN)]
+*[[Presidency of Donald Trump]]
+**[[President of the United States|President]] [[Donald Trump]] signs the [[Tax Cuts and Jobs Act of 2017]] into law. [http://www.cnn.com/2017/12/22/politics/trump-sign-tax-bill-mar-a-lago/index.html (CNN)]
 
 ;Science and technology
 *[[iPhone]]
