@@ -1,12 +1,11 @@
 {{Current events|year=2017|month=12|day=22|content=
 
 <!-- All news items below this line -->
-;Arts and culture
-
-
 ;Business and economy
 *[[Bitcoin]]
 **The digit cryptocurrency [[Bitcoin]] loses a third of its value within 24 hours. [http://money.cnn.com/2017/12/22/investing/bitcoin-plunges-below-14k/index.html (CNN)]
+*[[iPhone]]
+**[[Apple Inc.]] faces backlash and lawsuits after admitting to slowing down the speed on some of their older phones deliberately. [https://www.cnet.com/news/apple-iphone-slowdown-sparks-fraud-lawsuit/ (CNET)], [http://www.businessinsider.com/two-class-action-lawsuits-apple-iphone-throttling-2017-12 (Business Insider)]
 
 ;Disasters and accidents
 *The [[Philippine Coast Guard]] reports that 252 passengers and crew have been rescued while five people were killed when a ferry capsized Thursday east of  [[Manila]]. [https://www.reuters.com/article/us-philippines-ferry/philippines-coast-guard-rescues-252-passengers-from-capsized-ferry-idUSKBN1EG08F?il=0 (Reuters)]
@@ -17,6 +16,8 @@
 *[[United Nations General Assembly resolution ES-10/L.22]]
 **Palestinian President [[Mahmoud Abbas]] says he will not accept any US plan for peace with Israel, because it recognised [[Jerusalem]] as Israel's capital. [http://www.bbc.com/news/world-middle-east-42453530 (BBC0)]
 
+;Law and crime
+*[[President of the United States|President]] [[Donald Trump]] signed the [[Tax Cuts and Jobs Act of 2017]] into law. [http://www.cnn.com/2017/12/22/politics/trump-sign-tax-bill-mar-a-lago/index.html (CNN)]
 
 ;Politics and elections
 * [[Catalan regional election, 2017]]
@@ -26,5 +27,4 @@
 **The voter turnout reaches a record high for a Catalan regional election of over 83%. [https://www.reuters.com/article/us-spain-politics-catalonia/catalan-separatists-win-election-in-rebuke-to-spain-and-eu-idUSKBN1EE2WW (Reuters)]
 *[[Brexit]]
 **The [[United Kingdom]]'s [[Home Office]] confirms the return of the blue [[British passport]] after the UK leaves the [[European Union]]. The new passports will be issued from October 2019. [http://www.bbc.co.uk/news/uk-42443253 (BBC)]
-
 <!-- All news items above this line -->}}
