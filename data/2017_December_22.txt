@@ -2,14 +2,21 @@
 
 <!-- All news items below this line -->
 ;Arts and culture
-*[[Brexit]]
-**The [[United Kingdom]]'s [[Home Office]] confirms the return of the blue [[British passport]] after the UK leaves the [[European Union]]. The new passports will be issued from October 2019. [http://www.bbc.co.uk/news/uk-42443253 (BBC)]
+
+
+;Business and economy
+*[[Bitcoin]]
+**The digit cryptocurrency [[Bitcoin]] loses a third of its value within 24 hours. [http://money.cnn.com/2017/12/22/investing/bitcoin-plunges-below-14k/index.html (CNN)]
 
 ;Disasters and accidents
 *The [[Philippine Coast Guard]] reports that 252 passengers and crew have been rescued while five people were killed when a ferry capsized Thursday east of  [[Manila]]. [https://www.reuters.com/article/us-philippines-ferry/philippines-coast-guard-rescues-252-passengers-from-capsized-ferry-idUSKBN1EG08F?il=0 (Reuters)]
-
 *[[Yemeni Civil War (2015–present)]]
 **After 1,000 days of civil war in [[Yemen]], 8 million people are at risk of starvation. [http://www.bbc.com/news/av/world-middle-east-42442463/starvation-in-sanaa-1000-days-of-yemen-s-civil-war (BBC)]
+
+;International relations
+*[[United Nations General Assembly resolution ES-10/L.22]]
+**Palestinian President [[Mahmoud Abbas]] says he will not accept any US plan for peace with Israel, because it recognised [[Jerusalem]] as Israel's capital. [http://www.bbc.com/news/world-middle-east-42453530 (BBC0)]
+
 
 ;Politics and elections
 * [[Catalan regional election, 2017]]
@@ -17,8 +24,7 @@
 **The unionist  [[Ciutadans|Citizens]] party secures the highest number of seats. [http://www.bbc.com/news/world-europe-42451100 (BBC)]
 **The political situation means that there is no clarity as to which party is given the right to form the government. [http://www.bbc.com/news/world-europe-42450745 (BBC)]
 **The voter turnout reaches a record high for a Catalan regional election of over 83%. [https://www.reuters.com/article/us-spain-politics-catalonia/catalan-separatists-win-election-in-rebuke-to-spain-and-eu-idUSKBN1EE2WW (Reuters)]
-
-*[[United Nations General Assembly resolution ES-10/L.22]]
-**Palestinian President [[Mahmoud Abbas]] has said he will not accept any US plan for peace with Israel, after it recognised [[Jerusalem]] as Israel's capital. [http://www.bbc.com/news/world-middle-east-42453530 (BBC0)]
+*[[Brexit]]
+**The [[United Kingdom]]'s [[Home Office]] confirms the return of the blue [[British passport]] after the UK leaves the [[European Union]]. The new passports will be issued from October 2019. [http://www.bbc.co.uk/news/uk-42443253 (BBC)]
 
 <!-- All news items above this line -->}}
