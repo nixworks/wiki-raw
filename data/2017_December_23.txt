@@ -1,3 +1,5 @@
+ 
+
 {{Current events|year=2017|month=12|day=23|content=
 
 <!-- All news items below this line -->
@@ -8,4 +10,7 @@
 *A fire breaks out at a café and shop at [[London Zoo]]. [https://news.sky.com/story/london-zoo-fire-70-firefighters-tackle-cafe-blaze-11181845 (Sky)]
 *[[Thomas Fire]]
 **The fire becomes the [[List of California wildfires#Largest fires|largest]] in [[California]]n state history. [http://www.bbc.com/news/world-us-canada-42464835 (BBC)]
+
+*33 killed and 15 injured as bus falls 65 feet into [[Banas River|river]] in [[Rajasthan]], [[Western India]].[https://news.sky.com/story/more-than-30-dead-after-bus-veers-off-bridge-in-india-11181844 (Sky News)]
+
 <!-- All news items above this line -->}}
