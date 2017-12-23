@@ -10,8 +10,8 @@
 ;Business and economy
 *[[Economics of bitcoin]]
 **The digital cryptocurrency [[Bitcoin]] loses a third of its value within 24 hours. [http://money.cnn.com/2017/12/22/investing/bitcoin-plunges-below-14k/index.html (CNN)]
-*[[CSX Corporation]] names chief operating officer Jim Foote its new chief executive officer, succeeding [[Hunter Harrison]] who died last week. Harrison had started a restructuring campaign less than a year ago. [https://www.reuters.com/article/us-csx-ceo/csx-names-foote-as-ceo-following-death-of-harrison-idUSKBN1EG22Y?il=0 (Reuters)]
-*[[iPhone]]
+*[[CSX Corporation]] names chief operating officer Jim Foote its new chief executive officer, succeeding [[E. Hunter Harrison]] who died last week. Harrison had started a restructuring campaign less than a year ago. [https://www.reuters.com/article/us-csx-ceo/csx-names-foote-as-ceo-following-death-of-harrison-idUSKBN1EG22Y?il=0 (Reuters)]
+*[[Apple Inc. litigation]]
 **[[Apple Inc.]] faces backlash and lawsuits after admitting to slowing down the speed on some of their older phones deliberately. [https://www.cnet.com/news/apple-iphone-slowdown-sparks-fraud-lawsuit/ (CNET)], [http://www.businessinsider.com/two-class-action-lawsuits-apple-iphone-throttling-2017-12 (Business Insider)]
 
 ;Disasters and accidents
@@ -22,6 +22,8 @@
 **Palestinian President [[Mahmoud Abbas]] says he will not accept any U.S. plan for peace with Israel, because it recognized [[Jerusalem]] as Israel's capital. [http://www.bbc.com/news/world-middle-east-42453530 (BBC)]
 *[[North Korea and weapons of mass destruction]]
 **The [[United Nations Security Council]] unanimously imposes new sanctions on [[North Korea]] that caps refined petroleum product imports to 500,000 barrels a year, a 90 percent cut, and  demands the repatriation of North Koreans working abroad within 24 months. [https://www.reuters.com/article/us-northkorea-missiles/u-n-security-council-imposes-new-sanctions-on-north-korea-idUSKBN1EG0HV (Reuters)]
+*[[Ukraine–United States relations]]
+**The U.S. agrees to supply Ukraine with more lethal weapons, now including [[FGM-148 Javelin|Javelin]] anti-tank missiles. [http://www.nydailynews.com/newswires/news/national/officials-lethal-weapons-headed-ukraine-article-1.3716611 (AP via ''New York Daily News'')]
 
 ;Politics and elections
 * [[Catalan regional election, 2017]]
