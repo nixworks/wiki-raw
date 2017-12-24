@@ -4,4 +4,7 @@
 ;Disasters and accidents
 *[[Tropical Storm Tembin (2017)|Tropical Storm Tembin]]
 **Officials raise the death total from this storm to 182<!-- yesterday it was over 200?-->, with at least 153 people missing and  more than 70,000 displaced. [http://www.themalaymailonline.com/world/article/philippines-storm-leaves-182-dead-tens-of-thousands-displaced#10llQMBbatl3Bmz7.97 (''Malay Mail'')]
+
+;Science and technology
+*[[China]]'s [[AVIC AG600]], the world's largest [[amphibious aircraft]], makes its maiden flight. State-owned [[Aviation Industry Corporation of China]] (AVIC) has spent almost eight years developing the aircraft, which is designed to carry out marine rescues and battle wildfires. [http://www.bbc.co.uk/news/world-asia-china-42471045 (BBC)]
 <!-- All news items above this line -->}}
