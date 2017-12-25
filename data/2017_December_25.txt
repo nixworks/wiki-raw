@@ -1,5 +1,7 @@
 {{Current events|year=2017|month=12|day=25|content=
 
 <!-- All news items below this line -->
-*
+;Disasters and accidents
+*[[Category:Bus accidents in the Philippines|Bus accidents in the Philippines]]
+**About 19 were killed and 25 others were injured in a [[jeepney]]-bus collision in [[La Union]], Philippines. [https://newsinfo.inquirer.net/955018/breaking-accident-road-dead-jeepney-bus-partas-agoo-la-union (Philippine Daily Inquirer)]
 <!-- All news items above this line -->}}
