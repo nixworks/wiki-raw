@@ -2,5 +2,5 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*About 19 were killed and 25 others were injured in a [[jeepney]]-bus collision in [[La Union]], Philippines. [https://newsinfo.inquirer.net/955018/breaking-accident-road-dead-jeepney-bus-partas-agoo-la-union (Philippine Daily Inquirer)]
+*About 19 were killed and 25 others were injured in a [[jeepney]]-bus collision in [[La Union]], Philippines. [http://edition.cnn.com/2017/12/25/asia/philippines-bus-crash-tembin-vinta/index.html (CNN)], [https://newsinfo.inquirer.net/955018/breaking-accident-road-dead-jeepney-bus-partas-agoo-la-union (''Philippine Daily Inquirer'')]
 <!-- All news items above this line -->}}
