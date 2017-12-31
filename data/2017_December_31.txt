@@ -3,8 +3,11 @@
 <!-- All news items below this line -->
 
 ;Disasters and accidents
-* A truck collision in western [[Kenya]] causes at least 30 deaths and 18 injures. [https://www.standardmedia.co.ke/article/2001264584/at-least-30-dead-18-hurt-in-migaa-bus-truck-collision ''(The Standard)'']
-*A [[De Havilland Canada DHC-2 Beaver|DHC-2 Beaver]] seaplane crashes into the [[Hawkesbury River]] near [[Sydney]], killing at least six people, including four British nationals. [http://www.bbc.co.uk/news/world-australia-42527530 (BBC)]
+* A truck collision in western [[Kenya]] causes at least 36 deaths and 18 injures. [https://www.standardmedia.co.ke/article/2001264584/at-least-30-dead-18-hurt-in-migaa-bus-truck-collision ''(The Standard)'']
+*A [[De Havilland Canada DHC-2 Beaver|DHC-2 Beaver]] seaplane crashes into the [[Hawkesbury River]] near [[Sydney]], killing at least six people, including four British nationals. [http://www.bbc.co.uk/news/world-australia-42527530 (BBC)] [https://www.ctvnews.ca/world/dozens-killed-in-head-on-collision-between-bus-and-truck-in-kenya-1.3740658 (CTV NEWS)]
+
+;Law and crime
+*Five [[Douglas County, Colorado]] sheriff's deputies are shot, one fatally, and two civilians are injured, at a domestic disturbance call. The suspect was also killed. [https://www.cbsnews.com/news/colorado-shooting-douglas-county-highlands-ranch-denver-today-live-updates/ (CBS News)]
 
 ;Politics and elections
 *[[Politics of India]]
