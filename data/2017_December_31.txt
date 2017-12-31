@@ -3,8 +3,12 @@
 <!-- All news items below this line -->
 
 ;Disasters and accidents
-* A truck collision takes place in west [[Kenya]] that causes at least 30 deaths and 18 injures. [https://www.standardmedia.co.ke/article/2001264584/at-least-30-dead-18-hurt-in-migaa-bus-truck-collision ''(The Standard)'']
-;Politics and elections
-*Indian film superstar [[Rajinikanth]], who has a huge following in the country and is one of Asia's highest paid actors, has announced he is entering politics. [http://www.bbc.co.uk/news/world-asia-india-42527290 (BBC)]
+* A truck collision in western [[Kenya]] causes at least 30 deaths and 18 injures. [https://www.standardmedia.co.ke/article/2001264584/at-least-30-dead-18-hurt-in-migaa-bus-truck-collision ''(The Standard)'']
+*A [[De Havilland Canada DHC-2 Beaver|DHC-2 Beaver]] seaplane crashes into the [[Hawkesbury River]] near [[Sydney]], killing at least six people, including four British nationals. [http://www.bbc.co.uk/news/world-australia-42527530 (BBC)]
 
+;Politics and elections
+*[[Politics of India]]
+**Indian film superstar [[Rajinikanth]], who has a huge following in the country and is one of Asia's highest paid actors, has announced he is entering politics. [http://www.bbc.co.uk/news/world-asia-india-42527290 (BBC)]
+*[[2017 Iranian protests]]
+**[[Iran]] blocks access to [[Telegram (messaging service)|Telegram]] and [[Instagram]] as the largest anti-government protests [[2009 Iranian presidential election protests|since 2009]] continue. [https://www.theguardian.com/world/2017/dec/31/protesters-who-spread-fear-and-violence-will-be-confronted-says-iran (''The Guardian'')]
 <!-- All news items above this line -->}}
