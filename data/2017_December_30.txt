@@ -1,5 +1,10 @@
 {{Current events|year=2017|month=12|day=30|content=
 
 <!-- All news items below this line -->
-*
+;Arts and culture
+*[[Nepal]] bans solo climbers, double amputees and blind climbers from scaling its mountains, including [[Mount Everest]], in a bid to reduce accidents. [http://www.bbc.co.uk/news/world-asia-42521138 (BBC)]
+
+;Politics and elections
+*[[2017 Iranian protests]]
+**Two protesters are shot dead by [[Iran]]ian police in [[Dorud]], [[Lorestan Province]], as anti-government protests spread across the country. [https://www.reuters.com/article/us-iran-rallies/protests-hit-tehran-two-demonstrators-reported-killed-in-iran-town-idUSKBN1EO04M (Reuters)]
 <!-- All news items above this line -->}}
