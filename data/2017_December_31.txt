@@ -1,9 +1,7 @@
 {{Current events|year=2017|month=12|day=31|content=
 
 <!-- All news items below this line -->
-;Arts and culture
-* 2018 [[New Year's Eve]] starts.
 
 ;Politics and elections
-* The [[Canada|Canadian]] right-wing party, [[National Advancement Party of Canada|National Advancement Party]] disbands. [http://www.elections.ca/content.aspx?section=pol&dir=par&document=index&lang=e#demadv (Elections Canada)]
+* The [[Canada|Canadian]] right-wing party [[National Advancement Party of Canada|National Advancement]] disbands. [http://www.elections.ca/content.aspx?section=pol&dir=par&document=index&lang=e#demadv (Elections Canada)]
 <!-- All news items above this line -->}}
