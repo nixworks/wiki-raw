@@ -4,7 +4,5 @@
 ;Disasters and accidents
 *Two people are killed in a plane crash in [[Northland Region|Northland]], [[New Zealand]]. [https://www.tvnz.co.nz/one-news/new-zealand/two-people-dead-in-microlight-plane-crash-northland (1 News)]
 ;Business and Economy
-*[[Taxation in the United Arab Emirates]]
-*[[Economy of Saudi Arabia]]
-**[[Value-added tax|Value Added Tax]] (VAT) has been introduced in [[Saudi Arabia]] and the [[United Arab Emirates]] for the first time.[http://www.bbc.com/news/business-42508883 (BBC)]
+*[[Value-added tax|Value Added Tax]] (VAT) has been introduced in [[Saudi Arabia]] and the [[United Arab Emirates]] for the first time.[http://www.bbc.com/news/business-42508883 (BBC)]
 <!-- All news items above this line -->}}
