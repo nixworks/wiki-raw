@@ -1,6 +1,13 @@
 {{Current events|year=2018|month=01|day=2|content=
 
 <!-- All news items below this line -->
+;Arts and culture
+*[[Weinstein effect]]
+**[[Vice Media]] suspends two of its top executives as it investigates allegations made against them. [http://abcnews.go.com/Entertainment/wireStory/vice-suspends-top-execs-sexual-misconduct-report-52098240 (ABC News)]
+
 ;Disasters and accidents
-*A coach bus plunges off a cliff on a coastal road in [[Peru]], killing at least 25 people, however the death toll is expected to rise, according to the [[Ministry of Transport and Communications (Peru)|Ministry of Transport and Communications]]. [http://www.bbc.co.uk/news/world-latin-america-42546980 (BBC)]
+*A coach bus plunges off a cliff on a coastal road in [[Peru]], killing at least 36 people. The death toll is expected to rise, according to the [[Ministry of Transport and Communications (Peru)|Ministry of Transport and Communications]]. [http://www.bbc.co.uk/news/world-latin-america-42546980 (BBC)]
+
+;Politics and elections
+*U.S. Senator [[Orrin Hatch]] announces that he will retire near the end of 2018. [http://www.sltrib.com/news/politics/2018/01/02/hatch-will-hang-it-up-after-this-term/ (''Salt Lake Tribune'')]
 <!-- All news items above this line -->}}
