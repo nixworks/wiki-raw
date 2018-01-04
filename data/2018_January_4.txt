@@ -2,9 +2,10 @@
 
 <!-- All news items below this line -->
 ;Business and economy
-*[[Reinsurance]]
-**[[Munich Re]] reports that the [[insurance]] industry faces record claims of $135 billion from [[Natural disaster|natural catastrophe]]s, such as the [[2017 Mexico earthquake|Mexico earthquakes]], [[2017 South Asian floods|South Asian floods]], [[2017 California wildfires|California wildfires]] and [[2017 Atlantic hurricane season|Atlantic hurricanes]] in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. [https://www.insurancejournal.com/news/national/2018/01/04/476093.htm (''Insurance Journal'')]
+*[[History of insurance]]
+**[[Munich Re]] reports that the [[insurance]] industry faces record claims of [[US$]]135 billion from [[Natural disaster|natural catastrophe]]s, such as the [[2017 Mexico earthquake (disambiguation)|Mexico earthquakes]], [[2017 South Asian floods|South Asian floods]], [[2017 California wildfires|California wildfires]] and [[2017 Atlantic hurricane season|Atlantic hurricanes]] in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. [https://www.insurancejournal.com/news/national/2018/01/04/476093.htm (''Insurance Journal'')]
+
 ;Disasters and accidents
 *[[2018 Kroonstad train crash]]
-**A [[Shosholoza Meyl|Shosholoza]] train collides with a vehicle at a crossing near [[Kroonstad]] in the [[Free State (province)|Free State]], [[South Africa]] killing 18 and injuring at least 100 people. [http://www.bbc.com/news/world-africa-42565653 (''BBC News'')], [http://www.independent.co.uk/news/world/africa/south-africa-train-crash-latest-truck-collision-passengers-injured-hennenman-kroonstad-free-state-a8141261.html (''The Independent'')] [https://www.news24.com/SouthAfrica/News/death-toll-in-free-state-train-crash-rises-to-12-rescuers-search-for-more-bodies-20180104 (News24)]
+**A [[Shosholoza Meyl|Shosholoza]] train collides with a vehicle at a crossing near [[Kroonstad]] in the [[Free State (province)|Free State]], [[South Africa]] killing 18 and injuring at least 100 people. [http://www.bbc.com/news/world-africa-42565653 (BBC News)] [http://www.independent.co.uk/news/world/africa/south-africa-train-crash-latest-truck-collision-passengers-injured-hennenman-kroonstad-free-state-a8141261.html (''The Independent'')] [https://www.news24.com/SouthAfrica/News/death-toll-in-free-state-train-crash-rises-to-12-rescuers-search-for-more-bodies-20180104 (News24)]
 <!-- All news items above this line -->}}
