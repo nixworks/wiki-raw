@@ -2,5 +2,5 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*A [[Shosholoza Meyl|Shosholoza]] train collides with a vehicle at a crossing near [[Kroonstad]] in the [[Free State]], [[South Africa]] killing 4 and injuring at least 100 people.{{cn|date=January 2018}}
+*A [[Shosholoza Meyl|Shosholoza]] train collides with a vehicle at a crossing near [[Kroonstad]] in the [[Free State (province)|Free State]], [[South Africa]] killing 4 and injuring at least 100 people. [http://www.bbc.com/news/world-africa-42565653 (''BBC News'')], [http://www.independent.co.uk/news/world/africa/south-africa-train-crash-latest-truck-collision-passengers-injured-hennenman-kroonstad-free-state-a8141261.html (''The Independent'')]
 <!-- All news items above this line -->}}
