@@ -20,4 +20,8 @@
 **Two new [[Democratic Party (United States)|Democratic]] [[United States Senate|senators]]&mdash;[[Doug Jones (politician)|Doug Jones]] of [[Alabama]] and [[Tina Smith]] of [[Minnesota]]&mdash;are sworn in, bringing the [[Republican Party (United States)|Republican]] majority down to 51&ndash;49. [https://www.cnbc.com/2018/01/03/2-democrats-to-be-sworn-in-as-senators-narrowing-the-gops-majority-in-congress.html (CNBC)]
 *[[Presidential Advisory Commission on Election Integrity|Voter fraud commission]]
 **U.S. President [[Donald Trump]] dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. [https://www.reuters.com/article/us-usa-trump-election/trump-dissolves-election-fraud-panel-after-states-balk-at-data-requests-idUSKBN1ET01F (Reuters)] [http://www.cnn.com/2018/01/03/politics/presidential-election-commission/index.html (CNN)]
+
+;Science and technology
+*[[Computer security]]
+**Security researchers disclose two hardware vulnerabilities, [[Spectre (security vulnerability)|Spectre]], which affects most modern processors, and [[Meltdown (security vulnerability)|Meltdown]], which affects most [[Intel chips]]. [https://www.reuters.com/article/us-cyber-intel/security-flaws-put-virtually-all-phones-computers-at-risk-idUSKBN1ES1BO (Reuters)] [https://www.theguardian.com/technology/2018/jan/04/meltdown-spectre-computer-processor-intel-security-flaws-explainer (''The Guardian'')]
 <!-- All news items above this line -->}}
