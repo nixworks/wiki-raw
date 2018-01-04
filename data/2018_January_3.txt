@@ -1,6 +1,9 @@
 {{Current events|year=2018|month=01|day=3|content=
 
 <!-- All news items below this line -->
+;Business and economy
+*A new [[Iceland]]ic law goes into effect which requires government agencies and companies with more than 24 full-time employees to  prove they are [[Equal pay for equal work|paying men and women equally]], as required  by existing legislation. [https://www.npr.org/sections/thetwo-way/2018/01/03/575403863/companies-in-iceland-now-required-to-demonstrate-they-pay-men-women-fairly (NPR)] [https://www.nytimes.com/2018/01/03/world/europe/iceland-equal-pay.html (''The New York Times'')]
+
 ;Disasters and accidents
 *[[Storm Eleanor]]
 **Winter storm Eleanor moves from the [[British Isles]] to [[continental Europe]] with one dead in [[France]] as well as injuries and material losses in [[Germany]], [[Netherlands]] and [[Switzerland]]. [http://www.bbc.com/news/world-europe-42555358 (BBC)]
