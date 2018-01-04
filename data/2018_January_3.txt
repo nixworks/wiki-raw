@@ -1,6 +1,10 @@
 {{Current events|year=2018|month=01|day=3|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Boko Haram insurgency]]
+**A suicide bomber attacks a mosque in [[Gamboru]], [[Nigeria]], killing 11 people. [http://www.dw.com/en/nigeria-suicide-bomber-hits-mosque-in-borno-state/a-42010204 (Deutsche Welle)]
+
 ;Business and economy
 *A new [[Iceland]]ic law goes into effect which requires government agencies and companies with more than 24 full-time employees to  prove they are [[Equal pay for equal work|paying men and women equally]], as required  by existing legislation. [https://www.npr.org/sections/thetwo-way/2018/01/03/575403863/companies-in-iceland-now-required-to-demonstrate-they-pay-men-women-fairly (NPR)] [https://www.nytimes.com/2018/01/03/world/europe/iceland-equal-pay.html (''The New York Times'')]
 
@@ -14,4 +18,6 @@
 ;Politics and elections
 *[[United States Senate]]
 **Two new [[Democratic Party (United States)|Democratic]] [[United States Senate|senators]]&mdash;[[Doug Jones (politician)|Doug Jones]] of [[Alabama]] and [[Tina Smith]] of [[Minnesota]]&mdash;are sworn in, bringing the [[Republican Party (United States)|Republican]] majority down to 51&ndash;49. [https://www.cnbc.com/2018/01/03/2-democrats-to-be-sworn-in-as-senators-narrowing-the-gops-majority-in-congress.html (CNBC)]
+*[[Presidential Advisory Commission on Election Integrity|Voter fraud commission]]
+**U.S. President [[Donald Trump]] dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. [https://www.reuters.com/article/us-usa-trump-election/trump-dissolves-election-fraud-panel-after-states-balk-at-data-requests-idUSKBN1ET01F (Reuters)] [http://www.cnn.com/2018/01/03/politics/presidential-election-commission/index.html (CNN)]
 <!-- All news items above this line -->}}
