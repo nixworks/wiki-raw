@@ -1,6 +1,10 @@
 {{Current events|year=2018|month=01|day=4|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[War in Afghanistan (2001–present)|Afghanistan War]]
+**A suicide bomber attack near a group of security personnel investigating illegal drugs and alcohol dealing in [[Kabul]], Afghanistan, kills at least 20, wounding another 27 policemen.  The [[Islamic State of Iraq and the Levant|Islamic State]] claims responsibility for the attack. [https://www.nytimes.com/2018/01/04/world/asia/isis-kabul-suicide-attack.html (''The New York Times'')]  [http://time.com/5089352/kabul-afghanistan-suicide-attack-police/ (AP via ''Time'')]
+
 ;Business and economy
 *[[History of insurance]]
 **[[Munich Re]] reports that the [[insurance]] industry faces record claims of [[US$]]135 billion from [[Natural disaster|natural catastrophe]]s, such as the [[2017 Mexico earthquake|Mexico earthquakes]], [[2017 South Asian floods|South Asian floods]], [[2017 California wildfires|California wildfires]] and [[2017 Atlantic hurricane season|Atlantic hurricanes]] in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. [https://www.insurancejournal.com/news/national/2018/01/04/476093.htm (''Insurance Journal'')]
