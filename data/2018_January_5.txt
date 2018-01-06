@@ -31,5 +31,5 @@
 
 ;Science and technology
 *[[Ozone depletion]]
-**Research published in ''[[Geophysical Research Letters]]'' implies that the [[Ozone layer#Depletion|ozone layer]] is starting to recover. [http://www.newsweek.com/nasa-hole-earths-ozone-layer-finally-closing-humans-did-something-771922 (Newsweek)]
+**[[NASA]] research published in ''[[Geophysical Research Letters]]'' implies that the [[Ozone layer#Depletion|ozone layer]] is starting to recover. The decline in ozone-depleting chemicals, specifically [[chlorine]] from [[chlorofluorocarbon]] (an effect from the 1980's [[Montreal Protocol|CFC ban]], say the scientists), has resulted in 20 percent less depletion since 2005. [http://www.newsweek.com/nasa-hole-earths-ozone-layer-finally-closing-humans-did-something-771922 (Newsweek)]
 <!-- All news items above this line -->}}
