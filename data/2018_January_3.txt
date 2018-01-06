@@ -24,4 +24,6 @@
 ;Science and technology
 *[[Computer security]]
 **Security researchers disclose two hardware vulnerabilities&mdash;[[Spectre (security vulnerability)|Spectre]], which affects most modern processors, and [[Meltdown (security vulnerability)|Meltdown]], which affects most [[Intel chips]]. [https://www.reuters.com/article/us-cyber-intel/security-flaws-put-virtually-all-phones-computers-at-risk-idUSKBN1ES1BO (Reuters)] [https://www.theguardian.com/technology/2018/jan/04/meltdown-spectre-computer-processor-intel-security-flaws-explainer (''The Guardian'')]
+*[[Largest known prime number]]
+**The [[Great Internet Mersenne Prime Search]] announces the discovery of the latest largest known [[prime number]], a [[Mersenne prime]] with 23,249,425 digits equal to 2<sup>77,232,917</sup> − 1. [http://www.ibtimes.com/largest-known-prime-number-found-rare-over-23-million-digits-2637539 (''International Business Times'')]
 <!-- All news items above this line -->}}
