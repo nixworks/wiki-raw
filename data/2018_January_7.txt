@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=01|day=7|content=
 
 <!-- All news items below this line -->
-*
+;International relations
+*[[Foreign relations of Iran]]
+**The Iran [[Islamic Revolutionary Guard Corps|Revolutionary Guards]] announce that they broke down the chain of [[2017–18 Iranian protests|last week's unrest]]. According to them, the unrest was created "by the [[United States]], [[United Kingdom|Britain]], the [[zionism|Zionist]] regime ([[Israel]]), [[Saudi Arabia]], the hypocrites ([[Mujahideen]]) and [[Pahlavi dynasty|monarchists]]." [https://www.reuters.com/article/us-iran-rallies-guards/iran-guards-say-unrest-fomented-by-foreign-enemies-defeated-idUSKBN1EW085 (Reuters)]
 <!-- All news items above this line -->}}
