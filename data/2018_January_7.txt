@@ -2,6 +2,10 @@
 
 <!-- All news items below this line -->
 
+;Armed conflicts and attacks
+*[[Syrian Civil War]]
+**An explosion at the headquarters of the [[Chechens|Chechen]]-led [[Ajnad al-Kavkaz]] rebel group in [[Idlib]], [[Syria]], kills at least 23 people, while several people remain unaccounted for, according to the [[Syrian Observatory for Human Rights]]. [http://www.bbc.co.uk/news/world-middle-east-42599696 (BBC)]
+
 ;Arts and culture
 *[[Education in Iran]]
 **[[Iran]] enforces a ban on teaching [[English language|English]] in [[Education in Iran#Curriculum|elementary schools]]. [http://www.dw.com/en/iran-bans-english-lessons-in-primary-school/a-42057485 (Deutsche Welle)]
@@ -9,7 +13,7 @@
 ;Disasters and accidents
 *A house fire in [[Pubnico, Nova Scotia]] kills 4 children. [http://www.cbc.ca/news/canada/nova-scotia/house-fire-pubnico-nova-scotia-1.4476743 (CBC)]
 
-;Law and Crime
+;Law and crime
 *A man is killed in [[Stockholm]] after he picks up a [[grenade]] that detonates. According to police, there has been an [[List of grenade attacks in Sweden|increased use of hand grenades]] by criminal groups in the country.[https://www.ctvnews.ca/world/man-dies-in-stockholm-after-picking-up-suspected-grenade-1.3748866 (CTV)]
 
 ;Politics and elections
@@ -17,4 +21,6 @@
 **The former [[Prime Minister of Egypt]], 76-year old [[Ahmed Shafik]], retracts his candidacy for the [[Egyptian presidential election, 2018|upcoming presidential elections]]. [https://www.reuters.com/article/us-egypt-politics/egyptian-ex-pm-ahmed-shafik-says-wont-run-for-presidency-idUSKBN1EW0MV (Reuters)]
 *[[Politics of Yemen]]
 **Sadeq Amin Abou Rass, not Saleh's son [[Ahmed Saleh|Ahmed]], is named as the successor to late [[Ali Abdullah Saleh]] as leader of the [[General People's Congress (Yemen)|General People’s Congress]] party. [https://www.reuters.com/article/us-yemen-security/yemeni-party-names-new-leader-after-saleh-killed-idUSKBN1EW0JN (Reuters)]
+*[[Me Too (hashtag)|#Me Too]], [[Weinstein effect]]
+**[[Trond Giske]] announces his permanent resignation as deputy leader of [[Norway]]'s [[Labour Party (Norway)|Labour Party]] after several sexual assault accusations. He also gives up his position in the [[Storting|Norwegian parliament]]'s [[Standing Committee on Finance and Economic Affairs|finance committee]]. [http://www.jamaicaobserver.com/latestnews/Norway_Labour_party_deputy_leader_resigns_amid_sex_claims?profile=1228 (''Jamaica Observer'')]
 <!-- All news items above this line -->}}
