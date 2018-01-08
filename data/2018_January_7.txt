@@ -1,9 +1,16 @@
 {{Current events|year=2018|month=01|day=7|content=
 
 <!-- All news items below this line -->
+
 ;Arts and culture
 *[[Education in Iran]]
 **[[Iran]] enforces a ban on teaching [[English language|English]] in [[Education in Iran#Curriculum|elementary schools]]. [http://www.dw.com/en/iran-bans-english-lessons-in-primary-school/a-42057485 (Deutsche Welle)]
+
+;Disasters and accidents
+*A house fire in [[Pubnico, Nova Scotia]] kills 4 children. [http://www.cbc.ca/news/canada/nova-scotia/house-fire-pubnico-nova-scotia-1.4476743 (CBC)]
+
+;Law and Crime
+*A man is killed in [[Stockholm]] after he picks up a [[grenade]] that detonates. According to police, there has been an [[List of grenade attacks in Sweden|increased use of hand grenades]] by criminal groups in the country.[https://www.ctvnews.ca/world/man-dies-in-stockholm-after-picking-up-suspected-grenade-1.3748866 (CTV)]
 
 ;Politics and elections
 *[[Politics of Egypt]]
