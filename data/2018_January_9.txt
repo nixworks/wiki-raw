@@ -1,5 +1,8 @@
 {{Current events|year=2018|month=01|day=9|content=
 
 <!-- All news items below this line -->
-*
+;Disasters and accidents
+*[[2017–18 South-West Indian Ocean cyclone season]]
+**[[Cyclone Ava]]
+***A strong tropical cyclone strikes [[Madagascar]] with violent winds and torrential rainfalls, killing at least 29 people. [http://www.firstpost.com/world/tropical-cyclone-ava-hits-madagascar-leaves-29-dead-over-17-thousand-displaced-4293943.html (Firstpost)]
 <!-- All news items above this line -->}}
