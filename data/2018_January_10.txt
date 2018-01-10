@@ -1,5 +1,8 @@
 {{Current events|year=2018|month=01|day=10|content=
 
 <!-- All news items below this line -->
-*
+;Disasters and accidents
+*[[MV Sanchi|MV ''Sanchi'']] disaster
+**China says no major oil spill has been detected. [https://www.channelnewsasia.com/news/asiapacific/china-says-no-major-oil-spill-after-iran-tanker-collision-9847846 (''Channel News Asia'')]
+**A fire on the oil tanker rages for the fourth day. An explosion forces rescue teams to retreat as 31 sailors remain missing. [https://www.reuters.com/article/us-china-shipping-accident-oil/explosion-on-iranian-oil-tanker-forces-rescue-team-to-retreat-idUSKBN1EZ03L (Reuters)]
 <!-- All news items above this line -->}}
