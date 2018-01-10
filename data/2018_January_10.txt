@@ -1,6 +1,9 @@
 {{Current events|year=2018|month=01|day=10|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Colombian conflict]]
+**After failing to reach agreement on an extension of the 101-day ceasefire, hostilities resume between Colombia's [[Government of Colombia|government]] and [[National Liberation Army (Colombia)|ELN]] forces. [https://colombiareports.com/colombia-govt-eln-rebels-resume-hostilities-ceasefire-ends/ (''Colombia Reports'')] 
 ;Disasters and accidents
 *[[MV Sanchi|MV ''Sanchi'']] disaster
 **China says no major oil spill has been detected. [https://www.channelnewsasia.com/news/asiapacific/china-says-no-major-oil-spill-after-iran-tanker-collision-9847846 (''Channel News Asia'')]
