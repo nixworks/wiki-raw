@@ -2,11 +2,17 @@
 
 <!-- All news items below this line -->
 ;Arts and culture
-*The [[bell]]-ringing guild of the [[Belgium|Belgian]] town of [[Ypres]] is looking for people to perform on the 8 new [[change ringing]] bells of [[Saint George's Memorial Church, Ypres|Saint George’s Memorial Church]], a first for the country. [https://www.hln.be/nieuws/binnenland/klokkenluiders-gezocht-voor-engels-kerkje-in-ieper-je-hoeft-geen-muzikant-te-zijn~ad593aea (''Het Laatste Nieuws'')]
+*The [[bell]]-ringing guild of the [[Belgium|Belgian]] town of [[Ypres]] is looking for people to perform on the 8 new [[change ringing]] bells of [[Saint George's Memorial Church, Ypres|Saint George's Memorial Church]], a first for the country. [https://www.hln.be/nieuws/binnenland/klokkenluiders-gezocht-voor-engels-kerkje-in-ieper-je-hoeft-geen-muzikant-te-zijn~ad593aea (''Het Laatste Nieuws'')]
 
 ;Business and economy
-*[[Walmart]] increases the minimum wage for its U.S. employees to $11 per hour. [https://www.usatoday.com/story/money/2018/01/11/walmart-boosts-minimum-wage-11-hands-out-bonuses-up-1-000-hourly-workers/1023606001/ (USA Today)]
+*[[Walmart employee wages]]
+**[[Walmart]] increases the minimum wage for its U.S. employees to $11 per hour. [https://www.usatoday.com/story/money/2018/01/11/walmart-boosts-minimum-wage-11-hands-out-bonuses-up-1-000-hourly-workers/1023606001/ (USA Today)]
 
 ;Law and crime
-*The rape and murder of an eight-year-old girl [[Murder of Zainab|Zainab]] in [[Pakistan]] has sparked outrage across the country. Two people die in protests in [[Kasur]] city. [http://www.bbc.com/news/world-asia-42637027 (BBC)]
+*[[Murder of Zainab Ansari]]
+**The rape and murder of an eight-year-old girl Zainab in [[Pakistan]] has sparked outrage across the country. Two people die in protests in [[Kasur]] city. [http://www.bbc.com/news/world-asia-42637027 (BBC)]
+*[[Iran–United States relations]]
+**The U.S. Justice Department establishes the Hezbollah Financing and Narcoterrorism Team to investigate [[Project Cassandra]] and [[Funding of Hezbollah|groups supporting]] [[Hezbollah]]. [https://www.reuters.com/article/us-usa-hezbollah/attorney-general-sessions-sets-up-hezbollah-investigation-team-idUSKBN1F01V3 (Reuters)]
+*[[United States–European Union relations]]
+**Britain, France, and Germany call on U.S. President [[Donald Trump]] to endorse the [[Joint Comprehensive Plan of Action]]. [http://www.france24.com/en/20180111-iran-nuclear-deal-eu-urges-trump (France 24)]
 <!-- All news items above this line -->}}
