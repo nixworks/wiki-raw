@@ -1,8 +1,16 @@
 {{Current events|year=2018|month=01|day=12|content=
 
 <!-- All news items below this line -->
-;Accidents and disasters
+;Disasters and accidents
 *A major fire engulfs parts of [[Nottingham station]], United Kingdom. [http://www.bbc.co.uk/news/uk-england-nottinghamshire-42660181 (BBC)]
+
+;International relations
+*[[Turkey–United States relations]]
+**Turkey cautions its citizens against [[travel]] to the United States. [http://www.foxnews.com/world/2018/01/12/turkey-tells-citizens-to-reconsider-travelling-to-us.html (Fox News)]
+
+*[[Nepal–United States relations]], [[Botswana–United States relations]]
+**Nepalese authorities stated that they are "discussing their response" to [[Donald Trump|Trump]]'s recent comment which referred to their country (among others) as a "shithole". [[Botswana]] also summoned their US ambassador to "express its displeasure". [http://www.cnn.com/2018/01/12/politics/trump-shithole-countries-reaction-intl/index.html (CNN)]
+
 ;Law and crime
 *[[Murder of Zainab Ansari]] 
 **Protesters set a government office on fire in the [[Pakistanis|Pakistani]] city of [[Kasur]], in a second day of riots after the rape and murder of a six-year-old girl. [http://www.bbc.com/news/world-asia-42651070 (BBC)]
@@ -10,7 +18,9 @@
 ;Politics and elections
 *[[Cabinet of Germany]]
 **The [[CDU/CSU]] (Christian Democrats) and [[Social Democratic Party of Germany|SPD]] (Social Democrats) agree on a blueprint for formal negotiations on a new "[[Grand coalition (Germany)|grand coalition]]" government after the [[German federal election, 2017|September 2017 federal election]]. [http://www.bbc.com/news/world-europe-42660761 (BBC)]
-
+*[[Politics of Mexico]]
+**Mexicans react with incredulity after [[President of Mexico]] [[Enrique Peña Nieto]] appointed Alberto Bazbaz to the position of head of the [[Centro de Investigación y Seguridad Nacional (México)|CISEN]] [[List of intelligence agencies#Mexico|intelligence service]]. Bazbaz is known for having overseen a 9-day search for a missing girl, [[Paulette Gebara Farah]], who was eventually found dead in her own bed. [https://www.theguardian.com/world/2018/jan/12/mexico-spy-chief-bungled-search-for-girl-alberto-bazbaz (''The Guardian'')]
+|
 ;Science and technology
 *[[2018 in spaceflight]]
 **The [[Indian Space Research Organisation]] successfully launches [[India]]’s [[PSLV-C40|100th satellite and 30 other satellites]] from the [[Satish Dhawan Space Centre]] in [[Sriharikota]], [[Andhra Pradesh]]. [http://www.thehindubusinessline.com/news/science/isro-launches-its-100th-satellite-into-space/article10027585.ece ''(The Hindu)'']
