@@ -7,13 +7,13 @@
 
 ;Business and economy
 *[[Walmart employee wages]]
-**[[Walmart]] announces that it will increase the minimum wage for its U.S. employees to $11 per hour and close 50 [[Sam's Club]] stores. [https://www.usatoday.com/story/money/2018/01/11/walmart-boosts-minimum-wage-11-hands-out-bonuses-up-1-000-hourly-workers/1023606001/ (USA Today)]
+**[[Walmart]] announces that it will increase the [[minimum wage]] for its U.S. employees to $11 per hour and close 50 [[Sam's Club]] stores. [https://www.usatoday.com/story/money/2018/01/11/walmart-boosts-minimum-wage-11-hands-out-bonuses-up-1-000-hourly-workers/1023606001/ (USA Today)]
 *[[Cryptocurrency#Legality|Legal status of cryptocurrency]]
-**The [[South Korea]]n [[Ministry of Justice (South Korea)|Ministry of Justice]] announces that it is a preparing a bill to ban cryptocurrency trading through exchanges. [http://www.abc.net.au/news/2018-01-11/south-korea-flags-ban-cryptocurrency-trading-rattles-market/9322140 (ABC News Australia)]
+**The [[South Korea]]n [[Ministry of Justice (South Korea)|Ministry of Justice]] announces that it is a preparing a bill to ban [[cryptocurrency]] trading through exchanges. [http://www.abc.net.au/news/2018-01-11/south-korea-flags-ban-cryptocurrency-trading-rattles-market/9322140 (ABC News Australia)]
 
 ;Disasters and accidents
 *[[2018 Southern California landslides]]
-** The [[Santa Barbara County Sheriff's Office]] reports this afternoon that up to 43 people are still missing from Tuesday's mudslides as  rescuers continue to search through [[Montecito, California|Montecito’s]] massive debris field; this morning the report had been eight missing.  The casualty numbers are expected to  rise. [http://www.latimes.com/local/lanow/la-me-ln-mudslide-recovery-mainbar-20180111-story.html (''Los Angeles Times'')]
+** The [[Santa Barbara County Sheriff's Office]] reports this afternoon that up to 43 people are still missing from Tuesday's [[mudslides]] as  rescuers continue to search through [[Montecito, California|Montecito’s]] massive debris field; this morning the report had been eight missing.  The casualty numbers are expected to  rise. [http://www.latimes.com/local/lanow/la-me-ln-mudslide-recovery-mainbar-20180111-story.html (''Los Angeles Times'')]
 
 ;International relations
 *[[Iran–United States relations]]
@@ -26,8 +26,8 @@
 **The rape and murder of six-year-old girl Zainab in [[Pakistan]] has sparked outrage across the country. Two people die in protests in [[Kasur]] city. [https://www.dawn.com/news/1382243/6-year-old-zainabs-autopsy-suggests-child-endured-rape-captivity-before-murder (''Dawn'')]
 *[[Foreign Intelligence Surveillance Act]], [[Section 702]]
 **The [[United States House of Representatives]] passes a bill to reauthorize, for a period of six years, a [[Foreign Intelligence Surveillance Act of 1978 Amendments Act of 2008#Foreign surveillance|key]] foreign intelligence collection program. Changes to the program will [[Foreign Intelligence Surveillance Act#With a court order|require]] the [[Federal Bureau of Investigation|FBI]] to get a [[probable cause]] [[search warrant|warrant]] if it wants to view the contents of Americans' communications swept up in the [[Surveillance|process]]. [http://time.com/5099528/house-passes-spy-program-fisa/ (''Time'')]
-*[[WikiLeaks]], [[Julian Assange#Political asylum and life at the Ecuadorian embassy|Julian Assange political asylum and life at the Ecuadorian embassy]]
-**[[Ecuador]] grants citizenship to [[Julian Assange]]. Ecuador granted him [[asylum]] in August 2012 and he has remained in the [[Embassy]] of Ecuador in [[London]] [[Assange v Swedish Prosecution Authority|avoiding]] [[extradition]] to [[Sweden]] on [[rape]] [[Criminal charge|charges]]. Subsequently, Swedish authorities dropped the charges in May 2017. [https://www.theguardian.com/media/2018/jan/11/julian-assange-is-made-ecuadorian-citizen-in-effort-to-resolve-impasse (''The Guardian'')]
+*[[WikiLeaks]]
+**[[Ecuador]]'s [[List of Ministers of Foreign Affairs of Ecuador|Foreign Minister]] [[María Fernanda Espinosa]] reveals that Ecuador granted citizenship to [[Julian Assange]] one month ago in an effort to find an outcome to his [[Julian Assange#Political asylum and life at the Ecuadorian embassy|political asylum and life at the Ecuadorian embassy in London]]. [https://www.theguardian.com/media/2018/jan/11/julian-assange-is-made-ecuadorian-citizen-in-effort-to-resolve-impasse (''The Guardian'')]
 *[[Weinstein effect]]
-**Twitter posts disseminate claims that actor [[Kirk Douglas]] (aged 101) had been accused in the past of having sexually assaulted actress [[Natalie Wood]] when she was 16 years old (c. 1954). [https://nypost.com/2018/01/08/the-post-weinstein-golden-globes-was-an-exercise-in-hypocrisy ''(The New York Post)''], [https://www.mediaite.com/online/twitter-calls-out-golden-globes-for-honoring-kirk-douglas-accused-of-raping-natalie-wood-not-a-good-look (Mediaite.com)]
+**Twitter posts disseminate claims that actor [[Kirk Douglas]] (aged 101) had been accused in the past of having sexually assaulted actress [[Natalie Wood]] when she was 16 years old ({{circa|1954}}). [https://nypost.com/2018/01/08/the-post-weinstein-golden-globes-was-an-exercise-in-hypocrisy ''(The New York Post)''], [https://www.mediaite.com/online/twitter-calls-out-golden-globes-for-honoring-kirk-douglas-accused-of-raping-natalie-wood-not-a-good-look (Mediaite.com)]
 <!-- All news items above this line -->}}
