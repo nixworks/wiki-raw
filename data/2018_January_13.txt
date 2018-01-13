@@ -1,6 +1,9 @@
 {{Current events|year=2018|month=01|day=13|content=
 
 <!-- All news items below this line -->
+;Arts and culture
+*Citing the success of [[Neapolitan pizza]], [[President of France|President]] [[Emmanuel Macron]] calls for the [[UNESCO]] to recognize the [[France|French]] [[baguette]]. [http://www.ibtimes.co.uk/french-baguette-wants-piece-heritage-pie-after-pizza-wins-global-honour-1655049 (IB Times)]
+
 ;Disasters and accidents
 *A search for missing children is underway after a boat capsized off the [[Indian Ocean|Indian]] coast near [[Dahanu]], [[Maharashtra]]. Two bodies have been recovered. [http://www.bbc.com/news/world-asia-india-42674307 (BBC)]
 *A [[China|Chinese]] rescue team recovers two bodies from the {{MV|Sanchi}} and salvages the [[voyage data recorder]] from the bridge. [https://in.reuters.com/article/china-shipping-accident/chinese-salvagers-recover-two-bodies-from-flaming-iranian-tanker-idINKBN1F206Q (Reuters)]
@@ -18,6 +21,6 @@
 *The [[Bar Council of India]] forms a 7-member delegation which will attempt to meet the four [[List of sitting judges of the Supreme Court of India|most senior Supreme Court judges]] on behalf of [[Chief Justice of India]] (CJI) [[Dipak Misra]]. This comes in the wake of allegations made by the four top judges against the CJI at a first of its kind press conference held on January 12. [https://timesofindia.indiatimes.com/india/bar-council-forms-7-member-delegation-to-mediate-between-supreme-court-judges/articleshow/62488278.cms (''The Times of India'')]
 
 ;Politics and elections
-*[[Czech presidential election, 2018]]
-**With over half of the votes counted, provisional first-round results indicate a second round on 26–27 January between [[Miloš Zeman]] and runner-up [[Jiří Drahoš]]. [https://www.reuters.com/article/us-czech-election-president/incumbent-zeman-leads-czech-presidential-election-half-votes-counted-idUSKBN1F12RH (Reuters)]
+*[[Czech presidential election, 2018|Czech presidential election]]
+**The second round will be held on 26 and 27 January between [[Miloš Zeman]] and [[Jiří Drahoš]]. [https://www.reuters.com/article/us-czech-election-president/czech-presidential-vote-sets-up-zeman-drahos-second-round-clash-idUSKBN1F12RH (Reuters)]
 <!-- All news items above this line -->}}
