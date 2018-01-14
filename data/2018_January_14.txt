@@ -1,6 +1,15 @@
 {{Current events|year=2018|month=01|day=14|content=
 
 <!-- All news items below this line -->
+;Disasters and accidents
+*The [[National Iranian Tanker Company]]-operated [[MV Sanchi|MV ''Sanchi'']] sinks following its January 6 collision with a [[Hong Kong]]-flagged cargo ship off [[Shanghai]], [[China]], leaving no survivors. [http://www.bbc.co.uk/news/world-asia-42680945 (BBC)]
+*[[List of earthquakes in 2018]]
+**A 7.3 magnitude earthquake strikes off [[Peru]], triggering tsunami warnings. [http://metro.co.uk/2018/01/14/massive-7-3-magnitude-earthquake-hits-coast-peru-7227552/ (Metro)]
+
+;Politics and elections
+*[[2018 Tunisian protests]]
+**The [[Tunisia]]n government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in more than 800 people being arrested and at least one death. [http://www.bbc.co.uk/news/world-africa-42679328 (BBC)]
+
 ;Science and technology
 *A study in ''[[Biological Psychiatry (journal)|Biological Psychiatry]]'' asserts that increasing the activity of the [[habenula]] brain region leads to [[Social behavior|social]] problems in [[rodent]]s, whereas decreasing activity of the region prevents social problems. [http://en.brinkwire.com/90379/study-identifies-brain-circuit-controlling-social-behavior/ (Brinkwire)]
 <!-- All news items above this line -->}}
