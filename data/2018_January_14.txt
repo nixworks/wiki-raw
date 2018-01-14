@@ -2,7 +2,8 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*The [[National Iranian Tanker Company]]-operated [[MV Sanchi|MV ''Sanchi'']] sinks following its January 6 collision with a [[Hong Kong]]-flagged cargo ship off [[Shanghai]], [[China]], leaving no survivors. [http://www.bbc.co.uk/news/world-asia-42680945 (BBC)]
+*[[Sanchi oil tanker collision]]
+**The [[National Iranian Tanker Company]]-operated [[MV Sanchi|MV ''Sanchi'']] sinks following its January 6 collision with a [[Hong Kong]]-flagged cargo ship off [[Shanghai]], [[China]], leaving no survivors. [http://www.bbc.co.uk/news/world-asia-42680945 (BBC)]
 *[[List of earthquakes in 2018]]
 **A 7.3 magnitude earthquake strikes off [[Peru]], triggering tsunami warnings. [http://metro.co.uk/2018/01/14/massive-7-3-magnitude-earthquake-hits-coast-peru-7227552/ (Metro)]
 
