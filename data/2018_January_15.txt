@@ -1,5 +1,13 @@
 {{Current events|year=2018|month=01|day=15|content=
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[Iraqi Civil War (2014–present)]]
+**A double suicide bombing kills at least 35 people and injures over 90 in [[Baghdad]], [[Iraq]]. [http://www.bbc.co.uk/news/world-middle-east-42686677 (BBC)]
+
+;Business and economy
+*[[Carillion]] collapses into [[liquidation]] threatening thousands of jobs after talks between the company, its lenders and the [[United Kingdom]]'s government failed to reach a deal. Carillion is involved in major projects such as the [[High Speed 2]] (HS2) rail line. [http://www.bbc.co.uk/news/business-42687032 (BBC)]
+
+;Disasters and accidents
+*At least 70 people are injured after the [[mezzanine]] overlooking the main lobby of the [[Indonesia Stock Exchange]] in [[Jakarta]] collapses. The [[Indonesian National Police]] ruled out terrorism as the cause. [http://www.theaustralian.com.au/news/world/indonesia-floor-collapses-at-jakarta-stock-exchange/news-story/3446f9650f112f4621bdab69f6a15b50 (''The Australian'')], [https://www.express.co.uk/news/world/904727/Indonesia-stock-exchange-floor-collapse-evacuation-casualties (''Daily Express'')]
 <!-- All news items above this line -->}}
