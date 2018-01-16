@@ -2,12 +2,18 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*Prominent [[Kosovo Serbs|Kosovo Serb]] politician [[Oliver Ivanović]] is shot dead in a [[drive-by shooting]] outside his office in [[North Mitrovica]]. [http://www.bbc.co.uk/news/world-europe-42701712 (BBC)]
+*[[Kosovo War]]
+**A [[drive-by shooting]] outside his office in [[North Mitrovica]] kills the head politician of the [[Kosovo Serbs|Kosovo Serb]] party called Freedom, Democracy, Justice, [[Oliver Ivanović]]. In January 2016, [[European Union]] judges in Kosovo sentenced him to nine years, but the verdict was overturned by an appeals court a year later. He was facing a retrial for alleged war crimes against ethnic [[Albanian]]s committed in 1999. [http://www.bbc.co.uk/news/world-europe-42701712 (BBC)]
+
+;Arts and culture
+*[[Terrorism in Pakistan]]
+**Over 1,800 [[Ulama|muslim cleric]]s in [[Pakistan]] issue a [[fatwa]] aimed at prohibiting the use of [[suicide bombing]], declaring it [[haram]]. [https://sputniknews.com/middleeast/201801161060796179-muslim-clerics-forbid-suicide-attacks/ (Sputnik)].
 
 ;Business and economy
-*Just days after breaking the 25,000-mark, the [[Dow Jones Industrial Average]] reaches 26,000 points. [https://www.reuters.com/article/us-usa-stocks/dow-hits-26000-for-first-time-idUSKBN1F51GC (Reuters)]
+*United States [[Stock market index]]
+**Just days after breaking the 25,000-mark, the [[Dow Jones Industrial Average]] reaches 26,000 points. [http://www.chicagotribune.com/business/ct-biz-dow-hits-26000-20180116-story.html (''Chicago Tribune'')]
 
 ;International relations
 *[[Korean conflict]]
-**Ministerial negotiations start today in [[Vancouver]] under the chairmanship of [[Canada]] and the [[United States]], to discuss the situation on the [[Korean Peninsula]]. According to [[Minister of Foreign Affairs (Russia)|Russian Foreign Minister]] [[Sergey Lavrov]], the negotiations are "void of representativeness and a legal value" and so are not effective. A [[Ministry of Foreign Affairs of the People's Republic of China|Chinese Foreign Ministry]] spokesperson approves of the statements. [http://tass.com/world/985251 (TASS)] 
+**Ministerial negotiations from countries that backed South Korea in the Korean war begin today in [[Vancouver]] that will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. [https://www.reuters.com/article/us-northkorea-missiles-diplomacy/vancouver-meeting-focuses-on-sanctions-as-koreas-explore-detente-idUSKBN1F42MQ (Reuters)]
 <!-- All news items above this line -->}}
