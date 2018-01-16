@@ -1,5 +1,4 @@
-<noinclude>{{pp-vandalism|expiry=17:11, 17 January 2018|small=yes}}</noinclude>
-{{Current events|year=2018|month=01|day=15|content=
+<noinclude>{{pp-vandalism|expiry=17:11, 17 January 2018|small=yes}}</noinclude>{{Current events|year=2018|month=01|day=15|content=
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
@@ -23,6 +22,7 @@
 ;Disasters and accidents
 *The [[mezzanine]] overlooking the main lobby of the [[Indonesia Stock Exchange]] in [[Jakarta]], [[Indonesia]], collapses, injuring at least 70 people. The [[Indonesian National Police]] ruled out terrorism as the cause. [http://www.theaustralian.com.au/news/world/indonesia-floor-collapses-at-jakarta-stock-exchange/news-story/3446f9650f112f4621bdab69f6a15b50 (''The Australian'')], [https://www.express.co.uk/news/world/904727/Indonesia-stock-exchange-floor-collapse-evacuation-casualties (''Daily Express'')]
 *The [[Mayon]] volcano begins to erupt in the [[Philippines]].  [http://www.cnn.com/2018/01/15/asia/mayon-volcano-alert-level-increased/index.html (CNN)]
+*A partially completed bridge in Cundinamarca, [[Colombia]], [[Chirajara bridge collapse|collapses]], killing at least 10 workers. [https://www.reuters.com/article/us-colombia-accident/collapse-of-colombian-bridge-kills-nine-workers-injures-five-idUSKBN1F42JS (Reuters)]
 
 ;International relations
 *[[Israel–Palestine relations]]
