@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=01|day=17|content=
 
 <!-- All news items below this line -->
-*
+;Business and economy
+*[[Freedom of the Press]]
+**In allusion to the decline of [[democracy]] and [[freedom of speech|free speech]] in [[Southeast Asia]], international observers criticize the move by the [[Philippines|Philippine]] government to cancel the operating license of [[Rappler]]. [https://www.nytimes.com/2018/01/16/opinion/duterte-free-press-philippines.html (''The New York Times'')], [https://www.cfr.org/blog/southeast-asias-press-freedoms-collapse-2018-could-be-worse-southeast-asian-democracy-2017 (Council on Foreign Relations)], [https://www.buzzfeed.com/meghara/the-press-is-under-attack-in-southeast-asia-and-its-only (BuzzFeed)]
 <!-- All news items above this line -->}}
