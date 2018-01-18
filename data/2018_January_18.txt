@@ -3,4 +3,8 @@
 <!-- All news items below this line -->
 ;Business and economy
 *The [[Emirates (airline)|Emirates]] airline has announced an order for up to 36 [[Airbus]] [[Airbus A380|A380]]s.[http://www.bbc.com/news/business-42732842 (BBC)]
+
+;Disasters and accidents
+*[[2018 Aktobe bus fire]]
+**A bus carrying [[Uzbeks|Uzbek]] migrant workers catches fire in [[Kazakhstan]]'s [[Aktobe Region]], killing at least 52 people. At least five people managed to escape and have been treated by rescue workers. [http://www.bbc.co.uk/news/world-asia-42729597 (BBC)]
 <!-- All news items above this line -->}}
