@@ -11,8 +11,8 @@
 *[[The Church of Jesus Christ of Latter-day Saints]] (Mormon Church) names [[Russell M. Nelson]] as the 17th [[President of the Church (LDS Church)|President of the Church]]. [https://www.npr.org/sections/thetwo-way/2018/01/16/578311260/mormon-church-names-russell-m-nelson-as-new-leader (NPR)]
 
 ;Business and economy
-*[[United States]] [[stock market index]]
-*The [[Dow Jones Industrial Average]] reaches 26,000 points for the first time, after surpassing the 25,000-mark on January 4. [http://www.chicagotribune.com/business/ct-biz-dow-hits-26000-20180116-story.html (''Chicago Tribune'')]
+*United States [[stock market index]]
+**After surpassing the 25,000-mark on January 4, the [[Dow Jones Industrial Average]] reaches 26,000 points. [http://www.chicagotribune.com/business/ct-biz-dow-hits-26000-20180116-story.html (''Chicago Tribune'')]
 *In a strategy claimed as "towards healthier products", [[Nestlé]] sells its [[United States]] [[confectionery]] business, number 4 on the market, to [[Ferrero SpA]] for $2.8 billion. [https://www.reuters.com/article/us-nestle-m-a-ferrero/health-conscious-nestle-sells-u-s-candy-to-ferrero-for-2-8-billion-idUSKBN1F5268 (Reuters)]
 
 ;Disasters and accidents
@@ -25,7 +25,8 @@
 **The United States will withhold $65 million for Palestinian aid paid via the [[UNRWA|United Nations Relief and Welfare Agency]] stating that UNRWA needs to make unspecified reforms. The U.S. says it will provide $60 million, 48 percent of the regular payment. [https://www.reuters.com/article/us-israel-palestinians-usa/u-s-withholds-65-million-in-palestinian-aid-after-trump-threat-idUSKBN1F52GA (Reuters)]
 
 ;Law and crime
-*[[Oliver Ivanović]], the head politician of the [[Kosovo Serbs|Kosovo Serb]] party Freedom, Democracy, Justice, is killed outside his office in [[North Mitrovica]] in a [[drive-by shooting]]. [http://www.bbc.co.uk/news/world-europe-42701712 (BBC)]
+*[[Kosovo War]]
+**A [[drive-by shooting]] outside his office in [[North Mitrovica]] kills the head politician of the [[Kosovo Serbs|Kosovo Serb]] party called Freedom, Democracy, Justice, [[Oliver Ivanović]]. In January 2016, [[European Union]] judges in Kosovo sentenced him to nine years, but the verdict was overturned by an appeals court a year later. He was facing a retrial for alleged war crimes against ethnic [[Albanian]]s committed in 1999. [http://www.bbc.co.uk/news/world-europe-42701712 (BBC)]
 *[[Terrorism in Pakistan]]
 **Over 1,800 [[Ulama|muslim cleric]]s in [[Pakistan]] issue a [[fatwa]] aimed at prohibiting the use of [[suicide bombing]], declaring it [[haram]]. [https://sputniknews.com/middleeast/201801161060796179-muslim-clerics-forbid-suicide-attacks/ (Sputnik)].
 
@@ -35,5 +36,5 @@
 
 ;Science and technology
 *[[Climate of Russia]]
-**Temperatures sink to {{convert|−67|C|F}} in [[Russia|Russia's]] [[Sakha Republic|Yakutia region]], four degrees shy of the record low of {{convert|−71|C|F}} recorded in 2013 in Yakutia's village of [[Oymyakon]]. [https://www.channelnewsasia.com/news/world/even-eyelashes-freeze-as-parts-of-russia-hit-67-degrees-celsius-9868586 (Channel NewsAsia)]
+**Temperatures reach {{convert|−67|C|F}} in [[Russia|Russia's]] [[Sakha Republic|Yakutia region]], four degrees shy of the record low of {{convert|−71|C|F}} recorded in 2013 in Yakutia's village of [[Oymyakon]]. [https://www.channelnewsasia.com/news/world/even-eyelashes-freeze-as-parts-of-russia-hit-67-degrees-celsius-9868586 (Channel NewsAsia)]
 <!-- All news items above this line -->}}

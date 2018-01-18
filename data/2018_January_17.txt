@@ -1,8 +1,9 @@
 {{Current events|year=2018|month=01|day=17|content=
 
 <!-- All news items below this line -->
-;Arts and culture
-*The [[Bayeux Tapestry]], which depicts the [[Norman conquest of England]], is to be displayed in the [[United Kingdom]] for the first time after [[President of France|French President]] [[Emmanuel Macron]] agreed to loan it out for the first time in 950 years. [http://www.bbc.com/news/uk-42713552 (BBC)]
+;Armed conflicts and attacks
+*Kidnappers abduct two Americans, two Canadians in Nigeria; two police killed. [https://www.reuters.com/article/us-nigeria-kidnapping/kidnappers-abduct-two-americans-two-canadians-in-nigeria-two-police-killed-idUSKBN1F61XS (Reuters)]
+*Suspected Boko Haram suicide bombers kill 12, injure 48. [https://www.reuters.com/article/us-nigeria-security/suspected-boko-haram-suicide-bombers-kill-12-injure-48-idUSKBN1F627C?il=0 (Reuters)]
 
 ;International relations
 *[[North Korea–South Korea relations]]
@@ -12,9 +13,9 @@
 *[[Freedom of the press]]
 **The [[National Bureau of Investigation (Philippines)|National Bureau of Investigation of the Philippines]] launches a probe against [[Rappler]], which is the publication that has criticized [[Philippines]] president [[Rodrigo Duterte]]. [https://www.reuters.com/article/us-philippines-media/philippines-orders-further-probes-into-news-site-that-angered-duterte-idUSKBN1F61J1 (Reuters)]
 *[[Insurgency in the North Caucasus]]
-**Masked arsonists set fire to the office of [[Memorial (society)|Memorial]], a [[Russia]]n human rights organization, in [[Nazran]], [[Ingushetia]]. [https://themoscowtimes.com/news/masked-arsonists-torch-memorial-human-rights-office-in-north-caucasus-60201 (''The Moscow Times'')]
+**In [[Nazran]], [[Ingushetia]], arsonists set fire to the office of [[Memorial (society)|Memorial]], a [[Russia]]n human rights organization. [https://themoscowtimes.com/news/masked-arsonists-torch-memorial-human-rights-office-in-north-caucasus-60201 (''The Moscow Times'')]
 
 ;Politics and elections	
 *[[2017–18 Spanish constitutional crisis]]	
-**The [[Parliament of Catalonia]] opens the new [[Catalan regional election, 2017|legislature]]. Roger Torrent ([[Republican Left of Catalonia|ERC]]) is named [[List of Presidents of the Parliament of Catalonia|Speaker]]. Three parliamentarians in jail [[Proxy voting|vote through proxies]], the five parlementarians in [[exile]] in Belgium do not. [[Carles Puigdemont]] ([[Catalan European Democratic Party|PDeCAT]], [[Junts per Catalunya|JuntsxCat]]), through his spokesman, considers it "perfectly plausible" for him to be [[President of the Generalitat of Catalonia|president]] remotely. Spanish [[Prime Minister of Spain|Prime Minister]] [[Mariano Rajoy]] says that he will not [[Article 155|restore Catalonia's autonomous powers]] if the regional parliament permits Puigdemont to lead the government from exile. [http://www.bbc.com/news/world-europe-42718192 (BBC)]
+**The [[Parliament of Catalonia]] opens the new [[Catalan regional election, 2017|legislature]]. [[Roger Torrent]] ([[Republican Left of Catalonia|ERC]]) is named [[List of Presidents of the Parliament of Catalonia|Speaker]]. Three parliamentarians in jail [[Proxy voting|vote through proxies]], the five parlementarians in [[exile]] in Belgium do not. [[Carles Puigdemont]] ([[Catalan European Democratic Party|PDeCAT]], [[Junts per Catalunya|JuntsxCat]]), through his spokesman, considers it "perfectly plausible" for him to be [[President of the Generalitat of Catalonia|president]] remotely. Spanish [[Prime Minister of Spain|Prime Minister]] [[Mariano Rajoy]] says that he will not [[Article 155|restore Catalonia's autonomous powers]] if the regional parliament permits Puigdemont to lead the government from exile. [http://www.bbc.com/news/world-europe-42718192 (BBC)]
 <!-- All news items above this line -->}}
