@@ -1,9 +1,12 @@
 {{Current events|year=2018|month=01|day=19|content=
 
 <!-- All news items below this line -->
-;Disasters and accidents
-* Fifteen people are injured and an infant killed after a car hit a group of pedestrians near [[Copacabana, Rio de Janeiro|Copacabana Beach]] in [[Rio de Janeiro]], [[Brazil]]. The police report the driver had an [[epileptic seizure]]. [http://www.bbc.com/news/world-latin-america-42742877 (BBC)]
-
 ;Armed conflicts and attacks
 *Six high school students in [[Russia]] are wounded after a teenager attacked them with an ax. He then tried to kill himself by lighting a [[Incendiary device|firebomb]], but was arrested. [http://abcnews.go.com/International/wireStory/russian-teenager-attacks-schoolmates-ax-wounding-52456134 (ABC)]
+*[[Syrian Civil War]]
+**With a cross-border artillery bombardment into the [[Afrin]] area, [[Turkey]] starts its announced military campaign to "destroy" the [[Kurds in Syria|Syrian Kurdish]] [[YPG]] group. [https://uk.reuters.com/article/uk-mideast-crisis-syria-turkey/turkey-shells-syrias-afrin-region-minister-says-operation-has-begun-idUKKBN1F80XH (Reuters)]
+
+
+;Disasters and accidents
+* Fifteen people are injured and an infant killed after a car hit a group of pedestrians near [[Copacabana, Rio de Janeiro|Copacabana Beach]] in [[Rio de Janeiro]], [[Brazil]]. The police report the driver had an [[epileptic seizure]]. [http://www.bbc.com/news/world-latin-america-42742877 (BBC)]
 <!-- All news items above this line -->}}
