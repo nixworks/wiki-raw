@@ -2,9 +2,8 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Syrian Civil War]], [[Afrin offensive]]
-**With a cross-border artillery bombardment into the [[Afrin, Syria|Afrin]] area, [[Turkey]] starts its announced military campaign to "destroy" the [[Kurds in Syria|Syrian Kurdish]] [[People's Protection Units|YPG]] group. [https://uk.reuters.com/article/uk-mideast-crisis-syria-turkey/turkey-shells-syrias-afrin-region-minister-says-operation-has-begun-idUKKBN1F80XH (Reuters)]
-*Outside the [[Fleury-Mérogis Prison|Fleury-Mérogis prison]], [[Law enforcement in France|French police]] clash with [[Prison officer|prison guards]] who are striking over the detention conditions in French jails. [https://www.reuters.com/article/us-france-security-prison/french-police-clash-with-prison-guards-in-protest-over-jail-conditions-idUSKBN1F81W7 (Reuters)]  
+*[[Syrian Civil War]], [[2018 Afrin offensive]]
+**With a cross-border artillery bombardment into the [[Afrin Canton]], [[Turkey]] starts its announced military campaign to "destroy" the [[Kurds in Syria|Syrian Kurdish]] [[People's Protection Units|YPG]] group. [https://uk.reuters.com/article/uk-mideast-crisis-syria-turkey/turkey-shells-syrias-afrin-region-minister-says-operation-has-begun-idUKKBN1F80XH (Reuters)] 
 
 ;Business and economy
 *[[Protests against Rodrigo Duterte]]
@@ -16,6 +15,7 @@
 
 ;Law and crime
 *[[Sudan]]'s [[National Intelligence and Security Service]] arrests 7 journalists who were [[Freedom of the press|covering]] this week's economic protests in [[Khartoum]]. The charges are unclear. [https://www.nytimes.com/2018/01/19/world/africa/sudan-journalists-arrests.html (''The New York Times)]
+*Outside the [[Fleury-Mérogis Prison|Fleury-Mérogis prison]], [[Law enforcement in France|French police]] clash with [[Prison officer|prison guards]] who are striking over the detention conditions in French jails. [https://www.reuters.com/article/us-france-security-prison/french-police-clash-with-prison-guards-in-protest-over-jail-conditions-idUSKBN1F81W7 (Reuters)] 
 
 ;Politics and elections
 *[[Politics of China]]
@@ -23,7 +23,7 @@
 *[[Politics of the United States]]
 **Presenting a new [[National Military Strategy (United States)|national defense strategy]], the [[United States Secretary of Defense]], [[Jim Mattis]], says [[terrorism]] is no longer the focus of the [[national security of the United States]]. Now it is [[competition]] between [[List of modern great powers|great powers]]. [http://www.bbc.com/news/world-us-canada-42752298 (BBC)]
 *[[Politics of the United Kingdom]]
-**A spokesperson for [[Prime Minister of the United Kingdom|Prime Minister]] [[Theresa May]] says the government has seen no plans for [[Secretary of State for Foreign and Commonwealth Affairs|Foreign Secretary]] [[Boris Johnson]]'s idea of building a road bridge between [[France]] and the United Kingdom. [https://www.cnbc.com/2018/01/19/boris-johnson-wants-to-build-a-bridge-to-france.html (CNBC)]
+**A spokesperson for [[Prime Minister of the United Kingdom|Prime Minister]] [[Theresa May]] says the government has seen no plans for [[Secretary of State for Foreign and Commonwealth Affairs|Foreign Secretary]] [[Boris Johnson]]'s idea of building a road bridge across the [[English Channel]] between [[France]] and the United Kingdom. [https://www.cnbc.com/2018/01/19/boris-johnson-wants-to-build-a-bridge-to-france.html (CNBC)]
 *[[Political appointments by Donald Trump]]
 **[[Carl Higbie]],  [[Corporation for National and Community Service]] Chief of External Affairs, apologizes and resigns from his position with the agency that runs [[AmeriCorps]] after racist and anti-Muslim remarks he made in 2013 are reported by [[CNN]]. [https://www.npr.org/sections/thetwo-way/2018/01/19/579111221/carl-higbie-resigns-from-trump-administration-after-bigoted-comments-surface (NPR)]
 <!-- All news items above this line -->}}
