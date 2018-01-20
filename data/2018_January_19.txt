@@ -26,4 +26,7 @@
 **A spokesperson for [[Prime Minister of the United Kingdom|Prime Minister]] [[Theresa May]] says the government has seen no plans for [[Secretary of State for Foreign and Commonwealth Affairs|Foreign Secretary]] [[Boris Johnson]]'s idea of building a road bridge across the [[English Channel]] between [[France]] and the United Kingdom. [https://www.cnbc.com/2018/01/19/boris-johnson-wants-to-build-a-bridge-to-france.html (CNBC)]
 *[[Political appointments by Donald Trump]]
 **[[Carl Higbie]],  [[Corporation for National and Community Service]] Chief of External Affairs, apologizes and resigns from his position with the agency that runs [[AmeriCorps]] after racist and anti-Muslim remarks he made in 2013 are reported by [[CNN]]. [https://www.npr.org/sections/thetwo-way/2018/01/19/579111221/carl-higbie-resigns-from-trump-administration-after-bigoted-comments-surface (NPR)]
+
+;Science and technology
+*An [[Atlas V]] rocket successfully deployed the fourth [[Space Based Infrared System|SBIRS]] satellite for the [[United States Air Force]]. This launch completes the [[geosynchronous orbit|geosynchronous]] segment of SBIRS and provides a global missile detection system for the United States. [http://spaceflight101.com/atlas-v-launches-fourth-sbirs-missile-warning-satellite/ (Spaceflight 101)]
 <!-- All news items above this line -->}}
