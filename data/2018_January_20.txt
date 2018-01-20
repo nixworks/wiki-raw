@@ -1,6 +1,11 @@
 {{Current events|year=2018|month=01|day=20|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Syrian Civil War]]
+**[[Northwestern Syria campaign (October 2017–present)]]
+***The [[Syrian Army]] seizes control of the strategic [[Abu al-Duhur Military Airbase]] in the [[Idlib Governorate]]. [https://uk.reuters.com/article/uk-mideast-crisis-syria-airport/syrian-army-allies-take-idlib-air-base-hezbollah-media-unit-idUKKBN1F90MB?il=0 (Reuters)]
+
 ;Business and economy
 *[[United States federal government shutdown of 2018]]
 ** The [[United States]] federal government [[Government shutdowns in the United States|shuts down]] after the [[United States Senate]] fails to pass a [[2018 United States federal budget|budget]] bill. [https://nytimes.com/2018/01/19/us/politics/government-shutdown.html (''The New York Times'')] 
