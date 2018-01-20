@@ -1,5 +1,8 @@
 {{Current events|year=2018|month=01|day=20|content=
 
 <!-- All news items below this line -->
-*
+;Business and economy
+*[[United States federal government shutdown of 2018]]
+** The [[United States]] federal government [[Government shutdowns in the United States|shuts down]] after the [[United States Senate]] fails to pass a [[2018 United States federal budget|budget]] bill. [https://nytimes.com/2018/01/19/us/politics/government-shutdown.html (''The New York Times'')] 
+
 <!-- All news items above this line -->}}
