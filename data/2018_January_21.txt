@@ -1,6 +1,7 @@
 {{Current events|year=2018|month=01|day=21|content=
 
 <!-- All news items below this line -->
+<!-- Could possibly use some summarising -->
 ;Armed conflicts and attacks
 *[[2018 Inter-Continental Hotel Kabul attack]]
 **Six insurgents kill at least 18 people—4 [[Afghanistan|Afghans]] and 14 foreigners—in a 13-hour gun battle. The [[Ministry of Interior Affairs (Afghanistan)|Afghan Interior Ministry]] says that the siege ended when the last gunman was shot dead. [[NATO]] reports that "no foreign troops" died. The [[Taliban]] claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The [[Government of Afghanistan|Afghan government]] blames the attack on the [[Pakistan]]-based [[Haqqani network]]. [https://www.cbsnews.com/news/kabul-intercontinental-hotel-attack-today-updates-2018-1-22/ (CBS News)], [https://www.nbcnews.com/news/world/gunmen-attack-afghanistan-s-intercontinental-hotel-kabul-n839471 (AP via NBC News)], [http://www.bbc.com/news/world-asia-42766623 (BBC)]
@@ -13,7 +14,7 @@
 
 ;Politics and elections
 *[[2018 Women's March]] 
-**Hundreds of thousands of women protest for a second day throughout the [[United States]] in support of [[Women's rights in the United States|women's rights]]. [http://www.cnn.com/2018/01/21/us/womens-march-sunday-trump/index.html (CNN)]
+**Hundreds of thousands protest for a second day throughout the [[United States]] in support of [[Women's rights in the United States|women's rights]]. [http://www.cnn.com/2018/01/21/us/womens-march-sunday-trump/index.html (CNN)]
 *[[Politics of Somalia]]
 **[[President of Somalia|President]] [[Mohamed Abdullahi Mohamed]] fires Taabit Abdi Mohamed as mayor of [[Mogadishu]] and replaces him with his information minister, Abdirahman Omar Osman. [https://www.reuters.com/article/us-somalia-politics/somali-president-sacks-mogadishu-mayor-names-replacement-idUSKBN1FA08S (Reuters)]
 *[[Democratic Republic of the Congo general election, 2018|Democratic Republic of the Congo general election]]
@@ -21,4 +22,12 @@
 **Congolese security forces kill at least six protesters and fire tear gas in Kinshasa. 57 people are wounded and dozens of arrests are made in protests across the country, notably in [[Mbuji-Mayi]], [[Goma]], [[Lubumbashi]] and several other places. [https://www.reuters.com/article/us-congo-protests/congolese-security-forces-kill-three-while-dispersing-anti-kabila-protest-idUSKBN1FA0KJ (Reuters)]
 *[[United States federal government shutdown of 2018]]
 **[[President of the United States|U.S. President]] [[Donald Trump]] says on Twitter that if the shutdown stalemate continues, Republicans should consider the "[[nuclear option]]" [[parliamentary procedure]] in the Senate. [https://www.bloomberg.com/news/articles/2018-01-21/key-day-could-yield-fast-deal-or-long-impasse-shutdown-update (Bloomberg)]
+
+;Science and technology
+*[[Rocket Lab]] successfully launches test rocket [[Electron (rocket)|Electron]] into orbit from [[Mahia Peninsula]], [[New Zealand]] after the original rocket launch in May 2017 had to be aborted by safety officials. [https://www.tvnz.co.nz/one-news/new-zealand/lift-off-watch-rocket-lab-successfully-launch-their-electron (1 News)]
+
+;Sport
+*[[2017–18 NFL playoffs]]
+**In [[American football]], the [[Philadelphia Eagles]] win the [[National Football Conference]], defeating the [[Minnesota Vikings]] 38&ndash;7. [http://profootballtalk.nbcsports.com/2018/01/21/hello-super-bowl-underdog-eagles-dominate-vikings-38-7/ (NBC Sports)]
+**The [[New England Patriots]] win the [[American Football Conference]] title, defeating the [[Jacksonville Jaguars]] 24&ndash;21. [http://www.news.com.au/sport/american-sports/nfl-afc-and-nfc-championship-games-live-coverage-video-scores/news-story/46a40091c02847b2c299701f1c84a494 (Fox Sports Australia via News Limited)]
 <!-- All news items above this line -->}}
