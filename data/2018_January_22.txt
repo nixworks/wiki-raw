@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=01|day=22|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[2017 Spanish constitutional crisis|2017-2018 Spanish constitutional crisis]]
+**[[Carles Puigdemont]], ex President of Catalonia, flees to Denmark while [[Spanish Attorney General]] requests the European Arrest Warrant. The Speaker of the [[Parliament of Catalonia|Catalan Parliament]] appoints Puigdemont to be invested as [[President of the Generalitat of Catalonia|President]]. [http://www.bbc.com/news/world-europe-42772758 (BBC)]
 <!-- All news items above this line -->}}
