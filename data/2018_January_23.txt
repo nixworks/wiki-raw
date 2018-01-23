@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=01|day=23|content=
 
 <!-- All news items below this line -->
-*
+;Disasters and accidents
+*[[2018 Alaska earthquake]]
+**An 8.2 magnitude earthquake occurs in the [[Gulf of Alaska]] prompting a [[tsunami]] warning. It is the fifth largest earthquake in the history of the [[United States]]. [news.sky.com/story/tsunami-warning-after-huge-alaska-quake-11219220 (Sky News UK)]
 <!-- All news items above this line -->}}
