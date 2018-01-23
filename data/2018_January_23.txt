@@ -1,8 +1,14 @@
 {{Current events|year=2018|month=01|day=23|content=
 
 <!-- All news items below this line -->
+;Business and economy
+*[[Trans-Pacific Partnership]]
+**11 countries announce that they will sign an agreement in [[Chile]] in March. [https://in.reuters.com/article/trade-tpp-japan/trans-pacific-trade-pact-without-u-s-to-be-signed-in-march-japan-idINKBN1FC17S (Reuters)]
 ;Disasters and accidents
 *[[2018 Alaska earthquake]]
 **A 7.9 [[Moment magnitude scale|magnitude]] earthquake occurs in the [[Gulf of Alaska]]. A [[Tsunami warning system|tsunami warning]] was issued for coastal [[Alaska]] through Canada's [[British Columbia]], and the [[West Coast of the United States|U.S. West Coast]], from the  [[Washington (state)|Washington state]]—[[Canada|Canadian]] border to the [[Mexico|Mexican border]], was under a tsunami watch. Areas of Alaska remain under a tsunami advisory. It is tied as the [[List of earthquakes in the United_States|sixth-largest earthquake]] ever recorded in the [[United States]], but there are no reports of significant damage or fatalities. [http://news.sky.com/story/tsunami-warning-after-huge-alaska-quake-11219220 (Sky News UK)] [https://www.cbsnews.com/news/tsunami-warning-for-much-alaska-coast-follows-earthquake-live-updates/ (CBS News)] [https://earthquake.usgs.gov/earthquakes/eventpage/us2000cmy3#executive (USGS)]
 *A helicopter and a light aircraft collide mid-air close to the [[Philippsburg Nuclear Power Plant]] in [[Germany]], resulting in four casualities. [http://www.dw.com/en/helicopter-light-aircraft-collide-in-southwestern-germany/a-42271947 (Deutsche Welle)]
+;Politics and elections
+*[[Politics of the United Kingdom]]
+**[[Theresa May]] slaps down [[Boris Johnson]] for airing [[National Health Service|NHS]] funding concerns outside private [[Cabinet of the United Kingdom|Cabinet]] meetings. [https://in.reuters.com/article/britain-politics-health/britains-may-slaps-down-foreign-minister-over-health-funds-idINKBN1FC1JR (Reuters)]
 <!-- All news items above this line -->}}
