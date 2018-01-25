@@ -8,7 +8,7 @@
 
 ;Disasters and accidents
 *[[Pioltello train derailment]]
-**At least 3 people are killed and over 100 injured in a [[train derailment]] near [[Milan]], [[Italy]]. [https://www.bbc.co.uk/news/world-europe-42816003 (BBC)] [https://www.theguardian.com/world/2018/jan/25/milan-train-crash-derailment-italy-commuter (''The Guardian'')] [https://www.reuters.com/article/us-italy-accident-train/at-least-three-dead-after-train-derails-near-milan-idUSKBN1FE0PR (Reuters)]
+**At least three people are killed and over 100 injured in a [[train derailment]] near [[Milan]], [[Italy]]. [https://www.bbc.co.uk/news/world-europe-42816003 (BBC)] [https://www.theguardian.com/world/2018/jan/25/milan-train-crash-derailment-italy-commuter (''The Guardian'')] [https://www.reuters.com/article/us-italy-accident-train/at-least-three-dead-after-train-derails-near-milan-idUSKBN1FE0PR (Reuters)]
 
 ;International relations
 *[[Germany–Turkey relations]]
@@ -16,8 +16,8 @@
 
 ;Law and crime
 *[[Time in Florida]]
-**Two bills are unanimously approved by [[Florida House of Representatives]] and [[Florida Senate]] Committees to move Florida permanently to [[Daylight saving time|Daylight Saving Time]] ([[UTC−04:00]]); if passed by the [[Florida Legislature|state legislature]]. Any changes would need to be approved by the [[United States Department of Transportation|Department of Transportation]] and [[United States Congress|Congress]]. [http://www.miamiherald.com/news/state/florida/article196453714.html (''Miami Herald'')]
+**Two bills are unanimously approved by the [[Florida House of Representatives|Florida House]] and [[Florida Senate|Senate]] Committees that propose moving [[Florida|the state]] permanently to [[Daylight saving time|Daylight Saving Time]] ([[UTC−04:00]]), and shifting most of the [[Florida Panhandle|Panhandle]] west of a line from eastern [[Jackson County, Florida|Jackson County]] to northern [[Gulf County, Florida|Gulf County]] – which currently lies within the southern boundary of the [[Central Time Zone]] ([[UTC−05:00]]) – to the [[Eastern Time Zone]], in alignment with the remainder of Florida's 67 counties. If passed by the [[Florida Legislature|state legislature]], any changes would need to be approved by the [[United States Department of Transportation|Department of Transportation]] and [[United States Congress|Congress]]. [http://www.miamiherald.com/news/state/florida/article196453714.html (''Miami Herald'')]
 
 ;Science and technology
-*The [[Bulletin of the Atomic Scientists]] moves the [[Doomsday Clock]] thirty seconds forward, to two minutes before midnight, the closest setting since 1953. [https://www.washingtonpost.com/news/speaking-of-science/wp/2018/01/25/after-a-missile-scare-and-insult-war-with-north-korea-its-time-to-check-the-doomsday-clock/ (''The Washington Post'')]
+*The [[Bulletin of the Atomic Scientists]] moves the [[Doomsday Clock]] thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical [[global catastrophe]] to the failure of world leaders to deal with looming threats of [[nuclear warfare|nuclear war]] (particularly, tensions involving the [[North Korea]]n nuclear program) and [[climate change]]. Most reasons however point to [[Donald Trump]]. [https://www.washingtonpost.com/news/speaking-of-science/wp/2018/01/25/after-a-missile-scare-and-insult-war-with-north-korea-its-time-to-check-the-doomsday-clock/ (''The Washington Post'')] [https://motherboard.vice.com/en_us/article/9kn4ja/the-doomsday-clock-people-are-freaking-me-out (''Vice Motherboard'')]
 <!-- All news items above this line -->}}
