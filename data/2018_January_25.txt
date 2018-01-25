@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=01|day=25|content=
 <!-- All news items below this line -->
+;Disasters and accidents
 
-* At least 4 people are killed and over 100 injured in a [[Milan train derailment|train derailment]] near [[Milan]], [[Spain]].
+* [[Milan train derailment]]
+** At least 3 people are killed and over 100 injured in a [[train derailment]] near [[Milan]], [[Italy]]. ([https://www.bbc.co.uk/news/world-europe-42816003 BBC]) ([https://www.theguardian.com/world/2018/jan/25/milan-train-crash-derailment-italy-commuter The Guardian]) ([https://www.reuters.com/article/us-italy-accident-train/at-least-three-dead-after-train-derails-near-milan-idUSKBN1FE0PR Reuters])
 <!-- All news items above this line -->}}
