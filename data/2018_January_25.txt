@@ -1,12 +1,14 @@
 {{Current events|year=2018|month=01|day=25|content=
 <!-- All news items below this line -->
 ;Disasters and accidents
+*[[Pioltello train derailment]]
+**At least 3 people are killed and over 100 injured in a [[train derailment]] near [[Milan]], [[Italy]]. [https://www.bbc.co.uk/news/world-europe-42816003 (BBC)] [https://www.theguardian.com/world/2018/jan/25/milan-train-crash-derailment-italy-commuter (''The Guardian'')] [https://www.reuters.com/article/us-italy-accident-train/at-least-three-dead-after-train-derails-near-milan-idUSKBN1FE0PR (Reuters)]
 
-* [[Pioltello train derailment]]
-** At least 3 people are killed and over 100 injured in a [[train derailment]] near [[Milan]], [[Italy]]. ([https://www.bbc.co.uk/news/world-europe-42816003 BBC]) ([https://www.theguardian.com/world/2018/jan/25/milan-train-crash-derailment-italy-commuter The Guardian]) ([https://www.reuters.com/article/us-italy-accident-train/at-least-three-dead-after-train-derails-near-milan-idUSKBN1FE0PR Reuters])
+;International relations
+*[[Germany–Turkey relations]]
+**[[Chancellor of Germany|Chancellor]] [[Angela Merkel]] and [[Foreign Minister of Germany|Foreign Minister]] [[Sigmar Gabriel]], for the German [[German federal election, 2017|caretaker]] [[Cabinet of Germany|government]], decide to delay a decision on upgrading Turkey's German-built [[Leopard 2]] tanks until after the formation of a new government coalition. [[Minister of Foreign Affairs (Turkey)|Foreign Minister of Turkey]] [[Mevlüt Çavuşoğlu]] says Turkey expects "solidarity and support" from its ally. [https://uk.reuters.com/article/uk-germany-turkey-tanks/germany-freezes-any-decision-on-tanks-upgrade-for-turkey-idUKKBN1FE1PR (Reuters)] [http://www.jpost.com/Breaking-News/Turkey-expects-solidarity-from-Germany-after-tanks-upgrade-move-539802 (''Jerusalem Post'')]
 
-;Law and Crime
-* [[Time in Florida]]
-**A bill to move Florida permanently to [[Atlantic Standard Time]] is approved by [[Florida House of Representatives]] and [[Florida Senate]] Committees. Any changes would need to be approved by [[United States Department of Transportation]] and [[United States Congress]].([http://www.miamiherald.com/news/state/florida/article196453714.html Miami Herald])
-
+;Law and crime
+*[[Time in Florida]]
+**Two bills are unanimously approved by [[Florida House of Representatives]] and [[Florida Senate]] Committees to move Florida permanently to [[Daylight saving time|Daylight Saving Time]]; if passed by the [[Florida Legislature|state legislature]], it would make [[Florida]] the first U.S. state to observe Daylight Saving Time year-round. Any changes would need to be approved by [[United States Department of Transportation]] and [[United States Congress]]. [http://www.miamiherald.com/news/state/florida/article196453714.html (''Miami Herald'')]
 <!-- All news items above this line -->}}
