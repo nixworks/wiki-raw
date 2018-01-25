@@ -13,5 +13,8 @@
 
 ;Law and crime
 *[[Time in Florida]]
-**Two bills are unanimously approved by [[Florida House of Representatives]] and [[Florida Senate]] Committees to move Florida permanently to [[Daylight saving time|Daylight Saving Time]]; if passed by the [[Florida Legislature|state legislature]]. Any changes would need to be approved by [[United States Department of Transportation]] and [[United States Congress]]. [http://www.miamiherald.com/news/state/florida/article196453714.html (''Miami Herald'')]
+**Two bills are unanimously approved by [[Florida House of Representatives]] and [[Florida Senate]] Committees to move Florida permanently to [[Daylight saving time|Daylight Saving Time]]([[UTC−04:00]]); if passed by the [[Florida Legislature|state legislature]]. Any changes would need to be approved by [[United States Department of Transportation]] and [[United States Congress]]. [http://www.miamiherald.com/news/state/florida/article196453714.html (''Miami Herald'')]
+
+;Science and technology
+*The [[Bulletin of the Atomic Scientists]] moves the [[Doomsday Clock]] thirty seconds forward, to two minutes before midnight, the closest setting since 1953. [https://www.washingtonpost.com/news/speaking-of-science/wp/2018/01/25/after-a-missile-scare-and-insult-war-with-north-korea-its-time-to-check-the-doomsday-clock/ (''The Washington Post'')]
 <!-- All news items above this line -->}}
