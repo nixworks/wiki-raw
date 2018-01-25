@@ -2,6 +2,11 @@
 <!-- All news items below this line -->
 ;Disasters and accidents
 
-* [[Milan train derailment]]
+* [[Pioltello train derailment]]
 ** At least 3 people are killed and over 100 injured in a [[train derailment]] near [[Milan]], [[Italy]]. ([https://www.bbc.co.uk/news/world-europe-42816003 BBC]) ([https://www.theguardian.com/world/2018/jan/25/milan-train-crash-derailment-italy-commuter The Guardian]) ([https://www.reuters.com/article/us-italy-accident-train/at-least-three-dead-after-train-derails-near-milan-idUSKBN1FE0PR Reuters])
+
+;Law and Crime
+* [[Time in Florida]]
+**A bill to move Florida permanently to [[Atlantic Standard Time]] is approved by [[Florida House of Representatives]] and [[Florida Senate]] Committees. Any changes would need to be approved by [[United States Department of Transportation]] and [[United States Congress]].([http://www.miamiherald.com/news/state/florida/article196453714.html Miami Herald])
+
 <!-- All news items above this line -->}}
