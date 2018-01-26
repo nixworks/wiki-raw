@@ -2,5 +2,5 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*A '''[[Sejong Hospital fire|fire]]''' in a hospital in the [[South Korea]]n city of [[Miryang]] kills at least 31 people and injures another 40. [http://www.abc.net.au/news/2018-01-26/deadly-fire-breaks-out-in-south-korean-hospital/9365042 (Reuters via ABC News)], [https://www.express.co.uk/news/world/910123/South-Korea-fire-hospital-Milyang-Winter-Olympics-host-PyeongChang (''The  Express'')]
+*A '''[[2018 Sejong Hospital fire|fire]]''' in a hospital in the [[South Korea]]n city of [[Miryang]] kills at least 31 people and injures another 40. [http://www.abc.net.au/news/2018-01-26/deadly-fire-breaks-out-in-south-korean-hospital/9365042 (Reuters via ABC News)], [https://www.express.co.uk/news/world/910123/South-Korea-fire-hospital-Milyang-Winter-Olympics-host-PyeongChang (''The  Express'')]
 <!-- All news items above this line -->}}
