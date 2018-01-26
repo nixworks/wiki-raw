@@ -1,6 +1,10 @@
 {{Current events|year=2018|month=01|day=26|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Syrian Civil War]]
+**[[President of Turkey]] [[Recep Tayyip Erdoğan]] says the [[Turkish military intervention in Afrin|Afrin offensive]], as announced, is now to turn east, towards [[Manbij]] and the border with [[Iraq]]. [https://www.reuters.com/article/us-mideast-crisis-turkey-syria/turkeys-erdogan-says-military-operation-to-make-big-sweep-east-across-syria-idUSKBN1FF1R0 (Reuters)]
+
 ;Disasters and accidents
 *[[2018 Miryang hospital fire]]
 **A fire breaks out at a [[South Korea]]n hospital in the city of [[Miryang]], killing at least 41 people and injuring 80 others. [http://www.abc.net.au/news/2018-01-26/deadly-fire-breaks-out-in-south-korean-hospital/9365042 (Reuters via ABC News)] [https://www.express.co.uk/news/world/910123/South-Korea-fire-hospital-Milyang-Winter-Olympics-host-PyeongChang (''The  Express'')]
