@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Turkish military intervention in Afrin]]
-**The [[Ak Saray|Turkish presidency]] says that the [[United States]] has told them that the U.S. "will not provide any more weapons to the Syrian Kurdish [[People's Protection Units|YPG]] militia". [https://www.usnews.com/news/world/articles/2018-01-27/us-tells-turkey-it-will-end-weapons-support-for-syrian-kurdish-ypg-anadolu (U.S. News & World Report)] 
+**The [[Ak Saray|Turkish presidency]] says that the [[United States]] has told them that the U.S. "will not provide any more weapons to the Syrian Kurdish [[People's Protection Units|YPG]] militia". [https://www.usnews.com/news/world/articles/2018-01-27/us-tells-turkey-it-will-end-weapons-support-for-syrian-kurdish-ypg-anadolu (''U.S. News & World Report'')] 
 *[[January 27, 2018 Kabul suicide bombing]]
 **A [[suicide bomber]] in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in [[Kabul]], [[Afghanistan]]. [https://www.washingtonpost.com/world/suicide-blast-in-central-kabul-kills-at-least-10-wounds-scores-officials-say/2018/01/27/4a30fcb6-0344-11e8-9d31-d72cf78dbeee_story.html (''The Washington Post'')]
 *Gunmen kill at least 14 soldiers at a [[Military of Mali|military]] base in [[Soumpi]], central [[Mali]]. [http://www.france24.com/en/20180127-gunman-launch-deadly-attack-mali-army-base-soldiers-killed-soumpi (AFP via France 24)]
@@ -17,6 +17,7 @@
 
 ;Politics and elections
 *[[Czech presidential election, 2018]]
-**Voters in [[Czech Republic]] go back to the polls in a [[two-round system|run-off election]] after the first round of voting on January 12&ndash;13 didn't lead to a majority. [[Russophilia#Russophilia in Europe|Pro-Russia]] incumbent [[Miloš Zeman]] faces [[Pro-Europeanism|pro-EU]] challenger [[Jiří Drahoš]]. [http://www.bbc.com/news/world-europe-42832720 (BBC)]
-**Incumbent Miloš Zeman is elected to a second term as [[President of the Czech Republic]] after receiving 51.8 percent of the votes. [http://abcnews.go.com/International/wireStory/latest-czech-president-takes-early-lead-runoff-vote-52649799 (ABC News)]
+**Incumbent [[Miloš Zeman]], who opposes immigration and objects to EU sanctions against [[Russia]], is elected to a second term as [[President of the Czech Republic]] after receiving 51.8 percent of the votes in the [[two-round system|run-off election]]  over [[Pro-Europeanism|pro-EU]] challenger [[Jiří Drahoš]]. [http://www.bbc.com/news/world-europe-42832720 (BBC)] [http://abcnews.go.com/International/wireStory/latest-czech-president-takes-early-lead-runoff-vote-52649799 (ABC News)]
+*[[Weinstein effect]]
+**In the United States, billionaire [[Steve Wynn]], best-known for his casino hotels and resorts, resigns as [[Republican National Committee]] finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. [http://fortune.com/2018/01/27/steve-wynn-resigns/ (Bloomberg via ''Fortune'')]
 <!-- All news items above this line -->}}
