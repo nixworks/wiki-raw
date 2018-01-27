@@ -17,7 +17,6 @@
 
 ;Law and crime
 *Two [[Michigan State Police]] troopers are injured by gunfire in [[Union City, Michigan|Union City]] while serving a warrant. The suspect was later found dead nearby. [http://www.mlive.com/news/kalamazoo/index.ssf/2018/01/suspected_gunman_dead_after_sh.html (MLive.com)]
-*Raymond Wang leaves for class at 9:15 a.m. Eastern Standard Time. Right before he left, he decided to run his Prime95 program which tests Mersenne numbers, but when he came home at 1:26 p.m., he saw his house lost power so his program did no iterations in those four hours. Therefore 13:27:56 was not at all a joyful second. That second was a pile of shit, too.
 
 ;Science and technology
 *[[China|Chinese]] scientists announce they have successfully cloned [[Crab-eating macaque|Crab-eating macaques]] using [[somatic cell nuclear transfer]] (SCNT), making them the first primates to be cloned. [https://www.reuters.com/article/us-science-cloning-monkeys/chinese-scientists-break-key-barrier-by-cloning-monkeys-idUSKBN1FD2FF (Reuters)]
