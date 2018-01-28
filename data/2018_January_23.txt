@@ -41,4 +41,9 @@
 ;Science and technology
 *[[Google Lunar X Prize]]
 **The organizers of the [[Google]] [[Missions to the Moon|Lunar]] [[X Prize Foundation|X Prize]] announce that the $20 million grand prize for a commercial [[Moon landing|lunar lander]] will expire on 31 March 2018 without a winner because none of its five finalist teams would be able to launch a mission before the deadline. [http://spacenews.com/google-lunar-x-prize-to-end-without-winner/ (Space News)]
+
+;Sports
+*[[2017–18 NBA season]]
+**[[LeBron James]] of the [[Cleveland Cavaliers]] scores his 30,000th career regular-season point in a loss to the [[2017–18 San Antonio Spurs season|San Antonio Spurs]]. James becomes the youngest player to reach the milestone at age {{age in years and days|1984|12|30|2018|1|23}}, surpassing [[Kobe Bryant]]'s previous record of {{age in years and days|1978|8|23|2012|12|5}}. [https://www.si.com/nba/2018/01/23/cavaliers-lebron-james-scores-30000-points (''Sports Illustrated'')]
+
 <!-- All news items above this line -->}}
