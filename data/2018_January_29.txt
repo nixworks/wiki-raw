@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=01|day=29|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[Politics of Egypt]]
+**Minutes before the registration deadline, a second candidate fulfills paperwork to participate in the [[Egyptian presidential election, 2018|March 28-29 presidential election]]. Leading opposition members called for a boycott, saying that a wave of repression has cleared the field of challengers to [[President of Egypt|President]] [[Abdel Fattah el-Sisi]]. [https://www.reuters.com/article/us-egypt-politics/egypts-elections-find-last-minute-challenger-to-sisi-idUSKBN1FI1BB (Reuters)]
 <!-- All news items above this line -->}}

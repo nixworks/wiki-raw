@@ -10,11 +10,9 @@
 
 ;Arts and culture
 *[[60th Annual Grammy Awards]]
-**[[Leonard Cohen]] and [[Carrie Fisher]] win posthumously.  [https://www.nytimes.com/2018/01/28/arts/music/grammy-winners.html (''The New York Times'')]
+**[[Leonard Cohen]] and [[Carrie Fisher]] win posthumously. [https://www.nytimes.com/2018/01/28/arts/music/grammy-winners.html (''The New York Times'')]
 **[[Alessia Cara]] wins [[Grammy Award for Best New Artist|Best New Artist]]. [https://www.npr.org/sections/thetwo-way/2018/01/28/581467347/live-blog-2018-grammy-awards (NPR)]
-**[[Bruno Mars]] wins three of the Big Four awards with [[Grammy Award for Song of the Year|Song of the Year]] for "[[That's What I Like (Bruno Mars song)|That's What I Like]]", [[Grammy Award for Record of the Year|Record of the Year]] for "[[24K Magic (song)|24K Magic]]" and [[Grammy Award for Album of the Year|Album of the Year]] for ''[[24K Magic (album)|24K Magic]]''.  [https://www.cnn.com/2018/01/28/entertainment/grammy-awards-winners/index.html (CNN)], [https://www.billboard.com/articles/news/grammys/8096569/grammys-2018-winners-list (Billboard)]
-*[[Royal Rumble (2018)]]
-**[[Shinsuke Nakamura]] wins the 31st [[Royal Rumble]] match. [[Asuka (wrestler)|Asuka]] wins the 32nd, the first all-woman version. Both receive championship matches at [[WrestleMania 34]]. Former [[UFC Women's Bantamweight Championship|UFC Women's Bantamweight Champion]] [[Ronda Rousey]] returns to [[WWE]]. (''[https://www.si.com/wrestling/2018/01/28/royal-rumble-2018-wwe-ronda-rousey Sports Illustrated'')]
+**[[Bruno Mars]] wins three of the Big Four awards with [[Grammy Award for Song of the Year|Song of the Year]] for "[[That's What I Like (Bruno Mars song)|That's What I Like]]", [[Grammy Award for Record of the Year|Record of the Year]] for "[[24K Magic (song)|24K Magic]]" and [[Grammy Award for Album of the Year|Album of the Year]] for ''[[24K Magic (album)|24K Magic]]''. [https://www.cnn.com/2018/01/28/entertainment/grammy-awards-winners/index.html (CNN)], [https://www.billboard.com/articles/news/grammys/8096569/grammys-2018-winners-list (Billboard)]
 
 ;Business and economy
 *[[Strava]], which processes data from apps and [[Internet of Things]] devices such as [[Fitbit]], accidentally reveals the locations of alleged [[United States]] [[Armed Forces of the United States|military]] [[List of United States military bases|bases overseas]], including in [[Afghanistan]], [[Djibouti]] and [[Syria]]. [https://www.theverge.com/2018/1/28/16942626/strava-fitness-tracker-heat-map-military-base-internet-of-things-geolocation (''The Verge'')], [https://www.theguardian.com/world/2018/jan/28/fitness-tracking-app-gives-away-location-of-secret-us-army-bases (''The Guardian'')]
@@ -29,7 +27,7 @@
 
 ;Law and crime
 *[[Mass shootings in the United States]]
-**Four people are shot and killed at a car wash in the [[Melcroft, Pennsylvania|Melcroft]] suburb of [[Saltlick Township, Fayette County, Pennsylvania|Saltlick Township]] in  [[Pennsylvania]]. A fifth person is severely injured. [https://www.cbsnews.com/news/fayette-county-pennsylvania-melcroft-shooting-car-wash-multiple-dead-live-updates/ (CBS News)]
+**Four people are shot and killed at a car wash in the [[Melcroft, Pennsylvania|Melcroft]] suburb of [[Saltlick Township, Fayette County, Pennsylvania|Saltlick Township]] in [[Pennsylvania]]. A fifth person is severely injured. [https://www.cbsnews.com/news/fayette-county-pennsylvania-melcroft-shooting-car-wash-multiple-dead-live-updates/ (CBS News)]
 
 ;Politics and elections 
 *[[Cypriot presidential election, 2018]]
@@ -41,5 +39,7 @@
 
 ;Sports
 *[[2018 Australian Open]]
-**Swiss tennis player [[Roger Federer]] successfully defends his title against [[Marin Čilić]] in the Men's Singles Final, winning his sixth title at the [[2018 Australian Open|Australian Open]] and becoming the first man to win 20 [[List of Grand Slam men's singles champions|Grand Slam]] titles. [http://www.espn.com/tennis/story/_/id/22241355/what-australian-open-champ-roger-federer-does-defies-logic/ (ESPN)]
+**Swiss tennis player [[Roger Federer]] successfully defends his title in the five-sets [[2018 Australian Open – Men's Singles|men's singles final]] against [[Marin Čilić]], winning his [[List of Australian Open men's singles champions|sixth title]] at the [[Australian Open]] and becoming the first man to win [[List of Grand Slam men's singles champions|20 titles]] in [[Grand Slam (tennis)|Grand Slam]] tournaments. [http://www.espn.com/tennis/story/_/id/22241355/what-australian-open-champ-roger-federer-does-defies-logic/ (ESPN)]
+*[[Royal Rumble (2018)]]
+**In [[professional wrestling]], [[Shinsuke Nakamura]] wins the 31st [[Royal Rumble]] match. [[Asuka (wrestler)|Asuka]] wins the 32nd, the first all-woman version. Both receive championship matches at [[WrestleMania 34]]. Former [[UFC]] women's [[UFC Women's Bantamweight Championship|bantamweight champion]] [[Ronda Rousey]] returns to [[WWE]]. (''[https://www.si.com/wrestling/2018/01/28/royal-rumble-2018-wwe-ronda-rousey Sports Illustrated'')]
 <!-- All news items above this line -->}}
