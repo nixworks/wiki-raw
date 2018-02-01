@@ -1,6 +1,12 @@
 {{Current events|year=2018|month=02|day=1|content=
 
 <!-- All news items below this line -->
+;Business and economy
+*[[Apple Inc.]] removes the [[Telegram (messaging service)|Telegram]] messaging service from its iOS [[App Store (iOS)|App Store]]. Telegram CEO [[Pavel Durov]] says Apple claims "inappropriate content" is available on the service. [https://www.theverge.com/2018/2/1/16958990/telegram-apple-app-store-removal-inappropriate-content (''The Verge'')]
+
 ;Disasters and accidents
 *Eleven people are killed in a fire at a [[Japan]]ese residential facility for people in financial difficulty. [http://www.bbc.com/news/world-asia-42899032 (BBC)]
+
+;Law and crime
+*The [[Palestine Liberation Organization]] "rejects and condemns" the [[United States]] decision to put [[Hamas]] leader [[Ismael Haniyeh]] on the [[Office of Foreign Assets Control#Specially Designated Nationals List|OFAC SDN]] terror blacklist. [https://www.timesofisrael.com/plo-condemns-us-blacklisting-of-hamas-leader-haniyeh/ (''Times of Israel'')] 
 <!-- All news items above this line -->}}
