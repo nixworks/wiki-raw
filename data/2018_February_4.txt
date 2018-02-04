@@ -2,5 +2,14 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*An [[Amtrak]] passenger train collides with a freight train at [[Cayce, South Carolina]] and is derailed. Two people are killed. [http://www.huffingtonpost.co.uk/entry/amtrak-train-derail-collision-south-carolina_us_5a76e01be4b06ee97af35b33 (Huffington Post)] [http://www.bbc.co.uk/news/world-us-canada-42935764 (BBC)] [https://edition.cnn.com/2018/02/04/us/amtrak-south-carolina-crash/index.html (CNN)]
+*[[List of rail accidents (2010–present)|Railroad accidents]]
+**An [[Amtrak]] passenger train collides with a freight train in [[Cayce, South Carolina]] and is derailed. Two people are killed. [http://www.huffingtonpost.co.uk/entry/amtrak-train-derail-collision-south-carolina_us_5a76e01be4b06ee97af35b33 (Huffington Post)] [http://www.bbc.co.uk/news/world-us-canada-42935764 (BBC)] [https://edition.cnn.com/2018/02/04/us/amtrak-south-carolina-crash/index.html (CNN)]
+
+;Politics and elections 
+*[[Costa Rican general election, 2018]]
+**Costa Ricans head to the polls to elect a new [[President of Costa Rica|President]], amidst a gay rights controversy. [https://www.reuters.com/article/us-costarica-election/costa-rica-votes-for-new-president-amid-gay-rights-controversy-idUSKBN1FO04W (Reuters)]
+*[[Cypriot presidential election, 2018]]
+**[[Cyprus]] is set to elect a new [[President of Cyprus|President]] in a second round of voting. Candidates include incumbent [[Nicos Anastasiades]] and [[Progressive Party of Working People|AKEL]] candidate, [[Stavros Malas]]. [https://www.reuters.com/article/us-cyprus-election/cyprus-heads-back-to-polls-for-presidential-runoff-idUSKBN1FO047 (Reuters)]
+*[[Ecuadorian referendum and popular consultation, 2018]]
+**[[Ecuador]] is set to hold a referendum consisting of seven questions for voters to approve or reject. [https://www.reuters.com/article/us-ecuador-politics/ecuador-votes-on-re-election-limits-likely-dashing-correa-comeback-idUSKBN1FO045 (Reuters)]
 <!-- All news items above this line -->}}
