@@ -2,8 +2,9 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*[[List of rail accidents (2010–present)|Railroad accidents]]
-**An [[Amtrak]] passenger train collides with a freight train in [[Cayce, South Carolina]] and is derailed. Two people are killed. [http://www.huffingtonpost.co.uk/entry/amtrak-train-derail-collision-south-carolina_us_5a76e01be4b06ee97af35b33 (Huffington Post)] [http://www.bbc.co.uk/news/world-us-canada-42935764 (BBC)] [https://edition.cnn.com/2018/02/04/us/amtrak-south-carolina-crash/index.html (CNN)]
+*[[List of rail accidents (2010–present)#2018|Railroad accidents]]
+**[[2018 Cayce, South Carolina train collision]]
+***An [[Amtrak]] passenger train collides with a freight train in [[Cayce, South Carolina]] and is derailed. Two people are killed. [http://www.huffingtonpost.co.uk/entry/amtrak-train-derail-collision-south-carolina_us_5a76e01be4b06ee97af35b33 (Huffington Post)] [http://www.bbc.co.uk/news/world-us-canada-42935764 (BBC)] [https://edition.cnn.com/2018/02/04/us/amtrak-south-carolina-crash/index.html (CNN)]
 
 ;Politics and elections 
 *[[Costa Rican general election, 2018]]
@@ -12,4 +13,9 @@
 **[[Cyprus]] is set to elect a new [[President of Cyprus|President]] in a second round of voting. Candidates include incumbent [[Nicos Anastasiades]] and [[Progressive Party of Working People|AKEL]] candidate, [[Stavros Malas]]. [https://www.reuters.com/article/us-cyprus-election/cyprus-heads-back-to-polls-for-presidential-runoff-idUSKBN1FO047 (Reuters)]
 *[[Ecuadorian referendum and popular consultation, 2018]]
 **[[Ecuador]] is set to hold a referendum consisting of seven questions for voters to approve or reject. [https://www.reuters.com/article/us-ecuador-politics/ecuador-votes-on-re-election-limits-likely-dashing-correa-comeback-idUSKBN1FO045 (Reuters)]
+*[[Politics of Yemen]]
+**2011 [[Nobel Peace Prize]] co-winner [[Tawakkol Karman]] is ordered suspended from the [[Al-Islah (Yemen)|Islah]] party's ranks after she likened the [[Saudi Arabian-led intervention in Yemen|Saudi-led intervention in Yemen]] to "reckless aventurism" and "ugly occupation". [https://www.reuters.com/article/us-yemen-security-islamist/yemen-islamist-party-suspends-membership-of-nobel-laureate-karman-idUSKBN1FO0DB (Reuters)]
+
+;Science and technology
+* An asteroid named [[(276033) 2002 AJ129|2002 AJ129]] makes a safe approach to Earth.[https://www.space.com/39588-fast-asteroid-aj129-flyby-super-bowl-sunday.html (Space)]
 <!-- All news items above this line -->}}
