@@ -2,20 +2,26 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*[[List of rail accidents (2010–present)#2018|Railroad accidents]]
-**[[2018 Cayce, South Carolina train collision]]
-***An [[Amtrak]] passenger train collides with a freight train in [[Cayce, South Carolina]] and is derailed. Two people are killed. [http://www.huffingtonpost.co.uk/entry/amtrak-train-derail-collision-south-carolina_us_5a76e01be4b06ee97af35b33 (Huffington Post)] [http://www.bbc.co.uk/news/world-us-canada-42935764 (BBC)] [https://edition.cnn.com/2018/02/04/us/amtrak-south-carolina-crash/index.html (CNN)]
+*[[Cayce, South Carolina train collision]]
+**An [[Amtrak]] passenger train collides with a freight train in [[Cayce, South Carolina]] and is derailed. Two people are killed. [http://www.huffingtonpost.co.uk/entry/amtrak-train-derail-collision-south-carolina_us_5a76e01be4b06ee97af35b33 (Huffington Post)] [http://www.bbc.co.uk/news/world-us-canada-42935764 (BBC)] [https://edition.cnn.com/2018/02/04/us/amtrak-south-carolina-crash/index.html (CNN)]
+
+;Law and crime
+*The [[Cabinet of Israel]] decides to legalize a previously [[Israeli outpost|unauthorized outpost]] "deep inside the [occupied] [[West Bank]]", [[Havat Gilad]], allegedly in reaction to the recent killing of an [[Israeli settlement|Israeli settler]] there. [https://www.voanews.com/a/israel-legalizes-outpost-in-response-to-recent-murder/4238247.html (Voice of America)]
 
 ;Politics and elections 
 *[[Costa Rican general election, 2018]]
 **Costa Ricans head to the polls to elect a new [[President of Costa Rica|President]], amidst a gay rights controversy. [https://www.reuters.com/article/us-costarica-election/costa-rica-votes-for-new-president-amid-gay-rights-controversy-idUSKBN1FO04W (Reuters)]
 *[[Cypriot presidential election, 2018]]
 **[[Cyprus]] is set to elect a new [[President of Cyprus|President]] in a second round of voting. Candidates include incumbent [[Nicos Anastasiades]] and [[Progressive Party of Working People|AKEL]] candidate, [[Stavros Malas]]. [https://www.reuters.com/article/us-cyprus-election/cyprus-heads-back-to-polls-for-presidential-runoff-idUSKBN1FO047 (Reuters)]
+**Incumbent [[Nicos Anastasiades]] is declared the winner. [http://www.aljazeera.com/news/2018/02/cyprus-election-anastasiades-leads-presidential-race-180204145720573.html (Al Jazeera)]
 *[[Ecuadorian referendum and popular consultation, 2018]]
 **[[Ecuador]] is set to hold a referendum consisting of seven questions for voters to approve or reject. [https://www.reuters.com/article/us-ecuador-politics/ecuador-votes-on-re-election-limits-likely-dashing-correa-comeback-idUSKBN1FO045 (Reuters)]
 *[[Politics of Yemen]]
-**2011 [[Nobel Peace Prize]] co-winner [[Tawakkol Karman]] is ordered suspended from the [[Al-Islah (Yemen)|Islah]] party's ranks after she likened the [[Saudi Arabian-led intervention in Yemen|Saudi-led intervention in Yemen]] to "reckless aventurism" and "ugly occupation". [https://www.reuters.com/article/us-yemen-security-islamist/yemen-islamist-party-suspends-membership-of-nobel-laureate-karman-idUSKBN1FO0DB (Reuters)]
+**2011 [[Nobel Peace Prize]] co-winner [[Tawakkol Karman]] is ordered suspended from the [[Al-Islah (Yemen)|Islah]] party's ranks after she likened the [[Saudi Arabian-led intervention in Yemen|Saudi-led intervention in Yemen]] to "reckless adventurism" and "ugly occupation". [https://www.reuters.com/article/us-yemen-security-islamist/yemen-islamist-party-suspends-membership-of-nobel-laureate-karman-idUSKBN1FO0DB (Reuters)]
+*[[Macedonia naming dispute]]
+**Tens of thousands of people manifest in [[Athens]] against the willingness demonstrated by the [[Cabinet of Greece]] to make concessions in the long-standing dispute with the [[Republic of Macedonia]]. [https://www.rferl.org/a/greece-macedonia-balkan-name-dispute-protest-athens/29017009.html (Radio Free Europe)]
 
 ;Science and technology
-* An asteroid named [[(276033) 2002 AJ129|2002 AJ129]] makes a safe approach to Earth.[https://www.space.com/39588-fast-asteroid-aj129-flyby-super-bowl-sunday.html (Space)]
+*[[List of asteroid close approaches to Earth in 2018|Asteroid close approaches to Earth in 2018]]
+**An asteroid named {{mpl|(276033) 2002 AJ|129}} makes a safe approach to Earth. [https://www.space.com/39588-fast-asteroid-aj129-flyby-super-bowl-sunday.html (Space)]
 <!-- All news items above this line -->}}
