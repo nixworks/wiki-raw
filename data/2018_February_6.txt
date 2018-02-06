@@ -2,20 +2,18 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*A [[Moment magnitude scale|Magnitude]] 6.4 [[earthquake]] strikes [[Taiwan]]. There are no reports of casualties so far, but people may be trapped in a collapsed hotel. [https://news.sky.com/story/hotel-in-taiwan-collapses-after-64-magnitude-earthquake-11239117 (Sky News)] [http://indianexpress.com/article/world/taiwan-earthquake-live-updates-death-toll-magnitude-damage-casualties-tremors-5053929/ (''Indian Express'')]
+*Multiple earthquakes, including a [[Moment magnitude scale|magnitude]] 6.4 [[earthquake]], strike near [[Hualien City]], [[Taiwan]]. At least 2 people are killed and over 100 are injured, with extensive damage to many structures in the city. [http://www.independent.co.uk/news/world/asia/taiwan-earthquake-latest-updates-magnitude-tsunami-warning-hualien-damage-buildings-east-south-china-a8197496.html (''The Independent'')]
 
 ;Politics and elections
 *[[Freedom of the press in Turkey]]
 **[[Turkey]] detains nearly 600 people for [[social media]] posts and protests opposing the [[Turkish military operation in Afrin|Afrin offensive]] in [[Syria]]. [https://www.reuters.com/article/us-mideast-crisis-syria-turkey-security/turkey-detains-nearly-600-for-opposing-syrian-offensive-idUSKBN1FP109 (Reuters)]
 *[[Politics of the Maldives]]
 **Former [[President of the Maldives]] [[Mohamed Nasheed]] has called from exile for other countries to intervene in a political crisis engulfing the island nation. Nasheed asked [[India]] to help release prisoners and the [[United States]] to curb leaders' financial transactions. [http://www.bbc.co.uk/news/world-asia-42958179 (BBC)]
-*[[Politics of Poland]]
-**[[President of Poland|Polish President]] [[Andrzej Duda]] says he will sign a controversial [[The Holocaust|Holocaust]] bill, despite angry protests from [[Israel]] and the United States. Duda defended the legislation, which will make it illegal to accuse the Polish state of complicity in the [[holocaust]] committed during the Nazi occupation. [http://www.bbc.co.uk/news/world-europe-42959076 (BBC)]
-**President Duda ratifies the law. [https://www.bloomberg.com/news/articles/2018-02-06/far-right-groups-demand-polish-president-sign-holocaust-bill (Bloomberg)]
+*[[Amendment to the Act on the Institute of National Remembrance]]
+**[[President of Poland|Polish President]] [[Andrzej Duda]] ratifies a controversial [[Holocaust]] bill, despite angry protests from [[Israel]] and the United States. Duda defends the legislation, which will make it illegal to accuse the Polish state of complicity in the holocaust committed during the [[Nazi]] occupation. [http://www.bbc.co.uk/news/world-europe-42959076 (BBC)] [https://www.bloomberg.com/news/articles/2018-02-06/far-right-groups-demand-polish-president-sign-holocaust-bill (Bloomberg)]
 
 ;Science and technology
 *[[Falcon Heavy|SpaceX Falcon Heavy]]
-**[[SpaceX]] will launch its long-awaited Falcon Heavy rocket Tuesday morning — a feat the space company hopes will lead to increased commercial and national security missions. [http://www.latimes.com/business/la-fi-spacex-falcon-heavy-launch-20180206-story.html (''Los Angeles Times'')]
-*[[Ozone layer]]
-**The ozone layer that protects people from the sun's [[ultraviolet radiation]] is not recovering over most highly populated regions, scientists warned on Tuesday. [https://www.theguardian.com/environment/2018/feb/06/ozone-layer-not-recovering-over-populated-areas-scientists-warn (''The Guardian'')]
+**[[SpaceX]] will launch its long-awaited Falcon Heavy rocket Tuesday afternoon — a feat the space company hopes will lead to increased commercial and national security missions. [http://www.latimes.com/business/la-fi-spacex-falcon-heavy-launch-20180206-story.html (''Los Angeles Times'')]
+*Scientists warn that the [[ozone layer]] that protects people from the sun's [[ultraviolet radiation]] is not recovering over most highly populated regions. [https://www.theguardian.com/environment/2018/feb/06/ozone-layer-not-recovering-over-populated-areas-scientists-warn (''The Guardian'')]
 <!-- All news items above this line -->}}
