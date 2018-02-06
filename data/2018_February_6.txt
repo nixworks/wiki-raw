@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*A Magnitude 6.4 earthquake strikes Taiwan [https://news.sky.com/story/hotel-in-taiwan-collapses-after-64-magnitude-earthquake-11239117 (Sky News)]
+*A [[Moment magnitude scale|Magnitude]] 6.4 [[earthquake]] strikes [[Taiwan]]. There are no reports of casualties so far, but people may be trapped in a collapsed hotel. [https://news.sky.com/story/hotel-in-taiwan-collapses-after-64-magnitude-earthquake-11239117 (Sky News)] [http://indianexpress.com/article/world/taiwan-earthquake-live-updates-death-toll-magnitude-damage-casualties-tremors-5053929/ (''Indian Express'')]
 
 ;Politics and elections
 *[[Freedom of the press in Turkey]]
@@ -10,8 +10,8 @@
 *[[Politics of the Maldives]]
 **Former [[President of the Maldives]] [[Mohamed Nasheed]] has called from exile for other countries to intervene in a political crisis engulfing the island nation. Nasheed asked [[India]] to help release prisoners and the [[United States]] to curb leaders' financial transactions. [http://www.bbc.co.uk/news/world-asia-42958179 (BBC)]
 *[[Politics of Poland]]
-**[[President of Poland|Polish President]] [[Andrzej Duda]] says he will sign a controversial [[The Holocaust|Holocaust]] bill, despite angry protests from [[Israel]] and the United States. Duda defended the legislation, which will make it illegal to accuse Poland of complicity in such [[Nazi crime]]s committed under occupation. [http://www.bbc.co.uk/news/world-europe-42959076 (BBC)]
-**President Duda ratifies the law, amid rallies by far-right protesters. [https://www.bloomberg.com/news/articles/2018-02-06/far-right-groups-demand-polish-president-sign-holocaust-bill (Bloomberg)]
+**[[President of Poland|Polish President]] [[Andrzej Duda]] says he will sign a controversial [[The Holocaust|Holocaust]] bill, despite angry protests from [[Israel]] and the United States. Duda defended the legislation, which will make it illegal to accuse the Polish state of complicity in the [[holocaust]] committed during the Nazi occupation. [http://www.bbc.co.uk/news/world-europe-42959076 (BBC)]
+**President Duda ratifies the law. [https://www.bloomberg.com/news/articles/2018-02-06/far-right-groups-demand-polish-president-sign-holocaust-bill (Bloomberg)]
 
 ;Science and technology
 *[[Falcon Heavy|SpaceX Falcon Heavy]]
