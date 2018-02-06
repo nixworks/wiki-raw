@@ -1,3 +1,7 @@
-{{Current events|year=2018|month=02|day=6|content=<!-- All news items below this line -->
-*
+{{Current events|year=2018|month=02|day=6|content=
+
+<!-- All news items below this line -->
+;Politics and elections
+*[[Freedom of the press in Turkey]]
+**[[Turkey]] detains nearly 600 people for [[social media]] posts and protests opposing the [[Turkish military operation in Afrin |Afrin offensive]] in [[ Syria]]. [https://www.reuters.com/article/us-mideast-crisis-syria-turkey-security/turkey-detains-nearly-600-for-opposing-syrian-offensive-idUSKBN1FP109 (Reuters)]
 <!-- All news items above this line -->}}
