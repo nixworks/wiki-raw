@@ -2,7 +2,12 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*Multiple earthquakes, including a [[Moment magnitude scale|magnitude]] 6.4 [[earthquake]], strike near [[Hualien City]], [[Taiwan]]. At least 2 people are killed and over 100 are injured, with extensive damage to many structures in the city. [http://www.independent.co.uk/news/world/asia/taiwan-earthquake-latest-updates-magnitude-tsunami-warning-hualien-damage-buildings-east-south-china-a8197496.html (''The Independent'')]
+*[[2018 Hualien earthquake]]
+**Multiple earthquakes, including a [[Moment magnitude scale|magnitude]] 6.4 [[earthquake]], strike near [[Hualien City]], [[Taiwan]]. At least 2 people are killed and over 100 are injured, with extensive damage to many structures in the city. [http://www.independent.co.uk/news/world/asia/taiwan-earthquake-latest-updates-magnitude-tsunami-warning-hualien-damage-buildings-east-south-china-a8197496.html (''The Independent'')]
+
+;Law and crime
+*[[Weinstein effect]]
+**In the United States, billionaire [[Steve Wynn]], best known for his casino hotels and resorts, resigns as CEO of [[Wynn Resorts]] following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. [https://www.nytimes.com/2018/02/06/business/steve-wynn-resigns.html (The New York Times)]
 
 ;Politics and elections
 *[[Freedom of the press in Turkey]]
@@ -11,9 +16,11 @@
 **Former [[President of the Maldives]] [[Mohamed Nasheed]] has called from exile for other countries to intervene in a political crisis engulfing the island nation. Nasheed asked [[India]] to help release prisoners and the [[United States]] to curb leaders' financial transactions. [http://www.bbc.co.uk/news/world-asia-42958179 (BBC)]
 *[[Amendment to the Act on the Institute of National Remembrance]]
 **[[President of Poland|Polish President]] [[Andrzej Duda]] ratifies a controversial [[Holocaust]] bill, despite angry protests from [[Israel]] and the United States. Duda defends the legislation, which will make it illegal to accuse the Polish state of complicity in the holocaust committed during the [[Nazi]] occupation. [http://www.bbc.co.uk/news/world-europe-42959076 (BBC)] [https://www.bloomberg.com/news/articles/2018-02-06/far-right-groups-demand-polish-president-sign-holocaust-bill (Bloomberg)]
+*[[Welsh Assembly]]: [[Alyn and Deeside by-election, 2018]]
+**[[Jack Sargeant (politician)|Jack Sargeant]] was elected as the new Assembly Member for the Welsh Assembly constituency of [[Alyn and Deeside (Assembly constituency)|Alyn and Deeside]], which was vacated after the death of the former AM [[Carl Sargeant]] on November 2017. There was a 5.3% swing to [[Welsh Labour Party|Labour]] from the [[Welsh Conservative Party|Conservatives]]. [http://www.bbc.com/news/uk-wales-politics-42945113 (BBC)]
 
 ;Science and technology
 *[[Falcon Heavy Demonstration Mission]]
-**[[SpaceX]] successfully launches its long-awaited [[Falcon Heavy]] — a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched [[Elon Musk's Tesla Roadster]], playing [[Space Oddity]], which is expected to be in a [[elliptic orbit]] of the sun, close to [[Mars]], for several hundred million years. [http://www.latimes.com/business/la-fi-spacex-falcon-heavy-launch-20180206-story.html (''Los Angeles Times'')]
-*Scientists warn that the [[ozone layer]] that protects people from the sun's [[ultraviolet radiation]] is recovering only over less populated regions where the most of [[ozone depletion]] occured. [https://www.theguardian.com/environment/2018/feb/06/ozone-layer-not-recovering-over-populated-areas-scientists-warn (''The Guardian'')]
+**[[SpaceX]] successfully launches its long-awaited [[Falcon Heavy]]&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched [[Elon Musk's Tesla Roadster]], playing [[Space Oddity]], which is expected to be in a [[elliptic orbit]] of the sun, close to [[Mars]], for several hundred million years. [http://www.latimes.com/business/la-fi-spacex-falcon-heavy-launch-20180206-story.html (''Los Angeles Times'')]
+*Scientists warn that the [[ozone layer]] that protects people from the [[sun]]'s [[ultraviolet radiation]] is recovering only over less populated areas. [https://www.theguardian.com/environment/2018/feb/06/ozone-layer-not-recovering-over-populated-areas-scientists-warn (''The Guardian'')]
 <!-- All news items above this line -->}}
