@@ -3,11 +3,11 @@
 <!-- All news items below this line -->
 ;Disasters and accidents
 *[[2018 Hualien earthquake]]
-**Multiple earthquakes, including a [[Moment magnitude scale|magnitude]] 6.4 [[earthquake]], strike near [[Hualien City]], [[Taiwan]]. At least 7 people are killed and over 250 are injured, with extensive damage to many structures in the city. [http://www.independent.co.uk/news/world/asia/taiwan-earthquake-latest-updates-magnitude-tsunami-warning-hualien-damage-buildings-east-south-china-a8197496.html (''The Independent'')]
+**Multiple [[earthquake]]s, including a [[Moment magnitude scale|magnitude]] 6.4 [[earthquake]], strike near [[Hualien City]], [[Taiwan]]. At least 7 people are killed and over 250 are injured, with extensive damage to many structures in the city. [http://www.independent.co.uk/news/world/asia/taiwan-earthquake-latest-updates-magnitude-tsunami-warning-hualien-damage-buildings-east-south-china-a8197496.html (''The Independent'')]
 
 ;Law and crime
 *[[Weinstein effect]]
-**In the United States, billionaire [[Steve Wynn]], best known for his casino hotels and resorts, resigns as CEO of [[Wynn Resorts]] following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. [https://www.nytimes.com/2018/02/06/business/steve-wynn-resigns.html (''The New York Times'')]
+**In the [[United States]], billionaire [[Steve Wynn]], best known for his casino hotels and resorts, resigns as CEO of [[Wynn Resorts]] following sexual harassment reports, including a $7.5 million settlement with a former worker at his [[Las Vegas]] resort. [https://www.nytimes.com/2018/02/06/business/steve-wynn-resigns.html (''The New York Times'')]
 
 ;Politics and elections
 *[[Freedom of the press in Turkey]]
@@ -19,7 +19,7 @@
 
 ;Science and technology
 *[[Falcon Heavy Demonstration Mission]]
-**[[SpaceX]] successfully launches its long-awaited [[Falcon Heavy]]&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched [[Elon Musk's Tesla Roadster]], playing "[[Life on Mars]]" by [[David Bowie]], which is expected to be in an [[elliptic orbit]] of the sun, close to [[Mars]], for several hundred million years. [http://www.latimes.com/business/la-fi-spacex-falcon-heavy-launch-20180206-story.html (''Los Angeles Times'')]
+**[[SpaceX]] successfully launches its long-awaited [[Falcon Heavy]]&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched [[Elon Musk's Tesla Roadster]], playing "[[Life on Mars (song)|Life on Mars]]" by [[David Bowie]], which is expected to be in an [[elliptic orbit]] of the sun, close to [[Mars]], for several hundred million years. [http://www.latimes.com/business/la-fi-spacex-falcon-heavy-launch-20180206-story.html (''Los Angeles Times'')]
 *[[Ozone depletion]]
 **Scientists (in the article published in the journal ''[[Atmospheric Chemistry and Physics]]'')  warn that the [[ozone layer]] that protects people from the [[sun]]'s [[ultraviolet radiation]] is recovering only over less populated areas. [https://www.theguardian.com/environment/2018/feb/06/ozone-layer-not-recovering-over-populated-areas-scientists-warn (''The Guardian'')]
 <!-- All news items above this line -->}}
