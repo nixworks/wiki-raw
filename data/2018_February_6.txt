@@ -14,6 +14,6 @@
 
 ;Science and technology
 *[[Falcon Heavy Demonstration Mission]]
-**[[SpaceX]] successfully launches its long-awaited [[Falcon Heavy]] — a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The rocket launched [[Elon Musk's Tesla Roadster]], playing [[Space Oddity]], which is expected to be in a [[elliptic orbit]] of the sun, close to [[Mars]], for several hundred million years. [http://www.latimes.com/business/la-fi-spacex-falcon-heavy-launch-20180206-story.html (''Los Angeles Times'')]
+**[[SpaceX]] successfully launches its long-awaited [[Falcon Heavy]] — a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched [[Elon Musk's Tesla Roadster]], playing [[Space Oddity]], which is expected to be in a [[elliptic orbit]] of the sun, close to [[Mars]], for several hundred million years. [http://www.latimes.com/business/la-fi-spacex-falcon-heavy-launch-20180206-story.html (''Los Angeles Times'')]
 *Scientists warn that the [[ozone layer]] that protects people from the sun's [[ultraviolet radiation]] is recovering only over less populated regions where the most of [[ozone depletion]] occured. [https://www.theguardian.com/environment/2018/feb/06/ozone-layer-not-recovering-over-populated-areas-scientists-warn (''The Guardian'')]
 <!-- All news items above this line -->}}
