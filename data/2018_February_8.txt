@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Syrian Civil War]]
-**[[Syria]] and [[Russia]] say that the [[United States]]' military presence in Syria is "illegal". The United States-allied groups now controls about a quarter of Syria. [https://www.washingtonpost.com/world/middle_east/syria-accuses-us-of-aggression-after-its-warplanes-strike-pro-government-forces/2018/02/08/bab1502a-0cb4-11e8-8890-372e2047c935_story.html (''The Washington Post'')]
+**[[Syria]] and [[Russia]] say that the [[United States]]' military presence in Syria is "illegal". The United States is now in overall control of about a quarter of Syria. [https://www.washingtonpost.com/world/middle_east/syria-accuses-us-of-aggression-after-its-warplanes-strike-pro-government-forces/2018/02/08/bab1502a-0cb4-11e8-8890-372e2047c935_story.html (''The Washington Post'')]
 
 ;Business and economy
 *[[Economy of Germany]]
@@ -12,4 +12,8 @@
 ;International relations
 *[[Joint Comprehensive Plan of Action]]
 **A senior [[European External Action Service]] official says that the [[European Union]] could implement "blocking regulations", based on a legal framework set up in 1996 for E.U. trade wih [[Cuba]], to protect its companies doing business with [[Iran]], should the [[United States]] pull out of the 2015 nuclear deal and restore its sanctions. [https://www.reuters.com/article/us-iran-nuclear-eu/eu-could-impose-blocking-regulations-if-u-s-pulls-out-of-iran-deal-idUSKBN1FS2FG (Reuters)]
+
+;Law and crime
+*[[LGBT rights in Bermuda]]
+**[[Bermuda]] repeals [[Same-sex marriage in Bermuda|same-sex marriage]], becoming the world's first jurisdiction to legalise, then repeal same-sex marriage. However, about half a dozen same-sex marriages that took place in Bermuda between the Supreme Court ruling in May 2017 and the repeal will continue to be recognised. [https://www.theguardian.com/world/2018/feb/08/bermuda-repeal-same-sex-marriage (''The Guardian'')]
 <!-- All news items above this line -->}}
