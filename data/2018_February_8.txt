@@ -1,9 +1,8 @@
 {{Current events|year=2018|month=02|day=8|content=
-
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Syrian Civil War]]
-**[[Syria]] and [[Russia]] say that the [[United States]]' military presence in Syria is "illegal". [https://www.washingtonpost.com/world/middle_east/syria-accuses-us-of-aggression-after-its-warplanes-strike-pro-government-forces/2018/02/08/bab1502a-0cb4-11e8-8890-372e2047c935_story.html (''The Washington Post'')]
+**[[Syria|Syria government]] and [[Russia|Russian government]] say that the [[United States]]' military presence in Syria is "illegal". The United States now has overall control of about a quarter of the Syrian territory. [https://www.washingtonpost.com/world/middle_east/syria-accuses-us-of-aggression-after-its-warplanes-strike-pro-government-forces/2018/02/08/bab1502a-0cb4-11e8-8890-372e2047c935_story.html (''The Washington Post'')]
 
 ;Business and economy
 *[[Economy of Germany]]
@@ -19,10 +18,13 @@
 *[[Belgium–Netherlands relations]]
 **A judge in [[Amsterdam]] delays the extradition of the man suspected of a lethal stabbing on the [[Bruges]] [[Markt (Bruges)|Market Square]], citing [[Extradition#Human rights and extradition|concerns]] over the living conditions in Belgian jails. [http://kw.knack.be/west-vlaanderen/nieuws/criminaliteit/nederland-levert-verdachte-steekpartij-niet-uit-omwille-van-reputatie-belgische-gevangenissen/article-normal-299797.html (''Knack'')] [https://www.hln.be/nieuws/binnenland/lamentabele-toestanden-in-belgische-gevangenissen-nederland-wil-verdachte-van-dodelijke-steekpartij-op-markt-in-brugge-niet-overleveren~a7aa616b (''Het Laatste Nieuws'')]
 *[[United States–Guatemala relations]]
-**[[US President]] [[Donald Trump]] met with [[President of Guatemala|Guatemalan President]] [[Jimmy Morales]]. Trump thanked Morales for having supported the decision of the [[United States]] on the transfer of the Embassy of [[Tel Aviv]] to [[Jerusalem]]. They dealt with various issues about the crisis in [[Venezuela]], drug trafficking and the UN anti-corruption commission. [https://www.timesofisrael.com/trump-thanks-guatemalan-president-for-his-support-on-jerusalem-embassy-move/ (Times of Israel)]
+**[[U.S. President]] [[Donald Trump]] meets with [[President of Guatemala|Guatemalan President]] [[Jimmy Morales]]. Trump thanks Morales for having [[United Nations General Assembly resolution ES-10/L.22|supported the decision]] of the [[United States]] to [[United States recognition of Jerusalem as Israeli capital|recognize Jerusalem as Israel's capital]]. They discuss various issues about the crisis in [[Venezuela]], drug trafficking and the UN anti-corruption commission. [https://www.timesofisrael.com/trump-thanks-guatemalan-president-for-his-support-on-jerusalem-embassy-move/ (''The Times of Israel'')]
+
 ;Law and crime
 *[[LGBT rights in Bermuda]]
 **[[Bermuda]] repeals [[Same-sex marriage in Bermuda|same-sex marriage]], becoming the world's first jurisdiction to legalise, then repeal same-sex marriage. However, about half a dozen same-sex marriages that took place in Bermuda between the Supreme Court ruling in May 2017 and the repeal will continue to be recognised. [https://www.theguardian.com/world/2018/feb/08/bermuda-repeal-same-sex-marriage (''The Guardian'')]
+*[[Crime in Toronto]]
+**The remains of six people found on a property in [[East York]] are linked to alleged serial killer Bruce McArthur. This brings the total body count to eleven. [https://globalnews.ca/news/4014121/bruce-mcarthur-investigation-update/ (''Global News'')]
 
 ;Sports
 *[[2018 Winter Olympics]]
