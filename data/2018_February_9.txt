@@ -3,10 +3,10 @@
 <!-- All news items below this line -->
 ;Politics and elections
 *[[United States federal government shutdown of 2018]]
-**The [[Government of the United States|United States Government]] runs out of funding for the second time this year, prompting another [[United States federal government shutdown of 2018|government shutdown]]. [https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html (''The New York Times'')]
+**The [[Government of the United States|United States Government]] runs out of funding for the second time this year, prompting another [[Government shutdowns in the United States|government shutdown]]. [https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html (''The New York Times'')]
 **A comprehensive budget deal is later passed by Congress in the early hours of the morning, and is signed into law by President Trump.  [https://www.cnn.com/2018/02/08/politics/budget-vote-congress-shutdown/index.html (CNN)]
 * [[Syrian Civil War]], [[Turkish intervention in Syrian Civil War]]
-** [[Turkey]] arrests 17 [[Democratic Party of the Peoples|left wing party]] leaders for opposition to the ongoing [[Afrin offensive]]. [https://uk.reuters.com/article/uk-turkey-security-kurds/turkey-orders-arrest-of-pro-kurdish-party-leader-agency-idUKKBN1FT16S (Reuters UK)]
+** [[Turkey]] arrests 17 leaders of the left-wing [[Peoples' Democratic Party (Turkey)|Peoples' Democratic Party]] for opposition to the ongoing [[Afrin offensive]]. [https://uk.reuters.com/article/uk-turkey-security-kurds/turkey-orders-arrest-of-pro-kurdish-party-leader-agency-idUKKBN1FT16S (Reuters UK)]
 
 ;Science and technology
 *Researchers at the [[University of Edinburgh]] announce they have successfully grown [[human]] [[egg cell]]s in a laboratory for the first time. [http://www.bbc.co.uk/news/health-42976858 (BBC)], [https://doi.org/10.1093/molehr/gay002 (MHR)]
