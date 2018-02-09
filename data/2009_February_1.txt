@@ -10,6 +10,6 @@
 * [[Patriarch Kirill I of Moscow|Kirill I]] is officially enthroned as [[List of Metropolitans and Patriarchs of Moscow|Patriarch]] of the [[Russia]]n [[Russian Orthodox Church|Orthodox Church]]. [http://news.bbc.co.uk/2/hi/europe/7863385.stm (BBC)]
 * The [[Sri Lanka]]n [[Sri Lankan Army|Army]] [[Sri Lankan Civil War|bombs]] a hospital in [[Puthukkudiyiruppu (Mullaitivu)|Puthukkudiyiruppu]] twice, killing at least six [[Sri Lankan Tamil people|Tamil]] civilians and wounding countless more patients. [http://www.google.com/hostednews/ap/article/ALeqM5gVoaDFmbCYS-Usz9ACDRIengj21QD962VS200 (AP)]
 * [[France]] defeats [[Croatia]] to win the Men's World [[Team handball|Handball]] Championship. [http://www.croatia2009.com/eng_news.php?id=456 (Croatia 2009)]
-* The International [[Cospas-Sarsat]] Satellite System ceases monitoring for 121.5 MHz and 243 MHz (Class B) signals from [[distress radiobeacon]]s. [http://www.cospas-sarsat.org/FirstPage/121.5PhaseOut.htm (Cospas-Sarsat.org)]
+* The International [[Cospas-Sarsat]] Satellite System ceases monitoring for 121.5 MHz and 243 MHz (Class B) signals from [[Emergency position-indicating radiobeacon station|ELTs, EPIRBs, and PLBs]]. [http://www.cospas-sarsat.org/FirstPage/121.5PhaseOut.htm (Cospas-Sarsat.org)]
 
 <!-- All news items above this line -->{{Current events footer}}
