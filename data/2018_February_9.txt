@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Disasters and accidents
 *[[Earthquakes in 2018]]
-**A 6.0-magnitude earthquake strikes off the coast of the [[Mexico|Mexican]] state of [[Jalisco]], prompting evacuations in the tourist resort of [[Puerto Vallarta]] and is felt in the country's second-largest metropolitan area of [[Guadalajara, Mexico|Guadalajara]]. No casualties are reported. [https://www.vallartadaily.com/news/puerto-vallarta/earthquakes-cause-evacuations-puerto-vallarta-guadalajara/ (''Puerto Vallarta Daily'')]
+**A 5.8-magnitude earthquake strikes off the coast of the [[Mexico|Mexican]] state of [[Jalisco]], prompting evacuations in the tourist resort of [[Puerto Vallarta]] and is felt in the country's second-largest metropolitan area of [[Guadalajara, Mexico|Guadalajara]]. No casualties are reported. [https://www.vallartadaily.com/news/puerto-vallarta/earthquakes-cause-evacuations-puerto-vallarta-guadalajara/ (''Puerto Vallarta Daily'')]
 
 ;Politics and elections
 *[[United States federal government shutdown of 2018]]
@@ -15,7 +15,7 @@
 ;Science and technology
 *Researchers at the [[University of Edinburgh]] announce they have successfully grown [[human]] [[egg cell]]s in a laboratory for the first time. [http://www.bbc.co.uk/news/health-42976858 (BBC)] [https://doi.org/10.1093/molehr/gay002 (''Oxford Academic'')]
 *[[List of asteroid close approaches to Earth in 2018|Asteroid close approaches to Earth in 2018]]
-** Asteroid [[2018 CB]] makes a flyby past [[Earth]] at a distance of 64,000 km (40,000 mi). [https://www.theguardian.com/science/2018/feb/09/asteroid-passing-close-to-earth-today-not-need-to-worry (''The Guardian'')]
+**15-Meter (50-foot) large asteroid [[2018 CB]] makes a flyby past [[Earth]] at a distance of 64,000 km (40,000 mi). [https://www.theguardian.com/science/2018/feb/09/asteroid-passing-close-to-earth-today-not-need-to-worry (''The Guardian'')]
 
 ;Sport
 *[[2018 Winter Olympics]]
