@@ -1,6 +1,10 @@
 {{Current events|year=2018|month=02|day=9|content=
 
 <!-- All news items below this line -->
+;Disasters and accidents
+*[[Earthquakes in 2018]]
+**A 6.0-magnitude earthquake strikes off the coast of the [[Mexico|Mexican]] state of [[Jalisco]], prompting evacuations in the tourist resort of [[Puerto Vallarta]] and is felt in the country's second-largest metropolitan area of [[Guadalajara, Mexico|Guadalajara]]. No casualties are reported. [https://www.vallartadaily.com/news/puerto-vallarta/earthquakes-cause-evacuations-puerto-vallarta-guadalajara/ (''Puerto Vallarta Daily'')]
+
 ;Politics and elections
 *[[United States federal government shutdown of 2018]]
 **The [[Government of the United States|United States Government]] runs out of funding for the second time this year, prompting another [[Government shutdowns in the United States|government shutdown]]. [https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html (''The New York Times'')]
