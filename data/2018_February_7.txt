@@ -3,9 +3,9 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Israeli involvement in the Syrian Civil War]]
-**[[Syria]]n state media say that [[Israel]]i warplanes attacked a military position in [[Jamraya]], [[Rif Dimashq Governorate]], from [[Lebanon|Lebanese]] airspace, with the [[Syrian Air Defense Force]] intercepting most of the missiles. The target is rumored to be a weapon research facility.[http://www.xinhuanet.com/english/2018-02/07/c_136957080.htm (Xinhua)]
+**[[Syria]]n state media say that [[Israel]]i warplanes attacked a military position in [[Jamraya]], [[Rif Dimashq Governorate]], from [[Lebanon|Lebanese]] airspace, with the [[Syrian Air Defense Force]] intercepting most of the missiles. The target is rumored to be a weapon research facility. [http://www.xinhuanet.com/english/2018-02/07/c_136957080.htm (Xinhua)]
 *[[American-led intervention in the Syrian Civil War]], [[List of United States attacks on the Syrian government during the Syrian Civil War|United States attacks on the Syrian government]]
-**[[United States Central Command]] says that it killed more than 100 [[Syria|pro-government]] troops in "self-defense" strikes {{convert|8|km}} east of the [[Euphrates]] de-confliction line that was reportedly agreed with [[Russia]].[https://www.rappler.com/world/regions/middle-east/195568-us-led-strikes-kill-pro-regime-personnel-syria (AFP via Rappler)]
+**[[United States Central Command]] says that it killed more than 100 [[Syria|pro-government]] troops in "self-defense" strikes {{convert|8|km}} east of the [[Euphrates]] de-confliction line that was reportedly agreed with [[Russia]]. [https://www.rappler.com/world/regions/middle-east/195568-us-led-strikes-kill-pro-regime-personnel-syria (AFP via Rappler)]
 
 ;Business and economy
 *[[Procter and Gamble]] announces that it will close its plant in [[Kansas City, Kansas]], and reduce operations at its plant in [[Iowa City, Iowa]], as the company plans to shift production to factories in [[Tablers Station, West Virginia]], and [[Cincinnati|Cincinnati, Ohio]], by 2020. [https://www.usatoday.com/story/money/nation-now/2018/02/07/procter-gamble-plant-cuts/316907002/ (''USA Today'')], [http://www.kansascity.com/news/business/article198918024.html (''Kansas City Star'')]
@@ -24,5 +24,5 @@
 
 ;Science and technology
 *[[Prehistoric Britain]]
-**Without peer-review publication researchers at [[Natural History Museum, London|London's Natural History Museum]] state that the DNA extracted from "[[Cheddar Man]]" reveals that early inhabitants of [[Great Britain]] had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. Other scientists in the field state that the sample may have been contaminated with modern DNA invalidating the results. [http://www.bbc.com/news/science-environment-42939192 (BBC)], [https://www.nytimes.com/2018/02/07/world/europe/uk-cheddar-man-skeleton-skin.html (''The New York Times'')]
+**Researchers at [[Natural History Museum, London|London's Natural History Museum]] state that the DNA extracted from "[[Cheddar Man]]" reveals that early inhabitants of [[Great Britain]] had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. The study has not yet been published in a [[peer review|peer-reviewed]] journal. [http://www.bbc.com/news/science-environment-42939192 (BBC)], [https://www.nytimes.com/2018/02/07/world/europe/uk-cheddar-man-skeleton-skin.html (''The New York Times'')]
 <!-- All news items above this line -->}}
