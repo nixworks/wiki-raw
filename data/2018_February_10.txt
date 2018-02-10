@@ -1,5 +1,13 @@
 {{Current events|year=2018|month=02|day=10|content=
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[Israeli involvement in the Syrian Civil War]]
+**The [[Israel Defense Forces|Israeli Army]] says that it shot down an Iranian drone launched from Syria and, in response, it "targeted Iranian targets in Syria".  [https://www.reuters.com/article/us-israel-iran/israel-shoots-down-iranian-drone-strikes-iranian-targets-in-syria-army-idUSKBN1FU07L (Reuters)]
+**The [[Syrian Air Defense Force]] shoots down an [[Israel]]i [[General Dynamics F-16 Fighting Falcon|F-16]] over the [[Golan Heights]] after it fired on alleged [[Iran]]ian targets inside [[Syria]].  [http://www.bbc.co.uk/news/world-middle-east-43014081 (BBC)] [https://www.rferl.org/a/israel-iran-syria-fighter-jet-shot-down/29031815.html (RFERL)]
+**Syrian state media cite a military source saying that the Syrian air defences hit "more than one [Israeli] plane" at dawn. [https://www.reuters.com/article/us-israel-iran-jet-syria/syrian-state-tv-says-syrian-air-defences-hit-israeli-jets-idUSKBN1FU08M (Reuters)]
+
+;International relations
+*[[Korean conflict]]
+**[[President of South Korea]] [[Moon Jae-in]] hosts talks at the [[Blue House]] with President of the Presidium of the [[Supreme People's Assembly]] of North Korea [[Kim Yong-nam]] and [[Kim Yo-jong]], the sister of North Korea's leader [[Kim Jong-un]]. [https://www.reuters.com/article/us-olympics-2018-northkorea-southkorea/south-koreas-moon-hosts-north-korean-talks-as-pence-keeps-up-pressure-idUSKBN1FU05F (Reuters)]
 <!-- All news items above this line -->}}

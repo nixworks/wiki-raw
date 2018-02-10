@@ -1,6 +1,9 @@
 {{Current events|year=2018|month=02|day=9|content=
 
 <!-- All news items below this line -->
+;Business and economy
+*[[Trinity Mirror]] agrees to buy British publishing group [[Northern & Shell]] from [[Richard Desmond]] for £126.7 million. The deal gives Trinity Mirror ownership of the ''[[Daily Express]]'' and ''[[Daily Star (United Kingdom)|Daily Star]]'' newspapers. [https://www.theguardian.com/business/2018/feb/09/trinity-mirror-buys-express-star-127m-deal-richard-desmond-ok (''The Guardian'')]
+
 ;Disasters and accidents
 *[[Earthquakes in 2018]]
 **A 5.8 [[Moment magnitude scale|magnitude]] earthquake strikes off the coast of the [[Mexico|Mexican]] state of [[Jalisco]], prompting evacuations in the tourist resort of [[Puerto Vallarta]] and is felt in the country's second-largest metropolitan area of [[Guadalajara, Mexico|Guadalajara]]. No casualties are reported. [https://www.vallartadaily.com/news/puerto-vallarta/earthquakes-cause-evacuations-puerto-vallarta-guadalajara/ (''Puerto Vallarta Daily'')]
@@ -19,5 +22,5 @@
 
 ;Sport
 *[[2018 Winter Olympics]]
-**The 23rd [[Winter Olympic Games]] [[2018 Winter Olympics opening ceremony|starts]] in [[Pyeongchang County|Pyeongchang]], [[South Korea]]. It marks the first time that South Korea has hosted the Winter Olympics. [https://www.theguardian.com/sport/live/2018/feb/09/winter-olympics-2018-day-one-curling-figure-skating-and-more-live (''The Guardian'')] [http://abcnews.go.com/Entertainment/wireStory/cold-poor-south-korean-mountains-winter-olympics-begin-52952010 (ABC News)]
+**The 23rd [[Winter Olympic Games]] [[2018 Winter Olympics opening ceremony|start]] in [[Pyeongchang County|Pyeongchang]], [[South Korea]]. It marks the first time that South Korea has hosted the Winter Olympics. [https://www.theguardian.com/sport/live/2018/feb/09/winter-olympics-2018-day-one-curling-figure-skating-and-more-live (''The Guardian'')] [http://abcnews.go.com/Entertainment/wireStory/cold-poor-south-korean-mountains-winter-olympics-begin-52952010 (ABC News)]
 <!-- All news items above this line -->}}
