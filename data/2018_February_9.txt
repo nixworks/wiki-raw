@@ -9,8 +9,7 @@
 **A 5.8 [[Moment magnitude scale|magnitude]] earthquake strikes off the coast of the [[Mexico|Mexican]] state of [[Jalisco]], prompting evacuations in the tourist resort of [[Puerto Vallarta]] and is felt in the country's second-largest metropolitan area of [[Guadalajara, Mexico|Guadalajara]]. No casualties are reported. [https://www.vallartadaily.com/news/puerto-vallarta/earthquakes-cause-evacuations-puerto-vallarta-guadalajara/ (''Puerto Vallarta Daily'')]
 
 ;Law and crime
-*[[Apple Inc.]] [[trade secret]]
-**A [[Vice (magazine)#Website|Vice Motherboard]] report traces the origin of a significant [[iOS]] source code [[Internet leak|leak]] to an Apple [[Internship|intern]] and five "[[Social engineering (security)|friends]]" in the [[iOS jailbreaking]] community. [https://apple.slashdot.org/story/18/02/09/221237/apple-intern-reportedly-leaked-iphone-source-code (''The Verge'' via Slashdot)]
+*A [[Vice (magazine)#Website|Vice Motherboard]] report traces the origin of a significant [[iOS]] source code [[Internet leak|leak]] to an Apple [[Internship|intern]] and five "[[Social engineering (security)|friends]]" in the [[iOS jailbreaking]] community. [https://apple.slashdot.org/story/18/02/09/221237/apple-intern-reportedly-leaked-iphone-source-code (''The Verge'' via Slashdot)]
 
 ;Politics and elections
 *[[United States federal government shutdown of 2018]]
