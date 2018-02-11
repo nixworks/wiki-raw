@@ -10,11 +10,13 @@
 
 ;Law and crime
 *A [[Vice (magazine)#Website|Vice Motherboard]] report traces the origin of a significant [[iOS]] source code [[Internet leak|leak]] to an Apple [[Internship|intern]] and five "[[Social engineering (security)|friends]]" in the [[iOS jailbreaking]] community. [https://apple.slashdot.org/story/18/02/09/221237/apple-intern-reportedly-leaked-iphone-source-code (''The Verge'' via Slashdot)]
+*The [[New York Times]] reports that the [[Central Intelligence Agency|CIA]] handed $100,000 to an unnamed [[Russian intelligence]] source in a [[Berlin]] hotel room, allegedly expecting to get back stolen [[National Security Agency|NSA]] [[Exploit (computer security)|hacking tool]]s. [http://www.newsweek.com/cia-paid-100000-shadowy-russian-touting-trump-dirt-and-stolen-cyberweapons-802603 (''Newsweek'')]
 
 ;Politics and elections
 *[[United States federal government shutdown of 2018]]
 **The [[Government of the United States|United States government]] runs out of funding for the second time this year, prompting another [[Government shutdowns in the United States|government shutdown]]. [https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html (''The New York Times'')]
 **A comprehensive budget deal is later passed by [[United States Congress|Congress]] in the early hours of the morning, and is signed into law by [[President of the United States|President]] [[Donald Trump|Trump]]. [https://www.cnn.com/2018/02/08/politics/budget-vote-congress-shutdown/index.html (CNN)]
+*[[Rachel Brand]], [[United States Associate Attorney General|Associate Attorney General]] since May 2017, plans to step down in the next several weeks in favor of a job in the private sector. [https://www.usatoday.com/story/news/politics/2018/02/09/rachel-brand-no-3-official-justice-department-step-down-amid-political-attacks/325042002/ (USA Today)]
 *[[Politics of Turkey]]
 **[[Turkey]] arrests 17 leaders of the left-wing [[Peoples' Democratic Party (Turkey)|Peoples' Democratic Party]] for [[Turkish involvement in the Syrian Civil War|opposition]] to the ongoing [[Turkish military operation in Afrin|Afrin offensive]]. [https://uk.reuters.com/article/uk-turkey-security-kurds/turkey-orders-arrest-of-pro-kurdish-party-leader-agency-idUKKBN1FT16S (Reuters UK)]
 
