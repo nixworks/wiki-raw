@@ -10,7 +10,7 @@
 
 ;Law and crime
 *[[iOS jailbreaking]]
-**A [[Vice (magazine)#Website|Vice Motherboard]] report traces the origin of a significant [[iOS]] source code [[Internet leak|leak]] to an Apple [[Internship|intern]] and five "[[Social engineering (security)|friends]]" in the [[iOS]] [[Jailbreak (computer science)|jailbreaking]] community. [https://apple.slashdot.org/story/18/02/09/221237/apple-intern-reportedly-leaked-iphone-source-code (''The Verge'' via Slashdot)]
+**A [[Vice (magazine)#Website|Vice Motherboard]] report traces the origin of a significant [[iOS]] source code [[Internet leak|leak]] to an Apple [[Internship|intern]] and five "friends" in the [[iOS]] [[Jailbreak (computer science)|jailbreaking]] community. [https://apple.slashdot.org/story/18/02/09/221237/apple-intern-reportedly-leaked-iphone-source-code (''The Verge'' via Slashdot)]
 *[[Russian espionage in the United States]]
 **The [[New York Times]] reports that the [[Central Intelligence Agency|CIA]] handed $100,000 to an unnamed [[Russian intelligence]] source in a [[Berlin]] hotel room, allegedly expecting to get back stolen [[National Security Agency|NSA]] [[Exploit (computer security)|hacking tool]]s. [http://www.newsweek.com/cia-paid-100000-shadowy-russian-touting-trump-dirt-and-stolen-cyberweapons-802603 (''Newsweek'')]
 
