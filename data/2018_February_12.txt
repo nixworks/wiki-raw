@@ -1,5 +1,16 @@
 {{Current events|year=2018|month=02|day=12|content=
 
 <!-- All news items below this line -->
-*
+'''Disasters and accidents'''
+*[[Saratov Airlines Flight 703]]
+**MOSCOW (AP) - [[Emergency]] teams combed snowy fields outside [[Moscow]] Monday for debris from a crashed [[Russian]] [[airliner]] and the remains of the 71 people who died. [[Transport]] Minister [[Maksim Sokolov]] said the search for victims' remains will take a week. He noted that emergency teams already have found the plane's [[flight data recorder]], which is crucial for determining the crash's cause. [http://www.dailymail.co.uk/wires/ap/article-5380605/Emergency-teams-search-victims-Russian-plane-crash.html (Daily Mail)]
+
+'''Business and Economy'''
+*Closure of [[London City Airport]]
+**All [[flights]] to and from London's City [[Airport]] have been cancelled after an [[unexploded]] [[World War II]] bomb was discovered in the [[River Thames]] at [[George V]] Dock, the airport says.[http://www.news.com.au/world/breaking-news/wwii-bomb-closes-london-city-airport/news-story/6bf3b0bdd52b7802ffa58d70f8bac69b (News.com)]
+
+'''Disasters and accidents'''
+*[[Cyclone]] to hit [[Tonga]]
+**[[Tonga]] is nervously waiting for a direct hit from [[Tropica]]l Cyclone Gita - which is forecast to become a category 5 event. [[Tropical Cyclone]] Gita is due to make landfall about 7pm (local time is the same as NZT). It has strengthened overnight and is [[forecast]] to strike Tonga. A state of [[emergency]] has been declared in the island [[kingdom]] and it is thought the [[cyclone]] will be the strongest [[storm]] ever to hit [[Tonga]] in [[history]]. [http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11993019 (nzherald)]
+
 <!-- All news items above this line -->}}
