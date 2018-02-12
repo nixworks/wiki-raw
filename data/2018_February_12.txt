@@ -1,6 +1,13 @@
 {{Current events|year=2018|month=02|day=12|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Drone strikes in Pakistan]]
+**[[Tehrik-i-Taliban Pakistan]] (TTP) confirms its deputy leader [[Khalid Mehsud]] has been killed in a [[United States|U.S.]] drone strike in [[North Waziristan]], near the border with [[Afghanistan]]. [http://www.bbc.co.uk/news/world-asia-43032261 (BBC)]
+
+;Arts and culture
+*[[Egypt]] bans ''[[Saturday Night Live bil Arabi|Saturday Night Live Arabia]]'' for using "sexual expressions that are inappropriate for viewers". [https://www.theguardian.com/world/2018/feb/12/egypt-bans-satirical-saturday-night-live-arabia-tv-show-for-being-inappropriate (''The Guardian'')]
+
 ;Business and economy
 *Closure of [[London City Airport]]
 **All flights to and from London's City [[Airport]] have been cancelled after an [[Unexploded ordnance|unexploded]] [[World War II]] bomb was discovered in the [[River Thames]] at [[King George V Dock, London|George V Dock]], the airport says. [http://www.bbc.co.uk/news/uk-england-london-43027472 (BBC)]
@@ -15,6 +22,7 @@
 *[[Ukrainian crisis]]
 **[[Mikheil Saakashvili]], leader of the [[Movement of New Forces]], was detained by [[Ministry of Internal Affairs (Ukraine)|Ministry of Internal Affairs]] in [[Kiev]], and then deported from [[Ukraine]]. [https://www.usnews.com/news/world/articles/2018-02-12/ex-georgian-leader-saakashvili-kidnapped-in-kiev-his-facebook-page (U.S. News & World Report)] [https://www.kyivpost.com/ukraine-politics/breaking-saakashvili-arrested-kyiv.html (''Kyiv Post'')] [https://sputniknews.com/europe/201802121061582323-saakashvili-kidnapped-kiev/ (Sputnik)]
 *[[Politics of the Netherlands]]
-**[[Ministry of Foreign Affairs (Netherlands)|Foreign Minister of the Netherlands]] [[Halbe Zijlstra]] admits to lying about having attended a meeting with [[Vladimir Putin]] in 2006. Zijlstra had said that Putin mentioned plans to [[Expansionism|expand]] [[Russia]] to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source.
- [https://www.politico.eu/article/dutch-foreign-minister-halbe-zijlstra-admits-to-lying-about-meeting-vladimir-putin/ (Politico.eu)] [https://www.telegraaf.nl/nieuws/1660792/zijlstra-betuigt-spijt-over-leugen (''De Telegraaf'')]
+**[[Ministry of Foreign Affairs (Netherlands)|Foreign Minister of the Netherlands]] [[Halbe Zijlstra]] admits to lying about having attended a meeting with [[Vladimir Putin]] in 2006. Zijlstra had said that Putin mentioned plans to [[Expansionism|expand]] [[Russia]] to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. [https://www.politico.eu/article/dutch-foreign-minister-halbe-zijlstra-admits-to-lying-about-meeting-vladimir-putin/ (Politico.eu)] [https://www.telegraaf.nl/nieuws/1660792/zijlstra-betuigt-spijt-over-leugen (''De Telegraaf'')]
+*[[Presidency of Donald Trump]]
+**U.S. President [[Donald Trump]] introduces his $1.5 trillion federal infrastructure plan to several governors and mayors at the [[White House]]. ''([http://thehill.com/policy/energy-environment/373414-trump-aims-to-speed-environmental-reviews-in-infrastructure-plan The Hill)'']
 <!-- All news items above this line -->}}
