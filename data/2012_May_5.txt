@@ -24,7 +24,7 @@
 
 ;Sport 
 *In US [[horse racing]], [[I'll Have Another]] wins the [[2012 Kentucky Derby]]. [http://nbcsports.msnbc.com/id/47250143/ns/horse_racing/ (NBC Sports)]
-*In English soccer, [[Chelsea F.C.|Chelsea]] defeat [[Liverpool F.C.|Liverpool]] in the [[2012 FA Cup Final]]. [http://www.bbc.co.uk/sport/0/football/17878435 (BBC)]
+*In English soccer, [[Chelsea F.C.|Chelsea]] defeat [[Liverpool F.C.|Liverpool]] in the [[2012 FA Cup Final]]. [https://www.bbc.co.uk/sport/0/football/17878435 (BBC)]
 *In Spanish soccer, [[Lionel Messi]] scores all the goals, including a Spanish league-record 50th goal, to take his season tally to an unprecedented 72 in the 4-0 defeat of rivals [[RCD Espanyol|Espanyol]]. [http://www.guardian.co.uk/football/2012/may/05/lionel-messi-four-goals-guardiola (AP via ''The Guardian'')]
 
 <!-- All news items above this line -->{{Current events footer}}

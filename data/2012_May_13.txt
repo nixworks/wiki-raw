@@ -23,7 +23,7 @@
 
 ;Sport
 *[[Manchester City F.C.|Manchester City]] win the [[Premier League]] for the first time, beating [[Manchester United F.C.|Manchester United]] on goal difference. [http://au.news.yahoo.com/a/-/sport/13674076/manchester-city-win-english-premier-league-title/ (Reuters via Yahoo! Australia)]
-*[[Great Britain|British]] international [[motorcycle speedway]] racer [[Lee Richardson (speedway rider)|Lee Richardson]] dies in hospital in the [[Poland|Polish]] city of [[Wrocław]] following a crash in a racing event. [http://www.bbc.co.uk/sport/0/speedway/18054767 (BBC)]
-*After winning the [[Spanish Grand Prix]] with driver [[Pastor Maldonado]], the British [[Formula One]] team [[Williams F1|Williams]] suffers a fire in its pit garage, leaving 31 people injured. [http://www.bbc.co.uk/sport/0/formula1/18051779 (BBC)]
+*[[Great Britain|British]] international [[motorcycle speedway]] racer [[Lee Richardson (speedway rider)|Lee Richardson]] dies in hospital in the [[Poland|Polish]] city of [[Wrocław]] following a crash in a racing event. [https://www.bbc.co.uk/sport/0/speedway/18054767 (BBC)]
+*After winning the [[Spanish Grand Prix]] with driver [[Pastor Maldonado]], the British [[Formula One]] team [[Williams F1|Williams]] suffers a fire in its pit garage, leaving 31 people injured. [https://www.bbc.co.uk/sport/0/formula1/18051779 (BBC)]
 
 <!-- All news items above this line -->{{Current events footer}}

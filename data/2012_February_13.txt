@@ -43,6 +43,6 @@
 
 ;Sport
 *The victorious [[Zambia national football team]] arrives back in [[Lusaka]] after winning the [[2012 Africa Cup of Nations]] in a penalty shoot-out. [http://www.bbc.co.uk/news/world-africa-17011165 (BBC News)]
-*The Six Nations Council announces that the match between [[France national rugby union team|France]] versus [[Ireland national rugby union team|Ireland]] in the [[2012 Six Nations Championship]], called off minutes prior to kick-off on Saturday night, will not take place this weekend. A date has not yet been announced. [http://www.rte.ie/sport/rugby/sixnations/2012/0213/france_ireland_sixnations.html (RTÉ Sport)] [http://www.bbc.co.uk/sport/0/rugby-union/17010572 (BBC Sport)]
+*The Six Nations Council announces that the match between [[France national rugby union team|France]] versus [[Ireland national rugby union team|Ireland]] in the [[2012 Six Nations Championship]], called off minutes prior to kick-off on Saturday night, will not take place this weekend. A date has not yet been announced. [http://www.rte.ie/sport/rugby/sixnations/2012/0213/france_ireland_sixnations.html (RTÉ Sport)] [https://www.bbc.co.uk/sport/0/rugby-union/17010572 (BBC Sport)]
 
 <!-- All news items above this line -->{{Current events footer}}

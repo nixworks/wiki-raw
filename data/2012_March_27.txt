@@ -25,6 +25,6 @@
 
 ;Sport
 *In [[baseball]], a consortium led by [[American people|American]] basketball star [[Magic Johnson]] wins an auction process for ownership of the [[Los Angeles Dodgers]]. [http://online.wsj.com/article/SB10001424052702303404704577308483250633906.html (''Wall Street Journal'')]
-*In [[rugby league]], three-time [[world_club_challenge|World Club Champions]] [[Bradford Bulls]] announce that they needed to raise £1 million to stay in business. [http://www.bbc.co.uk/sport/0/rugby-league/17521786 (''BBC News'')]
+*In [[rugby league]], three-time [[world_club_challenge|World Club Champions]] [[Bradford Bulls]] announce that they needed to raise £1 million to stay in business. [https://www.bbc.co.uk/sport/0/rugby-league/17521786 (''BBC News'')]
 
 <!-- All news items above this line -->{{Current events footer}}

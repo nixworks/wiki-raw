@@ -27,7 +27,7 @@
 
 ;Law and crime
 *A military judge at [[Fort Meade]] in [[Maryland]] rejects dropping charges against imprisoned U.S. serviceman [[Bradley Manning]] and says his trial would likely be delayed by two months until November. [http://www.presstv.ir/usdetail/245249.html (Press TV)] [http://www.guardian.co.uk/world/2012/jun/08/bradley-manning-fails-military-judge?newsfeed=true (''The Guardian'')] [http://blogs.voanews.com/breaking-news/2012/06/08/us-military-judge-refuses-to-dismiss-wikileaks-charges/ (Voice of America)]
-*[[Chuck Blazer]], the [[FIFA]] official who [[Whistleblower|blew the whistle]] on corruption within the governing body last year, faces accusations by [[Jack Warner (football executive)|Jack Warner]] of secretly funding the rent on a luxury New York apartment using funds from the football federation he ran. [http://www.bbc.co.uk/sport/0/football/18367869 (BBC)]
+*[[Chuck Blazer]], the [[FIFA]] official who [[Whistleblower|blew the whistle]] on corruption within the governing body last year, faces accusations by [[Jack Warner (football executive)|Jack Warner]] of secretly funding the rent on a luxury New York apartment using funds from the football federation he ran. [https://www.bbc.co.uk/sport/0/football/18367869 (BBC)]
 *[[Jamaica]]n "drug lord" [[Christopher Coke|Christopher "Dudus" Coke]] is sentenced to 23 years in a U.S. prison. [http://www.bbc.co.uk/news/world-us-canada-18371383 (BBC)]
 
 ;Politics and elections
@@ -36,10 +36,10 @@
 
 ;Sport
 *[[UEFA Euro 2012]]:
-**The [[UEFA European Football Championship]] gets underway in [[Poland]]. [http://www.bbc.co.uk/sport/0/football/18355986 (BBC)]
-**[[UEFA]] confirms incidents of racist chanting were aimed at [[Netherlands national football team|Netherlands]] players during an open training session ahead of the tournament. [http://www.bbc.co.uk/sport/0/football/18363736 (BBC)] [http://www.guardian.co.uk/football/2012/jun/08/racist-chants-holland-uefa (''The Guardian'')]
+**The [[UEFA European Football Championship]] gets underway in [[Poland]]. [https://www.bbc.co.uk/sport/0/football/18355986 (BBC)]
+**[[UEFA]] confirms incidents of racist chanting were aimed at [[Netherlands national football team|Netherlands]] players during an open training session ahead of the tournament. [https://www.bbc.co.uk/sport/0/football/18363736 (BBC)] [http://www.guardian.co.uk/football/2012/jun/08/racist-chants-holland-uefa (''The Guardian'')]
 **An Irish fan becomes the target of a World Wide Web hunt after leaving his tickets in an airport shop. [http://www.bbc.co.uk/news/uk-northern-ireland-18364819 (BBC)]
-**Co-hosts [[Poland national football team|Poland]] take on [[UEFA Euro 2004|2004]] champions [[Greece national football team|Greece]] in the opening match at the [[National Stadium, Warsaw|National Stadium]] in [[Warsaw]]. [http://www.bbc.co.uk/sport/0/football/18339071 (BBC)] [http://www.aljazeera.com/sport/football/2012/06/20126715512928466.html (Al Jazeera)]
-*[[Novak Djokovic]] beats [[Roger Federer]] in straight sets to reach [[List of French Open singles finalists during the open era|his first French Open final]]. [http://www.bbc.co.uk/sport/0/tennis/18373533 (BBC)]
+**Co-hosts [[Poland national football team|Poland]] take on [[UEFA Euro 2004|2004]] champions [[Greece national football team|Greece]] in the opening match at the [[National Stadium, Warsaw|National Stadium]] in [[Warsaw]]. [https://www.bbc.co.uk/sport/0/football/18339071 (BBC)] [http://www.aljazeera.com/sport/football/2012/06/20126715512928466.html (Al Jazeera)]
+*[[Novak Djokovic]] beats [[Roger Federer]] in straight sets to reach [[List of French Open singles finalists during the open era|his first French Open final]]. [https://www.bbc.co.uk/sport/0/tennis/18373533 (BBC)]
 
 <!-- All news items above this line -->{{Current events footer}}

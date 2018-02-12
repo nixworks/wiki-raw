@@ -36,6 +36,6 @@
 *[[CERN]] scientists present recent results from [[Compact Muon Solenoid|CMS]] and [[ATLAS experiment|ATLAS]] experiments consistent with the existence of a [[Higgs boson]] particle. [http://www.bbc.co.uk/news/science-environment-18693744#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa (BBC)] [http://press.web.cern.ch/press/PressReleases/Releases2012/PR17.12E.html (CERN press release)]
 
 ;Sport
-*The [[Scottish Premier League]] refuses to admit [[Newco Rangers]], the team that emerged from the ashes of [[Rangers F.C.]] following its disintegration. [http://www.bbc.co.uk/sport/0/football/18703183 (BBC)]
+*The [[Scottish Premier League]] refuses to admit [[Newco Rangers]], the team that emerged from the ashes of [[Rangers F.C.]] following its disintegration. [https://www.bbc.co.uk/sport/0/football/18703183 (BBC)]
 
 <!-- All news items above this line -->{{Current events footer}}
