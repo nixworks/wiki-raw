@@ -12,7 +12,7 @@
 *[[iOS jailbreaking]]
 **A [[Vice (magazine)#Website|Vice Motherboard]] report traces the origin of a significant [[iOS]] source code [[Internet leak|leak]] to an Apple [[Internship|intern]] and five "friends" in the [[iOS]] [[Jailbreak (computer science)|jailbreaking]] community. [https://apple.slashdot.org/story/18/02/09/221237/apple-intern-reportedly-leaked-iphone-source-code (''The Verge'' via Slashdot)]
 *[[Russian espionage in the United States]]
-**The [[New York Times]] reports that the [[Central Intelligence Agency|CIA]] handed $100,000 to an unnamed [[Russian intelligence]] source in a [[Berlin]] hotel room, allegedly expecting to get back stolen [[National Security Agency|NSA]] [[Exploit (computer security)|hacking tool]]s. [http://www.newsweek.com/cia-paid-100000-shadowy-russian-touting-trump-dirt-and-stolen-cyberweapons-802603 (''Newsweek'')]
+**The [[New York Times]] reports that the [[Central Intelligence Agency|CIA]] handed $100,000 to an unnamed [[Russian intelligence]] source in a [[Berlin]] hotel room, allegedly expecting to get back stolen [[National Security Agency|NSA]] hacking tools. [http://www.newsweek.com/cia-paid-100000-shadowy-russian-touting-trump-dirt-and-stolen-cyberweapons-802603 (''Newsweek'')]
 
 ;Politics and elections
 *[[United States federal government shutdown of 2018]]
@@ -25,7 +25,7 @@
 
 ;Science and technology
 *[[Human genetics]]
-**Researchers at the [[University of Edinburgh]] claim they have successfully brought prepubescent-sourced, [[Immature ovum|immature]] [[human]] [[egg cell]]s to [[Folliculogenesis|maturity]] in a laboratory for the first time. The work may be significant because it may allow the harvesting and preservation of eggs from young girls undergoing toxic cancer treatment before their lifetime reservoirs of those cells are destroyed. [http://www.bbc.co.uk/news/health-42976858 (BBC)] [https://doi.org/10.1093/molehr/gay002 (''Oxford Academic'')]
+**Researchers at the [[University of Edinburgh]] claim they have successfully brought prepubescent-sourced, [[Immature ovum|immature]] [[human]] [[egg cell]]s to [[Folliculogenesis|maturity]] in a laboratory for the first time. The work may be significant because it may allow the harvesting and preservation of eggs from young girls undergoing [[Chemotherapy|toxic cancer treatment]] before their lifetime reservoirs of those cells are destroyed. [http://www.bbc.co.uk/news/health-42976858 (BBC)] [https://doi.org/10.1093/molehr/gay002 (''Oxford Academic'')]
 *[[List of asteroid close approaches to Earth in 2018|Asteroid close approaches to Earth in 2018]]
 **As predicted, asteroid [[2018 CB]], estimated to be between 15 and 40 metres (50–130 feet) in diameter, makes a fly-by past [[Earth]] at a distance of around 64,500 km (40,100 mi). This is the second asteroid to make a fly-by this week. [https://www.theguardian.com/science/2018/feb/09/asteroid-passing-close-to-earth-today-not-need-to-worry (''The Guardian'')]
 
