@@ -3,23 +3,24 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Marjory Stoneman Douglas High School shooting]]
-**At least 20 people are wounded in a school shooting in [[Florida]], United States. [https://www.cnn.com/2018/02/14/us/florida-high-school-shooting/index.html (CNN)]
+**At least 1 person is killed and 20 people are wounded in a school shooting in [[Florida]], United States. One source states that there is one death, while another states that there are "numerous" fatalities. [https://www.cnn.com/2018/02/14/us/florida-high-school-shooting/index.html (CNN)]
 
 ;Business and economy
 *[[Economy of the European Union]]
 **[[Eurozone]] [[Gross domestic product|GDP]] rose by 2.5% in 2017, a pace not seen since 2007 and [[industrial production]] is up 5.2% year-on-year. The production of [[Durable good|durable]] consumer goods is up 7.4% and [[capital good]]s, indicating investments, are up 7.6%. [http://www.arabnews.com/node/1246321/business-economy (Reuters via ''Arab News'')]
 
+;Disasters and accidents
+*A car accident at the headquarters of the United States [[National Security Agency]] causes three injuries; police shoot at the driver who they thought was attacking the building. [https://www.theverge.com/2018/2/14/17011566/nsa-shooting-fort-meade (The Verge)]
+
 ;Law and crime
 *[[Crime in South Africa]]
 **The residence of the [[Gupta family]] is raided by the [[South African Police Service]]'s elite [[Hawks (South Africa)|Hawks]] unit and three people are arrested. [http://www.bbc.com/news/world-africa-43055494 (BBC)]
 *[[2017–18 United States political sexual scandals]]
-**[[Michael D. Cohen (lawyer)|Michael D. Cohen]], the private lawyer of [[President of the United States|President]] [[Donald Trump]], claims that he did a "lawful" $130,000 payment to porn star Stephanie Clifford, aka [[Stormy Daniels]], from his own private funds. The statement to the ''[[The New York Times|New York Times]]'' comes after the [[Common Cause]] organization on 22 January 2018 filed a complaint about the payment with the [[Federal Election Commission]]. [http://abcnews.go.com/Politics/trump-lawyer-michael-cohen-admits-paying-porn-actress/story?id=53077299 (ABC News)]
+**[[Michael D. Cohen (lawyer)|Michael D. Cohen]], the private lawyer of [[President of the United States|U.S. President]] [[Donald Trump]], claims that he did a "lawful" $130,000 payment to porn star Stephanie Clifford, aka [[Stormy Daniels]], from his own private funds. The statement to the ''[[The New York Times|New York Times]]'' comes after the [[Common Cause]] organization on 22 January 2018 filed a complaint about the payment with the [[Federal Election Commission]]. [http://abcnews.go.com/Politics/trump-lawyer-michael-cohen-admits-paying-porn-actress/story?id=53077299 (ABC News)]
 *[[Crime in Pakistan]]
 **[[Pakistan]] moves to ban two charities linked to terrorist [[Hafiz Muhammad Saeed]]. [https://www.reuters.com/article/us-pakistan-militants-financing/pakistan-bans-charities-linked-to-u-n-designated-terrorist-official-idUSKCN1FY1SN (Reuters)]
 *[[November 2015 Paris attacks]]
 **After the first trial on the attacks, Jawad Bendaoud is acquitted. Bendaoud rented an apartment to two of the attackers but denied knowing what they planned. Mohamed Soumah is sentenced to 5 years for acting as an intermediary, Youssef Ait-Boulahcen to 3 years in jail for failing to inform authorities. [http://www.digitaljournal.com/news/world/two-jailed-in-first-trial-linked-to-paris-attacks/article/514897 (''Digital Journal'')]
-*[[Crime in the United States]]
-**A shooting and break-in at the headquarters of the [[National Security Agency]] cause several injuries. Police do not believe the incident to be terror-related. [http://www.cbc.ca/news/world/shooting-outside-nsa-headquarters-fort-meade-maryland-1.4534734 (CBC)]
 *[[Disappearance of Maëlys de Araujo]]
 **The remains of Maëlys de Araujo, a girl who disappeared in the early hours of 27 August 2017 at a wedding in France, are found after suspect Nordahl Lelandais guides investigators to the site. [https://www.rte.ie/news/crime/2018/0214/940777-france-maelys-remains-found/ (RTE.ie)]
 
@@ -30,6 +31,8 @@
 **[[Mikheil Saakashvili]], leader of the opposition [[Movement of New Forces]] party, who was deported from [[Ukraine]] to [[Poland]], relocates to the [[Netherlands]]. [https://nos.nl/artikel/2217162-michail-saakasjvili-vestigt-zich-in-nederland-na-uitzetting-oekraine.html (NOS)] [http://www.xinhuanet.com/english/2018-02/14/c_136976284.htm (Xinhua)]
 *[[Politics of Zimbabwe]]
 **[[Morgan Tsvangirai]], the leader of [[Movement for Democratic Change – Tsvangirai]] and the former [[Prime Minister of Zimbabwe]] from 2009 to 2013. dies at the age of 65. [http://www.bbc.com/news/world-africa-43066175 (BBC)]
+*[[Politics of South Africa]]
+**The [[President of South Africa]], [[Jacob Zuma]], resigns with immediate effect. [https://www.news24.com/SouthAfrica/News/zexit-live-will-zuma-respond-20180214 (News24)]
 
 ;Sports
 *[[Concerns and controversies at the 2018 Winter Olympics]]
