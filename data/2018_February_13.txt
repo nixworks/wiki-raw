@@ -21,4 +21,7 @@
 ;Science and technology
 *[[Supersonic transport]]
 **A new plane that would fly from [[London]] to [[New York City]] in three hours has just received crucial funding. The aircraft, officially named [[Quiet Supersonic Technology|Quiet Supersonic Transport]] (QueSST) and dubbed the "Son of [[Concorde]]", was proposed by [[NASA]] and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between [[London]] and [[New York City]]. [http://metro.co.uk/2018/02/13/son-concorde-plane-fly-london-new-york-three-hours-7309260/ (Metro)]
+;Disasters and accidents
+*[[United flight 1175]]'s engine fell apart in midair, leaving metal pieces flapping in the wind. All onboard survived. [http://abcnews.go.com/US/passengers-recall-horrible-moment-united-plane-engine-fell/story?id=53072150 (''ABC News'')]
+
 <!-- All news items above this line -->}}
