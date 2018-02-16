@@ -2,8 +2,14 @@
 
 <!-- All news items below this line -->
 ;Arts and culture
-* The American superhero film ''[[Black Panther (film)|Black Panther]]'' gets released in theaters and scores a record of $25.2 million. [http://variety.com/2018/film/news/black-panther-box-office-marvel-1202702053/ (Variety)]
+* The American superhero film ''[[Black Panther (film)|Black Panther]]'' gets released in theaters and scores a record of $25.2 million at the box office. [http://variety.com/2018/film/news/black-panther-box-office-marvel-1202702053/ (''Variety'')]
+
+;Law and crime
+*A teenager is arrested for allegedly planning a [[school shooting]] in [[Washington (state)|Washington State]]. Police found a semi-automatic rifle hidden in a guitar case along with bomb making equipment. [https://www.cbsnews.com/news/grandmother-foils-teens-plot-to-carry-out-school-shooting-in-washington/ (CBS News)]
+
 ;Politics and elections
-*[[Russian interference in the 2016 United States elections]]
-**[[President of the United States|U.S. President]] [[Donald Trump]]'s former chief strategist [[Steve Bannon]] is interviewed over two days this week as part of the investigation into alleged [[Russia]]n meddling in the [[United States presidential election, 2016|2016 presidential election]]. [http://www.bbc.com/news/world-us-canada-43079550 (BBC)]
+*[[Special Counsel investigation (2017–present)]]
+**[[President of the United States|U.S. President]] [[Donald Trump]]'s former chief strategist [[Steve Bannon]] is interviewed over two days this week as part of the investigation into alleged [[Russian interference in the 2016 United States elections|Russian meddling in the 2016 U.S. presidential election]]. [http://www.bbc.com/news/world-us-canada-43079550 (BBC)]
+**13 [[Russia]]n nationals are indicted by a grand jury on [[conspiracy]] charges. [https://www.cnn.com/2018/02/16/politics/mueller-russia-indictments-election-interference/index.html (CNN)] [http://www.bbc.com/news/world-us-canada-43092085 (BBC)]
+*[[Ethiopia]] declares a national state of emergency one day after the unexpected resignation of [[Prime Minister of Ethiopia|Prime Minister]] [[Hailemariam Desalegn]]. [http://www.bbc.com/news/world-africa-43091248 (BBC)]
 <!-- All news items above this line -->}}
