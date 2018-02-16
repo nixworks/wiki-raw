@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=02|day=16|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[Russian interference in the 2016 United States elections]]
+**[[President of the United States|U.S.President]] [[Donald Trump]]'s former chief strategist, [[Steve Bannon]], is interviewed as part of the investigation into alleged [[Russia]]n meddling in the [[United States presidential election, 2016|2016 election]]. [http://www.bbc.com/news/world-us-canada-43079550 (BBC)]
 <!-- All news items above this line -->}}
