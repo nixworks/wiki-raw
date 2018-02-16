@@ -1,12 +1,9 @@
 {{Current events|year=2018|month=02|day=16|content=
 
 <!-- All news items below this line -->
-;Arts and culture
-* The American superhero film [[Black Panther (film)|Black Panther]] gets released in theaters and breaks several records. [http://www.syfy.com/syfywire/black-panther-breaks-another-fandango-record (Syfy)] [http://www.pantagraph.com/news/never-fear-black-panther-is-finally-here/article_e62c08a7-be79-59e4-a9a5-04154546f113.html (pantagraph)]
-
 ;Politics and elections
 *[[Russian interference in the 2016 United States elections]]
-**[[President of the United States|U.S. President]] [[Donald Trump]]'s former chief strategist [[Steve Bannon]] is interviewed as part of the investigation into alleged [[Russia]]n meddling in the [[United States presidential election, 2016|2016 presidential election]]. [http://www.bbc.com/news/world-us-canada-43079550 (BBC)]
+**[[President of the United States|U.S. President]] [[Donald Trump]]'s former chief strategist [[Steve Bannon]] is interviewed over two days this week as part of the investigation into alleged [[Russia]]n meddling in the [[United States presidential election, 2016|2016 presidential election]]. [http://www.bbc.com/news/world-us-canada-43079550 (BBC)]
 
 ;Science and technology
 * [[Timeline of Solar System astronomy|Timeline of the solar system]]
