@@ -9,7 +9,7 @@
 
 ;Law and crime
 *[[2017 cyberattacks on Ukraine]]
-**The [[United Kingdom]] [[Cabinet of the United Kingdom|government]] and the [[United States]] [[White House]] accuse the [[Military of Russia|Russian military]] of being responsible for the launch of the ''[[Petya (malware)|NotPetya]]'' malware attack in June 2017. The White House calls it the most destructive and costly cyber-attack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence and "Russophobic". [http://www.washingtonexaminer.com/white-house-accuses-russia-of-notpetya-cyberattack-threatens-unspecified-consequences/article/2649246 (''Washington Examiner'')]
+**The [[United Kingdom]] [[Cabinet of the United Kingdom|government]] and the [[United States]] [[White House]] accuse the [[Military of Russia|Russian military]] of being responsible for the launch of the ''[[Petya (malware)|NotPetya]]'' malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". [http://www.washingtonexaminer.com/white-house-accuses-russia-of-notpetya-cyberattack-threatens-unspecified-consequences/article/2649246 (''Washington Examiner'')]
 
 ;Politics and elections
 *[[Mexican general election, 2018]]
@@ -20,4 +20,8 @@
 **[[Hailemariam Desalegn]] resigns as [[Prime Minister of Ethiopia]] after six years in office amid ongoing unrest in the [[Oromia Region|Oromia]] and [[Amhara Region|Amhara]] regions. [http://www.bbc.co.uk/news/world-africa-43073285 (BBC)]
 *[[Politics of South Africa]]
 **[[Cyril Ramaphosa]] is elected by the [[National Assembly of South Africa|National Assembly]] as [[President of South Africa]]. [https://www.pbs.org/newshour/world/cyril-ramaphosa-elected-as-south-africas-new-president (PBS)]
+
+;Science and technology
+* [[Discoveries of exoplanets]]
+** 100 exoplanets have been discovered outside the solar system. [https://www.usatoday.com/story/tech/science/2018/02/15/get-ready-some-galactic-context-almost-100-new-exoplanets-discovered/340687002/ (USA Today)]
 <!-- All news items above this line -->}}
