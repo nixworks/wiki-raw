@@ -30,5 +30,5 @@
 
 ;Science and technology
 *[[Discoveries of exoplanets]]
-**[[NASA]]'s [[Kepler (spacecraft)|Kepler]] [[space telescope]] discovers 95 new [[exoplanet]]s. [https://www.usatoday.com/story/tech/science/2018/02/15/get-ready-some-galactic-context-almost-100-new-exoplanets-discovered/340687002/ (USA Today)]
+**[[NASA]]'s [[Kepler (spacecraft)|Kepler]] [[space telescope]] has discovered 95 new [[exoplanet]]s. [https://www.usatoday.com/story/tech/science/2018/02/15/get-ready-some-galactic-context-almost-100-new-exoplanets-discovered/340687002/ (USA Today)]
 <!-- All news items above this line -->}}
