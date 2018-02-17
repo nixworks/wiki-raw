@@ -3,7 +3,8 @@
 <!-- All news items below this line -->
 ;Disasters and accidents
 *[[2018 Oaxaca earthquake]]
-**A magnitude 7.2 earthquake strikes [[Oaxaca]], [[Mexico]]. [https://earthquake.usgs.gov/earthquakes/eventpage/us2000d3km (USGS)] [https://edition.cnn.com/2018/02/16/americas/earthquake-jolts-southeastern-mexico/index.html (CNN)]
+**A magnitude 7.2 earthquake strikes near the town of [[Pinotepa Nacional]] and is widely felt across Southern and Central [[Mexico]], causing material damages in the states of [[Guerrero]], [[Oaxaca]] and [[Mexico City]]. It is followed by a 5.8-magnitude [[aftershock]]. [https://earthquake.usgs.gov/earthquakes/eventpage/us2000d3km (USGS)] [https://edition.cnn.com/2018/02/16/americas/earthquake-jolts-southeastern-mexico/index.html (CNN)]
+**A military helicopter surveying the damage over [[Jamiltepec]] crashes, killing 2 civilians on land and 11 passengers, the only deaths related to the earthquake reported so far. Among the surviving passengers are Oaxaca governor [[Alejandro Murat Hinojosa]] and Mexico's Secretary of the Interior [[Alfonso Navarrete Prida]]. [https://edition.cnn.com/2018/02/17/americas/mexico-helicopter-crash/index.html (CNN)]
 
 ;Law and crime
 *[[Crime in Washington]]
