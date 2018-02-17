@@ -1,6 +1,10 @@
 {{Current events|year=2018|month=02|day=17|content=
 
 <!-- All news items below this line -->
+;Disasters and accidents
+*[[2018 Oaxaca earthquake]]
+**A military helicopter surveying the damage over [[Jamiltepec]] crashes, killing 2 civilians on land and 11 passengers, the only deaths related to the earthquake reported so far. Among the surviving passengers are Oaxaca governor [[Alejandro Murat Hinojosa]] and Mexico's Secretary of the Interior [[Alfonso Navarrete Prida]]. [https://edition.cnn.com/2018/02/17/americas/mexico-helicopter-crash/index.html (CNN)]
+
 ;Law and crime
 *[[Murder of Zainab Ansari]]
 **An [[Anti Terrorism Court of Pakistan|Anti-Terrorism Court]] in [[Lahore]], [[Pakistan]], sentences the culprit to the [[Capital punishment in Pakistan|death penalty]], on four grounds. The family demands his [[hanging]] in public. [https://tribune.com.pk/story/1637654/1-family-demands-public-execution-zainabs-murderer/ (''The Express Tribune'')]
