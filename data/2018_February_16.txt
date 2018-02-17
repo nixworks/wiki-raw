@@ -1,6 +1,10 @@
 {{Current events|year=2018|month=02|day=16|content=
 
 <!-- All news items below this line -->
+;Armed conflict and attacks
+*[[Terrorism]] in [[Nigeria]]
+**Three suicide bombers kill at least 20 people at a fish market in [[Konduga]], [[Borno State]], [[Nigeria]]. [https://www.theguardian.com/world/2018/feb/17/nigeria-three-suicide-bombers-konduga-maiduguri (''The Guardian'')]
+
 ;Disasters and accidents
 *[[2018 Oaxaca earthquake]]
 **A magnitude 7.2 earthquake strikes near the town of [[Pinotepa Nacional]] and is widely felt across Southern and Central [[Mexico]], causing material damages in the states of [[Guerrero]], [[Oaxaca]] and [[Mexico City]]. It is followed by a 5.8-magnitude [[aftershock]]. [https://earthquake.usgs.gov/earthquakes/eventpage/us2000d3km (USGS)] [https://edition.cnn.com/2018/02/16/americas/earthquake-jolts-southeastern-mexico/index.html (CNN)]
