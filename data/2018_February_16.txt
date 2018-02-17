@@ -1,11 +1,11 @@
 {{Current events|year=2018|month=02|day=16|content=
 
 <!-- All news items below this line -->
-;Law and crime
-*A teenager is arrested for allegedly planning a [[school shooting]] in [[Washington (state)|Washington State]]. Police found a semi-automatic rifle hidden in a guitar case along with bomb making equipment. [https://www.cbsnews.com/news/grandmother-foils-teens-plot-to-carry-out-school-shooting-in-washington/ (CBS News)]
-
 ;Disasters and accidents
-*A magnitude 7.2 earthquake strikes [[Oaxaca]], [[Mexico]]. [https://earthquake.usgs.gov/earthquakes/eventpage/us2000d3km#executive (USGS)]
+*A [[Moment magnitude scale|magnitude]] 7.2 earthquake strikes [[Oaxaca]], [[Mexico]]. [https://earthquake.usgs.gov/earthquakes/eventpage/us2000d3km (USGS)] [https://edition.cnn.com/2018/02/16/americas/earthquake-jolts-southeastern-mexico/index.html (CNN)]
+
+;Law and crime
+*A teenager is arrested for allegedly planning a [[school shooting]] in [[Everett, Washington]]. Police found a semi-automatic rifle hidden in a guitar case along with bomb making equipment. [https://www.cbsnews.com/news/grandmother-foils-teens-plot-to-carry-out-school-shooting-in-washington/ (CBS News)]
 
 ;Politics and elections
 *[[Special Counsel investigation (2017–present)]]
