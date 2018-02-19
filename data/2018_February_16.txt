@@ -2,7 +2,8 @@
 
 <!-- All news items below this line -->
 ;Armed conflict and attacks
-*Three suicide bombers kill at least 20 people at a fish market in [[Konduga]], [[Borno State|Borno]], [[Nigeria]]. [https://www.theguardian.com/world/2018/feb/17/nigeria-three-suicide-bombers-konduga-maiduguri (''The Guardian'')]
+*[[Boko Haram insurgency]]
+**Three suicide bombers kill at least 20 people at a fish market in [[Konduga]], [[Borno State|Borno]], [[Nigeria]]. [https://www.theguardian.com/world/2018/feb/17/nigeria-three-suicide-bombers-konduga-maiduguri (''The Guardian'')]
 
 ;Disasters and accidents
 *[[2018 Oaxaca earthquake]]
