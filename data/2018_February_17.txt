@@ -2,9 +2,9 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*A magnitude 4.4 earthquake, the strongest in the [[United Kingdom]] for ten years, strikes [[Swansea]]. [http://www.bbc.co.uk/news/uk-43097113 (BBC)]
 *[[2018 Oaxaca earthquake]]
 **A military helicopter surveying the damage, carrying the [[Governor of Oaxaca]] [[Alejandro Murat Hinojosa]] and [[Secretary of the Interior (Mexico)|Mexico's Secretary of the Interior]] [[Alfonso Navarrete Prida]], crashes over [[Jamiltepec]], killing 13 people on the ground. These deaths are the only known ones related to the earthquake reported so far. [https://edition.cnn.com/2018/02/17/americas/mexico-helicopter-crash/index.html (CNN)]
+*A magnitude 4.4 earthquake, the strongest in the [[United Kingdom]] for ten years, occurs at [[Swansea]]. [http://www.bbc.co.uk/news/uk-43097113 (BBC)]
 
 ;Law and crime
 *[[Murder of Zainab Ansari]]
