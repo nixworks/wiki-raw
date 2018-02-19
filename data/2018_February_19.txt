@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=02|day=19|content=
 
 <!-- All news items below this line -->
-*
+;Disasters and accidents
+*[[2018 Oaxaca earthquake]]
+**Three days after the previous, stronger earthquake, a 5.9-magnitude possible [[aftershock]] strikes again near the coast of [[Oaxaca]] and is widely felt across Southern and Central [[Mexico]]. No victims are reported so far. [https://www.reuters.com/article/us-mexico-quake/quake-shakes-mexicans-out-of-bed-alarms-sound-in-capital-idUSKCN1G30KQ (Reuters)]
 <!-- All news items above this line -->}}
