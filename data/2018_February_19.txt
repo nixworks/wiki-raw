@@ -3,8 +3,8 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Syrian Civil War]]
-**Ahead of an expected ground offensive, [[Syrian Air Force]] strikes on rebel-held eastern [[Ghouta]], near [[Damascus]], kill at least 44 people, according to the [[Syrian Observatory for Human Rights]]. [http://www.france24.com/en/20180219-syria-bombardment-rebel-enclave-kills-18-civilians (''France 24'')]
-*Three people are injured in a stabbing at a [[Tim Hortons]] in [[Montreal]]. Motive of the attacker is unknown. [https://montreal.ctvnews.ca/three-stabbed-at-tim-hortons-near-beaudry-metro-1.3810061 (CTV news)]
+**Ahead of an expected ground offensive, [[Syrian Air Force]] strikes on rebel-held eastern [[Ghouta]], near [[Damascus]], kill at least 44 people, according to the [[Syrian Observatory for Human Rights]]. [http://www.france24.com/en/20180219-syria-bombardment-rebel-enclave-kills-18-civilians (France 24)]
+*An attacker stabs three people at a [[Tim Hortons]] in [[Montreal]], [[Canada]]. [https://montreal.ctvnews.ca/three-stabbed-at-tim-hortons-near-beaudry-metro-1.3810061 (CTV news)]
 
 ;Disasters and accidents
 *[[2018 Oaxaca earthquake]]
@@ -16,11 +16,11 @@
 *[[United Kingdom football sexual abuse scandal]]
 **Former coach [[Barry Bennell]] is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. [https://www.theguardian.com/football/2018/feb/19/barry-bennell-branded-sheer-evil-as-he-is-sentenced-to-31-years (''The Guardian'')]
 *[[Child sexual abuse in the United Kingdom]]
-**[[Matthew Falder]] is sentenced to 32 years in jail after confessing to blackmailing numerous teenagers into performing sexual acts. [https://www.theguardian.com/technology/2018/feb/19/dark-web-paedophile-matthew-falder-jailed-for-32-years (''The Guardian'')]
+**A court sentences [[Matthew Falder]], convicted on 137 charges, to 32 years in jail after confessing to blackmailing numerous teenagers into performing sexual acts. [https://www.theguardian.com/technology/2018/feb/19/dark-web-paedophile-matthew-falder-jailed-for-32-years (''The Guardian'')]
 
 ;Politics and elections
-*[[Politics of the European Union]]
-**[[Ministry of Economy and Finance (Spain)|Spanish Minister of Economy and Competitiveness]], [[Luis de Guindos]], is appointed new [[President of the European Central Bank|Vice-President]] of the [[European Central Bank]] by the [[Eurogroup]]. [http://uk.businessinsider.com/spanish-economy-minister-luis-de-guindos-to-be-appointed-ecb-vice-president-2018-2 (''Business Insider'')]
+*[[Eurozone]]
+**[[Ministry of Economy, Industry and Competitiveness (Spain)|Spanish Minister of Economy and Competitiveness]], [[Luis de Guindos]], is set to be nominated  by the [[Eurogroup]] to succeed [[Vítor Constâncio]] as [[President of the European Central Bank|Vice-President]] of the [[European Central Bank]]. [http://uk.businessinsider.com/spanish-economy-minister-luis-de-guindos-to-be-appointed-ecb-vice-president-2018-2 (''Business Insider'')]
 
 ;Science and technology
 *[[Human impact on the environment]]
