@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Syrian Civil War]], [[Turkish military operation in Afrin]]
-**Pro-Syrian government forces are sent to help the Kurds fight against [[Turkey]] and its allies in the [[Afrin Region]]. This action opens up a new front in the war. [http://www.independent.co.uk/news/world/middle-east/syria-civil-war-assad-regime-afrin-kurdish-kurds-turkey-ypg-militia-a8219651.html (Independent)]
+**Pro-Syrian government forces are sent to help the [[Syrian Kurds]] fight against [[Turkey]] and its allies in the [[Afrin Region]]. This action opens up a new front in the war. [http://www.independent.co.uk/news/world/middle-east/syria-civil-war-assad-regime-afrin-kurdish-kurds-turkey-ypg-militia-a8219651.html (''The Independent'')]
 
 ;Disasters and accidents
 *[[2017–18 South Pacific cyclone season]]
@@ -19,6 +19,6 @@
 **A court in [[Thailand]] awards a [[Japan]]ese man paternity rights over 13 of his children from Thai [[Surrogacy|surrogate mothers]]. [http://www.bbc.com/news/world-asia-43123658 (BBC)]
 
 ;Politics and elections
-*[[Special Counsel investigation (2017–present)]], [[Russian interference in the 2016 United States elections]]
-**Attorney [[Alex van der Zwaan]] is charged with making false statements to the FBI during the special counsel investigation into Russian meddling in the 2016 U.S. Presidential election. [https://www.nytimes.com/2018/02/20/us/politics/alex-van-der-zwaan-gates-russia-mueller.html (''The New York Times'')]
+*[[Russian interference in the 2016 United States elections]]
+**Attorney [[Alex van der Zwaan]] pleads guilty in the [[United States District Court for the District of Columbia|U.S. District Court in Washington, D.C.]], to making false statements to the [[Federal Bureau of Investigation|FBI]] during [[Special Counsel investigation (2017–present)|the special counsel investigation into Russian meddling in the 2016 U.S. Presidential election]].  Specifically, the charges were that he lied to investigators about his interactions with political consultant and lobbyist [[Rick Gates]]. [https://www.nytimes.com/2018/02/20/us/politics/alex-van-der-zwaan-gates-russia-mueller.html (''The New York Times'')]
 <!-- All news items above this line -->}}
