@@ -4,6 +4,7 @@
 ;Armed conflicts and attacks
 *[[Syrian Civil War]]
 **Ahead of an expected ground offensive, [[Syrian Air Force]] strikes on rebel-held eastern [[Ghouta]], near [[Damascus]], kill at least 44 people, according to the [[Syrian Observatory for Human Rights]]. [http://www.france24.com/en/20180219-syria-bombardment-rebel-enclave-kills-18-civilians (''France 24'')]
+*Three people are injured in a stabbing at a [[Tim Hortons]] in [[Montreal]]. Motive of the attacker is unknown. [https://montreal.ctvnews.ca/three-stabbed-at-tim-hortons-near-beaudry-metro-1.3810061 (CTV news)]
 
 ;Disasters and accidents
 *[[2018 Oaxaca earthquake]]
@@ -23,5 +24,5 @@
 
 ;Science and technology
 *[[Human impact on the environment]]
-**In a ''[[Scientific Reports]]'' publication, researchers propose 1965 as the start of the [[Anthropocene]] era. In that year, human [[nuclear weapons testing]] caused a noticeable spike in [[radiocarbon]] in the [[heartwood]] of the world's [[Campbell Island, New Zealand#Remotest tree|remotest tree]], a [[Picea sitchensis|Sitka spruce]] on [[Campbell Island, New Zealand|Campbell Island]], [[New Zealand]]. The general scientific community has already been using [[1950]] as the year "[[Before Present|Before Physics]]", when nuclear weapons began to significantly affect the reliability of radiocarbon dating of events that happen after that epoch. [http://www.dailymail.co.uk/sciencetech/article-5401139/amp/The-year-humans-began-causing-irreversible-damage-Earth.html (''Daily Mail'')]
+**In a ''[[Scientific Reports]]'' publication, researchers propose 1965 as the start of the [[Anthropocene]] era. In that year, human [[nuclear weapons testing]] caused a noticeable spike in [[radiocarbon]] in the [[heartwood]] of the world's [[Campbell Island, New Zealand#Remotest tree|remotest tree]], a [[Picea sitchensis|Sitka spruce]] on [[Campbell Island, New Zealand|Campbell Island]], [[New Zealand]]. The general scientific community has already been using [[1950]] as the year "[[Before Present]]", when nuclear weapons began to significantly affect the reliability of radiocarbon dating of objects whose organic matter content formed after that epoch. [http://www.dailymail.co.uk/sciencetech/article-5401139/amp/The-year-humans-began-causing-irreversible-damage-Earth.html (''Daily Mail'')]
 <!-- All news items above this line -->}}
