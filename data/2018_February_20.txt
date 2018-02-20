@@ -1,5 +1,9 @@
 {{Current events|year=2018|month=02|day=20|content=
 
 <!-- All news items below this line -->
-*
+; Disasters and accidents
+*Several regions in [[New Zealand]] declare [[state of emergency|states of emergencies]] in the aftermath of [[Cyclone Gita]]'s landfall. [http://www.newshub.co.nz/home/new-zealand/2018/02/live-updates-cyclone-gita-to-bring-new-zealand-to-standstill.html (Newshub)]
+
+;Law and crime
+*[[Latvia]] will ask the [[European Central Bank]] not to renew the mandate of [[Governing Council of the European Central Bank|ECB Governing Council]] member [[Ilmārs Rimšēvičs]], the head of the central [[Bank of Latvia]] since 2001, amid an ECB [[Debt moratorium|payment moratorium]] and an U.S. [[Graft (politics)|graft]] investigation into Latvia's third-largest bank, [[ABLV Bank|ABLV]]. On 19 January, Rimšēvičs was released on bail. [https://www.bloomberg.com/news/articles/2018-02-19/latvia-seeks-to-block-ecb-member-from-his-post-amid-graft-probe (Bloomberg)]
 <!-- All news items above this line -->}}
