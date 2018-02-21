@@ -1,6 +1,10 @@
 {{Current events|year=2018|month=02|day=21|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Operation Barkhane]]
+**Two [[France|French]] soldiers are killed after their armoured vehicle hit an [[Improvised explosive device|IED]] in [[Mali]]. [http://www.france24.com/en/20180221-mali-french-soldiers-killed-explosive-device-sahel (FRANCE 24)]
+
 ;International relations
 *[[Foreign relations of South Korea]]
 **[[South Korea]] signs free trade agreements with the [[Central America]]n countries of [[Costa Rica]], [[El Salvador]], [[Honduras]], [[Nicaragua]], and [[Panama]], to eliminate duties on about 95% of traded goods and services. [https://www.reuters.com/article/us-southkorea-trade-centralamerica/south-korea-signs-free-trade-deals-with-5-central-america-countries-idUSKCN1G502X (Reuters)]
