@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=02|day=25|content=
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[Syrian Civil War]], [[Siege of eastern Ghouta]]
+**[[Syrian Army|Government forces]] launch a ground and air offensive in eastern [[Ghouta]] despite the adoption of [[United Nations Security Council Resolution 2401|Resolution 2401]] by the [[United Nations Security Council]] demanding a ceasefire in the area. [http://www.aljazeera.com/news/2018/02/syrian-forces-offensive-eastern-ghouta-180225071935104.html (Al Jazeera)]
 <!-- All news items above this line -->}}
