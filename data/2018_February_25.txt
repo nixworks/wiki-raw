@@ -3,5 +3,13 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Syrian Civil War]], [[Siege of eastern Ghouta]]
-**[[Syrian Army|Government forces]] launch a ground and air offensive in eastern [[Ghouta]] despite the adoption of [[United Nations Security Council Resolution 2401|Resolution 2401]] by the [[United Nations Security Council]] demanding a ceasefire in the area. [http://www.aljazeera.com/news/2018/02/syrian-forces-offensive-eastern-ghouta-180225071935104.html (Al Jazeera)]
+**[[Syrian Armed Forces|Government forces]] launch a ground and air offensive in eastern [[Ghouta]] despite the adoption of [[United Nations Security Council Resolution 2401|Resolution 2401]] by the [[United Nations Security Council]] demanding a ceasefire in the area. [http://www.aljazeera.com/news/2018/02/syrian-forces-offensive-eastern-ghouta-180225071935104.html (Al Jazeera)]
+
+;Politics and elections
+*[[Politics of China]]
+**The [[Central Committee of the Communist Party of China]] proposes that the [[Constitution of the People's Republic of China|country's constitution]] be amended to abolish term limits for the posts of [[President of the People's Republic of China|President]] and [[Vice President of the People's Republic of China|Vice President]]. The move is seen as an attempt by current president [[Xi Jinping]] to solidify his power. [https://www.theguardian.com/world/2018/feb/25/xi-jinping-to-cement-his-power-with-plan-scrap-two-term-limit-china (''The Guardian'')]
+
+;Sport
+*[[2018 EFL Cup Final]]
+**[[Manchester City F.C.|Manchester City]] beat [[Arsenal F.C.|Arsenal]] 3–0 at [[Wembley Stadium]] to win the [[2017–18 EFL Cup]]. [http://www.bbc.co.uk/sport/football/43101681 (BBC)]
 <!-- All news items above this line -->}}
