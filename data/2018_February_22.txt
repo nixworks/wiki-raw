@@ -1,6 +1,10 @@
 {{Current events|year=2018|month=02|day=22|content=
 
 <!-- All news items below this line -->
+
+;Armed conflicts and attacks
+*[[Montenegro|Montenegrin]] police identify the perpetrator of a grenade attack on the [[United States|U.S.]] embassy in [[Podgorica]] which occurred yesterday. According to authorities, he was a [[veteran]] of the [[Armed Forces of Yugoslavia]]. [http://www.bbc.com/news/world-europe-43151276 (BBC)]
+
 ;International relations
 *[[Syrian Civil War]]
 **[[Russian involvement in the Syrian Civil War]]
@@ -9,8 +13,6 @@
 ***The death toll since February 18 in the rebel-held [[Damascus]] suburb of [[Ghouta|Eastern Ghouta]] is more than 400, according to the [[Syrian Observatory for Human Rights]]. [http://time.com/5172072/russia-blocks-syria-ceasfire-un/ (AP via ''Time'')]
 
 ;Law and crime
-*[[Crime in Montenegro]]
-**[[Montenegro|Montenegrin]] police identify the perpetrator of a grenade attack on the [[United States|U.S.]] embassy in [[Podgorica]] which occurred yesterday. According to authorities, he was a [[veteran]] of the [[Armed Forces of Yugoslavia]]. [http://www.bbc.com/news/world-europe-43151276 (BBC)]
 *[[Politics of Romania]]
 **[[Romania]]n Justice Minister Tudorel Toader announces that he would trigger the dismissal procedures of the Chief Prosecutor of the [[National Anticorruption Directorate]], [[Laura Codruța Kövesi]]. The announcement sparks protests. [http://actmedia.eu/daily/jusmin-toader-announces-move-to-axe-anti-corruption-head-laura-codruta-kovesi/74126 (Act Media)]
 *[[Russian presidential election, 2018]]
