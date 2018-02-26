@@ -2,8 +2,9 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Syrian Civil War]], [[Rif Dimashq offensive (February 2018)|Rif Dimashq offensive]]
-**[[Syria]]n government [[warplane]]s carry out a sixth day of [[airstrike]]s in the rebel-held [[Ghouta]] suburbs east of [[Damascus]], killing 32 people as the death toll from a week of bombardment reaches over 400. [https://www.usnews.com/news/world/articles/2018-02-23/rights-group-turkey-not-avoiding-civilians-in-syria-strikes (US News)]
+*[[Syrian Civil War]]
+**[[Rif Dimashq offensive (February 2018)|Rif Dimashq offensive]]
+***[[Syria]]n government [[warplane]]s carry out a sixth day of [[airstrike]]s in the rebel-held [[Ghouta]] suburbs east of [[Damascus]], killing 32 people as the death toll from a week of bombardment reaches over 400. [https://www.usnews.com/news/world/articles/2018-02-23/rights-group-turkey-not-avoiding-civilians-in-syria-strikes (US News)]
 
 ;International relations
 *[[Australia–United States relations]]

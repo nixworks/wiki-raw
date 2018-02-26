@@ -2,13 +2,14 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Syrian Civil War]], [[Siege of eastern Ghouta]]
-**[[Syrian Armed Forces|Government forces]] launch a ground and air offensive in eastern [[Ghouta]] despite the adoption of [[United Nations Security Council Resolution 2401|Resolution 2401]] by the [[United Nations Security Council]] demanding a ceasefire in part of the area. [http://www.aljazeera.com/news/2018/02/syrian-forces-offensive-eastern-ghouta-180225071935104.html (Al Jazeera)]
+*[[Syrian Civil War]]
+**[[Siege of eastern Ghouta]]
+***[[Syrian Armed Forces|Government forces]] launch a ground and air offensive in eastern [[Ghouta]] despite the adoption of [[United Nations Security Council Resolution 2401|Resolution 2401]] by the [[United Nations Security Council]] demanding a ceasefire in part of the area. [http://www.aljazeera.com/news/2018/02/syrian-forces-offensive-eastern-ghouta-180225071935104.html (Al Jazeera)]
 
 ;Disasters and accidents
 *[[2018 Papua New Guinea earthquake]]
 **A [[moment magnitude scale|magnitude]] 7.5 [[earthquake]] occurs at the western [[Southern Highlands Province]] in [[Papua New Guinea]]. No damage is immediately reported. [https://earthquake.usgs.gov/earthquakes/eventpage/us2000d7q6#executive (The United States Geological Survey)], [http://time.com/5174726/earthquake-papua-new-guinea/ (''TIME'')],
-*An explosion destroys a store and a house, causing at least six injuries on Hinckley Road in [[Leicester]], [[England]]. The cause of the explosion and subsequent fire is unknown. [http://www.bbc.com/news/uk-43192909 (BBC)]
+*An explosion destroys a store and a house, causing at least five deaths on Hinckley Road in [[Leicester]], [[England]]. The cause of the explosion and subsequent fire is unknown. [http://www.bbc.com/news/uk-43192909 (BBC)]
 
 ;International relations
 *[[North Korea–United States relations]]
