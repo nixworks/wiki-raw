@@ -2,22 +2,21 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Syrian Civil War]]
-**[[Siege of eastern Ghouta]]
-***[[Syrian Armed Forces|Government forces]] launch a ground and air offensive in eastern [[Ghouta]] despite the adoption of [[United Nations Security Council Resolution 2401|Resolution 2401]] by the [[United Nations Security Council]] demanding a ceasefire in part of the area. [http://www.aljazeera.com/news/2018/02/syrian-forces-offensive-eastern-ghouta-180225071935104.html (Al Jazeera)]
+*[[Syrian Civil War]], [[Siege of eastern Ghouta]]
+**[[Syrian Armed Forces|Government forces]] launch a ground and air offensive in eastern [[Ghouta]] despite the adoption of [[United Nations Security Council Resolution 2401|Resolution 2401]] by the [[United Nations Security Council]] demanding a ceasefire in part of the area. [http://www.aljazeera.com/news/2018/02/syrian-forces-offensive-eastern-ghouta-180225071935104.html (Al Jazeera)]
 
 ;Disasters and accidents
 *[[2018 Papua New Guinea earthquake]]
-**A [[moment magnitude scale|magnitude]] 7.5 [[earthquake]] strikes the western [[Southern Highlands Province]] in [[Papua New Guinea]]. No damage is immediately reported. [https://earthquake.usgs.gov/earthquakes/eventpage/us2000d7q6#executive (USGS)] [http://time.com/5174726/earthquake-papua-new-guinea/ (''TIME'')],
+**A [[moment magnitude scale|magnitude]] 7.5 [[earthquake]] occurs at the western [[Southern Highlands Province]] in [[Papua New Guinea]]. No damage is immediately reported. [https://earthquake.usgs.gov/earthquakes/eventpage/us2000d7q6#executive (The United States Geological Survey)], [http://time.com/5174726/earthquake-papua-new-guinea/ (''TIME'')],
 *An explosion destroys a store and a house, causing at least six injuries on Hinckley Road in [[Leicester]], [[England]]. The cause of the explosion and subsequent fire is unknown. [http://www.bbc.com/news/uk-43192909 (BBC)]
 
 ;International relations
 *[[North Korea–United States relations]]
-**[[President of South Korea|South Korean president]] [[Moon Jae-in]] states that [[North Korea]] is willing to enter talks with the [[United States]] in effort to denuclearization on the [[Korean Peninsula]]. [http://abcnews.go.com/International/north-korea-open-talks-united-states-south-korea/story?id=53344216 (ABC News)]
+**[[President of South Korea|South Korean president]] [[Moon Jae-in]] states that [[North Korea]] is willing to enter talks with the [[United States]] in an effort to denuclearize the [[Korean Peninsula]]. [http://abcnews.go.com/International/north-korea-open-talks-united-states-south-korea/story?id=53344216 (ABC News)]
 
 ;Law and crime
 *[[Mass shootings in the United States]], [[Crime in Puerto Rico]]
-**Five people are killed and one other injured during a mass shooting at a bar in the [[United States territory]] town of [[Comerio, Puerto Rico|Comerio]], [[Puerto Rico]], near the capital [[San Juan, Puerto Rico|San Juan]]. [https://www.cbsnews.com/news/deadly-shooting-downtown-puerto-rico-comerio/ (CBS News)]
+**A mass shooting at a bar in the [[United States territory]] town of [[Comerio, Puerto Rico|Comerio]], [[Puerto Rico]], near the capital [[San Juan, Puerto Rico|San Juan]], leaves at least five people dead and one other injured. [https://www.cbsnews.com/news/deadly-shooting-downtown-puerto-rico-comerio/ (CBS News)]
 
 ;Politics and elections
 *[[Politics of China]]
@@ -27,5 +26,5 @@
 *[[2018 EFL Cup Final]]
 **[[Manchester City F.C.|Manchester City]] beat [[Arsenal F.C.|Arsenal]] 3–0 at [[Wembley Stadium]] to win the [[2017–18 EFL Cup]] for the [[List of EFL Cup finals|fifth time]]. [http://www.bbc.co.uk/sport/football/43101681 (BBC)]
 *[[2018 Winter Olympics]]
-**The [[2018 Winter Olympics closing ceremony|closing cermeony]] of the [[Winter Olympics]] is held, officially [[Chronological summary of the 2018 Winter Olympics|bringing the games]] to an end. Norwegian team leads the [[2018 Winter Olympics medal table|medal table]] with 14 gold and record 39 medals in total. [https://www.pyeongchang2018.com/en/news/goodnight-pyeongchang-2018-the-winter-games-comes-to-an-end-after-an-incredible-closing-ceremony (Pyeonchang 2018)]
+**The [[2018 Winter Olympics closing ceremony|closing ceremony]] of the [[Winter Olympics]] occurs, officially [[Chronological summary of the 2018 Winter Olympics|bringing the competitions]] to an end. The [[Norway at the 2018 Winter Olympics|Norwegian team]] leads the [[2018 Winter Olympics medal table|medal table]] with 14 gold and record 39 medals in total. [https://www.pyeongchang2018.com/en/news/goodnight-pyeongchang-2018-the-winter-games-comes-to-an-end-after-an-incredible-closing-ceremony (Pyeonchang 2018)]
 <!-- All news items above this line -->}}
