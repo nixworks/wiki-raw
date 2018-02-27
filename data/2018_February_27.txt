@@ -1,5 +1,9 @@
 {{Current events|year=2018|month=02|day=27|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[Government of Saudi Arabia]]
+**[[King of Saudi Arabia|King]] [[Salman of Saudi Arabia|Salman]] replaces [[Joint Chiefs of Staff (Saudi Arabia)|top army commanders]] and reshuffles key security and government ministries. [https://www.aljazeera.com/news/2018/02/saudi-arabia-fires-top-army-chiefs-military-shake-180227054218368.html (Al Jazeera)] 
+*[[Donald Trump presidential campaign, 2020]]
+**[[President of the United States|U.S. President]] [[Donald Trump]] names [[Brad Parscale]] as his [[United States presidential election, 2020|2020]] presidential [[campaign manager]] as he formally declares he is running for re-election, a record 980 days before the election. [https://www.cnbc.com/2018/02/27/trump-names-campaign-manager-for-2020-reelection-bid.html (CNBC)]
 <!-- All news items above this line -->}}
