@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=02|day=28|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[Politics of Afghanistan]]
+**[[President of Afghanistan]] [[Ashraf Ghani]] offers to recognize the [[Taliban]] as a legitimate political formation. [https://www.reuters.com/article/us-afghanistan-taliban/afghanistans-ghani-offers-talks-with-taliban-without-preconditions-idUSKCN1GC0J0 (Reuters)]
 <!-- All news items above this line -->}}
