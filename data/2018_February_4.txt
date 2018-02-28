@@ -29,7 +29,7 @@
 
 ;Science and technology
 *[[List of asteroid close approaches to Earth in 2018|Asteroid close approaches to Earth in 2018]]
-**A ~600 meter asteroid named {{mpl|(276033) 2002 AJ|129}} makes a close approach to Earth of 0.028 [[Astronomical unit]]s (4.2 million km, 2.6 million mi). [https://www.space.com/39588-fast-asteroid-aj129-flyby-super-bowl-sunday.html (Space)]
+**As predicted, a ~600 meter asteroid named {{mpl|(276033) 2002 AJ|129}} makes a close approach to Earth of 0.028 [[Astronomical unit]]s (4.2 million km, 2.6 million mi). [https://www.space.com/39588-fast-asteroid-aj129-flyby-super-bowl-sunday.html (Space)]
 
 ;Sports
 *[[Super Bowl LII]]

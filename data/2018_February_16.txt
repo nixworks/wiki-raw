@@ -7,7 +7,7 @@
 
 ;Disasters and accidents
 *[[2018 Oaxaca earthquake]]
-**A magnitude 7.2 earthquake strikes near the town of [[Pinotepa Nacional]] and is widely felt across Southern and Central [[Mexico]], causing material damages in the states of [[Guerrero]], [[Oaxaca]] and [[Mexico City]]. It is followed by a 5.8-magnitude [[aftershock]]. [https://earthquake.usgs.gov/earthquakes/eventpage/us2000d3km (USGS)] [https://edition.cnn.com/2018/02/16/americas/earthquake-jolts-southeastern-mexico/index.html (CNN)]
+**A magnitude 7.2 earthquake strikes near the town of [[Pinotepa Nacional]] and is widely felt across Southern and Central [[Mexico]], causing material damages in the states of [[Guerrero]], [[Oaxaca]] and [[Mexico City]]. It is followed by a 5.8-magnitude [[aftershock]]. [https://earthquake.usgs.gov/earthquakes/eventpage/us2000d3km (The United States Geological Survey)], [https://edition.cnn.com/2018/02/16/americas/earthquake-jolts-southeastern-mexico/index.html (CNN)]
 
 ;Law and crime
 *[[Crime in Washington]]
