@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;Business and economy
-*[[U.S. President]] [[Donald Trump]] announces plans to impose tariffs on steel and aluminium imports, causing the [[Dow Jones Industrial Index|Dow]] to drop over 400 points. [http://www.bbc.com/news/world-us-canada-43251320 (BBC)] [http://thehill.com/policy/finance/376280-stocks-sink-on-trump-tariff-announcement (''The Hill'')]
+*[[U.S. President]] [[Donald Trump]] announces plans to impose tariffs on steel and aluminium imports, causing the [[Dow Jones Industrial Average]] to drop over 400 points. [http://www.bbc.com/news/world-us-canada-43251320 (BBC)] [http://thehill.com/policy/finance/376280-stocks-sink-on-trump-tariff-announcement (''The Hill'')]
 
 ;Law and crime
 *[[Crime in Norway]], [[Crime in the United States]]
