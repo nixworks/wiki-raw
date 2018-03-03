@@ -3,13 +3,15 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[2018 Ouagadougou attack]]
-**Suspected terrorists attack the [[France|French]] [[embassy]] and military headquarters in [[Ouagadougu]], [[Burkina Faso]], killing 28 and injuring at least 50. [http://www.bbc.com/news/world-africa-43257453 (BBC)]
+**A terrorist attack at the [[France|French]] [[embassy]] and military headquarters in [[Ouagadougu]], [[Burkina Faso]], leaves 28 dead and at least 50 injured. [http://www.bbc.com/news/world-africa-43257453 (BBC)]
 *[[Ituri conflict]]
 **An attack on a village, part of the unrest between ethnic [[Lendu]] and [[Hema (ethnicity)|Hema]] communities, leaves 49 people dead in the [[Ituri Province]] of [[Democratic Republic of the Congo|DR Congo]]. [https://www.news18.com/news/world/49-dead-in-new-flare-up-of-ethnic-unrest-in-dr-congos-ituri-1677257.html (News18)]
 *A suicide car bomber kills one person and injures 14 others near the [[Australia]]n embassy in [[Kabul]], [[Afghanistan]]. [http://www.newshub.co.nz/home/world/2018/03/deadly-explosion-near-australian-embassy-in-kabul.html (Newshub)]
 
 ;Disasters and accidents
 *An avalanche near [[Entraunes]] in southeastern [[France]] kills at least four people and leaves another missing. [http://www.bbc.co.uk/news/world-europe-43256491 (BBC)]
+*[[March 2018 nor'easter]]
+**A massive winter storm hits the East Coast of the United States, leaving millions without power and cancelling thousands of airplane flights. [https://www.msn.com/en-us/weather/topstories/bomb-cyclone-forms-as-flood-threat-sparks-life-and-death-warning/ar-BBJM3UF?ocid=spartanntp (MSN)]
 
 ;Law and crime
 *[[2016–2018 investigations involving Benjamin Netanyahu]]
@@ -22,5 +24,5 @@
 ;Politics and elections
 *[[European Union]] lawmakers strike a deal on opening up the 3.6 and 26 GHz bandwidths by 2020 to make room for the new [[5G]] network. [https://www.reuters.com/article/us-eu-telecoms-spectrum/eu-countries-lawmakers-strike-deal-to-open-up-spectrum-for-5g-idUSKCN1GE2IB (Reuters)] 
 *[[Italian general election, 2018]]
-**[[Antonio Tajani]], current [[President of the European Parliament]] accepted the offer of [[Silvio Berlusconi]] to stand as candidate for [[Prime Minister of Italy]] for [[Forza Italia]]. [https://www.thelocal.it/20180302/silvio-berlusconi-announces-forza-italia-candidate-for-italian-prime-minister-election-european-parliament-president-antonio-tajani (''The Local'')]
+**[[Antonio Tajani]], the current [[President of the European Parliament]], accepts the offer of [[Silvio Berlusconi]] to stand as a candidate for [[Prime Minister of Italy]] for [[Forza Italia]]. [https://www.thelocal.it/20180302/silvio-berlusconi-announces-forza-italia-candidate-for-italian-prime-minister-election-european-parliament-president-antonio-tajani (''The Local'')]
 <!-- All news items above this line -->}}
