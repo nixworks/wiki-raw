@@ -2,8 +2,9 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Syrian Civil War]], [[Rif Dimashq offensive (February 2018)|Rif Dimashq offensive]]
-**Ahead of an expected ground offensive, [[Syrian Air Force]] strikes on rebel-held eastern [[Ghouta]], near [[Damascus]], kill at least 44 people, according to the [[Syrian Observatory for Human Rights]]. [http://www.france24.com/en/20180219-syria-bombardment-rebel-enclave-kills-18-civilians (France 24)]
+*[[Syrian Civil War]]
+**[[Rif Dimashq offensive (February 2018)|Rif Dimashq offensive]]
+***Ahead of an expected ground offensive, [[Syrian Air Force]] strikes on rebel-held eastern [[Ghouta]], near [[Damascus]], kill at least 44 people, according to the [[Syrian Observatory for Human Rights]]. [http://www.france24.com/en/20180219-syria-bombardment-rebel-enclave-kills-18-civilians (France 24)]
 *An attacker stabs three people at a [[Tim Hortons]] in [[Montreal]], [[Canada]]. [https://montreal.ctvnews.ca/three-stabbed-at-tim-hortons-near-beaudry-metro-1.3810061 (CTV news)]
 
 ;Disasters and accidents
