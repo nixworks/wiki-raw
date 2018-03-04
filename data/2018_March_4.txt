@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=03|day=4|content=
 
 <!-- All news items below this line -->
-*
+;International relations
+*[[China–United States relations]]
+**[[President of the United States|U.S. President]] [[Donald Trump]] congratulates [[President of the People's Republic of China|Chinese President]] [[Xi Jinping]] on eliminating [[China]]'s presidential term limits, and reportedly says that "maybe we'll have to give that a shot some day". [https://edition.cnn.com/2018/03/03/politics/trump-maralago-remarks/index.html (CNN)]
 <!-- All news items above this line -->}}
