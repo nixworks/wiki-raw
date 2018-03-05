@@ -4,9 +4,12 @@
 ;Armed conflicts and attacks
 *[[Tongo Tongo ambush]]
 **[[ISIL]] releases purported footage of an October 2017 attack on American special forces in [[Tongo Tongo]], [[Niger]]. [http://www.bbc.com/news/world-africa-43280890 (BBC)]
+*[[Allied Democratic Forces insurgency]]
+**Seven people are killed in an attack on the city of [[Beni, Democratic Republic of the Congo|Beni]] in the [[North Kivu]] province of [[DR Congo]] by the [[Allied Democratic Forces|ADF]] rebel group, which crossed the border from nearby [[Uganda]]. [http://www.xinhuanet.com/english/2018-03/05/c_137015999.htm (Xinhua)]
 
 ;Health and environment
-*[[National Institute of Water and Atmospheric Research|NIWA]] declares the previous summer as the hottest in [[History of New Zealand|New Zealand history]], with an average temperature of {{convert|18.8|C|F}}. [http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12007066 (''The New Zealand Herald'')]
+*[[Global Warming]]
+**[[National Institute of Water and Atmospheric Research|NIWA]] declares the previous summer as the hottest in [[History of New Zealand|New Zealand history]], with an average temperature of {{convert|18.8|C|F}}. [http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12007066 (''The New Zealand Herald'')]
 
 ;International relations
 *[[Egypt–Saudi Arabia relations]]
@@ -18,6 +21,9 @@
 ;Politics and elections
 *[[Italian general election, 2018]]
 **[[Italy]] faces a period of political instability after the results of the general election are almost complete. The [[populism|populist]] [[Five Star Movement]] (M5S) is projected to be the largest party in the [[Italian Parliament]] with 32% of the vote. The party has long stated its hostility towards forming a [[coalition government]]. [https://www.wsj.com/articles/italian-elections-results-pose-challenges-to-forming-government-1520242869 (''Wall Street Journal'')]
+**Former [[Prime Minister of Italy|Prime Minister]] and candidate to the elections, [[Matteo Renzi]], resigns as [[List of Secretaries of the Democratic Party (Italy)|Secretary of the Democratic Party]]. [https://www.express.co.uk/news/world/927327/Italian-election-matteo-renzi-resigns-democratic-party-votes (''Express'')]
+*[[2017-18 Spanish constitutional crisis]]
+**The Speaker of the [[Parliament of Catalonia|Catalan Parliament]], [[Roger Torrent]], proposes [[Jordi Sànchez i Picanyol]] as a candidate for [[President of the Generalitat of Catalonia]], but he is preventively jailed since 16 October 2017 accused of sedition. This happens after [[Carles Puigdemont]] resigns as a possible candidate, but he will be a simbolic president with a simbolic government in [[Brussels]]. The refusal to invest a president that doesn't give effects to the self-declared [[Catalan Republic (2017)|Republic]] by the [[Popular Unity Candidacy|CUP]] opens possible new elections. [https://elpais.com/ccaa/2018/03/05/catalunya/1520277825_272012.html (''El País'')]
 
 ;Science and technology
 *[[Cyberethics]]
