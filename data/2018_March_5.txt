@@ -3,11 +3,17 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Tongo Tongo ambush]]
-**[[ISIS]] releases purported footage of an October 2017 attack on American soldiers in [[Tongo Tongo]], [[Niger]]. [http://www.bbc.com/news/world-africa-43280890 (BBC)]
+**[[ISIL]] releases purported footage of an October 2017 attack on American special forces in [[Tongo Tongo]], [[Niger]]. [http://www.bbc.com/news/world-africa-43280890 (BBC)]
+
+;Health and environment
+*[[National Institute of Water and Atmospheric Research|NIWA]] declares the previous summer as the hottest in [[History of New Zealand|New Zealand history]], with an average temperature of {{convert|18.8|C|F}}. [http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12007066 (''The New Zealand Herald'')]
 
 ;International relations
 *[[Egypt–Saudi Arabia relations]]
 **[[Saudi Arabia]]n Prince [[Mohammad bin Salman]] meets [[Pope Tawadros II of Alexandria|Pope Tawadros II]] at [[Saint Mark's Coptic Orthodox Cathedral]]. [https://www.reuters.com/article/us-saudi-egypt-christians/saudi-crown-prince-visits-cairo-coptic-cathedral-meets-pope-idUSKBN1GH2R6 (Reuters)]
+
+;Law and crime
+*Former [[Secret Intelligence Service]] (MI6) spy [[Sergei Skripal]] is taken to hospital in critical condition after being exposed to an unknown substance in [[Wiltshire]], [[United Kingdom]]. Skripal was granted refugee status in the UK following a "spy swap" deal between the UK and [[Russia]] in 2010. [http://www.bbc.co.uk/news/uk-43295134 (BBC)]
 
 ;Politics and elections
 *[[Italian general election, 2018]]
