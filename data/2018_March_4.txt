@@ -6,7 +6,7 @@
 
 ;International relations
 *[[China–United States relations]]
-**A senior Chinese diplomat says that [[China]] does not want a trade war with the [[United States]]. [https://www.cnbc.com/2018/03/04/china-says-it-does-not-want-a-trade-war-with-us.html (CNBC)]
+**A senior Chinese diplomat says that [[China]] does not want a trade war with the [[United States]], but will respond. [https://www.cnbc.com/2018/03/04/china-says-it-does-not-want-a-trade-war-with-us.html (CNBC)]
 *[[North Korea–United States relations]], [[2017–18 North Korea crisis]]
 **[[President of the United States|U.S. President]] [[Donald Trump]] stated [[North Korea]] was seeking talks with the [[United States]] in efforts to [[denuclearization]] on the [[Korean Peninsula]]. [http://www.chicagotribune.com/news/nationworld/ct-trump-north-korea-talks-20180304-story.html (''Chicago Tribune'')]
 *[[North Korea–South Korea relations]]
@@ -21,4 +21,8 @@
 **[[Social Democratic Party of Germany|SPD]] party members approve with 66% in favour to allow to form a [[coalition government|coalition]] with [[Angela Merkel]]'s [[CDU/CSU]], ending a five-month political deadlock after the [[German federal election, 2017|federal elections]]. [http://www.bbc.com/news/world-europe-43276732 (BBC)]
 *[[2017–18 Spanish constitutional crisis]]
 **In [[Barcelona]], 15,000 demonstrators gather to support the mock region of [[Tabarnia]], a hypothetical area that includes the least independentist areas of [[Catalonia]], as a way to oppose [[catalan independentism|Catalan independence]] and the [[Catalan declaration of independence|declaration of independence on October 27]]. [https://www.washingtonpost.com/world/europe/spanish-unionist-rally-mocks-catalan-separatist-movement/2018/03/04/03564792-1faa-11e8-946c-9420060cb7bd_story.html?utm_term=.88cb452cc071 (''The Washington Post'')]
+
+;Science and technology
+* Scientists discover [[Penguin|penguins]] on [[Danger Island]] in [[Antarctica]]. [http://wgntv.com/2018/03/04/scientists-find-huge-secret-colony-of-penguins/ (WGN-TV)]
+*[[Hyperbolic asteroid]]s [[A/2017 U7]] and [[A/2018 C2]] are announced, although their orbit suggests they are not [[Interstellar object|Interstellar]] in origin. [https://www.minorplanetcenter.net/mpec/K18/K18E17.html (''Minor Planet Center'')] [https://www.minorplanetcenter.net/mpec/K18/K18E18.html (''Minor Planet Center'')]<!--they're different announcements of the two different objects, don't delete them for being "duplicates"-->
 <!-- All news items above this line -->}}
