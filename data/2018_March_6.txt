@@ -1,6 +1,9 @@
 {{Current events|year=2018|month=03|day=6|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Kamwina Nsapu rebellion]]
+**The [[United Nations High Commissioner for Refugees|UN Refugee Agency]] reports that more than 900,000 people have been displaced by the ongoing fighting in the central provinces of [[Democratic Republic of the Congo|DR Congo]] between militias and government [[Land Forces of the Democratic Republic of the Congo|forces]] since 2016. [http://www.unhcr.org/news/briefing/2018/3/5a9e659a4/rekindled-tension-dr-congos-kasai-region-poses-new-threat-civilians-displaced.html (UNHCR)]
 ;Disasters and accidents
 *[[2018 Antonov An-26 crash]]
 **A [[Russia]]n [[Antonov An-26]] transport plane crashes during an attempted landing at [[Khmeimim (air base)|Khmeimim Air Base]] in [[Latakia Governorate|Latakia]], [[Syria]], killing all 39 people onboard. [http://www.bbc.co.uk/news/world-europe-43305835 (BBC)]
@@ -12,9 +15,7 @@
 **South Korea and North Korea agree to hold a summit in April 2018. [http://www.localnews8.com/news/national-world/south-korea-delegation-to-propose-pyongyangwashington-talks/711382852 (LocalNews8)] [https://www.cnbc.com/2018/03/06/south-north-korea-to-hold-summit-in-april-south-korea-says.html (CNBC)]
 
 ;Law and crime
-*[[2018 anti-Muslim riots in Kandy, Sri Lanka]]
-**[[Sri Lanka]] imposes a nationwide 10-day state of emergency, the first since 2011, in an effort to calm communal tensions. The previous day, a [[Sinhalese people|Sinhalese]] [[Buddhism in Sri Lanka|Buddhist]] mob attack on [[Sri Lankan Moors|Sri Lankan Muslim]] shops in the region of [[Kandy]], [[Central Province, Sri Lanka|Central Province]], had left a Muslim person dead. [https://www.ft.com/content/301a42da-2142-11e8-a895-1ba1f72c2c11 (''Financial Times'')] [https://www.reuters.com/article/us-sri-lanka-clashes/sri-lanka-declares-state-of-emergency-after-buddhist-muslim-clash-idUSKCN1GI0WG (Reuters)]
-*[[Timeline of the Trump presidency, 2018 Q1|Presidency of Donald Trump (2018 Q1)]]
+*[[Presidency of Donald Trump]]
 **The [[U.S. Office of Special Counsel]] says that [[Kellyanne Conway]] violated the [[Hatch Act of 1939]] during two 2017 television interviews. [http://abcnews.go.com/Politics/kellyanne-conway-found-violated-hatch-act/story?id=53557326 (ABC News)]
 
 ;Politics and elections
