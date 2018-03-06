@@ -3,17 +3,13 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Tongo Tongo ambush]]
-**[[ISIL]] releases purported footage of an October 2017 attack on American special forces in [[Tongo Tongo]], [[Niger]]. [http://www.bbc.com/news/world-africa-43280890 (BBC)]
+**[[Islamic State of Iraq and the Levant|ISIL]] releases purported footage of the October 2017 attack on [[United States of America|American]] special forces in [[Tongo Tongo]], [[Niger]]. [http://www.bbc.com/news/world-africa-43280890 (BBC)]
 *[[Allied Democratic Forces insurgency]]
-**Seven people are killed in an attack on the city of [[Beni, Democratic Republic of the Congo|Beni]] in the [[North Kivu]] province of [[DR Congo]] by the [[Allied Democratic Forces|ADF]] rebel group, which crossed the border from nearby [[Uganda]]. [http://www.xinhuanet.com/english/2018-03/05/c_137015999.htm (Xinhua)]
-
-;Business and economy
-*[[Economy of China]]
-**China aims at around 6.5% [[GDP]] growth in 2018, the same target as in 2017. [https://www.reuters.com/article/us-china-parliament-growth-2018/china-confident-it-can-reach-2018-growth-target-cabinet-research-head-idUSKBN1GH0PL (Reuters)]
+**Seven people are killed in an attack on the city of [[Beni, Democratic Republic of the Congo|Beni]], [[North Kivu]], [[Democratic Republic of the Congo|DR Congo]] by the [[Allied Democratic Forces]] rebel group, which crossed the border from [[Uganda]]. [http://www.xinhuanet.com/english/2018-03/05/c_137015999.htm (Xinhua)]
 
 ;Health and environment
 *[[Global warming]]
-**[[National Institute of Water and Atmospheric Research|NIWA]] declares the previous summer, which had an average temperature of {{convert|18.8|C|F}}, as the hottest in [[New Zealand]] history.  [http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12007066 (''The New Zealand Herald'')]
+**[[National Institute of Water and Atmospheric Research|NIWA]] declares that the previous summer, which had an average temperature of {{convert|18.8|C|F}}, was the hottest in [[New Zealand]] history.  [http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12007066 (''The New Zealand Herald'')]
 
 ;International relations
 *[[Egypt–Saudi Arabia relations]]
@@ -30,6 +26,9 @@
 **Former [[Prime Minister of Italy|Prime Minister]] and candidate to the elections, [[Matteo Renzi]], resigns as [[List of Secretaries of the Democratic Party (Italy)|Secretary of the Democratic Party]]. [https://www.express.co.uk/news/world/927327/Italian-election-matteo-renzi-resigns-democratic-party-votes (''Express'')]
 *[[2017–18 Spanish constitutional crisis]]
 **The Speaker of the [[Parliament of Catalonia|Catalan Parliament]], [[Roger Torrent]], proposes [[Jordi Sànchez i Picanyol]] as a candidate for [[President of the Generalitat of Catalonia]], but he has been preventively jailed since 16 October 2017, accused of sedition. This happens after [[Carles Puigdemont]] resigns as a possible candidate, who, if elected, would have been a symbolic president with a symbolic government in [[Brussels]]. The candidacy of Sànchez also reportedly lacks one seat for a majority. [https://elpais.com/ccaa/2018/03/05/catalunya/1520277825_272012.html (''El País'')]
+*[[Politics of New Zealand]]
+**[[National Party of New Zealand|National Party]] politician and former [[Minister of Finance (New Zealand)|Minister of Finance]] [[Steven Joyce]] resigns from [[Parliament of New Zealand|parliament]]. [http://www.newshub.co.nz/home/politics/2018/03/steven-joyce-resigns-from-the-national-party.html (Newshub)] [http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12007396 (''The New Zealand Herald'')]
+*Fighting broke out between [[Antifa (United States)|Antifa]] members and supporters of [[white nationalist]] [[Richard B. Spencer]] when he gave a speech at [[Michigan State University]], before they were separated by police. [http://www.chicagotribune.com/news/nationworld/ct-fights-michigan-state-richard-spencer-20180305-story.html (''Chicago Tribune'')]
 
 ;Science and technology
 *[[Cyberethics]]
