@@ -1,3 +1,4 @@
+{{pp-dispute|expiry=09:36, 8 March 2018|small=yes}}
 {{Current events|year=2018|month=03|day=5|content=
 
 <!-- All news items below this line -->
@@ -10,6 +11,8 @@
 ;Health and environment
 *[[Global warming]]
 **[[National Institute of Water and Atmospheric Research|NIWA]] declares that the previous summer, which had an average temperature of {{convert|18.8|C|F}}, was the hottest in [[New Zealand]] history.  [http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12007066 (''The New Zealand Herald'')]
+*[[Children's rights]]
+**A [[UNICEF]] report says that 20% of girls under 18 are married, compared to 25% ten years ago, with an estimated 25 million marriages having been prevented in the past decade. [http://www.bbc.com/news/world-43297085 (BBC)] [https://www.voanews.com/a/indian-child-brides-decrease/4282162.html (VoA)]
 
 ;International relations
 *[[Egypt–Saudi Arabia relations]]
@@ -34,4 +37,6 @@
 ;Science and technology
 *[[Cyberethics]]
 **[[Facebook]] apologizes after including a question in a user survey on the acceptability of soliciting sexual pictures from minors on its platform. [https://www.theverge.com/2018/3/5/17080796/facebook-policy-survey-pedophilia-sexual-pictures-mistake-apology (''The Verge'')]
+*[[Maritime archaeology]]
+**A search team led by [[Microsoft]] co-founder [[Paul Allen]] announces the discovery of the wreck of the [[USS Lexington (CV-2)|USS ''Lexington'' (CV-2)]] about {{convert|800|km|mi}} off the eastern coast of [[Australia]] at a depth of around {{convert|3|km|mi|abbr=on|sigfig=1}}. The [[aircraft carrier]] was lost in the [[Battle of the Coral Sea]] during [[World War II]]. [https://news.usni.org/2018/03/05/video-billionaire-paul-allen-finds-lost-world-war-ii-carrier-uss-lexington (USNI News)] [http://www.bbc.co.uk/news/world-australia-43296489 (BBC)]
 <!-- All news items above this line -->}}
