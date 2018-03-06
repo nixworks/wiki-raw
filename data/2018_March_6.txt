@@ -4,9 +4,6 @@
 ;Health and environment
 *[[UNICEF]] says that 20% of girls under 18 are married, compared to 25% ten years ago, with an estimated 25 million marriages having been prevented in the past decade. [http://www.bbc.com/news/world-43297085 (BBC)]
 
-;Politics and elections
-*[[Republican Party (United States)|Republican]]s raise concern about [[President of the United States|U.S. President]] [[Donald Trump]]'s plan to impose [[tariff]]s on metal imports. [[Speaker of the United States House of Representatives|Speaker of the House]] [[Paul Ryan]] says he is "extremely worried" about the impact of a trade war, adding that it could "undermine economic gains". [https://www.radionz.co.nz/news/world/351939/republicans-extremely-worried-by-trump-s-metal-tariffs-plan (BBC via RNZ)] [https://www.vox.com/policy-and-politics/2018/3/5/17081710/trump-republicans-steel-tariffs-trade-war (''Vox'')]
-
 ;Science and technology
 *A search team led by [[Microsoft]] co-founder [[Paul Allen]] announces the discovery of the wreck of the [[USS Lexington (CV-2)|USS ''Lexington'' (CV-2)]] about {{convert|800|km|mi}} off the eastern coast of [[Australia]] at a depth of around {{convert|3|km|mi|abbr=on|sigfig=1}}. The [[aircraft carrier]] was lost in the [[Battle of the Coral Sea]] during [[World War II]]. [https://news.usni.org/2018/03/05/video-billionaire-paul-allen-finds-lost-world-war-ii-carrier-uss-lexington (USNI News)] [http://www.bbc.co.uk/news/world-australia-43296489 (BBC)]
 <!-- All news items above this line -->}}
