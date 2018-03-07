@@ -7,5 +7,5 @@
 
 ;Science and technology
 *[[Neutron stars]]
-**Astronomers discover a neutron star brought back to life. They observed IGR J17329-2731, a [[red giant]] star, "revive its dead companion star with a [[Full and faithful functors|flash]] of [[X-ray]]s", describing it as [[Cosmic entity|cosmic dawn]]. [http://www.ibtimes.com/zombie-neutron-star-brought-back-life-neighboring-red-giant-2660488 (''International Business Times'')]
+**Astronomers observe the birth of a [[Symbiotic binary|symbiotic X-ray binary]], a star [[Cosmic entity|system]] in which matter is transferred from a [[red giant]] star to a [[X-ray binary|closely orbiting]] [[neutron star]] (the remnant of a star gone [[supernova]]), forming an [[accretion disk]] and shining brightly in the X-ray. The object, IGR J17329-2731, flared brightly in the X-rays for the first time in August 2017. Further [[Scientific method|study]] showed it to be a symbiotic X-ray binary, suspected to be flaring for the first time, the neutron star being thus "brought back to life" by the red giant. [http://www.ibtimes.com/zombie-neutron-star-brought-back-life-neighboring-red-giant-2660488 (''International Business Times'')] [http://www.esa.int/Our_Activities/Space_Science/Donor_star_breathes_life_into_zombie_companion (ESA)]
 <!-- All news items above this line -->}}
