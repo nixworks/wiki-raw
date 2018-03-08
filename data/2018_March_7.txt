@@ -8,6 +8,8 @@
 ;Disasters and accidents
 *[[List of accidents and incidents involving helicopters|Accidents and incidents involving helicopters]]
 **A [[Border Service of the Federal Security Service of the Russian Federation|Russian Border Guard Service]] [[Mil Mi-8]] crashes in [[Chechnya]], killing at least eight people. [http://tass.com/world/993173 (TASS)]
+*[[March 6-8, 2018 nor'easter]]
+**A second winter storm occurs in the [[East Coast of the United States]], only days after [[March 1-3, 2018 nor'easter|another comparable storm]]. [https://weather.com/storms/winter/news/2018-03-07-winter-storm-quinn-noreaster-snow-wind-forecast (Weather)]
 
 ;International relations
 *[[Australia–East Timor relations]]
@@ -22,7 +24,7 @@
 
 ;Politics and elections
 *Aftermath of the [[Stoneman Douglas High School shooting]]
-**[[Florida]]'s [[Florida House of Representatives|House of Representatives]] votes 67–50 to approve a gun and school safety bill that would raise the age to buy firearms from 18 to 21, sending the bill to [[Governor of Florida|Governor]] [[Rick Scott]] to sign into law. The measure also prohibits [[Bump fire#Bump fire stocks|bump stocks]], devices which allow users to pull a firearm's trigger at a higher rate. [https://www.nbcnews.com/news/us-news/florida-legislature-sends-gun-school-safety-bill-governor-n854701 (NBC News)]
+**[[Florida]]'s [[Florida House of Representatives|House of Representatives]] votes 67–50 to approve a gun and school safety bill that would raise the age to buy firearms from 18 to 21, sending the bill to [[Governor of Florida|Governor]] [[Rick Scott]] to sign into law. The measure also prohibits [[Bump fire#Bump fire stocks|bump stocks]], and creates a program for the arming of some teachers. [https://www.nbcnews.com/news/us-news/florida-legislature-sends-gun-school-safety-bill-governor-n854701 (NBC News)]
 
 ;Science and technology
 *[[Observational astronomy]]
