@@ -2,21 +2,24 @@
 
 <!-- All news items below this line -->
 ;Arts and culture
-*[[Paula (1876 barque)#Message in a bottle find|A]] [[message in a bottle]] found in [[Australia]] is confirmed to have been adrift [[Message in a bottle#Long-duration events|for almost 132 years]]. [http://www.abc.net.au/news/2018-03-06/oldest-known-message-in-a-bottle-found-on-wa-beach/9518632 (ABC News)]
+*[[Paula (1876 barque)#Message in a bottle find|Oldest-known message in a bottle]]
+**A [[message in a bottle]] found in [[Australia]] is confirmed to have been adrift [[Message in a bottle#Long-duration events|for almost 132 years]]. [http://www.abc.net.au/news/2018-03-06/oldest-known-message-in-a-bottle-found-on-wa-beach/9518632 (ABC News)]
 
 ;Disasters and accidents
-*A [[Border Service of the Federal Security Service of the Russian Federation|Russian Border Guard Service]] [[Mil Mi-8]] crashes in [[Chechnya]], killing at least eight people. [http://tass.com/world/993173 (TASS)]
+*[[List of accidents and incidents involving helicopters|Aviation accidents involving helicopters]]
+**A [[Border Service of the Federal Security Service of the Russian Federation|Russian Border Guard Service]] [[Mil Mi-8]] crashes in [[Chechnya]], killing at least eight people. [http://tass.com/world/993173 (TASS)]
 
 ;International relations
 *[[Australia–East Timor relations]]
 **[[Australia]] and [[East Timor]] sign a treaty for a permanent maritime border in the [[Timor Sea]], ending a decade-long dispute over rights to the sea's rich oil and gas reserves. [http://www.bbc.com/news/world-australia-43296488 (BBC)]
 
 ;Law and crime
-*[[Paul Golding]] and [[Jayda Fransen]], leader and deputy of the British far-right organization [[Britain First]], are convicted of [[Hate crime#United Kingdom|hate crimes]]. Golding is sentenced to 36 weeks in prison and Fransen for 18 weeks in prison for promoting [[Islamophobia in the United Kingdom|Islamophobic]] activities and [[harassment]]. [http://www.independent.co.uk/news/uk/crime/paul-golding-jayda-fransen-britain-first-leaders-guilty-religious-muslim-hate-crime-a8244161.html (''The Independent'')] [http://www.bbc.com/news/uk-england-43320121 (BBC)]
+*[[Islamophobia in the United Kingdom]]
+**[[Paul Golding]] and [[Jayda Fransen]], leader and deputy of the [[United Kingdom|British]] far-right organization [[Britain First]], are convicted of [[Hate crime#United Kingdom|hate crimes]]. Golding is sentenced to 36 weeks in prison and Fransen for 18 weeks in prison for promoting [[Islamophobia|Islamophobic]] activities and [[harassment]]. [http://www.independent.co.uk/news/uk/crime/paul-golding-jayda-fransen-britain-first-leaders-guilty-religious-muslim-hate-crime-a8244161.html (''The Independent'')] [http://www.bbc.com/news/uk-england-43320121 (BBC)]
 
 ;Science and technology
-*[[Astronomy]]
-**Astronomers observe the [[Cosmogony|birth]] of a [[Symbiotic binary|symbiotic X-ray binary]], a star [[Cosmic entity|system]] in which matter is transferred from a [[red giant]] star to a [[X-ray binary|closely orbiting]] [[neutron star]] (the remnant of a star gone [[supernova]]), forming an [[accretion disk]] and shining brightly in the X-ray. The object, IGR J17329-2731, flared brightly in the X-rays in August 2017. Further [[Scientific method|study]] showed it to be a symbiotic X-ray binary, suspected to be flaring for the first time, the neutron star being thus "brought back to life" by the red giant. [http://www.ibtimes.com/zombie-neutron-star-brought-back-life-neighboring-red-giant-2660488 (''International Business Times'')] [http://www.esa.int/Our_Activities/Space_Science/Donor_star_breathes_life_into_zombie_companion (ESA)]
+*[[Observational astronomy]]
+**Astronomers observe the [[Cosmogony|birth]] of a [[Symbiotic binary|symbiotic X-ray binary]], a star system in which matter is transferred from a [[red giant]] star to a [[X-ray binary|closely orbiting]] [[neutron star]] (the remnant of a star gone [[supernova]]), forming an [[accretion disk]] and shining brightly in the X-ray. The object, IGR J17329-2731, flared brightly in the X-rays in August 2017. Further [[Scientific method|study]] showed it to be a symbiotic X-ray binary, suspected to be flaring for the first time, the neutron star being thus "brought back to life" by the red giant. [http://www.ibtimes.com/zombie-neutron-star-brought-back-life-neighboring-red-giant-2660488 (''International Business Times'')] [http://www.esa.int/Our_Activities/Space_Science/Donor_star_breathes_life_into_zombie_companion (ESA)]
 * [[List of asteroid close approaches to Earth in 2018|Asteroid close approaches to Earth in 2018]]
 ** An asteroid named {{mpl|2017 VR|12}} is predicted to make a flyby with Earth tonight. [https://www.usatoday.com/story/news/2018/03/06/asteroid-could-big-empire-state-building-fly-past-earth-tonight-heres-how-see/401559002/ (USA Today)]
 <!-- All news items above this line -->}}
