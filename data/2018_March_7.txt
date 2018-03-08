@@ -23,7 +23,7 @@
 
 ;Science and technology
 *[[Observational astronomy]]
-**[[European Space Agency|European Astronomers]] [[INTEGRAL|observe]] the [[Cosmogony|birth]] of a [[Symbiotic binary|symbiotic X-ray binary]] from the [[Galactic Center]]. [http://www.esa.int/Our_Activities/Space_Science/Donor_star_breathes_life_into_zombie_companion (ESA)]
+**[[European Space Agency|European astronomers]] observe the [[Cosmogony|birth]] of a [[Symbiotic binary|symbiotic X-ray binary]] from the [[Galactic Center]] using [[INTEGRAL]] [[space telescope]]. [http://www.esa.int/Our_Activities/Space_Science/Donor_star_breathes_life_into_zombie_companion (ESA)]
 *[[List of asteroid close approaches to Earth in 2018|Asteroid close approaches to Earth in 2018]]
 **[[Asteroid]] {{mpl|2017 VR|12}} is predicted to make a flyby past [[Earth]] tonight. [https://www.usatoday.com/story/news/2018/03/06/asteroid-could-big-empire-state-building-fly-past-earth-tonight-heres-how-see/401559002/ (''USA Today'')]
 *[[Forensic anthropology]]
