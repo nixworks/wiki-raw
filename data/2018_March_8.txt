@@ -1,5 +1,11 @@
 {{Current events|year=2018|month=03|day=8|content=
 
 <!-- All news items below this line -->
-*
+;Armed conflicts and attacks
+*[[Rif Dimashq offensive (February 2018–present)]]
+**Militants shell a convoy of 300 families attempting to leave the eastern [[Ghouta]] suburb of [[Damascus]], [[Syria]], through a humanitarian corridor. Three cars were destroyed but it is not immediately clear if there are casualties. [https://www.rt.com/news/420797-syria-ghouta-shelling-civilians/ (RT)]
+;International relations
+* [[North Korea-United States relations]], [[2017–18 North Korea crisis]], [[North Korea-South Korea relations]]
+** Secretary of State [[Rex Tillerson]] states that there are “potentially positive signals” coming from [[North Korea]], but that the two countries are long ways from negotiations. [https://www.nbcnews.com/news/world/tillerson-says-u-s-getting-potentially-positive-signals-north-korea-n854771 (NBC News)]
+** [[Japan]]ese prime minister [[Shinzo Abe]] says that inter-Korea talks could be a ploy by North Korea, and that talks could be "meaningless". [https://www.japantimes.co.jp/news/2018/03/08/national/politics-diplomacy/abe-urges-caution-north-korea-talks/#.WqF1kb1yg0M (The Japan Times)]
 <!-- All news items above this line -->}}
