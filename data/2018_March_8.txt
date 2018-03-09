@@ -2,17 +2,23 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Rif Dimashq offensive (February 2018–present)]]
-**Rebels shell a convoy of 300 families attempting to leave the eastern [[Ghouta]] suburb of [[Damascus]], [[Syria]], through a humanitarian corridor. Three cars were destroyed but it is not immediately clear if there are casualties. [https://www.rt.com/news/420797-syria-ghouta-shelling-civilians/ (RT)]
 *[[Turkish military operation in Afrin]]
 **[[Turkish-backed Free Syrian Army]] forces seize control of [[Jindires]] in [[Syria]]'s [[Afrin District]] from the [[Kurds in Syria|Kurdish]] [[People's Protection Units|YPG]]. The town has suffered extensive destruction due to Turkish airstrikes, according to the [[Syrian Observatory for Human Rights]]. [https://www.reuters.com/article/us-mideast-crisis-syria-afrin/turkish-military-seizes-control-of-jinderes-town-in-syrias-afrin-region-anadolu-idUSKCN1GK1SK (Reuters)] [http://www.france24.com/en/20180308-pro-turkey-forces-seize-key-syria-town-kurds-monitor (France 24)]
+
+;Business and economy
+*[[Toys "R" Us]] is considering closing all stores in the [[United States]]. [https://www.cnbc.com/2018/03/08/toys-r-us-may-liquidate-us-operations-source.html (CNBC)]
 
 ;International relations
 *[[North Korea–United States relations]], [[2017–18 North Korea crisis]], [[North Korea–South Korea relations]]
 **Secretary of State [[Rex Tillerson]] states that there are "potentially positive signals" coming from [[North Korea]], but that the two countries are "still a long way" from direct negotiations. [https://www.nbcnews.com/news/world/tillerson-says-u-s-getting-potentially-positive-signals-north-korea-n854771 (NBC News)]
 **[[Prime Minister of Japan|Japanese Prime Minister]] [[Shinzō Abe]] says that inter-Korea talks could be a ploy by North Korea, and that talks could be "meaningless". [https://www.japantimes.co.jp/news/2018/03/08/national/politics-diplomacy/abe-urges-caution-north-korea-talks/#.WqF1kb1yg0M (''The Japan Times'')]
+**South Korea states that [[Donald Trump]] has been invited by [[Kim Jong-un]] to meet and discuss denuclearization. The meeting is planned to take place by May. [http://www.cbc.ca/beta/news/world/kim-jong-un-and-donald-trump-to-meet-says-south-korea-1.4568583 (CBC)] [http://m.fox19.com/story/37683404/watch-live-7-major-announcement-regarding-north-korea (Fox 19)]
 *[[United States recognition of Jerusalem as capital of Israel]]
 **[[Secretary-General of the Arab League]] [[Ahmed Aboul Gheit]] demands that [[Guatemala]] decline its decision to move its embassy from [[Tel Aviv]] to [[Jerusalem]]. The [[Minister of Foreign Affairs (Guatemala)|Minister of Foreign Affairs of Guatemala]], [[Sandra Jovel]] says that the decision to move the embassy is "irreversible." [http://www.xinhuanet.com/english/2018-03/09/c_137025494.htm (Xinhua News Agency)]
 *[[Protectionism in the United States]]
 **[[President of the United States|U.S. President]] [[Donald Trump]] signs proclamations which will impose a 25% [[Trump_tariffs#Steel and aluminum|tariff]] on imported steel and 10% on aluminum from most countries. [[Canada]] and [[Mexico]] are initially exempted from these tariffs while they talk with the U.S. about renegotiating [[NAFTA]]. The tariffs will go into effect in 15 days. [https://www.cbsnews.com/news/trump-tariffs-will-exempt-canada-and-mexico/ (CBS News)]
+
+;Politics and elections
+*[[Democratic Republic of the Congo general election, 2018]]
+**[[Prime Minister of the Democratic Republic of the Congo|Prime Minister]] [[Bruno Tshibala]] assures that the election, delayed repeatedly since [[President of the Democratic Republic of the Congo|President]] [[Joseph Kabila]]'s term expired in December 2016, will occur in December 2018. [https://www.standardmedia.co.ke/article/2001272503/congo-presidential-election-on-course-for-december-says-prime-minister (StandardMedia)]
 <!-- All news items above this line -->}}
