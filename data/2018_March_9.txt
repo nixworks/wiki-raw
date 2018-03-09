@@ -4,6 +4,6 @@
 ;Business and econonmy
 *[[United Kingdom|British]] music journalism magazine ''[[NME|New Musical Express]]'' (NME) issues its final print edition after 66 years, becoming a purely [[Digital media|digital medium]]. [https://www.standard.co.uk/go/london/music/nme-closes-print-edition-25-iconic-covers-through-the-years-a3784026.html (''Evening Standard'')]
 
-;Science and technology 
-* A Hubble image shows a new image of two colliding galaxies. [http://www.astronomy.com/news/2018/03/hubble-captures-new-image-of-two-colliding-galaxies (Astronomy)]
+;Science and technology
+*[[Arianespace]] launches mission VS18 from the [[Soyuz at the Guiana Space Centre|Guiana Space Centre]], a [[Soyuz (rocket)|Soyuz rocket]] carrying a payload of four [[O3b]] communications satellites for [[SES S.A.|SES]]. [https://www.nasaspaceflight.com/2018/03/arianespace-soyuz-st-b-latest-o3b-launch/ (NASASpaceFlight.com)]
 <!-- All news items above this line -->}}
