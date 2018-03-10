@@ -1,5 +1,14 @@
 {{Current events|year=2018|month=03|day=10|content=
 
 <!-- All news items below this line -->
-*
+;Business and economy
+*[[President of the Democratic Republic of the Congo|Congolese President]] [[Joseph Kabila]] signs a law that increases taxes on mining and government royalties on international mining companies working in [[Democratic Republic of the Congo|DR Congo]], including on the mining of [[cobalt]], in spite of opposition from the foreign companies. [http://www.bbc.com/news/world-africa-43355678 (BBC)]
+
+;Health and environment
+*[[Environmental issues in Chile]]
+**Outgoing [[President of Chile|Chilean President]] [[Michele Bachelet]] signs a new law which creates nine marine reserves. The new legislation will increase the area of sea under state protection from 4.3% to 42.4%. [http://www.bbc.com/news/world-latin-america-43354623 (BBC)]
+
+;Law and crime
+*Aftermath of the [[Stoneman Douglas High School shooting]]
+**The [[National Rifle Association|NRA]] is suing [[Florida]] after it passed a [[gun control]] law which would raise the minimum age for purchasing guns from 18 to 21. [https://edition.cnn.com/2018/03/09/us/nra-sues-florida-gun-law/index.html (CNN)] [http://www.bbc.com/news/world-us-canada-43352078 (BBC)]
 <!-- All news items above this line -->}}
