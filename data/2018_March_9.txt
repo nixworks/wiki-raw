@@ -1,20 +1,23 @@
 {{Current events|year=2018|month=03|day=9|content=
 
 <!-- All news items below this line -->
-;Business and econonmy
-*[[United Kingdom|British]] music journalism magazine ''[[NME|New Musical Express]]'' (NME) issues its final print edition after 66 years, becoming a purely [[Digital media|digital medium]]. [https://www.standard.co.uk/go/london/music/nme-closes-print-edition-25-iconic-covers-through-the-years-a3784026.html (''Evening Standard'')]
+;Arts and culture
+*[[Media of the United Kingdom]]
+**[[United Kingdom|British]] music journalism magazine ''[[NME|New Musical Express]]'' (NME) issues its final print edition after 66 years, becoming a purely [[Digital media|digital medium]]. [https://www.standard.co.uk/go/london/music/nme-closes-print-edition-25-iconic-covers-through-the-years-a3784026.html (''Evening Standard'')]
 
 ;Law and crime
-*A [[United States District Court for the Eastern District of New York|Brooklyn federal court]] sentences [[Martin Shkreli]] to seven years in prison for [[securities fraud]] in his [[hedge fund]] and [[Pharmaceutical industry|pharmaceutical]] companies. [https://www.cnbc.com/2018/03/09/pharma-bro-martin-shkreli-sentenced-to-7-years-in-prison.html (CNBC)]
+*[[Crime in New York]]
+**A [[United States District Court for the Eastern District of New York|Brooklyn federal court]] sentences [[Martin Shkreli]] to seven years in prison for [[securities fraud]] in his [[hedge fund]] and [[Pharmaceutical industry|pharmaceutical]] companies. [https://www.cnbc.com/2018/03/09/pharma-bro-martin-shkreli-sentenced-to-7-years-in-prison.html (CNBC)]
 
 ;Politics and elections
 *[[Politics of Mauritius]]
 **[[President of Mauritius|Mauritian President]] [[Ameenah Gurib-Fakim]] is to resign over a financial scandal, where she was accused of using a charity bank card to make personal purchases worth tens of thousands of dollars. [https://af.reuters.com/article/worldNews/idAFKCN1GL23H (Reuters)] [http://www.bbc.com/news/world-africa-43343550 (BBC)]
 
 ;Science and technology
-*[[Arianespace]] launches mission VS18 from the [[Soyuz at the Guiana Space Centre|Guiana Space Centre]], a [[Soyuz (rocket)|Soyuz rocket]] carrying a payload of four [[O3b]] communications satellites for [[SES S.A.|SES]]. [https://www.nasaspaceflight.com/2018/03/arianespace-soyuz-st-b-latest-o3b-launch/ (NASASpaceFlight.com)]
+*[[2018 in spaceflight]]
+**[[Arianespace]] launches [[Soyuz at the Guiana Space Centre#Missions|mission VS18]] from the [[Guiana Space Centre]], a [[Soyuz (rocket)|Soyuz rocket]] carrying a payload of four [[O3b (satellite)|O3b]] [[communications satellites]] for [[SES S.A.|SES]]. [https://www.nasaspaceflight.com/2018/03/arianespace-soyuz-st-b-latest-o3b-launch/ (NASASpaceFlight.com)]
 
 ;Sports
-* [[2018 Winter Paralympics]], [[2018 Winter Paralympics opening ceremony]]
-** The opening day of the [[Paralympic Games]] begins. [http://www.bbc.com/sport/disability-sport/43342711 (BBC)]
+*[[2018 Winter Paralympics]]
+**[[2018 Winter Paralympics opening ceremony|Opening ceremony]] takes place in South Korea and the opening day of the [[Paralympic Games]] begins. [http://www.bbc.com/sport/disability-sport/43342711 (BBC)]
 <!-- All news items above this line -->}}
