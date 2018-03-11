@@ -1,4 +1,4 @@
-{{pp-dispute|expiry=12:03, 18 March 2018|small=yes}}
+<noinclude>{{pp-dispute|expiry=12:03, 18 March 2018|small=yes}}</noinclude>
 {{Current events|year=2018|month=03|day=6|content=
 
 <!-- All news items below this line -->
