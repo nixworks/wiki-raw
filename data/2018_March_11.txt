@@ -4,7 +4,7 @@
 ;Disasters and accidents
 *[[Cyclone Hola]] makes landfall in [[New Zealand]]. [http://www.newshub.co.nz/home/new-zealand/2018/03/cyclone-hola-makes-landfall-in-new-zealand.html (''Newshub'')]
 *A helicopter crash in [[Manhattan]]'s [[East River]] kills 5 people. [http://abcnews.go.com/US/helicopter-crashes-east-river-york-city/story?id=53673315 (ABC news)]
-*A plane crashes in the [[Zagros Mountains]] in Iran, killing Turkish socialite [[Mina Başaran]] along with ten other people. [https://www.thenational.ae/uae/who-was-mina-basaran-the-turkish-bride-whose-sharjah-istanbul-plane-crashed-1.712324 (The National)], [http://www.bbc.com/news/world-middle-east-43364579 (BBC)]
+*A plane crashes in the [[Zagros Mountains]] in Iran, killing Turkish socialite [[Mina Başaran]] along with, according to [[Iran]]ian state media, ten other people on board. [https://www.thenational.ae/uae/who-was-mina-basaran-the-turkish-bride-whose-sharjah-istanbul-plane-crashed-1.712324 (''The National'' (Abu Dhabi))], [http://www.bbc.com/news/world-middle-east-43364579 (BBC)]
 
 ;Politics and elections
 *[[2018 National People's Congress]]
@@ -13,4 +13,5 @@
 **[[Sebastian Piñera]] takes office for the second time as [[President of Chile]]. [https://www.sbs.com.au/news/billionaire-sebastian-pinera-inaugurated-as-chile-s-president (SBS)]
 *[[2018 anti-Muslim riots in Sri Lanka]]
 **The suspension of [[Facebook]] remains in place until the riots end. [http://www.sundaytimes.lk/180311/news/facebook-shut-down-till-emergency-is-lifted-285695.html (''The Sunday Times'' (Sri Lanka))]
+*Senator [[Elizabeth Warren]] rejects a suggestion by a Massachusetts newspaper to take a DNA test to prove her Native American heritage. The request was made to put the issue at rest as it has been a heated political talking point. [https://www.washingtonpost.com/news/powerpost/wp/2018/03/11/elizabeth-warren-rejects-dna-test-to-settle-native-american-heritage-claim/?utm_term=.4b79efa05329 (The Washington Post)]
 <!-- All news items above this line -->}}
