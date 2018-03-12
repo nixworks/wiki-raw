@@ -1,10 +1,13 @@
 {{Current events|year=2018|month=03|day=12|content=
 
 <!-- All news items below this line -->
+;Business and economy
+*[[Apple Inc.]] buys digital magazine subscription app [[Texture (app)|Texture]] for an undisclosed sum. [https://www.cnbc.com/2018/03/12/apple-buys-texture-a-digital-magazine-subscription-service.html (CNBC)]
+
 ;Disasters and accidents
 *[[US-Bangla Airlines Flight 211]]
 **An aircraft operated by Bangladeshi airline [[US-Bangla Airlines]] crashes at [[Tribhuvan International Airport]], [[Kathmandu]], [[Nepal]], killing 49 of the 71 people on board. [http://www.bbc.co.uk/news/world-asia-43369179 (BBC)]
 
-;Sport
+;Sports
 *The [[2017–18 Superleague Greece]] is suspended indefinitely by the [[Greece|Greek]] [[Ministry of Culture and Sports (Greece)|Ministry of Culture and Sports]] after [[PAOK FC]] owner [[Ivan Savvidis]] invaded the pitch with several bodyguards during a match against [[AEK Athens F.C.]] while armed with a gun, after his side had a late goal ruled out for [[Offside (association football)|offside]]. [http://www.bbc.co.uk/sport/football/43369490 (BBC)]
 <!-- All news items above this line -->}}
