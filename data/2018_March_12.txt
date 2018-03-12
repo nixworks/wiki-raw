@@ -2,5 +2,12 @@
 
 <!-- All news items below this line -->
 ;Accidents and disasters
-*An aircraft operated by Bangladeshi airline [[US-Bangla Airlines]] crashes at [[Tribhuvan International Airport]], [[Kathmandu]], Nepal. [http://www.bbc.co.uk/news/world-asia-43369179 (BBC)]
+
+*[[US Bangla Airlines Flight 211]]
+**An aircraft operated by Bangladeshi airline [[US-Bangla Airlines]] crashes at [[Tribhuvan International Airport]], [[Kathmandu]], Nepal. [http://www.bbc.co.uk/news/world-asia-43369179 (BBC)]
+
+;Politics
+
+*[[Ameenah Gurib]] announces her resignation as [[President of Mauritius]] [https://www.bloomberg.com/news/articles/2018-03-09/mauritian-president-gurib-fakim-to-resign-prime-minister-says Bloomberg]
+
 <!-- All news items above this line -->}}
