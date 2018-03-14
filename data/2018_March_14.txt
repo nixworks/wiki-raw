@@ -2,17 +2,21 @@
 
 <!-- All news items below this line -->
 <!-- Do not put Stephen Hawking's death on here – deaths are covered by ITN, not Current events -->
-
 ;International relations
 *[[Philippines|Philippine]] [[President of the Philippines|President]] [[Rodrigo Duterte]] announces the withdrawal of the Philippines from the [[International Criminal Court]] (ICC) over "outrageous attacks" by [[United Nations]] officials. [https://www.reuters.com/article/us-philippines-duterte-icc/duterte-to-withdraw-philippines-from-icc-after-outrageous-attacks-idUSKCN1GQ0MA (Reuters)]
 
+*[[South Korea–United States relations]]
+**As planned, [[South Korea]] foreign minister [[Kang Kyung-wha]] will visit [[Washington, D.C.]] despite the dismissal of [[Rex Tillerson]]. [https://www.reuters.com/article/us-usa-trump-tillerson-southkorea/south-korea-foreign-minister-to-visit-u-s-as-planned-despite-tillerson-dismissal-seoul-idUSKCN1GQ0LY (Reuters)]
+
+;Law and crime
+*[[2018 United States gun violence protests]], [[Gun violence in the United States]]
+**A nationwide school walkout protest happens to end gun violence. [http://abcnews.go.com/US/students-country-world-part-national-school-walkout-today/story?id=53712013 (ABC News)]
+
 ;Politics and elections
-*[[Democratic Party (United States)|Democrat]] [[Conor Lamb]] declares victory in the [[Pennsylvania's 18th congressional district special election, 2018|special election]] of [[Pennsylvania's 18th congressional district]]. The final vote though, could still be determined by a recount if at least three voters in each precinct petition for one. [https://www.nytimes.com/2018/03/14/us/politics/pennsylvania-congressional-race-conor-lamb-trump.html (''New York Times'')] {{subscription required}} [http://www.foxnews.com/politics/2018/03/14/pennsylvania-special-house-election-too-close-to-call-winner-may-be-determined-by-recount.html (Fox News)]
+*[[Democratic Party (United States)|Democrat]] [[Conor Lamb]] declares victory in the [[Pennsylvania's 18th congressional district special election, 2018|special election]] of [[Pennsylvania's 18th congressional district]]. The final vote could still be determined by a recount if at least three voters in each precinct petition for one. [https://www.nytimes.com/2018/03/14/us/politics/pennsylvania-congressional-race-conor-lamb-trump.html (''New York Times'')] [http://www.foxnews.com/politics/2018/03/14/pennsylvania-special-house-election-too-close-to-call-winner-may-be-determined-by-recount.html (Fox News)]
 
 ;Sports
 *[[2018 NFL season]]
 **The 2018 [[National Football League|NFL]] league year and free agency period begins. [https://sports.yahoo.com/nfl-offseason-schedule-2018-nfl-183933042.html (Yahoo Sports)]
-
 <!-- Do not put Stephen Hawking's death on here – deaths are covered by ITN, not Current events -->
-
 <!-- All news items above this line -->}}
