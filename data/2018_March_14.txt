@@ -1,23 +1,30 @@
 {{Current events|year=2018|month=03|day=14|content=
 
 <!-- All news items below this line -->
-<!-- Do not put Stephen Hawking's death on here – deaths are covered by ITN, not Current events -->
+<!-- Do not put Stephen Hawking's death on here – deaths are covered by ITN, not Current events. To whoever wrote this, look at top of page. -->
+;Business and economy
+*[[Economy of the United Kingdom]]
+**''[[Toys "R" Us]]'' are to close down all their stores in the [[United Kingdom]] after rescue talks fail, resulting in the loss of about 3,000 jobs. [https://www.theguardian.com/business/2018/mar/14/toys-r-us-to-shut-all-uk-stores-resulting-in-3000-job-losses (''The Guardian'')]
+
 ;International relations
-*[[World order]]
-**[[Philippines|Philippine]] [[President of the Philippines|President]] [[Rodrigo Duterte]] announces the withdrawal of the Philippines from the [[International Criminal Court]] (ICC) over "outrageous attacks" by [[United Nations]] officials. [https://www.reuters.com/article/us-philippines-duterte-icc/duterte-to-withdraw-philippines-from-icc-after-outrageous-attacks-idUSKCN1GQ0MA (Reuters)]
+*[[Philippines|Philippine]] [[President of the Philippines|President]] [[Rodrigo Duterte]] announces the withdrawal of the Philippines from the [[International Criminal Court]] (ICC) over "outrageous attacks" by [[United Nations]] officials. [https://www.reuters.com/article/us-philippines-duterte-icc/duterte-to-withdraw-philippines-from-icc-after-outrageous-attacks-idUSKCN1GQ0MA (Reuters)]
+*[[Australia–South Africa relations]], [[South African farm attacks]]
+**[[Australia]]n [[Minister for Home Affairs (Australia)|Home Affairs Minister]] [[Peter Dutton]] says white [[South Africa]]n farmers could receive fast-track [[Visa policy of Australia|visas]] on "humanitarian grounds" amid calls to transfer land ownership from white to black farmers, and fears over the number of racially-motivated farm killings. [http://www.bbc.co.uk/news/world-africa-43403408 (BBC)]
 
 ;Law and crime
 *[[2018 United States gun violence protests]]
-**Students throughout the United States participate in a walkout protest against gun violence. [http://abcnews.go.com/US/students-country-world-part-national-school-walkout-today/story?id=53712013 (ABC News)]
+**Students throughout the [[United States]] participate in a walkout protest against [[Gun violence in the United States|gun violence]]. [http://abcnews.go.com/US/students-country-world-part-national-school-walkout-today/story?id=53712013 (ABC News)]
 
 ;Politics and elections
 *[[Politics of Germany]]
 **[[Angela Merkel]], [[Chancellor of Germany]] is elected and sworn in for a [[Fourth Merkel cabinet|new term]]. [[Olaf Scholz]] and [[Heiko Maas]] assume the positions of [[Vice-Chancellor of Germany|Vice-Chancellor]] and [[Minister for Foreign Affairs (Germany)|Federal Minister of Foreign Affairs]] respectively. [https://www.theguardian.com/world/2018/mar/14/angela-merkel-sworn-in-for-fourth-term-as-german-chancellor (''The Guardian'')]
 *[[Pennsylvania's 18th congressional district special election, 2018]]
 **[[Democratic Party (United States)|Democrat]] [[Conor Lamb]] declares victory in the special election of [[Pennsylvania's 18th congressional district]]. The final vote could still be determined by a recount if at least three voters in each precinct petition for one. [https://www.nytimes.com/2018/03/14/us/politics/pennsylvania-congressional-race-conor-lamb-trump.html (''The New York Times'')] [http://www.foxnews.com/politics/2018/03/14/pennsylvania-special-house-election-too-close-to-call-winner-may-be-determined-by-recount.html (Fox News)]
+*[[Presidency of Donald Trump]]
+**[[President of the United States|U.S. President]] [[Donald Trump]] appoints conservative commentator [[Lawrence Kudlow]] as [[National Economic Council (United States)|National Economic Council]] director, replacing outgoing [[Gary Cohn (investment banker)|Gary Cohn]]. [http://www.bbc.co.uk/news/business-43406052 (BBC)]
 
 ;Sports
 *[[2018 NFL season]]
-**The 2018 [[National Football League|NFL]] league year and free agency period begins. [https://sports.yahoo.com/nfl-offseason-schedule-2018-nfl-183933042.html (''Yahoo! News'')]
+**The 2018 [[National Football League]] year and free agency period begins. [https://sports.yahoo.com/nfl-offseason-schedule-2018-nfl-183933042.html (''Yahoo! News'')]
 <!-- Do not put Stephen Hawking's death on here – deaths are covered by ITN, not Current events -->
 <!-- All news items above this line -->}}
