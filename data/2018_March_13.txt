@@ -15,7 +15,7 @@
 
 ;Law and crime
 *[[Transport in Iraq]]
-**[[Prime Minister of Iraq|Iraqi Prime Minister]] [[Haider al-Abadi]] lifts a ban on international [[Civil aviation|air travel]] to the [[Iraqi Kurdistan|Kurdistan Region]]. [http://www.france24.com/en/20180313-baghdad-lift-air-blockade-iraq-kurdistan-erbil-independence-referendum (''France24'')]
+**[[Prime Minister of Iraq|Iraqi Prime Minister]] [[Haider al-Abadi]] lifts a ban on international [[Civil aviation|air travel]] to the [[Iraqi Kurdistan|Kurdistan Region]]. [http://www.france24.com/en/20180313-baghdad-lift-air-blockade-iraq-kurdistan-erbil-independence-referendum (France24)]
 
 ;Politics and elections
 *[[Cabinet of Donald Trump]]
@@ -23,5 +23,8 @@
 
 ;Science and technology
 *[[Trans-Neptunian object]]s
-**{{mpl|2015 TH|367}} (previously known as V774104), a 100–400 kilometer [[asteroid]], is announced as possibly the fourth most distant known [[Solar System]] object from the Sun at nearly 90 (±10) times [[Astronomical unit|Earth's distance from the Sun]]. [https://www.minorplanetcenter.net/mpec/K18/K18E86.html (''Minor Planet Center'')]
+**{{mpl|2015 TH|367}} (previously known as V774104), a 100–400 kilometer [[asteroid]], is announced as possibly the fourth most distant known [[Solar System]] object from the Sun at nearly 90 (±10) times [[Astronomical unit|Earth's distance from the Sun]]. [https://www.minorplanetcenter.net/mpec/K18/K18E86.html (Minor Planet Center)]
+
+*[[Toba catastrophe theory]]
+** A study was made that humanity flourished even after [[Lake Toba]] erupted 74,000 years ago. [http://www.ibtimes.co.in/volcanic-winter-74000-year-old-african-fossils-show-humans-flourished-post-super-volcano-763614 (''International Business Times'')]
 <!-- All news items above this line -->}}
