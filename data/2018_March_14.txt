@@ -1,7 +1,10 @@
 {{Current events|year=2018|month=03|day=14|content=
 
 <!-- All news items below this line -->
-<!-- Do not put Stephen Hawking's death on here – deaths are covered by ITN, not Current events. To whoever wrote this, look at top of page. -->
+<!-- While in general, notable deaths are not included in current events, but prominent people are, such as  U.S. NASA astronaut John Young in Jan. 5, 2018 CE  -->
+;Arts and culture
+*British physicist and cosmologist [[Stephen Hawking]] dies at age 76 at his home in [[Cambridge]]. [https://www.theguardian.com/science/2018/mar/14/stephen-hawking-professor-dies-aged-76 (''The Guardian'')], [https://www.nytimes.com/2018/03/14/science/stephen-hawking-timeline.html (''The New York Times'')]
+
 ;Business and economy
 *[[Economy of the United Kingdom]]
 **''[[Toys "R" Us]]'' are to close down all their stores in the [[United Kingdom]] after rescue talks fail, resulting in the loss of about 3,000 jobs. [https://www.theguardian.com/business/2018/mar/14/toys-r-us-to-shut-all-uk-stores-resulting-in-3000-job-losses (''The Guardian'')]
