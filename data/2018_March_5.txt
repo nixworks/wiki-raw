@@ -10,7 +10,7 @@
 
 ;Health and environment
 *[[Global warming]]
-**[[National Institute of Water and Atmospheric Research|NIWA]] declares that the previous summer, which had an average temperature of {{convert|18.8|C|F}}, was the hottest in [[New Zealand]] history.  [http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12007066 (''The New Zealand Herald'')]
+**[[National Institute of Water and Atmospheric Research|NIWA]] declares that the previous summer, which had an average temperature of {{convert|18.8|C|F}}, was the hottest in [[New Zealand]] history. [http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12007066 (''The New Zealand Herald'')]
 *[[Children's rights]]
 **A [[UNICEF]] report says that 20% of girls under 18 are married, compared to 25% ten years ago, with an estimated 25 million marriages having been prevented in the past decade. [http://www.bbc.com/news/world-43297085 (BBC)] [https://www.voanews.com/a/indian-child-brides-decrease/4282162.html (Voice of America)]
 
@@ -21,8 +21,8 @@
 **The [[USS Carl Vinson|USS ''Carl Vinson'']] enters [[Vietnam]]'s [[Da Nang Port]], becoming the first U.S. aircraft carrier to visit a Vietnamese port since the [[Vietnam War]] in [[1975]]. The visit comes amid [[Territorial disputes in the South China Sea|tensions in the region]] with [[China]]. [https://www.npr.org/sections/parallels/2018/03/05/590803578/a-u-s-aircraft-carrier-is-docking-in-vietnam-for-the-first-time-since-the-war (NPR)]
 
 ;Law and crime
-*[[Russia–United Kingdom relations]]
-**Former [[Secret Intelligence Service]] (MI6) spy [[Sergei Skripal]] is taken to a hospital in critical condition after being exposed to an unknown substance in [[Wiltshire]], [[United Kingdom]]. Skripal was granted refugee status in the UK following a "spy swap" deal between the UK and [[Russia]] in 2010. [http://www.bbc.co.uk/news/uk-43295134 (BBC)]
+*[[Poisoning of Sergei and Yulia Skripal]]
+**Former [[Secret Intelligence Service]] (MI6) spy [[Sergei Skripal]] and his daughter are taken to a hospital in critical condition after being exposed to an unknown substance in [[Wiltshire]], [[United Kingdom]]. Skripal was granted refugee status in the UK following a "spy swap" deal between the UK and [[Russia]] in 2010. [http://www.bbc.co.uk/news/uk-43295134 (BBC)]
 
 ;Politics and elections
 *[[Italian general election, 2018]]
