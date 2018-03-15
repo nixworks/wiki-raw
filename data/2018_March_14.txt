@@ -3,21 +3,26 @@
 <!-- All news items below this line -->
 <!-- While in general, notable deaths are not included in current events, but prominent people are, such as  U.S. NASA astronaut John Young in Jan. 5, 2018 CE  -->
 ;Arts and culture
-*[[United Kingdom|British]] physicist and cosmologist [[Stephen Hawking]] dies aged 76 at his home in [[Cambridge]]. [https://www.theguardian.com/science/2018/mar/14/stephen-hawking-professor-dies-aged-76 (''The Guardian'')] [https://www.nytimes.com/2018/03/14/science/stephen-hawking-timeline.html (''The New York Times'')]
+*[[United Kingdom|British]] physicist and cosmologist [[Stephen Hawking]] dies aged 76 at his home in [[Cambridge]]. [https://www.theguardian.com/science/2018/mar/14/stephen-hawking-professor-dies-aged-76 (''The Guardian'')] [https://www.nytimes.com/2018/03/14/science/stephen-hawking-timeline.html (''The New York Times'')][http://www.bbc.com/news/uk-43396008 (BBC)]
 
 ;Business and economy
 *[[Economy of the United Kingdom]]
-**[[Toys "R" Us]] announce that they will close down all of their stores in the [[United Kingdom]] after rescue talks fail, resulting in the loss of about 3,000 jobs. [https://www.theguardian.com/business/2018/mar/14/toys-r-us-to-shut-all-uk-stores-resulting-in-3000-job-losses (''The Guardian'')]
+**[[Toys "R" Us]] announce that they will close down all of their stores in the [[United Kingdom]] after rescue talks fail, resulting in the loss of about 3,000 jobs.  [https://www.theguardian.com/business/2018/mar/14/toys-r-us-to-shut-all-uk-stores-resulting-in-3000-job-losses (''The Guardian'')]
+*[[Economy of the United States]]
+**Shortly after the announcement of the closure of [[Toys "R" Us]] stores in the United Kingdom, the company announced that they will close down all 800 stores in the [[United States]], resulting in the loss of about 33,000 jobs.[https://www.washingtonpost.com/news/business/wp/2018/03/14/toys-r-us-to-close-all-800-of-its-u-s-stores/?utm_term=.b1aeca52f3c6 (''Washington Post'')]
 *[[Panama Papers]]
 **[[Panama|Panamanian]] law firm [[Mossack Fonseca]] announces that it is shutting down due to the [[Reactions to the Panama Papers|economic and reputational damage]] inflicted by its role in the global tax evasion scandal. [https://www.theguardian.com/world/2018/mar/14/mossack-fonseca-shut-down-panama-papers (''The Guardian'')]
+
+;Disasters and accidents
+*Two [[United States Navy|U.S. Navy]] aviators, a pilot and a weapons officer,  are killed after they ejected from their afire [[McDonnell Douglas F/A-18 Hornet|FA-18 fighter jet]], which crashed into the sea off [[Key West, Florida]]. [https://www.navytimes.com/news/your-navy/2018/03/14/super-hornet-crashes-near-key-west/ (''Navy Times'')] [https://www.cnn.com/2018/03/14/politics/navy-f-a-18-jet-crash/index.html (CNN)]
 
 ;International relations
 *[[Philippines and the United Nations]]
 **[[Philippines|Philippine]] [[President of the Philippines|President]] [[Rodrigo Duterte]] announces the withdrawal of the Philippines from the [[International Criminal Court]] (ICC) over "outrageous attacks" by [[United Nations]] officials. [https://www.reuters.com/article/us-philippines-duterte-icc/duterte-to-withdraw-philippines-from-icc-after-outrageous-attacks-idUSKCN1GQ0MA (Reuters)]
 *[[Australia–South Africa relations]], [[South African farm attacks]], [[Racism in South Africa]]
 **[[Australia]]n [[Minister for Home Affairs (Australia)|Home Affairs Minister]] [[Peter Dutton]] says white [[South Africa]]n farmers could receive fast-track [[Visa policy of Australia|visas]] on "humanitarian grounds" amid calls to transfer land ownership from white to black farmers, and fears over the number of racially-motivated farm killings. [http://www.bbc.co.uk/news/world-africa-43403408 (BBC)]
-*[[Russia–United Kingdom relations]]
-**The United Kingdom expels 23 Russian diplomats  and cuts off all top-level ties with Russia as punishment for a military-grade [[nerve agent]] attack which [[Prime Minister of the United Kingdom|Prime Minister]] [[Theresa May]] described as an “unlawful use of force by the Russian state against the United Kingdom”.  [https://www.theguardian.com/uk-news/2018/mar/14/may-expels-23-russian-diplomats-response-spy-poisoning (''The Guardian'')] [https://www.npr.org/sections/thetwo-way/2018/03/14/593419777/u-k-expels-23-russian-diplomats-over-use-of-military-grade-nerve-agent (NPR)] [https://www.reuters.com/article/us-britain-russia/britain-expels-23-russian-diplomats-over-nerve-attack-on-ex-spy-idUSKCN1GQ03R (Reuters)]
+*[[Russia–United Kingdom relations]], [[Poisoning of Sergei and Yulia Skripal]]
+**The [[United Kingdom]] expels 23 [[Russia]]n diplomats and cuts off all top-level ties with Russia as punishment for a military-grade [[nerve agent]] attack which [[Prime Minister of the United Kingdom|Prime Minister]] [[Theresa May]] described as an "unlawful use of force by the Russian state against the United Kingdom". [https://www.theguardian.com/uk-news/2018/mar/14/may-expels-23-russian-diplomats-response-spy-poisoning (''The Guardian'')] [https://www.npr.org/sections/thetwo-way/2018/03/14/593419777/u-k-expels-23-russian-diplomats-over-use-of-military-grade-nerve-agent (NPR)] [https://www.reuters.com/article/us-britain-russia/britain-expels-23-russian-diplomats-over-nerve-attack-on-ex-spy-idUSKCN1GQ03R (Reuters)]
 
 ;Law and crime
 *[[2018 United States gun violence protests]]
