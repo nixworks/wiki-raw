@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;International relations
-*[[2017-18 North Korea crisis]]
+*[[2017–18 North Korea crisis]]
 **[[2018 inter-Korean summit]]
 ***South Korea states that they want high-level talks with North Korea before the summit. [https://www.reuters.com/article/us-northkorea-missiles/south-korea-aims-for-high-level-talks-about-talks-with-north-idUSKCN1GS0B0 (Reuters)]
 **[[South Korea–United States relations]]
@@ -14,6 +14,5 @@
 
 ;Science and technology
 *[[Discoveries of exoplanets]]
-** European astronomers discover 8 new exoplanets classified as [[Hot Jupiter]]. [https://www.thetalkingdemocrat.com/2018/03/8-new-exoplanets-have-been-discovered/ (The Talking Democrats)]
-
+**European astronomers discover eight new exoplanets classified as [[Hot Jupiter]]s as part of the [[Wide Angle Search for Planets|WASP]] project. [https://www.thetalkingdemocrat.com/2018/03/8-new-exoplanets-have-been-discovered/ (The Talking Democrats)]
 <!-- All news items above this line -->}}
