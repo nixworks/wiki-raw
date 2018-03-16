@@ -1,5 +1,8 @@
 {{Current events|year=2018|month=03|day=16|content=
 
 <!-- All news items below this line -->
-*
+;International relations
+* [[2018 inter-Korean summit]]
+** South Korea stated they want high-level talks before the summit. [https://www.reuters.com/article/us-northkorea-missiles/south-korea-aims-for-high-level-talks-about-talks-with-north-idUSKCN1GS0B0 (Reuters)]
+
 <!-- All news items above this line -->}}
