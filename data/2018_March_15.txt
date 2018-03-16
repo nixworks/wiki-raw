@@ -3,11 +3,11 @@
 <!-- All news items below this line -->
 ;Business and economy
 *[[Economy of the United States]]
-**The largest U.S. broadcaster, [[iHeartMedia]], owner of 850 radio stations, files for [[Chapter 11, Title 11, United States Code|chapter 11 bankruptcy]] after accumulating $20 billion in debt. [http://money.cnn.com/2018/03/15/media/iheartmedia-bankruptcy/index.html (CNN)]
+**The largest U.S. broadcaster, [[iHeartMedia]], owner of 850 radio stations, files for [[Chapter 11, Title 11, United States Code|chapter 11 bankruptcy]] after accumulating [[US$]]20 billion in debt. [http://money.cnn.com/2018/03/15/media/iheartmedia-bankruptcy/index.html (CNN)]
 
 ;Disasters and accidents
 *[[Florida International University pedestrian bridge collapse]]
-**A touted [[Footbridge|pedestrian bridge]] at [[Florida International University]], [[Miami]], collapses, killing several people. Five to six vehicles are crushed in the collapse, according to the [[Florida Highway Patrol]]. [http://abcnews.go.com/US/pedestrian-bridge-florida-international-university-collapses/story?id=53774444 (ABC News)]
+**An under-construction [[Footbridge|pedestrian bridge]] over the eight-lane [[Tamiami Trail]] at [[Florida International University]], [[Miami]], collapses killing at least four people and flattening eight cars. Nine people are rescued from the rubble and taken to nearby Kendall Regional Medical Center. Two require immediate surgery; the others injured sustain non-life-threatening wounds. [http://abcnews.go.com/US/pedestrian-bridge-florida-international-university-collapses/story?id=53774444 (ABC News)] [http://www.miamiherald.com/news/local/community/miami-dade/west-miami-dade/article205316174.html (''Miami Herald'')]
 *A [[United States Air Force|U.S. Air Force]] [[Sikorsky HH-60 Pave Hawk|HH-60 Pave Hawk]] helicopter crashes near [[Al-Qa'im (town)|Al-Qa'im]] in [[Iraq]]'s western [[Al Anbar Governorate]] with seven people on board. A rescue mission has been launched. [http://abcnews.go.com/International/us-helicopter-crash-western-iraq-fatalities-official/story?id=53782732 (ABC News)]
 
 ;International relations
@@ -15,13 +15,15 @@
 **[[North Korea–Sweden relations]], [[2018 North Korea–United States summit]]
 ***[[North Korea]] foreign minister [[Ri Yong-ho (politician)|Ri Yong-ho]] visits [[Sweden]] for talks. [https://www.nknews.org/2018/03/north-korean-foreign-minister-headed-to-sweden-for-talks/ (''NK News'')] [https://www.cnn.com/2018/03/15/asia/north-korea-sweden-intl/index.html (CNN)]
 *[[Countering America's Adversaries Through Sanctions Act]]
-**The [[Trump administration]] imposes financial sanctions on the 13 Russian nationals including government hackers and spy agencies indicted in the [[Special Counsel investigation (2017–present)|Special Counsel investigation]]. [http://www.businessinsider.com/trump-new-russia-sanctions-election-meddling-cyber-attacks-2018-3 (''Business Insider'')]
+**The [[Trump administration]] imposes financial sanctions on 19 Russian nationals, including 12 of those indicted in the [[Special Counsel investigation (2017–present)|Special Counsel investigation]]. [http://www.businessinsider.com/trump-new-russia-sanctions-election-meddling-cyber-attacks-2018-3 (''Business Insider'')]
 *[[Russia–United Kingdom relations]], [[Poisoning of Sergei and Yulia Skripal]]
 **[[Russia]]n [[Minister of Foreign Affairs (Russia)|Minister of Foreign Affairs]] [[Sergey Lavrov]] says Russia will "definitely" expel British diplomats. [https://sputniknews.com/europe/201803151062552056-russia-uk-skripal-response/ (''Sputnik News'')]
+*[[Rohingya refugees in Bangladesh]]
+**The government of [[Myanmar]] agrees to [[Repatriation|repatriate]] 374 [[Rohingya people|Rohingya]] refugees from a list of 8,000 submitted by the government of [[Bangladesh]]. Myanmar's authorities blamed their Bangladeshi counterparts for the slow process, citing "incomplete" information for many of the refugees on the list. [https://www.theguardian.com/world/2018/mar/15/myanmar-willing-to-take-back-fewer-than-400-rohingya-refugees-bangladesh (The Guardian)]
 
 ;Sports
 *[[2018 NCAA Division I Men's Basketball Tournament]]
-**The first round of the 2018 NCAA tournament begins, with the biggest upset so far being #11 seed [[2017–18 Loyola Ramblers men's basketball team|Loyola (Chicago)]] defeating #6 seed [[2017–18 Miami Hurricanes men's basketball team|Miami (Florida)]] 64–62 on a last-second [[Three-point field goal|three-pointer]]. [http://www.espn.com/mens-college-basketball/story/_/page/ncaatournament2018/2018-ncaa-tournament-schedule-key-dates (ESPN)]
+**The first round of the 2018 NCAA tournament begins, with the #13 seed [[2017–18 Buffalo Bulls men's basketball team|Buffalo Bulls]] defeating the #4 seed [[2017–18 Arizona Wildcats men's basketball team|Arizona Wildcats]] 89–68. [http://www.espn.com/mens-college-basketball/story/_/page/ncaatournament2018/2018-ncaa-tournament-schedule-key-dates (ESPN)]
 *[[Iditarod Trail Sled Dog Race]]
 **[[Norway|Norwegian]] [[mushing|musher]] [[Joar Leifseth Ulsom]] wins the 2018 Iditarod Trail Sled Dog Race. [http://www.ktuu.com/content/news/Joar-Leifseth-Ulsom-wins-Iditarod-XLVI-476782563.html (KTUU News)]
 <!-- All news items above this line -->}}
