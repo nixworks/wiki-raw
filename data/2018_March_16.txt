@@ -14,5 +14,6 @@
 
 ;Science and technology
 *[[Discoveries of exoplanets]]
-** European astronauts discover 8 new exoplanets classified as hot [[Jupiter]]. [https://www.thetalkingdemocrat.com/2018/03/8-new-exoplanets-have-been-discovered/ (The Talking Democrats)]
+** European astronomers discover 8 new exoplanets classified as [[Hot Jupiter]]. [https://www.thetalkingdemocrat.com/2018/03/8-new-exoplanets-have-been-discovered/ (The Talking Democrats)]
+
 <!-- All news items above this line -->}}
