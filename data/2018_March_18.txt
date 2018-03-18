@@ -3,10 +3,5 @@
 <!-- All news items below this line -->
 ;Politics and elections
 *[[Russian presidential election, 2018]]
-**Voters in [[Russia]] cast their votes for the [[President of Russia]]; [[Opinion polling for the Russian presidential election, 2018|opinion polling]] predicts incumbent [[Vladimir Putin]] is highly likely to win a fourth term in office. [https://edition.cnn.com/2018/03/17/europe/russia-presidential-election-2018-intl/index.html (CNN)]
-*Trump campaign data firm accused of harvesting Facebook data.<ref name="Facebook">{{Cite news|url=http://www.bbc.com/news/world-us-canada-43444791|title=Inquiry into Trump campaign data firm|date=2018-03-17|work=BBC News|access-date=2018-03-18|language=en-GB}}</ref>
-**A whistleblower who worked at [[Cambridge Analytica]] spoke to [[The Guardian]], claiming that he worked with Mr Kogan "to harvest millions of people's profiles."<ref name="Facebook" />
-
-=== Sources ===
-{{reflist|30em}}
+**Voters in [[Russia]] cast their votes for the [[President of Russia]]; [[Opinion polling for the Russian presidential election, 2018|opinion polling]] predicts incumbent [[Vladimir Putin]] is highly likely to win a fourth term in office, with over 60% of the popular choice, and no other candidates above 10% [https://edition.cnn.com/2018/03/17/europe/russia-presidential-election-2018-intl/index.html (CNN)]
 <!-- All news items above this line -->}}
