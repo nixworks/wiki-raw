@@ -3,7 +3,11 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Turkish military operation in Afrin]]
-**[[Turkish]]-backed rebels loot the [[Syria|Syrian]] city of [[Afrin, Syria|Afrin]]. [http://www.bbc.com/news/world-middle-east-43457214 (BBC)]
+**[[Turkish]]-backed [[Turkish-backed Free Syrian Army|Free Syrian Army]] rebels loot the [[Syria]]n city of [[Afrin, Syria|Afrin]]. [http://www.bbc.com/news/world-middle-east-43457214 (BBC)]
+
+;Disasters and accidents
+*[[History of autonomous cars]]
+**A woman in [[Tempe, Arizona]], dies after being hit by a [[Autonomous car|self-driving car]] operated by [[Uber]], in what appears to be the first death of a pedestrian struck by an autonomous vehicle on public roads. In response to the fatal accident, Uber suspends self-driving car tests in all [[United States|U.S.]] cities. [https://www.theguardian.com/technology/2018/mar/19/uber-self-driving-car-kills-woman-arizona-tempe (''The Guardian'')] [http://www.bbc.co.uk/news/business-43459156 (BBC)]
 
 ;Business and economy
 *[[Economy of the United States]]
@@ -13,5 +17,5 @@
 *[[Austin package explosions]]
 **In [[Austin, Texas]], a fourth bomb detonates, injuring two men. The [[Austin Police Department]] believes it is connected to the other parcel bombings, but do not believe it to be connected to the bomb threat leveled at the [[SXSW| SXSW festival]]. [http://www.bbc.com/news/world-us-canada-43453237 (BBC)][https://www.npr.org/sections/thetwo-way/2018/03/18/594776934/man-arrested-for-bomb-threat-at-sxsw-festival-in-austin-texas (NPR)]
 *[[Turpin case]]
-**Seven of the "Turpin children" (all adults) are reported to have been released from the [[Corona Regional Medical Center]] and placed into an undisclosed residential home to lead normal lives. [http://abcnews.go.com/GMA/News/exclusive-siblings-allegedly-held-captive-experience-freedom-1st/story?id=53837445 (ABC)] <!--While this happened on Thursday, it wasn't first reported until today 3/19/18 due to the privacy of the "survivors"-->
+**Seven of the "Turpin children" (all adults) are reported to have been released from the [[Corona Regional Medical Center]] in California and placed into an undisclosed residential home to lead normal lives. [http://abcnews.go.com/GMA/News/exclusive-siblings-allegedly-held-captive-experience-freedom-1st/story?id=53837445 (ABC)] <!--While this happened on Thursday, it wasn't first reported until today 3/19/18 due to the privacy of the "survivors"-->
 <!-- All news items above this line -->}}
