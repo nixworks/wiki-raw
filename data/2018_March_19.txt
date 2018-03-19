@@ -1,6 +1,11 @@
 {{Current events|year=2018|month=03|day=19|content=
 
 <!-- All news items below this line -->
+
+;Business and economy
+*[[Economy of the United States]]
+**After struggling with debt from a [[leveraged buyout]], [[Claire's]] files for [[bankruptcy]] in the [[United States]]. The company has issued a statement that it expects its stores will remain operational while it restructures its debt. [http://money.cnn.com/2018/03/19/news/companies/claires-bankrupt/index.html (CNN)]
+
 ;Law and crime
 *[[Austin package explosions]]
 **In [[Austin, Texas]], a fourth bomb detonates, injuring two men. The [[Austin Police Department]] believes it is connected to the other parcel bombings, but do not believe it to be connected to the bomb threat leveled at the [[SXSW| SXSW festival]]. [http://www.bbc.com/news/world-us-canada-43453237 (BBC)][https://www.npr.org/sections/thetwo-way/2018/03/18/594776934/man-arrested-for-bomb-threat-at-sxsw-festival-in-austin-texas (NPR)]
