@@ -12,7 +12,7 @@
 
 ;Disasters and accidents
 *[[History of autonomous cars]]
-**A woman in [[Tempe, Arizona]], dies after being hit by a [[Autonomous car|self-driving car]] operated by [[Uber]], in what appears to be the [[List of unusual deaths|first death]] of a pedestrian struck by an autonomous vehicle on public roads. In response to the fatal accident, Uber suspends self-driving car tests in all [[United States|U.S.]] cities. [https://www.theguardian.com/technology/2018/mar/19/uber-self-driving-car-kills-woman-arizona-tempe (''The Guardian'')] [http://www.bbc.co.uk/news/business-43459156 (BBC)]
+**A woman in [[Tempe, Arizona]], dies after being hit by a [[Autonomous car|self-driving car]] operated by [[Uber]], in what appears to be the [[List of unusual deaths|first death]] of a pedestrian struck by an autonomous vehicle on public roads. In response to the fatal accident, Uber suspends self-driving car tests in all U.S. cities as well as Toronto.  [https://www.theguardian.com/technology/2018/mar/19/uber-self-driving-car-kills-woman-arizona-tempe (''The Guardian'')] [http://www.bbc.co.uk/news/business-43459156 (BBC)]
 
 ;Law and crime
 *[[Austin package explosions]]
