@@ -2,25 +2,31 @@
 
 <!-- All news items below this line -->
 
+;Armed conflicts and attacks
+*[[Syrian Civil War]]
+**A rocket fired from rebel-held Eastern [[Ghouta]] strikes a popular market in [[Damascus]], killing at least 29 people, according to [[Syria]]n state TV [[Syrian Arab News Agency|SANA]]. [https://www.channelnewsasia.com/news/world/rocket-attack-kills-at-least-29-in-damascus-market---syrian-state-media-10061232 (Channel News Asia)]
+
 ;Business and economy
 *[[Weinstein effect]]
 **After a series of allegations of sexual misconduct against co-founder [[Harvey Weinstein]], [[The Weinstein Company]] files for [[Chapter 11, Title 11, United States Code|chapter 11 bankruptcy]]. The company also states that it will release all employees from a non-disclosure agreement which could prevent them from coming forward regarding the alleged misconduct of Weinstein. [http://money.cnn.com/2018/03/19/media/weinstein-company-bankruptcy/index.html (CNN)]
 
 ;Disasters and incidents
-*A [[Red Arrows]] jet crashes in North [[Wales]]. The fate of the occupants is not reported. [https://www.scotsman.com/news/red-arrows-jet-crashes-in-north-wales-1-4709249 (''The Scotsman'')]
+*A [[Red Arrows]] jet crashes in [[North Wales]], killing an engineer. [https://www.scotsman.com/news/red-arrows-jet-crashes-in-north-wales-1-4709249 (''The Scotsman'')]
 
 ;International relations
 * [[South Korea–United States relations]]
 ** South Korea and the United States announce that the [[Foal Eagle]] and [[Key Resolve]] military drills will start on April 1 and last for four weeks. [http://abcnews.go.com/International/us-south-korea-announce-annual-military-exercises-begin/story?id=53864205 (ABC News)]
 ;Law and crime
 *[[Austin package explosions]]
-**A bomb detonates overnight at a [[San Antonio, Texas|San Antonio]], [[Texas]] [[FedEx]] facility. The [[FBI]] believes the bombing is linked to the other bombings in the area. The [[Bureau of Alcohol, Tobacco, Firearms and Explosives|ATF]] reports that there were no injuries. [https://www.cnn.com/2018/03/20/us/austin-explosions/index.html (CNN)]
+**A bomb detonates overnight at a [[San Antonio, Texas|San Antonio]], [[Texas]] [[FedEx]] facility. The [[FBI]] believes the bombing is linked to the other bombings in the area. The [[Bureau of Alcohol, Tobacco, Firearms and Explosives|ATF]] reports that there were no serious injuries. Both the bomb's point of origin and intended destination were in [[Austin]]. [https://www.cnn.com/2018/03/20/us/austin-explosions/index.html (CNN)] [https://www.npr.org/sections/thetwo-way/2018/03/20/595136020/bomb-destined-for-austin-explodes-at-fedex-hub-near-san-antonio (NPR)]
 *[[List of school shootings in the United States|School shootings in the United States]]
-**A shooting occurs at [[Great Mills High School]] in [[Great Mills, Maryland|Great Mills]], [[Maryland]]. Two students are reported injured; the shooter is confirmed dead by the [[St. Mary's County Sheriff's Office]]. [https://www.cnn.com/2018/03/20/us/great-mills-high-school-shooting/index.html (CNN)]
+**A shooting occurs at [[Great Mills High School]] in [[Great Mills, Maryland|Great Mills]], [[Maryland]]. Two students are reported injured; the shooter is killed by police. [https://www.cnn.com/2018/03/20/us/great-mills-high-school-shooting/index.html (CNN)]
 *[[Crime in France]]
-**Former [[President of France]] [[Nicolas Sarkozy]] is held for up to 48 hours and questioned by [[French police|police]] in [[Nanterre]] over allegations that he illegally accepted €50 million from [[History of Libya under Muammar Gaddafi#Great Socialist People's Libyan Arab Jamahiriya (1977–2011)|Libyan]] [[Brotherly Leader and Guide of the Revolution|leader]] [[Muammar Gaddafi]] to [[Campaign finance|finance]] his bid in the [[French presidential election, 2007|2007 French presidential election]]. [https://www.npr.org/sections/thetwo-way/2018/03/20/595129997/ex-french-president-questioned-on-claims-he-took-campaign-funds-from-gadhafi (NPR)]
+**Former [[President of France|French President]] [[Nicolas Sarkozy]] is held for up to 48 hours and questioned by [[French police|police]] in [[Nanterre]] over allegations that he illegally accepted [[€]]50 million from [[History of Libya under Muammar Gaddafi#Great Socialist People's Libyan Arab Jamahiriya (1977–2011)|Libyan]] [[Brotherly Leader and Guide of the Revolution|leader]] [[Muammar Gaddafi]] to [[Campaign finance|finance]] his bid in the [[French presidential election, 2007|2007 French presidential election]]. [https://www.npr.org/sections/thetwo-way/2018/03/20/595129997/ex-french-president-questioned-on-claims-he-took-campaign-funds-from-gadhafi (NPR)]
 
 ;Science and technology
 *[[Extinction threshold]]
-**[[Sudan (rhinoceros)|Sudan]], the last known male [[Northern white rhinoceros]], dies in captivity, leaving two females as the only surviving members of the subspecies. [http://www.bbc.co.uk/news/av/world-africa-43471837/last-male-northern-white-rhino-dies-in-kenya (BBC News)]
+**[[Sudan (rhinoceros)|Sudan]], the last known male [[Northern white rhinoceros]], dies in captivity, leaving two females as the only surviving members of the subspecies. [http://www.bbc.com/news/world-africa-43468066 (BBC)]
+*[[List of European Space Agency programs and missions|ESA missions]]
+**The [[European Space Agency]] announces a mission to study the atmospheres of [[exoplanets]]. Known as [[Cosmic Vision#Medium class|Ariel]], it is expected to launch in 2028. [http://www.bbc.com/news/science-environment-43477352 (BBC)]
 <!-- All news items above this line -->}}
