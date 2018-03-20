@@ -1,5 +1,15 @@
 {{Current events|year=2018|month=03|day=20|content=
 
 <!-- All news items below this line -->
-*
+
+;Business and economy
+*[[Weinstein effect]]
+**After a series of allegations of sexual misconduct, the Weinstein Company files for [[chapter 11 bankruptcy]]. The company also states that it will release all employees from a non-disclosure agreement which could prevent them from coming forward regarding the alleged misconduct of [[Harvey Weinstein]]. [http://money.cnn.com/2018/03/19/media/weinstein-company-bankruptcy/index.html (CNN)]
+
+;Law and crime
+*[[Austin package explosions]]
+**A bomb detonates overnight at a [[San Antonio, Texas]] [[FedEx]] facility. The [[FBI]] believes  the bombing is linked to the other bombs. The [[ATF]] reports that there were no injuries. [https://www.cnn.com/2018/03/20/us/austin-explosions/index.html (CNN)]
+
+;Science and Technology
+*The last known male [[Northern white rhinoceros]] dies in captivity, leaving two females as the only surviving members of the species. [http://www.bbc.co.uk/news/av/world-africa-43471837/last-male-northern-white-rhino-dies-in-kenya (BBC News)]
 <!-- All news items above this line -->}}
