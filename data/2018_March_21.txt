@@ -1,24 +1,28 @@
 {{Current events|year=2018|month=03|day=21|content=
 
 <!-- All news items below this line -->
+;Disasters and accidents
+*A Eurocopter 120 helicopter carrying five people crashes into the sea near Hardy Reef off the [[Whitsunday Islands]], [[Queensland]], [[Australia]]. Two are killed. [https://www.theguardian.com/australia-news/2018/mar/21/whitsunday-helicopter-crash-deaths-great-barrier-reef-flight (The Guardian)]
+
 ;International relations
 *[[Israel–Syria relations]]
-**[[Israel]] admits for the first time that it [[Operation Outside the Box|carried out an airstike on a suspected nuclear reactor]] in [[Deir ez-Zor Governorate]], [[Syria]], on 6 September, 2007. The strike allegedly killed ten [[North Korea]]n workers. [https://www.reuters.com/article/us-israel-syria-nuclear/israel-admits-bombing-suspected-syrian-nuclear-reactor-in-2007-warns-iran-idUSKBN1GX09K (Reuters)]
+**[[Israel]] admits for the first time that it [[Operation Outside the Box|carried out an airstike on a suspected nuclear reactor]] in [[Deir ez-Zor Governorate]], [[Syria]], on 6 September 2007. The strike allegedly killed ten [[North Korea]]n workers. [https://www.reuters.com/article/us-israel-syria-nuclear/israel-admits-bombing-suspected-syrian-nuclear-reactor-in-2007-warns-iran-idUSKBN1GX09K (Reuters)]
 
 ;Law and crime
 *[[Censorship in Singapore]]
 **The [[Singapore]]an Parliament approves the Public Order and Safety (Special Powers) Act, which makes it a crime to take pictures and relay information during terror attacks. [https://www.channelnewsasia.com/news/singapore/ban-photos-videos-messages-terrorist-posspa-10062836 (Channel News Asia)]
 *[[Austin serial bombings]]
-**Mark Anthony Conditt, a suspect in the bombings is dead after detonating a bomb in his vehicle. Police warn residents that while they believe the bomber is deceased, he may have sent more packages in the time prior to his death. [https://www.cnn.com/2018/03/21/us/austin-explosions/index.html (CNN)]
+**Mark Anthony Conditt, a suspect in the bombings, is dead after detonating a bomb in his vehicle. Police warn residents that while they believe the bomber is deceased, he may have sent more packages in the time prior to his death. [https://www.cnn.com/2018/03/21/us/austin-explosions/index.html (CNN)]
+*[[Dapchi schoolgirls kidnapping]]
+**[[Boko Haram]] releases most of the 110 [[Nigeria]]n schoolgirls it had kidnapped in February 2018, and warns against sending them back to school. [https://www.theglobeandmail.com/world/article-boko-haram-returns-most-schoolgirls-abducted-from-nigerias-dapchi/ (''The Globe and Mail'')]
 
 ;Politics and elections
 *[[Politics of Myanmar]]
 **[[President of Myanmar|Myanmar President]] [[Htin Kyaw]] resigns due to ill health. Vice-President [[Myint Swe (general)|Myint Swe]], a former general, will become acting president until a new president is chosen. [https://www.cnn.com/2018/03/21/asia/myanmar-president-htin-kyaw-resigns-intl/index.html (CNN)] [https://www.usnews.com/news/world/articles/2018-03-21/myanmars-president-resigns-to-take-rest-from-duties (''U.S. News & World Report'')] [http://www.bbc.com/news/world-asia-43482191 (BBC)]
 *[[2017–18 Spanish constitutional crisis]]
 **[[Catalonia|Catalan]] activist [[Jordi Sánchez]], imprisoned accused of sedition, drops his bid to lead the Catalan government. [http://www.bbc.co.uk/news/world-europe-43483946 (BBC)]
-;Disasters and incidents
-*A [[Eurocopter 120]] helicopter carrying five people crashes into the sea near [[Hardy Reef]] off the [[Whitsunday Islands]], [[Queensland]], [[Australia]]. Two are killed. [https://www.theguardian.com/australia-news/2018/mar/21/whitsunday-helicopter-crash-deaths-great-barrier-reef-flight (The Guardian)]
+
 ;Science and technology 
-* [[Discoveries of exoplanets]]
-** Fifteen new alien worlds are discovered. Three exoplanets, larger than [[Earth]], are also discovered around  the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if [[K2-155d]] has water. [https://www.healththoroughfare.com/news/15-new-alien-worlds-discovered-recently/6135 (healththoroughfare)]
+*[[Discoveries of exoplanets]]
+**Fifteen new alien worlds are discovered. Three exoplanets, larger than [[Earth]], are also discovered around  the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if [[K2-155d]] has water. [https://www.healththoroughfare.com/news/15-new-alien-worlds-discovered-recently/6135 (healththoroughfare)]
 <!-- All news items above this line -->}}
