@@ -1,6 +1,10 @@
 {{Current events|year=2018|month=03|day=21|content=
 
 <!-- All news items below this line -->
+;International relations
+*[[Israel–Syria relations]]
+**[[Israel]] admits for the first time that it [[Operation Outside the Box|carried out an airstike on a suspected nuclear reactor]] in [[Deir ez-Zor Governorate]], [[Syria]], on 6 September, 2007. The strike allegedly killed ten [[North Korea]]n workers. [https://www.reuters.com/article/us-israel-syria-nuclear/israel-admits-bombing-suspected-syrian-nuclear-reactor-in-2007-warns-iran-idUSKBN1GX09K (Reuters)]
+
 ;Law and crime
 *[[Austin serial bombings]]
 **A suspect in the bombings is dead after detonating a bomb in his vehicle. Police warn residents that while they believe the bomber is deceased, he may have sent more packages in the time prior to his death. [https://www.cnn.com/2018/03/21/us/austin-explosions/index.html (CNN)]
@@ -11,5 +15,5 @@
 
 ;Science and technology 
 * [[Discoveries of exoplanets]]
-** 15 new alien worlds are discovered. 3 exoplanets larger than [[Earth]] are also discovered around [[K2-155]]. Furthermore, a 3D climate simulation was created to find out if [[K2-155d]] has water. [https://www.healththoroughfare.com/news/15-new-alien-worlds-discovered-recently/6135 (healththoroughfare)]
+** Fifteen new alien worlds are discovered. Three exoplanets, larger than [[Earth]], are also discovered around  the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if [[K2-155d]] has water. [https://www.healththoroughfare.com/news/15-new-alien-worlds-discovered-recently/6135 (healththoroughfare)]
 <!-- All news items above this line -->}}
