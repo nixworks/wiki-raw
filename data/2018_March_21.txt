@@ -2,7 +2,7 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*A Eurocopter 120 helicopter carrying five people crashes into the sea near Hardy Reef off the [[Whitsunday Islands]], [[Queensland]], [[Australia]]. Two are killed. [https://www.theguardian.com/australia-news/2018/mar/21/whitsunday-helicopter-crash-deaths-great-barrier-reef-flight (The Guardian)]
+*A Eurocopter 120 helicopter carrying five people crashes into the sea near Hardy Reef off the [[Whitsunday Islands]], [[Queensland]], [[Australia]]. Two people are killed. [https://www.theguardian.com/australia-news/2018/mar/21/whitsunday-helicopter-crash-deaths-great-barrier-reef-flight (The Guardian)]
 
 ;International relations
 *[[Israel–Syria relations]]
@@ -21,8 +21,9 @@
 **[[President of Myanmar|Myanmar President]] [[Htin Kyaw]] resigns due to ill health. Vice-President [[Myint Swe (general)|Myint Swe]], a former general, will become acting president until a new president is chosen. [https://www.cnn.com/2018/03/21/asia/myanmar-president-htin-kyaw-resigns-intl/index.html (CNN)] [https://www.usnews.com/news/world/articles/2018-03-21/myanmars-president-resigns-to-take-rest-from-duties (''U.S. News & World Report'')] [http://www.bbc.com/news/world-asia-43482191 (BBC)]
 *[[2017–18 Spanish constitutional crisis]]
 **[[Catalonia|Catalan]] activist [[Jordi Sánchez]], imprisoned accused of sedition, drops his bid to lead the Catalan government. [http://www.bbc.co.uk/news/world-europe-43483946 (BBC)]
+*Peruvian president [[Pedro Pablo Kuczynski]] resigns as president. [http://www.bbc.com/news/world-latin-america-43492421?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central (BBC) ]
 
 ;Science and technology 
 *[[Discoveries of exoplanets]]
-**Fifteen new alien worlds are discovered. Three exoplanets, larger than [[Earth]], are also discovered around  the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if [[K2-155d]] has water. [https://www.healththoroughfare.com/news/15-new-alien-worlds-discovered-recently/6135 (healththoroughfare)]
+**Fifteen new alien worlds are discovered. Three exoplanets, larger than [[Earth]], are also discovered around  the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if [[K2-155d]] has water. [https://www.healththoroughfare.com/news/15-new-alien-worlds-discovered-recently/6135 (''Health Thoroughfare'')]
 <!-- All news items above this line -->}}
