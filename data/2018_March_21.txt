@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=03|day=21|content=
 
 <!-- All news items below this line -->
-*
+;Politics and elections
+*[[Politics of Myanmar]]
+**[[President of Myanmar|Myanmar President]] [[Htin Kyaw]] resigns due to ill health. Vice-President [[Myint Swe (general)|Myint Swe]], a former general, will become acting president until a new president is chosen within a week. [https://www.cnn.com/2018/03/21/asia/myanmar-president-htin-kyaw-resigns-intl/index.html (CNN)] [https://www.usnews.com/news/world/articles/2018-03-21/myanmars-president-resigns-to-take-rest-from-duties (''U.S. News & World Report'')] [http://www.bbc.com/news/world-asia-43482191 (BBC)]
 <!-- All news items above this line -->}}
