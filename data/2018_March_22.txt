@@ -4,5 +4,8 @@
 
 ;Disasters and accidents
 *Six people are dead after an explosion at a [[Unipetrol]] plant in [[Kralupy nad Vltavou]], [[Czech Republic]]. [http://www.bbc.com/news/world-europe-43497063 (BBC)]
+*Police release onboard video from an autonomous [[Uber]] car that fatally struck a pedestrian crossing the road in [[Tempe]], [[Arizona]]. [http://www.bbc.co.uk/news/world-us-canada-43497364 (BBC)]
 
+;Politics and elections
+*People in 150 places across [[France]] take to the streets peacefully in a [[general strike]] to protest [[President of France|President]] [[Emmanuel Macron|Macron]]'s [[Emmanuel_Macron#Economic_policies|economic reforms]]. Railways, airways, schools and power generation are affected. [https://www.reuters.com/article/france-reform-protests/police-fire-teargas-as-strikes-challenge-macron-across-france-idINKBN1GY1QL (Reuters)]
 <!-- All news items above this line -->}}

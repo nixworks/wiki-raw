@@ -48,5 +48,5 @@
 
 ;Science and technology 
 *[[Discoveries of exoplanets]]
-**Fifteen new [[exoplanet]]s are discovered. Three of them, larger than [[Earth]], are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if [[K2-155d]] has water. [https://www.healththoroughfare.com/news/15-new-alien-worlds-discovered-recently/6135 (''Health Thoroughfare'')]
+**Fifteen new [[exoplanet]]s are discovered. Three of them, larger than [[Earth]], are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if [[K2-155d]] has water. [https://www.healththoroughfare.com/news/15-new-alien-worlds-discovered-recently/6135 (''Health Thoroughfare'')] [https://www.sciencedaily.com/releases/2018/03/180312085057.htm (ScienceDaily)]
 <!-- All news items above this line -->}}
