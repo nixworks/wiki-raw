@@ -1,16 +1,37 @@
 {{Current events|year=2018|month=03|day=22|content=
 
 <!-- All news items below this line -->
+;Armed attacks and conflicts
+*[[Somali Civil War (2009–present)]]
+**A car bomb blast in [[Mogadishu]], near the Weheliye hotel in the [[Somalia|Somali]] capital, kills at least 14 people and injures 10 others. [[Al-Shabaab (militant group)|Al-Shabab]] claims responsibility for the blast. [https://www.msn.com/en-us/news/world/at-least-14-dead-several-hurt-in-car-bomb-in-somali-capital/ar-BBKyXh4?ocid=spartandhp (AP via MSN.com)]
+
+;Business and economy
+*[[Economic policy of Donald Trump]]
+**[[Office of the United States Trade Representative|US Trade Representative]] [[Robert Lighthizer]] tells a [[United States Senate|Senate]] panel that [[President of the United States|President]] [[Donald Trump|Trump]] has decided to "pause" tariffs on [[steel]] and [[aluminium]] imports from the [[European Union]], [[Argentina]], [[Australia]], [[Brazil]], [[Canada]], [[Mexico]], and [[South Korea]]. [http://www.bbc.co.uk/news/business-43505804 (BBC)]
+
 ;Disasters and accidents
-*Six people are dead after an explosion at a [[Unipetrol]] plant in [[Kralupy nad Vltavou]], [[Czech Republic]]. [http://www.bbc.com/news/world-europe-43497063 (BBC)]
-*Police release onboard video from an autonomous [[Uber]] car that fatally struck a pedestrian crossing the road in [[Tempe]], [[Arizona]]. [http://www.bbc.co.uk/news/world-us-canada-43497364 (BBC)]
+*[[Unipetrol#Incidents|2018 Unipetrol explosion]]
+**Six people are dead after an explosion at a [[Unipetrol]] plant in [[Kralupy nad Vltavou]], [[Czech Republic]]. [http://www.bbc.com/news/world-europe-43497063 (BBC)]
+*[[History of autonomous cars]]
+**Police release onboard video from an autonomous [[Uber]] car that fatally struck a pedestrian crossing the road in [[Tempe]], [[Arizona]]. [http://www.bbc.co.uk/news/world-us-canada-43497364 (BBC)]
+
+;Law and crime
+*[[Murder of Maria Ladenburger]]
+**[[Afghanistan|Afghan]] immigrant Hussein Khavari is convicted of rape and murder in a case that provoked widespread discussion of [[European migrant crisis|refugee immigration to Germany]]. [http://www.bbc.co.uk/news/world-europe-43498151 (BBC)]
+*[[Ukrainian crisis]]
+**[[Ukraine|Ukrainian]] MP [[Nadiya Savchenko]] is arrested in Parliament over an alleged plot to attack Parliament and overthrow the government. [http://www.bbc.co.uk/news/world-europe-43504396 (BBC)]
+*[[Alleged Libyan influence in the 2007 French elections]]
+**In a statement to [[France|French]] investigating magistrates, ex-President [[Nicolas Sarkozy]] refutes corruption charges relating to alleged receipt of funding from the then President of [[Libya]], [[Muammar Gaddafi]], in 2007. [https://www.telegraph.co.uk/news/2018/03/22/sarkozy-kept-living-libya-accusations/ (The Telegraph)]
 
 ;Politics and elections
-*People in 150 places across [[France]] take to the streets peacefully in a [[general strike]] to protest [[Emmanuel_Macron#Economic_policies|President Macron's economic reforms]]. Railways, airways, schools and power generation are affected. [https://www.reuters.com/article/france-reform-protests/police-fire-teargas-as-strikes-challenge-macron-across-france-idINKBN1GY1QL (Reuters)]
+*[[Protests against Emmanuel Macron]]
+**People in 150 places across [[France]] take to the streets peacefully in a [[general strike]] to protest [[Emmanuel_Macron#Economic_policies|President Macron's economic reforms]]. Railways, airways, schools and power generation are affected. [https://www.reuters.com/article/france-reform-protests/police-fire-teargas-as-strikes-challenge-macron-across-france-idINKBN1GY1QL (Reuters)]
 *[[Cyprus dispute]]
 **[[Turkey]] announces it is to send a drilling boat to disputed waters claimed by both [[Cyprus]] and [[Northern Cyprus]]. [https://www.theguardian.com/world/2018/mar/22/turkey-to-send-drill-ship-to-contested-gas-field-off-cyprus (The Guardian)]
 *[[Poisoning of Sergei and Yulia Skripal]]
 **Detective Sergeant Nick Bailey, wounded when he came to the aid of the poisoned [[Russia]]n dissidents, is discharged from hospital. [http://www.bbc.co.uk/news/uk-43506232 (BBC)]
 **[[UK]] Prime Minister [[Theresa May]] calls the incident "part of a pattern of Russian aggression against Europe" and promises to raise the matter at an upcoming [[European Union]] summit. [http://www.bbc.co.uk/news/uk-politics-43489457 (BBC)]
-*John Dowd, the most senior lawyer advising [[US]] President [[Donald Trump]] on allegations of [[Russia]]n electoral interference, resigns. [http://www.bbc.co.uk/news/world-us-canada-43506098 (BBC)]
+**An inquest is opened into the death of murdered [[Russia]]n exiled dissident [[Nikolai Glushkov]] in [[London]]. [https://www.independent.co.uk/news/uk/crime/nikolai-glushkov-inquest-live-updates-russia-businessman-murder-london-home-death-sergei-skripal-a8268226.html (The Independent)]
+*[[Russian interference in the 2016 United States elections]]
+**[[John M. Dowd|John Dowd]], the most senior lawyer advising [[President of the United States|U.S. President]] [[Donald Trump]] on allegations of [[Russia]]n electoral interference, resigns. [http://www.bbc.co.uk/news/world-us-canada-43506098 (BBC)] [https://edition.cnn.com/2018/03/22/politics/john-dowd-white-house/index.html (CNN)]
 <!-- All news items above this line -->}}
