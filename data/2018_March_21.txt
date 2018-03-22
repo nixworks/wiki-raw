@@ -4,16 +4,20 @@
 ;Armed conflicts and attacks
 *[[Saudi Arabian-led intervention in Yemen]]
 **[[Houthis]] claim to have shot down a [[Royal Saudi Air Force]] [[F-15]] jet over [[Saada Governorate|Sa'da province]], [[Yemen]]. [https://sputniknews.com/middleeast/201803211062773665-houthi-rebels-saudi-arabia-jet/ (Sputnik)]
-*The [[Syria]]n government and rebel forces reach an agreement to allow 7,500 people to evacuate from rebel-held [[Harasta]], Eastern Ghouta. [https://www.aljazeera.com/news/2018/03/evacuation-deal-fighters-eastern-ghouta-town-reached-180321144929829.html (al-Jazeera)]
+*[[Syrian Civil War]]
+**The [[Syria]]n government and rebel forces reach an agreement to allow 7,500 people to evacuate from rebel-held [[Harasta]], Eastern Ghouta. [https://www.aljazeera.com/news/2018/03/evacuation-deal-fighters-eastern-ghouta-town-reached-180321144929829.html (al-Jazeera)]
 
 ;Disasters and accidents
-*A [[Eurocopter EC120 Colibri|Eurocopter 120]] helicopter carrying five people crashes into the sea near Hardy Reef off the [[Whitsunday Islands]], [[Queensland]], [[Australia]]. Two people are killed. [https://www.theguardian.com/australia-news/2018/mar/21/whitsunday-helicopter-crash-deaths-great-barrier-reef-flight (The Guardian)]
-*[[2015 Shoreham Airshow crash]]
+*[[List of accidents and incidents involving helicopters|Accidents and incidents involving helicopters]]
+**A [[Eurocopter EC120 Colibri|Eurocopter 120]] helicopter carrying five people crashes into the sea near Hardy Reef off the [[Whitsunday Islands]], [[Queensland]], [[Australia]]. Two people are killed. [https://www.theguardian.com/australia-news/2018/mar/21/whitsunday-helicopter-crash-deaths-great-barrier-reef-flight (The Guardian)]
+*Aftermath of the [[2015 Shoreham Airshow crash]]
 **The [[Crown Prosecution Service]] charges pilot Andrew Hill with 11 counts of manslaughter by gross negligence and one count of endangering an aircraft over an accident at [[Shoreham Airshow]] in [[England]]. [https://www.telegraph.co.uk/news/2018/03/21/pilot-charged-manslaughter-shoreham-airshow-disaster-killed/ (''The Telegraph'')]
+*[[Hotel fire]]s
+**A fire breaks out at a hotel in [[Ballymun]], [[Ireland]], near [[Dublin Airport]]. No casualties were reported, and the cause is unknown. [https://www.rte.ie/news/ireland/2018/0321/949172-ballymun-fire/ (RTE)] [https://www.irishtimes.com/news/ireland/irish-news/fire-brigade-tackles-major-blaze-at-hotel-in-north-dublin-1.3435687 (''Irish Times'')]
 
 ;International relations
 *[[Israel–Syria relations]]
-**[[Israel]] admits for the first time that it [[Operation Outside the Box|carried out an airstrike on a suspected nuclear reactor]] in [[Deir ez-Zor Governorate]], [[Syria]], on 6 September 2007. The strike allegedly killed ten [[North Korea]]n workers. [https://www.reuters.com/article/us-israel-syria-nuclear/israel-admits-bombing-suspected-syrian-nuclear-reactor-in-2007-warns-iran-idUSKBN1GX09K (Reuters)]
+**[[Israel]] admits for the first time that it [[Operation Outside the Box|carried out an airstrike]] on a suspected [[nuclear reactor]] in [[Deir ez-Zor Governorate]], [[Syria]], on 6 September 2007. The strike allegedly killed ten [[North Korea]]n workers. [https://www.reuters.com/article/us-israel-syria-nuclear/israel-admits-bombing-suspected-syrian-nuclear-reactor-in-2007-warns-iran-idUSKBN1GX09K (Reuters)]
 *[[Austria–Israel relations]]
 **[[Austria]]n foreign minister [[Karin Kneissl]] recalls diplomat Jürgen-Michael Kleppich from [[Israel]] after he is photographed wearing a t-shirt with slogans linked to [[Nazism]]. [https://www.thelocal.at/20180321/austria-orders-diplomat-home-from-israel-after-posing-in-nazi-t-shirt (The Local)]
 *[[Economy of the African Union]]
@@ -42,5 +46,5 @@
 
 ;Science and technology 
 *[[Discoveries of exoplanets]]
-**Fifteen new alien worlds are discovered. Three exoplanets, larger than [[Earth]], are also discovered around  the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if [[K2-155d]] has water. [https://www.healththoroughfare.com/news/15-new-alien-worlds-discovered-recently/6135 (''Health Thoroughfare'')]
+**Fifteen new [[exoplanet]]s are discovered. Three of them, larger than [[Earth]], are also discovered around the dwarf star K2-155. Furthermore, a 3D climate simulation was created to find out if [[K2-155d]] has water. [https://www.healththoroughfare.com/news/15-new-alien-worlds-discovered-recently/6135 (''Health Thoroughfare'')]
 <!-- All news items above this line -->}}

@@ -5,7 +5,8 @@
 *[[Syrian Civil War]]
 **A rocket fired from rebel-held Eastern [[Ghouta]] strikes a popular market in [[Damascus]], killing at least 35 people, according to [[Syria]]n state TV [[Syrian Arab News Agency|SANA]]. [https://www.reuters.com/article/us-mideast-crisis-syria-damascus/scores-killed-in-rocket-attack-on-damascus-market-and-rebel-held-douma-idUSKBN1GW2I1?il=0 (Reuters)] [https://www.channelnewsasia.com/news/world/rocket-attack-kills-at-least-29-in-damascus-market---syrian-state-media-10061232 (Channel News Asia)]
 **An airstrike in Eastern Ghouta kills two women and 15 children in an underground school. [http://www.bbc.co.uk/news/world-middle-east-43470147 (BBC)]
-*[[India]]n external affairs minister [[Sushma Swaraj]] tells Parliament DNA testing on remains in a mass grave in [[Iraq]] confirms 39 Indian nationals believed to have been kidnapped by [[ISIL]] have been killed. [https://www.theguardian.com/world/2018/mar/20/india-confirms-death-of-39-men-kidnapped-by-isis-in-iraq-in-2014 (The Guardian)]
+*[[Military activity of ISIL]]
+**[[India]]n external affairs minister [[Sushma Swaraj]] tells Parliament DNA testing on remains in a mass grave in [[Iraq]] confirms 39 Indian nationals believed to have been kidnapped by [[ISIL]] have been killed. [https://www.theguardian.com/world/2018/mar/20/india-confirms-death-of-39-men-kidnapped-by-isis-in-iraq-in-2014 (The Guardian)]
 
 ;Business and economy
 *[[Weinstein effect]]
@@ -36,7 +37,7 @@
 *[[United States recognition of Jerusalem as capital of Israel]]
 **[[Palestine (state)|Palestinian]] leader [[Mahmoud Abbas]] insults [[United States|U.S.]] Ambassador to [[Israel]] [[David M. Friedman]], calling him a "son of a dog" when he says Israeli settlers build on their land in the occupied [[West Bank]]. The U.S. warns Abbas to "choose between hate and peace". [http://news.kuwaittimes.net/website/palestinian-leader-insults-us-ambassador-to-israel/ (''The Kuwait Times'')] [http://www.jerusalemonline.com/news/world-news/around-the-globe/us-slams-abbas-for-hateful-rhetoric-35127 (Jerusalem Online)] [https://www.telegraph.co.uk/news/2018/03/20/palestinian-president-mahmoud-abbas-calls-us-ambassador-son/ (''The Telegraph'')]
 **Palestinians are planning a mass demonstration in the [[Gaza Strip]], ahead of the [[U.S. Embassy]]'s decision. [https://www.bloomberg.com/news/articles/2018-03-20/palestinians-plan-mass-gaza-march-as-u-s-embassy-move-nears (Bloomberg)]
-*[[Human rights in China]]:
+*[[Human rights in China]]
 **[[China|Chinese]] diplomat Chen Cheng repeatedly interrupts and objects to exiled dissident [[Yang Jianli]]'s testimony to the [[United Nations]] [[UN Human Rights Council|Human Rights Council]]. [https://www.theguardian.com/world/2018/mar/20/chinese-dissident-and-official-trade-barbs-at-un-human-rights-meeting (The Guardian)]
 *[[Cyprus dispute]]
 **[[President of Turkey|Turkish President]] [[Recep Tayyip Erdoğan]] asserts his nation will secure [[Northern Cyprus]]' access to natural hydrocarbon resources off the Cypriot coast. The comments come amid disputes as to sovereign rights and access to offshore resources on the island. [https://www.dailysabah.com/energy/2018/03/20/turkey-determined-to-protect-own-turkish-cypriot-rights-in-east-med-president-erdogan-says (''The Daily Sabah'')]
@@ -64,8 +65,10 @@
 **[[President of the United States|U.S. President]] [[Donald Trump]] issues an [[executive order]] banning U.S. entities from trading in the [[Venezuela]]n [[Petro (cryptocurrency)|Petro cryptocurrency]]. Trump calls the digital currency, launched last month, an "attempt to circumvent U.S. sanctions". [https://www.aljazeera.com/news/2018/03/trump-bans-purchases-venezuela-cryptocurrency-petro-180320094506428.html (al-Jazeera)]
 
 ;Politics and elections
-*[[Norway|Norwegian]] justice minister [[Sylvi Listhaug]] resigns amid controversy over remarks on [[human rights]] and national security. [https://www.theguardian.com/world/2018/mar/20/norway-justice-minister-sylvi-listhaug-quits-avert-government-collapse (The Guardian)]
-*Protests continue in [[Slovakia]] after last week's collapse of the government, which included the resignation of [[Prime Minister of Slovakia|Prime Minister]] [[Robert Fico]]. [https://www.npr.org/sections/parallels/2018/03/20/594898912/slovakia-governments-collapse-not-enough-to-end-protests-over-journalist-s-murde (NPR)]
+*[[Politics of Norway]]
+**[[Norway|Norwegian]] justice minister [[Sylvi Listhaug]] resigns amid controversy over remarks on [[human rights]] and national security. [https://www.theguardian.com/world/2018/mar/20/norway-justice-minister-sylvi-listhaug-quits-avert-government-collapse (The Guardian)]
+*[[Politics of Slovakia]]
+**Protests continue in [[Slovakia]] after last week's collapse of the government, which included the resignation of [[Prime Minister of Slovakia|Prime Minister]] [[Robert Fico]]. [https://www.npr.org/sections/parallels/2018/03/20/594898912/slovakia-governments-collapse-not-enough-to-end-protests-over-journalist-s-murde (NPR)]
 
 ;Science and technology
 *[[Eschatology]] in [[Norse mythology]]
@@ -74,6 +77,8 @@
 **[[Sudan (rhinoceros)|Sudan]], the last known male [[Northern white rhinoceros]], dies in captivity, leaving two females as the only surviving members of the subspecies. [http://www.bbc.com/news/world-africa-43468066 (BBC)]
 *[[List of European Space Agency programs and missions|ESA missions]]
 **The [[European Space Agency]] announces a mission to study the atmospheres of [[exoplanets]]. Known as [[Cosmic Vision#Medium class|ARIEL]], it is expected to launch in 2028. [http://www.bbc.com/news/science-environment-43477352 (BBC)]
-*[[Japan]] announces a fund worth [[united States dollar|US$]]940 million to encourage the foundation of new companies involved in [[space exploration]]. [https://www.cnbc.com/2018/03/20/japan-offers-940-million-to-boost-nations-space-startups.html (CNBC)]
-*A study commissioned by the [[UK]] government concludes marine plastic debris may treble within ten years, and predicts the "ocean economy" will double to [[united States dollar|US$]]3 trillion ([[Pound sterling|£]]2 trillion) by 2030. [http://www.bbc.co.uk/news/science-environment-43477233 (BBC)]
+*[[Japan's space development]]
+**[[Japan]] announces a fund worth [[United States dollar|US$]]940 million to encourage the foundation of new companies involved in [[space exploration]]. [https://www.cnbc.com/2018/03/20/japan-offers-940-million-to-boost-nations-space-startups.html (CNBC)]
+*[[Marine debris]]
+**A study commissioned by the [[UK]] government concludes marine plastic debris may treble within ten years, and predicts the "ocean economy" will double to [[united States dollar|US$]]3 trillion ([[Pound sterling|£]]2 trillion) by 2030. [http://www.bbc.co.uk/news/science-environment-43477233 (BBC)]
 <!-- All news items above this line -->}}
