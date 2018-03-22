@@ -3,16 +3,15 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Saudi Arabian-led intervention in Yemen]]
-**[[Houthis]] claim to have shot down a [[Royal Saudi Air Force]] [[F-15]] jet over [[Saada Governorate|Sa'da province]], [[Yemen]]. [https://sputniknews.com/middleeast/201803211062773665-houthi-rebels-saudi-arabia-jet/ (Sputnik)]
+**[[Houthis]] claim to have shot down a [[Royal Saudi Air Force]] [[F-15]] jet over [[Saada Governorate|Sa'da province]], [[Yemen]]. [https://sputniknews.com/middleeast/201803211062773665-houthi-rebels-saudi-arabia-jet/ (''Sputnik News'')]
 *[[Syrian Civil War]]
 **The [[Syria]]n government and rebel forces reach an agreement to allow 7,500 people to evacuate from rebel-held [[Harasta]], Eastern Ghouta. [https://www.aljazeera.com/news/2018/03/evacuation-deal-fighters-eastern-ghouta-town-reached-180321144929829.html (al-Jazeera)]
 
 ;Disasters and accidents
 *[[List of accidents and incidents involving helicopters|Accidents and incidents involving helicopters]]
-**A [[Eurocopter EC120 Colibri|Eurocopter 120]] helicopter carrying five people crashes into the sea near Hardy Reef off the [[Whitsunday Islands]], [[Queensland]], [[Australia]]. Two people are killed. [https://www.theguardian.com/australia-news/2018/mar/21/whitsunday-helicopter-crash-deaths-great-barrier-reef-flight (The Guardian)]
+**A [[Eurocopter EC120 Colibri|Eurocopter 120]] helicopter carrying five people crashes into the sea near Hardy Reef off the [[Whitsunday Islands]], [[Queensland]], [[Australia]]. Two people are killed. [https://www.theguardian.com/australia-news/2018/mar/21/whitsunday-helicopter-crash-deaths-great-barrier-reef-flight (''The Guardian'')]
 *Aftermath of the [[2015 Shoreham Airshow crash]]
 **The [[Crown Prosecution Service]] charges pilot Andrew Hill with 11 counts of manslaughter by gross negligence and one count of endangering an aircraft over an accident at [[Shoreham Airshow]] in [[England]]. [https://www.telegraph.co.uk/news/2018/03/21/pilot-charged-manslaughter-shoreham-airshow-disaster-killed/ (''The Telegraph'')]
-*A fire breaks out at a hotel in [[Ballymun]], [[Ireland]], near [[Dublin Airport]]. No casualties were reported, and the cause is unknown. [https://www.rte.ie/news/ireland/2018/0321/949172-ballymun-fire/ (RTE)] [https://www.irishtimes.com/news/ireland/irish-news/fire-brigade-tackles-major-blaze-at-hotel-in-north-dublin-1.3435687 (''Irish Times'')]
 
 ;International relations
 *[[Israel–Syria relations]]
@@ -22,7 +21,7 @@
 *[[Economy of the African Union]]
 **The leaders of 44 [[African Union]] states sign an agreement in [[Kigali]], [[Rwanda]], to create the [[African Continental Free Trade Area]] (CFTA). [http://www.bbc.co.uk/news/world-africa-43489255 (BBC)]
 *[[Poisoning of Sergei and Yulia Skripal]]
-**[[Russia]] holds a briefing on the case for all foreign diplomats in [[Moscow]], where it accuses the [[United Kingdom]] of withholding evidence. [https://www.theguardian.com/uk-news/2018/mar/21/russia-uk-evidence-sergei-skripal-case (The Guardian)]
+**[[Russia]] holds a briefing on the case for all foreign diplomats in [[Moscow]], where it accuses the [[United Kingdom]] of "withholding evidence." [https://www.theguardian.com/uk-news/2018/mar/21/russia-uk-evidence-sergei-skripal-case (The Guardian)]
 
 ;Law and crime
 *[[Censorship in Singapore]]
@@ -31,7 +30,8 @@
 **Mark Anthony Conditt, the main suspect in the serial bombings, dies after detonating a bomb in his vehicle while being pursued by [[Austin Police Department|Austin police officers]]. The police chief warns residents that while they believe the bomber is deceased, he may have sent more packages before his death. [https://www.cnn.com/2018/03/21/us/austin-explosions/index.html (CNN)]
 *[[Dapchi schoolgirls kidnapping]]
 **[[Boko Haram]] releases most of the 110 [[Nigeria]]n schoolgirls it had kidnapped in February 2018, and warns against sending them back to school. [https://www.theglobeandmail.com/world/article-boko-haram-returns-most-schoolgirls-abducted-from-nigerias-dapchi/ (''The Globe and Mail'')]
-*[[James Ibori]], a former governor of [[Delta State]], [[Nigeria]], launches a bid to overturn his guilty pleas on corruption charges in the [[United Kingdom|UK]] alleging police corruption. [http://www.africanews.com/2018/03/21/ex-nigerian-governor-ibori-appeals-against-fraud-conviction-accuses-british/ (Africa News)]
+*[[Crime in the United Kingdom]]
+**[[James Ibori]], a former governor of [[Delta State]], [[Nigeria]], launches a bid to overturn his guilty pleas on corruption charges in the [[United Kingdom|UK]] alleging police corruption. [http://www.africanews.com/2018/03/21/ex-nigerian-governor-ibori-appeals-against-fraud-conviction-accuses-british/ (Africa News)]
 
 ;Politics and elections
 *[[Politics of Myanmar]]
