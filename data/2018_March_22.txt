@@ -15,7 +15,7 @@
 
 ;Disasters and accidents
 *[[Unipetrol#Incidents|2018 Unipetrol explosion]]
-**Six people are dead after an explosion at a [[Unipetrol]] plant in [[Kralupy nad Vltavou]], [[Czech Republic]]. [http://www.bbc.com/news/world-europe-43497063 (BBC)]
+**Six people are killed after an explosion at a [[Unipetrol]] plant in [[Kralupy nad Vltavou]], [[Czech Republic]]. [http://www.bbc.com/news/world-europe-43497063 (BBC)]
 *[[Earthquakes in California]]
 **A magnitude 4.6 earthquake and 4.7 earthquake strike south of [[Eureka, California]]. No immediate damage is reported. [http://krcrtv.com/north-coast-news/eureka-local-news/3-earthquakes-hit-humboldt-in-less-than-12-hours (KRCR News)]
 
@@ -50,7 +50,7 @@
 *[[Cyprus dispute]]
 **[[Turkey]] announces it is to send a drilling boat to disputed waters claimed by both [[Cyprus]] and [[Northern Cyprus]]. [https://www.theguardian.com/world/2018/mar/22/turkey-to-send-drill-ship-to-contested-gas-field-off-cyprus (''The Guardian'')]
 *[[Poisoning of Sergei and Yulia Skripal]]
-**Detective Sergeant Nick Bailey, wounded when he came to the aid of the poisoned [[Russia]]n dissidents, is discharged from a hospital. [http://www.bbc.co.uk/news/uk-43506232 (BBC)]
+**Detective Sergeant Nick Bailey, wounded when he came to the aid of the poisoned [[Russia]]n dissidents, is discharged from hospital. [http://www.bbc.co.uk/news/uk-43506232 (BBC)]
 **[[United Kingdom|British]] Prime Minister [[Theresa May]] calls the incident "part of a pattern of Russian aggression against Europe" and promises to raise the matter at an upcoming [[European Union]] summit. [http://www.bbc.co.uk/news/uk-politics-43489457 (BBC)]
 **An inquest is opened into the death of murdered [[Russia]]n exiled dissident [[Nikolai Glushkov]] in [[London]]. [https://www.independent.co.uk/news/uk/crime/nikolai-glushkov-inquest-live-updates-russia-businessman-murder-london-home-death-sergei-skripal-a8268226.html (The Independent)]
 **The Court of Protection hears the Skripals are unable to communicate and may have suffered lifelong brain damage. It rules blood samples can be taken from the pair for analysis by the [[Organisation for the Prohibition of Chemical Weapons]] and grants the group access to medical records. [https://www.independent.co.uk/news/uk/home-news/sergei-skripal-yulia-nerve-agent-brain-damage-health-hospital-salisbury-a8269056.html (''The Independent'')]
@@ -63,7 +63,8 @@
 **[[Peru]]vian Vice President [[Martín Vizcarra]] returns from [[Canada]], where he is his nation's ambassador, in preparation to take over the Presidency. [http://www.cbc.ca/news/politics/peru-s-ambassador-to-canada-is-set-to-become-peru-s-next-president-1.4587963 (CBC)]
 *[[Presidency of Donald Trump]]
 **[[President of the United States|U.S. President]] [[Donald Trump]] announces former [[United States Ambassador to the United Nations]] [[John R. Bolton]] will become his [[National Security Advisor (United States)|National Security Advisor]], succeeeding the outgoing [[H. R. McMaster]]. [https://www.usatoday.com/story/news/politics/2018/03/22/trump-removes-h-r-mcmaster-national-security-adviser-replacing-him-john-bolton/425301002/ (USA Today)]
-
+*[[Antiguan general election, 2018]]
+**[[Antigua and Barbuda]]'s ruling [[Antigua Barbuda Labour Party]] wins a second term in a landslide vote. [http://www.thesundaily.my/news/2018/03/22/antigua-and-barbuda-ruling-party-wins-vote (The Sun Daily)]
 ;Science and technology
 *[[Human genetics]]
 **[[DNA]] tests confirm [[Atacama skeleton|Ata]], an unusual six-inch-long mummy found in [[Chile]] in 2003, to be the remains of a newborn human with genetic mutations. [http://www.bbc.co.uk/news/science-environment-43489246 (BBC)]
