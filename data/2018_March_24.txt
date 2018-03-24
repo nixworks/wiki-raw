@@ -2,8 +2,9 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*[[Sasago Tunnel]] collapse:
+*[[Sasago Tunnel]] collapse
 **The Kofu District Public Prosecutor’s Office in [[Japan]] announces nobody will be prosecuted over the accident, which killed nine and injured three. Officials say the collapse would have been difficult to predict. [https://www.japantimes.co.jp/news/2018/03/24/national/no-indictments-2012-fatal-tunnel-collapse-japan/ (The Japan Times)]
+
 ;International relations
 *[[2017–18 North Korea crisis]], [[2018 inter-Korean summit]]
 **[[North Korea]] accepts [[South Korea]]'s proposal to hold high-level inter-[[Korean Peninsula|Korean]] talks, scheduled to take place on March 29. [https://edition.cnn.com/2018/03/23/asia/koreas-talks/index.html (CNN)]
@@ -14,4 +15,5 @@
 ;Law and crime
 *[[2018 United States gun violence protests]]
 **Thousands of people participate in the [[March For Our Lives]] protest in multiple cities across the [[United States]] regarding [[Gun violence in the United States|gun violence]], [[Mass shootings in the United States|mass shootings]] and [[List of school shootings in the United States|school shootings]]. [https://www.pbs.org/newshour/nation/what-you-need-to-know-about-this-weekends-march-for-our-lives (PBS)]
+*A bomb planted beneath a car explodes in [[Alexandria]], [[Egypt]] as a motorcade carrying the city's head of security passes by. At least two die. [https://www.telegraph.co.uk/news/2018/03/24/two-killed-bomb-attempted-assassination-alexandria-security/ (The Telegraph)]
 <!-- All news items above this line -->}}
