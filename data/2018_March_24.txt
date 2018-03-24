@@ -3,7 +3,7 @@
 <!-- All news items below this line -->
 ;Disasters and accidents
 *[[Sasago Tunnel]] collapse
-**The Kofu District Public Prosecutor’s Office in [[Japan]] announces nobody will be prosecuted over the accident, which killed nine and injured three. Officials say the collapse would have been difficult to predict. [https://www.japantimes.co.jp/news/2018/03/24/national/no-indictments-2012-fatal-tunnel-collapse-japan/ (The Japan Times)]
+**The Kofu District Public Prosecutor’s Office in [[Japan]] announces nobody will be prosecuted over the accident, which killed nine and injured three. Officials say the collapse would have been difficult to predict. [https://www.japantimes.co.jp/news/2018/03/24/national/no-indictments-2012-fatal-tunnel-collapse-japan/ (''The Japan Times'')]
 *Two men are rescued from a capsized dredger off [[Malaysia]] after 50 hours in an air pocket in the engine room. The death toll so far is nine, with rescue efforts underway to search for more survivors. [https://news.sky.com/story/chinese-sailors-rescued-50-hours-after-dredger-capsizes-off-malaysian-coast-11302286 (Sky News)]
 
 ;International relations
@@ -12,9 +12,10 @@
 *[[Poisoning of Sergei and Yulia Skripal]]
 **A friend of poisoned exiled [[Russia]]n spy [[Sergei Skripal]] claims Skripal had written to [[Vladimir Putin]] asking to return to Russia. Russia denies receiving such a letter. [http://www.bbc.co.uk/news/uk-43523923 (BBC)]
 **All 23 [[United Kingdom|British]] diplomats and their families expelled from Russia arrive on a flight from [[Moscow]]. [http://www.bbc.co.uk/news/uk-43523923 (BBC)]
+*[[Saudi Arabia|Saudi]] aircraft attack targets in residential areas of [[Hudaydah]] and [[Sa’ada]], [[Yemen]]. At least seven civilians are killed. [http://www.presstv.com/Detail/2018/03/24/556410/Saudi-Yemen-strikes (Press TV)]
 
 ;Law and crime
-*A bomb planted beneath a car explodes in [[Alexandria]], [[Egypt]] as a motorcade carrying the city's head of security passes by. At least two die. [https://www.telegraph.co.uk/news/2018/03/24/two-killed-bomb-attempted-assassination-alexandria-security/ (The Telegraph)]
-*[[Minorities in Greece]], [[Terrorism in Greece]]
+*[[Terrorism in Greece]], [[Minorities in Greece]]
 **An extremist far-right group claims responsibility after a community shelter for [[Afghanistan|Afghan]] immigrants is burned down. The [[United Nations]] condemns the attack. [http://abcnews.go.com/International/wireStory/greece-extreme-group-claims-arson-afghan-center-53960572 (ABC)]
+*A bomb planted beneath a car explodes in [[Alexandria]], [[Egypt]] as a motorcade carrying the city's head of security passes by. At least two die. [https://www.telegraph.co.uk/news/2018/03/24/two-killed-bomb-attempted-assassination-alexandria-security/ (''The Telegraph'')]
 <!-- All news items above this line -->}}
