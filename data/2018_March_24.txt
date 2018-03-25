@@ -2,12 +2,10 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
-*[[Minorities in Greece]]
-**An [[Afghanistan|Afghan]] community centre is burned down in [[Athens]], [[Greece]]. An extreme far-right group claims responsibility, and the [[United Nations]] condemns the attack. [http://abcnews.go.com/International/wireStory/greece-extreme-group-claims-arson-afghan-center-53960572 (ABC News)]
 *[[Terrorism in Egypt]]
 **A bomb planted beneath a car explodes in [[Alexandria]], [[Egypt]], as a motorcade carrying the city's head of security passes by, killing at least two people. [https://www.telegraph.co.uk/news/2018/03/24/two-killed-bomb-attempted-assassination-alexandria-security/ (''The Telegraph'')]
 *[[Saudi Arabian-led intervention in Yemen]]
-**[[Saudi Arabia|Saudi]] aircraft attack targets in residential areas of [[Hudaydah]] and [[Sa'dah]], [[Yemen]]. At least seven civilians are killed. [http://www.presstv.com/Detail/2018/03/24/556410/Saudi-Yemen-strikes (Press TV)]
+**[[Saudi Arabia|Saudi]] aircraft attack [[Houthis|Houthi]] targets in residential areas of [[Hudaydah]] and [[Sa'dah]], [[Yemen]], killing at least seven civilians. [http://www.presstv.com/Detail/2018/03/24/556410/Saudi-Yemen-strikes (Press TV)]
 
 ;Arts and culture
 *''[[The Times]]'' reports their journalist, Bel Trew, had been expelled from [[Egypt#Freedom of the press|Egypt]] shortly after her February 20 arrest. Trew had been given the option of a military trial or  leaving the country. [https://apnews.com/cd4964d9b8cb4905b0c97ed88216286f/Egypt-expels-British-reporter-ahead-of-presidential-election (AP)] [https://www.theguardian.com/world/2018/mar/23/bel-trew-egypt-british-journalist-expelled-the-times (''The Guardian'')]
@@ -23,11 +21,15 @@
 *[[Poisoning of Sergei and Yulia Skripal]]
 **A friend of poisoned exiled [[Russia]]n spy [[Sergei Skripal]] claims Skripal had written to [[Vladimir Putin]] asking to return to Russia. Russia denies receiving such a letter. [http://www.bbc.co.uk/news/uk-43523923 (BBC)]
 **All 23 [[United Kingdom|British]] diplomats and their families expelled from Russia arrive on a flight from [[Moscow]]. [http://www.bbc.co.uk/news/uk-43523923 (BBC)]
-**Investigators discover the Skripals switched off their mobile phones for four hours shortly before falling ill, and begin examining mobile phone data from everyone in [[Salisbury]] the day of the crime in a bid to link a phone to the poisoner. [https://www.thesun.co.uk/news/5893197/russia-spy-mobile-mystery-skripal/ (The Sun)]
+**Investigators discover the Skripals switched off their mobile phones for four hours shortly before falling ill, and begin examining mobile phone data from everyone in [[Salisbury]] the day of the crime in a bid to link a phone to the poisoner. [https://www.mirror.co.uk/news/uk-news/mobile-phone-sergei-skripal-daughter-12248068 (Daily Mirror)]
+
+;Law and crime
+*A car is deliberately driven into a group of schoolgirls in [[Glasgow]], [[Scotland]], injuring five. [[Police Scotland|Police]] launch an attempted murder probe. [http://www.bbc.co.uk/news/uk-scotland-glasgow-west-43532397 (BBC)]
+*[[Crime in Greece]]
+**An [[Afghanistan|Afghan]] community centre is burned down in [[Athens]], [[Greece]]. An extreme far-right group claims responsibility, and the [[United Nations]] condemns the attack. [http://abcnews.go.com/International/wireStory/greece-extreme-group-claims-arson-afghan-center-53960572 (ABC News)]
 
 ;Politics and elections
 *[[2018 United States gun violence protests]]
 **Hundreds of thousands of people participate in the [[March For Our Lives]] protest around the world regarding [[Gun violence in the United States|gun violence]], [[Mass shootings in the United States|mass shootings]] and [[List of school shootings in the United States|school shootings]] in the [[United States]]. [http://www.bbc.com/news/world-us-canada-43526413 (BBC)] [https://www.pbs.org/newshour/nation/what-you-need-to-know-about-this-weekends-march-for-our-lives (PBS)]
-;Crime and law
-*A car is deliberately driven into a group of schoolgirls in [[Glasgow]], [[Scotland]], injuring five. [[Police Scotland|Police]] launch an attempted murder probe. [http://www.bbc.co.uk/news/uk-scotland-glasgow-west-43532397 (BBC)]
+*[[Peru]]vian ex-President [[Pedro Pablo Kuczynski]]'s homes are raided by police investigating [[Operation Car Wash]]. A judge orders him to remain in Peru. [http://www.dw.com/en/peru-former-president-kuczynski-barred-from-leaving-country-amid-corruption-probe/a-43120137 (Deutsche Welle)]
 <!-- All news items above this line -->}}
