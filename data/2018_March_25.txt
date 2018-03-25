@@ -1,6 +1,10 @@
 {{Current events|year=2018|month=03|day=25|content=
 
 <!-- All news items below this line -->
+;Politics and elections 
+*[[2017-18 Spanish constitutional crisis]]
+**[[Carles Puigdemont]] is detained in [[Germany]]. [https://www.telegraph.co.uk/news/2018/03/25/former-catalan-president-carles-puigdemont-detained-germany/ (''The Daily Telegraph'')]
+
 ;Science and Technology
 *[[Astronomy]]
 **A [[nova]] becomes visible in the constellation [[Carina (constellation)|Carina]]. [https://www.aavso.org/aavso-alert-notice-626 (AAVSO)][https://apod.nasa.gov/apod/ap180325.html (APOD)]
