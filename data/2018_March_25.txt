@@ -1,6 +1,10 @@
 {{Current events|year=2018|month=03|day=25|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Somali Civil War (2009–present)]]
+**A [[car bomb]] claimed by [[al-Shabab]] kills five including [[suicide bomb|the driver]] and wounds around ten outside [[Somalia]]'s Parliament, Interior Ministry, and Presidential Palace buildings in [[Mogadishu]]. [http://abcnews.go.com/International/wireStory/big-explosion-gunfire-parliament-somali-capital-53999508 (ABC)]
+
 ;Disasters and accidents
 *A fire in a shopping centre in [[Kemerovo]], [[Russia]], kills at least four people, three of them children. [http://www.bbc.co.uk/news/world-europe-43531684 (BBC)]
 *A passenger ferry grounds off the coast of [[South Korea]]. At least six people are injured and the South Korean Coastguard evacuates all 163 on board. [https://www.channelnewsasia.com/news/asiapacific/coast-guard-rescues-163-aboard-ferry-that-hit-rocks-south-korea-10075134 (Channel News Asia)]
@@ -8,13 +12,14 @@
 ;Law and crime
 *[[Carcassonne and Trèbes attack]]
 **A former [[France|French]] Parliamentarian candidate is arrested for [[Twitter|tweeting]] that the death of Lt-Col Arnaud Beltrame was 'great' and 'one less vote for [[Emmanuel Macron]].’ [http://www.bbc.co.uk/news/world-europe-43534445 (BBC)]
-*A [[car bomb]] claimed by [[al-Shabab]] kills five including [[suicide bomb|the driver]] and wounds around ten outside [[Somalia]]'s Parliament, Interior Ministry, and Presidential Palace buildings in [[Mogadishu]]. [http://abcnews.go.com/International/wireStory/big-explosion-gunfire-parliament-somali-capital-53999508 (ABC)]
 
 ;Politics and elections 
 *[[2017-18 Spanish constitutional crisis]]
 **[[Catalonia]]'s ex-President [[Carles Puigdemont]] is detained in [[Germany]]. [https://www.telegraph.co.uk/news/2018/03/25/former-catalan-president-carles-puigdemont-detained-germany/ (''The Daily Telegraph'')]
+**Protesters are taking to the streets again, which since March 23, is taking place in the great Catalan cities. They cut regional roads and there are police charges. [https://www.elconfidencial.com/espana/cataluna/2018-03-25/cientos-de-personas-se-manifiestan-en-barcelona-contra-la-detencion-de-puigdemont_1540761/ (''El Confidencial'')]
+**Fugitive ex-minister [[Clara Ponsatí i Obiols]] says she will hand herself over to [[Police Scotland]], who have received a copy of the [[European Arrest Warrant]] for her. [http://www.bbc.co.uk/news/uk-scotland-43529496 (BBC)]
 
 ;Science and Technology
-*[[Astronomy]]
-**A [[nova]] becomes visible in the constellation [[Carina (constellation)|Carina]]. [https://www.aavso.org/aavso-alert-notice-626 (AAVSO)][https://apod.nasa.gov/apod/ap180325.html (APOD)]
+*[[Kangaroo Route]], [[History of Qantas]]
+**[[Qantas|Qantas Airways]] flight QF9 becomes the first ever [[non-stop flight]] between [[Australia]] and [[Europe]] after making the 17-hour journey from [[Perth]] to [[London]]. [https://www.standard.co.uk/news/uk/qantas-airways-flight-qf9-first-nonstop-flight-from-australia-to-uk-lands-at-heathrow-a3798501.html (''The Evening Standard'')]
 <!-- All news items above this line -->}}
