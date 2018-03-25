@@ -2,10 +2,14 @@
 
 <!-- All news items below this line -->
 ;Disasters and accidents
-*A fire in a shopping centre in [[Siberia]] kills at least four people, three of them children. [http://www.bbc.co.uk/news/world-europe-43531684 (BBC)]
-;Crime and law
+*A fire in a shopping centre in [[Kemerovo]], [[Russia]], kills at least four people, three of them children. [http://www.bbc.co.uk/news/world-europe-43531684 (BBC)]
+*A passenger ferry grounds off the coast of [[South Korea]]. At least six people are injured and the South Korean Coastguard evacuates all 163 on board. [https://www.channelnewsasia.com/news/asiapacific/coast-guard-rescues-163-aboard-ferry-that-hit-rocks-south-korea-10075134 (Channel News Asia)]
+
+;Law and crime
 *[[Carcassonne and Trèbes attack]]
 **A former [[France|French]] Parliamentarian candidate is arrested for [[Twitter|tweeting]] that the death of Lt-Col Arnaud Beltrame was 'great' and 'one less vote for [[Emmanuel Macron]].’ [http://www.bbc.co.uk/news/world-europe-43534445 (BBC)]
+*A [[car bomb]] claimed by [[al-Shabab]] kills five including [[suicide bomb|the driver]] and wounds around ten outside [[Somalia]]'s Parliament, Interior Ministry, and Presidential Palace buildings in [[Mogadishu]]. [http://abcnews.go.com/International/wireStory/big-explosion-gunfire-parliament-somali-capital-53999508 (ABC)]
+
 ;Politics and elections 
 *[[2017-18 Spanish constitutional crisis]]
 **[[Catalonia]]'s ex-President [[Carles Puigdemont]] is detained in [[Germany]]. [https://www.telegraph.co.uk/news/2018/03/25/former-catalan-president-carles-puigdemont-detained-germany/ (''The Daily Telegraph'')]
