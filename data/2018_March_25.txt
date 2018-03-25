@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=03|day=25|content=
 
 <!-- All news items below this line -->
-*
+;Science and Technology
+*[[Astronomy]]
+**A [[nova]] becomes visible in the constellation [[Carina (constellation)|Carina]]. [https://www.aavso.org/aavso-alert-notice-626 (AAVSO)][https://apod.nasa.gov/apod/ap180325.html (APOD)]
 <!-- All news items above this line -->}}
