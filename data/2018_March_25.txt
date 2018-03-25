@@ -1,9 +1,14 @@
 {{Current events|year=2018|month=03|day=25|content=
 
 <!-- All news items below this line -->
+;Disasters and accidents
+*A fire in a shopping centre in [[Siberia]] kills at least four people, three of them children. [http://www.bbc.co.uk/news/world-europe-43531684 (BBC)]
+;Crime and law
+*[[Carcassonne and Trèbes attack]]
+**A former [[France|French]] Parliamentarian candidate is arrested for [[Twitter|tweeting]] that the death of Lt-Col Arnaud Beltrame was 'great' and 'one less vote for [[Emmanuel Macron]].’ [http://www.bbc.co.uk/news/world-europe-43534445 (BBC)]
 ;Politics and elections 
 *[[2017-18 Spanish constitutional crisis]]
-**[[Carles Puigdemont]] is detained in [[Germany]]. [https://www.telegraph.co.uk/news/2018/03/25/former-catalan-president-carles-puigdemont-detained-germany/ (''The Daily Telegraph'')]
+**[[Catalonia]]'s ex-President [[Carles Puigdemont]] is detained in [[Germany]]. [https://www.telegraph.co.uk/news/2018/03/25/former-catalan-president-carles-puigdemont-detained-germany/ (''The Daily Telegraph'')]
 
 ;Science and Technology
 *[[Astronomy]]
