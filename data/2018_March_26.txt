@@ -1,5 +1,9 @@
 {{Current events|year=2018|month=03|day=26|content=
 
 <!-- All news items below this line -->
-*
+
+;International Relations
+*[[Russia–United States relations]]
+** President [[Donald Trump]] orders the closure of a Russian consulate in [[Seattle]], [[Washington (state)|Washington]] and the expulsion of 60 Russian officials. [https://www.npr.org/sections/thetwo-way/2018/03/26/596966272/us-expels-dozens-of-russian-diplomats-closes-consulate-in-seattle (NPR)]
+
 <!-- All news items above this line -->}}
