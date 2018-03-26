@@ -2,6 +2,10 @@
 
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
+*[[2017–18 Spanish constitutional crisis]]
+**Protests erupt across Spain, especially in [[Barcelona]], against Puigdemont's detention. [http://www.bbc.co.uk/news/world-europe-43535970 (BBC)]
+*Aftermath of the [[Carcassonne and Trèbes attack]]
+**A [[Left-wing politics|left wing]] former [[France|French]] Parliamentarian candidate is arrested for [[Twitter|tweeting]] that the death of Lt-Col [[Arnaud Beltrame]] was "great" and "one less vote for [[Emmanuel Macron]]." [http://www.bbc.co.uk/news/world-europe-43534445 (BBC)]
 *[[Somali Civil War (2009–present)]]
 **A [[car bomb]] claimed by [[Al-Shabaab (militant group)|Al-Shabab]] kills five people including the driver and wounds around ten others outside [[Somalia]]'s Parliament, Interior Ministry, and Presidential Palace buildings in [[Mogadishu]]. [http://abcnews.go.com/International/wireStory/big-explosion-gunfire-parliament-somali-capital-53999508 (ABC)]
 *[[War in Afghanistan (2001–present)]]
@@ -13,7 +17,7 @@
 
 ;Disasters and accidents
 *[[2018 Kemerovo fire]]
-**A fire in [[Winter Cherry complex]], a [[shopping mall|shopping center]] in [[Kemerovo]], [[Russia]], kills at least 56 people, majority of them were children. [http://www.bbc.co.uk/news/world-europe-43531684 (BBC)]
+**A fire in [[Winter Cherry complex]], a [[shopping mall|shopping center]] in [[Kemerovo]], [[Russia]], kills at least 56 people, the majority of which are children. [http://www.bbc.co.uk/news/world-europe-43531684 (BBC)]
 *[[List of South Korean ferry disasters|South Korean ferry disasters]]
 **A passenger [[ferry]] [[Ship grounding|ground]]s off the coast of [[South Korea]], injuring at least six people. The [[Korea Coast Guard|South Korean Coastguard]] evacuated all 163 on board. [https://www.channelnewsasia.com/news/asiapacific/coast-guard-rescues-163-aboard-ferry-that-hit-rocks-south-korea-10075134 (Channel News Asia)]
 *A bus and a lorry collide head-on near [[Kitonga]], [[Tanzania]], killing twenty six people and wounding nine others. [https://www.nation.co.ke/news/africa/Tanzania-car-accident/1066-4357600-1yviun/index.html (''The Nation'')]
@@ -27,15 +31,11 @@
 **[[List of emirs of Qatar|Sheikh]] [[Tamim bin Hamad Al Thani|Tamim]] of Qatar visits Russia to discuss the situation in [[Syria]], [[Yemen]] and [[Palestine (region)|Palestine]]. [https://www.aljazeera.com/news/2018/03/qatari-emir-russia-discuss-syrian-crisis-180325195253621.html (Al Jazeera)]
 
 ;Law and crime
-*Aftermath of the [[Carcassonne and Trèbes attack]]
-**A former [[France|French]] Parliamentarian candidate is arrested for [[Twitter|tweeting]] that the death of Lt-Col [[Arnaud Beltrame]] was "great" and "one less vote for [[Emmanuel Macron]]." [http://www.bbc.co.uk/news/world-europe-43534445 (BBC)]
 *A suspected drunk driver loses control while fleeing police in [[Maputo]], [[Mozambique]], strikes a crowd, and kills 21 people, injuring 30 more. [https://www.nation.co.ke/news/africa/Mozambique-road-crash-/1066-4357432-e2ircez/index.html (''The Nation'')]
-
 ;Politics and elections 
 *[[2017–18 Spanish constitutional crisis]]
 **[[Catalonia]]'s ex-President [[Carles Puigdemont]] is detained in [[Germany]]. [https://www.telegraph.co.uk/news/2018/03/25/former-catalan-president-carles-puigdemont-detained-germany/ (''The Daily Telegraph'')]
 **Fugitive ex-minister [[Clara Ponsatí i Obiols]] says she will hand herself over to [[Police Scotland]], who have received a copy of the [[European Arrest Warrant]] for her. [http://www.bbc.co.uk/news/uk-scotland-43529496 (BBC)]
-**Protests erupt across Spain, especially in [[Barcelona]], against Puigdemont's detention. [http://www.bbc.co.uk/news/world-europe-43535970 (BBC)]
 
 ;Science and technology
 *[[List of novae in the Milky Way galaxy]]
