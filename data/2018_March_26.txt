@@ -2,8 +2,11 @@
 
 <!-- All news items below this line -->
 
-;International Relations
-*[[Russia–United States relations]]
-** President [[Donald Trump]] orders the closure of a Russian consulate in [[Seattle]], [[Washington (state)|Washington]] and the expulsion of 60 Russian officials. [https://www.npr.org/sections/thetwo-way/2018/03/26/596966272/us-expels-dozens-of-russian-diplomats-closes-consulate-in-seattle (NPR)]
+;International relations
+*[[Russia–United States relations]], [[Poisoning of Sergei and Yulia Skripal]]
+**U.S. President [[Donald Trump]] orders the closure of a Russian consulate in [[Seattle]], [[Washington (state)|Washington]], and the expulsion of 60 Russian officials. [https://www.npr.org/sections/thetwo-way/2018/03/26/596966272/us-expels-dozens-of-russian-diplomats-closes-consulate-in-seattle (NPR)]
 
+;Science and technology
+* [[Discoveries of exoplanets]]
+** A new exoplanet named OGLE-2017-BLG-1522Lb is discovered. [https://m.phys.org/news/2018-03-astronomers-giant-planet-orbiting-brown.html (Phys)]
 <!-- All news items above this line -->}}
