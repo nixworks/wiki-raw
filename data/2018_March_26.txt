@@ -1,10 +1,17 @@
 {{Current events|year=2018|month=03|day=26|content=
 
 <!-- All news items below this line -->
+;Disasters and accidents
+*[[2018 Kemerovo fire]]
+**Witnesses and [[Russia]]'s Investigative Committee say the [[Winter Cherry complex]]'s exits were blocked and there was no alarms during the disaster, which killed more than 60. [http://www.bbc.co.uk/news/world-europe-43543105 (BBC)]
+*[[US-Bangla Airlines Flight 211]]
+**The death toll rises to 52 as survivor Shaheen Bapari dies in hospital. [https://www.khaleejtimes.com/international/rest-of-asia/us-bangla-plane-crash-survivor-shaheen-dies (Khaleej Times)]
 
 ;International relations
+*[[Canada–Russia relations]]
+**Canada expels 4 Russian diplomats citing solidarity with the United Kingdom following the attempted murder of a former Russian spy in the UK by a nerve agent. [https://www.canada.ca/en/global-affairs/news/2018/03/canada-expels-russian-diplomats-in-solidarity-with-united-kingdom.html (Global Affairs Canada)]
 *[[Russia–United States relations]], [[Poisoning of Sergei and Yulia Skripal]]
-**U.S. President [[Donald Trump]] orders the closure of a Russian consulate in [[Seattle]], [[Washington (state)|Washington]], and the expulsion of 60 Russian officials. [https://www.npr.org/sections/thetwo-way/2018/03/26/596966272/us-expels-dozens-of-russian-diplomats-closes-consulate-in-seattle (NPR)]
+**The U.S. president, [[Donald Trump]], orders the closure of a Russian consulate in [[Seattle]], [[Washington (state)|Washington]], and the expulsion of 60 Russian officials. [https://www.npr.org/sections/thetwo-way/2018/03/26/596966272/us-expels-dozens-of-russian-diplomats-closes-consulate-in-seattle (NPR)]
 
 ;Science and technology
 * [[Discoveries of exoplanets]]
