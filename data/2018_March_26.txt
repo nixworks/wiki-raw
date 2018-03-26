@@ -1,8 +1,12 @@
 {{Current events|year=2018|month=03|day=26|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*A mass grave containing the remains of 59 people is found in Kucuk Meydan, [[Afrin]], [[Syria]]. [https://aa.com.tr/en/middle-east/mass-grave-of-fsa-members-discovered-in-afrin/1099057 (AA)]
+
 ;Business and economy
-*American manufacturer of firearms and ammo, [[Remington Arms]] files for bankruptcy protection as investment in weapons declines. [https://www.bloomberg.com/news/articles/2018-03-26/cerberus-s-remington-gunmaker-seeks-bankruptcy-shield-from-debts (Bloomberg)]
+*[[Economy of the United States]]
+**American manufacturer of firearms and ammunition, [[Remington Arms]] files for [[Chapter 11, Title 11, United States Code|chapter 11 bankruptcy]] protection after amassing $950 million worth of debt. [https://www.bloomberg.com/news/articles/2018-03-26/cerberus-s-remington-gunmaker-seeks-bankruptcy-shield-from-debts (Bloomberg)]
 
 ;Disasters and accidents
 *[[2018 Kemerovo fire]]
@@ -11,14 +15,15 @@
 **The death toll rises to 52 as survivor Shaheen Bapari dies in hospital. [https://www.khaleejtimes.com/international/rest-of-asia/us-bangla-plane-crash-survivor-shaheen-dies (Khaleej Times)]
 
 ;International relations
-*[[Canada–Russia relations]], [[Poisoning of Sergei and Yulia Skripal]]
-**Canada expels four Russian diplomats citing solidarity with the United Kingdom following the attempted murder of a former Russian spy in the UK by a nerve agent. [https://www.canada.ca/en/global-affairs/news/2018/03/canada-expels-russian-diplomats-in-solidarity-with-united-kingdom.html (Global Affairs Canada)]
-*[[Russia–United States relations]], [[Poisoning of Sergei and Yulia Skripal]]
-**The U.S. president, [[Donald Trump]], orders the closure of a Russian consulate in [[Seattle]], [[Washington (state)|Washington]], and the expulsion of 60 Russian officials. [https://www.npr.org/sections/thetwo-way/2018/03/26/596966272/us-expels-dozens-of-russian-diplomats-closes-consulate-in-seattle (NPR)]
-*[[Russia–European Union relations]], [[Poisoning of Sergei and Yulia Skripal]]
-**[[Donald Tusk]] announces [[EU]] nations have asked 30 [[Russia]]n diplomats to leave. [[Germany]], [[France]], [[Poland]] and [[Ukraine]] are among the nations to expel diplomats. [http://www.itv.com/news/2018-03-26/us-and-14-eu-nations-to-expel-russian-diplomats-over-sergei-skripal-poisoning/ (ITV)]
+*[[Poisoning of Sergei and Yulia Skripal]]
+**[[Canada–Russia relations]]
+***[[Canada]] expels four Russian diplomats citing solidarity with the [[United Kingdom]] following the attempted murder of a former Russian spy in the UK by a nerve agent. [https://www.canada.ca/en/global-affairs/news/2018/03/canada-expels-russian-diplomats-in-solidarity-with-united-kingdom.html (Global Affairs Canada)]
+**[[Russia–United States relations]]
+***The U.S. president, [[Donald Trump]], orders the closure of a Russian consulate in [[Seattle]], [[Washington (state)|Washington]], and the expulsion of 60 Russian officials. [https://www.npr.org/sections/thetwo-way/2018/03/26/596966272/us-expels-dozens-of-russian-diplomats-closes-consulate-in-seattle (NPR)]
+**[[Russia–European Union relations]]
+***[[Donald Tusk]] announces [[European Union]] nations have asked 30 [[Russia]]n diplomats to leave. [[Germany]], [[France]], [[Poland]] and [[Ukraine]] are among the nations to expel diplomats. [http://www.itv.com/news/2018-03-26/us-and-14-eu-nations-to-expel-russian-diplomats-over-sergei-skripal-poisoning/ (ITV)]
 
 ;Science and technology
-* [[Discoveries of exoplanets]]
-** A new exoplanet named OGLE-2017-BLG-1522Lb is discovered. [https://m.phys.org/news/2018-03-astronomers-giant-planet-orbiting-brown.html (Phys)]
+*[[Discoveries of exoplanets]]
+**A [[gas giant]] is discovered orbiting a [[brown dwarf]]. The [[exoplanet]], designated OGLE-2017-BLG-1522Lb, orbits its host at a distance of 0.59 [[Astronomical unit|AU]] and could be the first known gas giant to have formed inside the [[protoplanetary disk]] of a brown dwarf. [https://m.phys.org/news/2018-03-astronomers-giant-planet-orbiting-brown.html (Phys)]
 <!-- All news items above this line -->}}
