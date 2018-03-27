@@ -1,17 +1,29 @@
 {{Current events|year=2018|month=03|day=27|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Terrorism in the United Kingdom]]
+**Convicted terrorist [[Umar Haque]], who indoctrinated children he was teaching in [[London]] so that he could use them to commit attacks, is jailed for life at the [[Old Bailey]] and will not be eligible for parole for 25 years. [https://www.standard.co.uk/news/crime/umar-haque-jailed-isis-fanatic-who-trained-army-of-children-to-for-terror-attacks-in-london-a3800411.html (''The Evening Standard'')]
+
 ;Disasters and accidents
 *[[Arizona]] suspends all testing of [[Uber]] [[self-driving car]]s following a fatal accident last week. [https://www.theverge.com/2018/3/26/17166326/uber-self-driving-autonomous-vehicle-ban-arizona-fatal-crash (The Verge)]
 *[[2018 Kemerovo fire]]
 **President [[Vladimir Putin]] visits the scene and declares "criminal negligence" responsible for the high death toll. Protestors, some calling for Putin's resignation, demonstrate outside the local government headquarters. [http://www.bbc.co.uk/news/world-europe-43552165 (BBC)]
+*Two ships collide in the Great Belt strait between [[Funen]] and [[Zealand]], near [[Romsø]], [[Denmark]]. One catches fire. [https://www.thelocal.dk/20180327/fire-after-collision-between-ships-in-danish-strait (The Local)]
+*[[2017–18 Volvo Ocean Race]]
+**A crewman who fell overboard from a competitor vessel is declared lost at sea. [https://www.telegraph.co.uk/news/2018/03/27/british-yachtsman-missing-sea-falling-overboard-volvo-ocean/ (The Telegraph)]
 
 ;International relations
 *[[China–North Korea relations]]
 **An unidentified green train leaves [[Beijing railway station|Beijing station]]. Reports suggest that it carries supreme leader [[Kim Jong-un]], on what would be his first known travel outside North Korea since assuming office in 2011. [https://www.reuters.com/article/us-northkorea-missiles-china/train-believed-carrying-top-north-korean-delegation-leaves-beijing-idUSKBN1H305W (Reuters)]
+*[[Poisoning of Sergei and Yulia Skripal]]
+**[[NATO]] and [[Australia]] expel [[Russia]]n diplomats. [https://www.independent.co.uk/news/world/australasia/russia-latest-australia-expels-diplomats-spy-poisoning-sergei-skripal-malclum-turnbull-julie-bishop-a8275221.html (The Independent)] [https://www.theguardian.com/uk-news/2018/mar/27/russia-to-respond-harshly-to-us-expulsion-of-diplomats (The Guardian)]
 
 ;Law and crime
 *[[Manchester Arena bombing]]
 **A report reveals [[Greater Manchester Fire and Rescue Service|firefighters]] were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. [http://www.bbc.co.uk/news/uk-england-manchester-43548173 (BBC)]
-*Convicted terrorist Umar Haque, who indoctrinated children he was teaching in [[London]] so he could use them to commit attacks, is jailed for life at the [[Old Bailey]] and will not be eligible for parole for 25 years. [https://www.standard.co.uk/news/crime/umar-haque-jailed-isis-fanatic-who-trained-army-of-children-to-for-terror-attacks-in-london-a3800411.html The Evening Standard)]
+
+;Politics and elections
+*[[Egyptian presidential election, 2018]]
+**Voting enters the second day. [https://www.reuters.com/article/us-egypt-election/amid-slow-voting-egypts-sisi-cruises-toward-victory-idUSKBN1H30KW (Reuters)]
 <!-- All news items above this line -->}}
