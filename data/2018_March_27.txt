@@ -1,5 +1,7 @@
 {{Current events|year=2018|month=03|day=27|content=
 
 <!-- All news items below this line -->
-*
+;International relations
+*[[China–North Korea relations]]
+**An unidentified green train leaves [[Beijing railway station|Beijing station]]. Reports suggest that it carries supreme leader [[Kim Jong-un]], on what would be his first known travel outside North Korea since assuming office in 2011. [https://www.reuters.com/article/us-northkorea-missiles-china/train-believed-carrying-top-north-korean-delegation-leaves-beijing-idUSKBN1H305W (Reuters)]
 <!-- All news items above this line -->}}
