@@ -1,6 +1,10 @@
 {{Current events|year=2018|month=03|day=26|content=
 
 <!-- All news items below this line -->
+;Armed conflicts and attacks
+*[[Terrorism in the United Kingdom]]
+**Six alleged members of the banned [[neo-Nazi]] group [[National Action (UK)|National Action]] appeared in court. One is accused of planning to kill MP  [[Rosie Cooper]] and another is charged with inciting murder. [https://www.independent.co.uk/news/uk/crime/national-action-neo-nazi-terrorist-court-labour-mp-murder-plan-machete-rosie-cooper-latest-a8274521.html (''The Independent'')]
+
 ;Business and economy
 *[[Economy of the United States]]
 **U.S. firearms and ammunition manufacturer [[Remington Arms]] files for [[Chapter 11, Title 11, United States Code|chapter 11 bankruptcy]] protection after amassing [[US$]]950 million worth of debt. [https://www.bloomberg.com/news/articles/2018-03-26/cerberus-s-remington-gunmaker-seeks-bankruptcy-shield-from-debts (Bloomberg)]
@@ -29,8 +33,6 @@
 **[[France|French]] police detain two men in connection with the murder of an 85-year [[The Holocaust|Holocaust survivor]] who was found in the burned remains of her apartment. The prosecutor's office is investigating if the killing was "motivated by the real or supposed [[anti-semitism|adherence to a religion]]". [https://www.reuters.com/article/us-france-crime/french-police-investigate-possible-anti-semitic-killing-in-paris-idUSKBN1H22CN (Reuters)]
 *[[Carbanak]]
 **[[Spain|Spanish]] police in [[Alicante]] arrest the suspected leader of a bank [[hack]]ing scheme believed to have stolen over [[Euro sign|€]]1 billion. [https://www.rferl.org/a/spain-captures-bank-hack-mastermind-1-2-billion/29124973.html (Radio Free Europe/Radio Liberty)]
-*[[Terrorism in the United Kingdom]]
-**Six alleged members of banned [[neo-Nazi]] group [[National Action (UK)|National Action]] appear in court. One is accused of planning to murder MP  [[Rosie Cooper]] and another is charged with inciting murder. [https://www.independent.co.uk/news/uk/crime/national-action-neo-nazi-terrorist-court-labour-mp-murder-plan-machete-rosie-cooper-latest-a8274521.html (''The Independent'')]
 
 ;Politics and elections
 *[[Egyptian presidential election, 2018]]
