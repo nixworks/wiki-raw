@@ -1,5 +1,11 @@
 {{Current events|year=2018|month=03|day=28|content=
 
 <!-- All news items below this line -->
-*
+;International relations
+*[[China–North Korea relations]]
+**[[China]] and [[North Korea]] both confirm that North Korean leader [[Kim Jong-un]] met with Chinese President [[Xi Jinping]] in Beijing during the past four days. China states that North Korea is "committed to denuclearization" and willing to hold a [[2018 North Korea–United States summit|summit with the United States]]. [https://www.reuters.com/article/us-northkorea-missiles-china/china-says-north-korea-pledges-denuclearization-during-friendly-visit-idUSKBN1H305W (Reuters)]
+
+;Science and technology
+*[[Australian Aboriginal languages]]
+**The linguistics journal ''Diachronica'' publishes [[Australia]]n research implying that a tracement of the country's indigenous languages can be made back to a single, common language known as Proto-Australian, which was spoken around 10,000 years ago. [http://www.bbc.com/news/world-australia-43564134 (BBC)]
 <!-- All news items above this line -->}}
