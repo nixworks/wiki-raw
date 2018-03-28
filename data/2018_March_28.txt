@@ -13,6 +13,7 @@
 
 ;Disasters and accidents
 *A partially-constructed building collapses onto a truck in Jacobs, [[Durban]], [[South Africa]], killing three people. Six more are hospitalised and [[search and rescue]] dogs are looking for further victims. [https://www.news24.com/SouthAfrica/News/developing-two-trapped-after-durban-building-collapses-on-truck-20180328 (News 24)] [http://ewn.co.za/2018/03/28/bodies-trapped-in-kzn-building-collapse-extracted (Eyewitness News)]
+*An [[ethyl acetate]] tank explodes in a port in [[Livorno]], [[Italy]], killing two. [https://www.thelocal.it/20180328/livorno-port-explosion (The Local)]
 
 ;International relations
 *[[China–North Korea relations]]
@@ -35,4 +36,5 @@
 *[[Australian Aboriginal languages]]
 **The [[linguistics]] journal ''Diachronica'' publishes [[Australia]]n research implying that a tracement of the country's indigenous [[language]]s can be made back to a single, common language known as Proto-Australian, which was spoken around 10,000-years ago. [http://www.bbc.com/news/world-australia-43564134 (BBC)]
 *[[Geophysicist]]s continue to monitor the increased seismic activity at the [[Öræfajökull]] volcano at [[Vatnajökull National Park]], [[Iceland]]. [https://icelandmonitor.mbl.is/news/nature_and_travel/2018/03/28/seismic_activity_in_oraefajokull_still_going_strong/ (''Iceland Monitor'')]
+*New research suggests [[planet Earth|the Earth]] may have had water earlier than thought, and that terrestrial water could have survived the impact that created [[the Moon]], the event which was previously hypothesised to be responsible for our planet's water. [https://www.newscientist.com/article/2165141-earth-had-water-even-before-the-collision-that-made-the-moon/ (New Scientist)]
 <!-- All news items above this line -->}}
