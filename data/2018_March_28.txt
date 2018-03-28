@@ -3,10 +3,16 @@
 <!-- All news items below this line -->
 ;Armed conflicts and attacks
 *[[Terrorism in the United Kingdom]]
-**The [[Sentencing Council]] for [[England and Wales]] issues new guidelines increasing the penalties for [[terrorism Acts|terrorist offending]]. [https://www.ft.com/content/9710702a-31cf-11e8-ac48-10c6fdc22f03 (''The Financial Times'')]
+**The [[Sentencing Council]] for [[England and Wales]] issues new guidelines increasing the penalties for [[Terrorism Acts|terrorist offences]]. [https://www.ft.com/content/9710702a-31cf-11e8-ac48-10c6fdc22f03 (''The Financial Times'')]
 **A report reviewing the [[Metropolitan Police|police]] response to the [[2017 Westminster attack]] concludes the arrests of 12 people cleared of involvement were appropriate, as was questioning them on their religious beliefs. [https://www.theguardian.com/uk-news/2018/mar/28/westminster-attack-police-urged-to-review-questioning-of-terror-suspects (''The Guardian'')]
 *[[Terrorism in Italy]]
-**[[Italy|Italian]] counterterror police arrest Elmahdi Halili on suspicion of planning attacks with knives and lorries, attempting to recruit terrorist attackers, and creating the first piece of [[ISIS]] literature in [[Italian]]. [https://www.thelocal.it/20180328/anti-terror-raids-italy-elmahdi-halili-isis-propaganda (''The Local'')]
+**[[Italy|Italian]] counterterror police arrest Elmahdi Halili on suspicion of planning attacks with knives and lorries, attempting to recruit terrorist attackers, and creating the first piece of [[ISIL]] literature in [[Italian]]. [https://www.thelocal.it/20180328/anti-terror-raids-italy-elmahdi-halili-isis-propaganda (''The Local'')]
+
+;Business and economy
+*Conviviality PLC, owner of [[Wine Rack]] and [[Bargain Booze]], announces it has been refused investment to stave off bankruptcy and will likely enter administration. [https://www.theguardian.com/business/2018/mar/28/bargain-booze-owner-conviviality-on-brink-of-collapse (''The Guardian'')]
+
+;Disasters and accidents
+*A partially-constructed building collapses onto a truck in Jacobs, [[Durban]], [[South Africa]], killing three people. Six more are hospitalised and [[search and rescue]] dogs are looking for further victims. [https://www.news24.com/SouthAfrica/News/developing-two-trapped-after-durban-building-collapses-on-truck-20180328 (News 24)] [http://ewn.co.za/2018/03/28/bodies-trapped-in-kzn-building-collapse-extracted (Eyewitness News)]
 
 ;International relations
 *[[China–North Korea relations]]
@@ -15,6 +21,7 @@
 ;Law and crime
 *A judge in [[Catania]], [[Italy]] upholds the seizure of a [[Proactiva Open Arms]] ship that brought migrants to [[Sicily]] after refusing to hand them over to the Libyan Coast Guard. [https://www.libyaobserver.ly/news/italian-judge-upholds-seizure-spanish-rescue-ship (''The Libya Observer'')]
 *[[England|English]] Judge Christine Henson fines St. Michael's Hospice in St. Leonards, at [[East Sussex]], over the July 2015 fire in which three residents died. [http://www.bbc.co.uk/news/uk-england-sussex-43553776 (BBC)]
+*Claims emerge that [[Uber]] disabled on board [[Volvo XC90]] collision avoidance technology in a [[self-driving car]] involved in a fatal accident in [[Arizona]]. [https://www.bloomberg.com/news/articles/2018-03-26/uber-disabled-volvo-suv-s-standard-safety-system-before-fatality (Bloomberg)]
 
 ;Politics and elections
 *[[2017-18 Spanish constitutional crisis]]
@@ -27,5 +34,5 @@
 ;Science and technology
 *[[Australian Aboriginal languages]]
 **The [[linguistics]] journal ''Diachronica'' publishes [[Australia]]n research implying that a tracement of the country's indigenous [[language]]s can be made back to a single, common language known as Proto-Australian, which was spoken around 10,000-years ago. [http://www.bbc.com/news/world-australia-43564134 (BBC)]
-*The seismic activity at the [[Öræfajökull]] volcano continues. [https://icelandmonitor.mbl.is/news/nature_and_travel/2018/03/28/seismic_activity_in_oraefajokull_still_going_strong/ (''Iceland Monitor'')]
+*[[Geophysicist]]s continue to monitor the increased seismic activity at the [[Öræfajökull]] volcano at [[Vatnajökull National Park]], [[Iceland]]. [https://icelandmonitor.mbl.is/news/nature_and_travel/2018/03/28/seismic_activity_in_oraefajokull_still_going_strong/ (''Iceland Monitor'')]
 <!-- All news items above this line -->}}
