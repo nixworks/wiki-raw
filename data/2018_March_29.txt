@@ -3,4 +3,7 @@
 <!-- All news items below this line -->
 ;Law and crime
 *An attempted prison break with rioting and fires at a police station in [[Valencia, Carabobo|Valencia]], [[Carabobo State]], [[Venezuela]], leaves at least 68 people dead. Some women and children who were visiting inmates are thought to be among the dead. [http://www.bbc.co.uk/news/world-latin-america-43579108 (BBC)]
+;Science and technology
+* [[Discoveries of exoplanets]]
+** [[NASA]] makes preparations to launch [[Transiting Exoplanet Survey Satellite]] for April 16 to do search for exoplanets. [http://www.spacedaily.com/m/reports/NASA_Prepares_to_Launch_Next_Mission_to_Search_Sky_for_New_Worlds_999.html (Space Daily)]
 <!-- All news items above this line -->}}
