@@ -4,9 +4,12 @@
 ;Armed conflicts and attacks
 *[[Terrorism in the United Kingdom]]
 **[[Old Bailey]] Justice [[Charles Haddon-Cave]] sentences convicted terrorist [[Umar Haque]], who indoctrinated children he was teaching in [[London]] so that he could use them to commit attacks, to lifetime incarceration with parole eligibility only after 25 years. [https://www.standard.co.uk/news/crime/umar-haque-jailed-isis-fanatic-who-trained-army-of-children-to-for-terror-attacks-in-london-a3800411.html (''The Evening Standard'')]
-**Justice Michael Alexander Soole sentences Paul Moore to lifetime incarceration with a minimum imprisonment of 20 years for using his car to attack [[Islam|Muslims]] following a string of terror attacks in 2017 linked to Islamic extremism. [https://www.theguardian.com/uk-news/2018/mar/27/man-jailed-life-running-over-muslim-woman-leicester-paul-moore-zaynab-hussein (''The Guardian'')]
-*[[NATO]] says the [[Afghan Air Force]] dropped its first [[laser-guided bomb]] on a [[Taliban]] compound on March 22. NATO have trained the Afghans in use of the equipment. [http://abcnews.go.com/International/wireStory/afghan-air-force-drops-laser-guided-bomb-combat-54044424 (ABC)]
-*The government of [[Turkey]] states that eleven [[Kurdistan|Kurdish]] militants have been killed near its [[Syria]]n border, and two soldiers were killed by an explosion in Syria. [https://www.usnews.com/news/world/articles/2018-03-27/turkey-says-kills-11-kurdish-militants-two-turkish-soldiers-killed (US News)]
+*[[Islamophobic incidents in the United Kingdom]]
+**Justice Michael Alexander Soole sentences Paul Moore to lifetime incarceration with a minimum imprisonment of 20 years for using his car to attack [[Islam|Muslims]] following a string of terror attacks in 2017 linked to [[Islamic extremism]]. [https://www.theguardian.com/uk-news/2018/mar/27/man-jailed-life-running-over-muslim-woman-leicester-paul-moore-zaynab-hussein (''The Guardian'')]
+*[[War in Afghanistan (2001–present)]]
+**[[NATO]] says the [[Afghan Air Force]] dropped its first [[laser-guided bomb]] on a [[Taliban]] compound on March 22. NATO have trained the Afghans in use of the equipment. [http://abcnews.go.com/International/wireStory/afghan-air-force-drops-laser-guided-bomb-combat-54044424 (ABC)]
+*[[Turkish involvement in the Syrian Civil War]]
+**The government of [[Turkey]] states that eleven [[Kurdistan|Kurdish]] militants have been killed near its [[Syria]]n border, and two soldiers were killed by an explosion in Syria. [https://www.usnews.com/news/world/articles/2018-03-27/turkey-says-kills-11-kurdish-militants-two-turkish-soldiers-killed (US News)]
 
 ;Disasters and accidents
 *[[History of autonomous cars]]
@@ -28,13 +31,15 @@
 *The government of [[The Netherlands]] recalls a diplomat from the country of [[Turkey]] after local newspapers accused him of spying. [https://www.dutchnews.nl/news/archives/2018/03/dutch-diplomat-recalled-from-turkey-after-spying-allegations-in-local-press/ (Dutch News)]
 
 ;Law and crime
-*[[Manchester Arena bombing]]
+*Aftermath of the [[Manchester Arena bombing]]
 **A [[United Kingdom]] panel, chaired by the former [[Civil Service (United Kingdom)#Head of the Home Civil Service|head of the Home civil service]], Lord [[Bob Kerslake]], issues a report which concludes that [[Greater Manchester Fire and Rescue Service|firefighters]] were prevented from attending the scene of the bombing for two hours. The report makes more than 50 recommendations. [http://www.bbc.co.uk/news/uk-england-manchester-43548173 (BBC)]
 *[[Censorship in Spain]]
 **A [[Madrid]] court issues an order shutting down a website that uses extracts from ''[[Don Quixote]]'' to recreate the book ''Farina''. ''Farina'', an investigation of [[drug trafficking]], is the subject of a [[freedom of speech]] debate after a court halted sales ahead of a [[libel]] case. [https://www.washingtonpost.com/entertainment/books/don-quixote-helps-spanish-booksellers-in-free-speech-battle/2018/03/27/5b12642e-31b2-11e8-b6bd-0084a1666987_story.html?utm_term=.761f8e29a3ce (AP via ''The Washington Post'')], [https://www.telegraph.co.uk/news/2018/03/17/publisher-beats-spanish-court-gag-recreating-banned-mafia-book/ (''The Telegraph'')]
-*The [[FBI]] arrests [[Everett, Washington]], 43-year-old Thanh Cong Phan on suspicion of charges of illegally shipping explosive materials by sending 12 package bombs to the [[CIA]] as well as multiple military and government facilities in the [[Washington, D.C.]] area. Those devices did notexplode. [https://www.thestranger.com/slog/2018/03/27/25961994/everett-man-arrested-for-allegedly-sending-bomb-to-cia-and-other-government-sites (The Stranger)]
-*[[Kent County, Michigan]] special prosecutor Bill Forsyth charges William Strampel, the former dean of the [[Michigan State University College of Osteopathic Medicine]], in the [[United States District Court for the Western District of Michigan]] in [[East Lansing, Michigan]], with misconduct in office, fourth-degree criminal sexual conduct, and two counts of willful neglect of duty in connection with the [[Larry Nassar]] [[USA Gymnastics sex abuse scandal|sex abuse scandal]]. [https://www.freep.com/story/news/2018/03/27/william-strampel-msu-sexual-assault-larry-nassar/460504002/ (''Detroit Free Press'')]
-*A [[The Netherlands|Dutch]] court rules police are liable for a mass shooting at a shopping centre that killed 6 and wounded 16 because the gunman should not have been issued a firearms licence. [https://news.sky.com/story/dutch-police-liable-for-mass-shooting-at-mall-11305979 (Sky News)]
+*[[Crime in the United States]]
+**The [[FBI]] arrests [[Everett, Washington]], 43-year-old Thanh Cong Phan on suspicion of charges of illegally shipping explosive materials by sending 12 package bombs to the [[CIA]] as well as multiple military and government facilities in the [[Washington, D.C.]] area. Those devices did notexplode. [https://www.thestranger.com/slog/2018/03/27/25961994/everett-man-arrested-for-allegedly-sending-bomb-to-cia-and-other-government-sites (The Stranger)]
+**[[Kent County, Michigan]] special prosecutor Bill Forsyth charges William Strampel, the former dean of the [[Michigan State University College of Osteopathic Medicine]], in the [[United States District Court for the Western District of Michigan]] in [[East Lansing, Michigan]], with misconduct in office, fourth-degree criminal sexual conduct, and two counts of willful neglect of duty in connection with the [[Larry Nassar]] [[USA Gymnastics sex abuse scandal|sex abuse scandal]]. [https://www.freep.com/story/news/2018/03/27/william-strampel-msu-sexual-assault-larry-nassar/460504002/ (''Detroit Free Press'')]
+*[[Law enforcement in the Netherlands]]
+**A [[The Netherlands|Dutch]] court rules police are liable for a [[mass shooting]] at a shopping centre that killed 6 and wounded 16 because the gunman should not have been issued a firearms licence. [https://news.sky.com/story/dutch-police-liable-for-mass-shooting-at-mall-11305979 (Sky News)]
 
 ;Politics and elections
 *[[Egyptian presidential election, 2018]]
